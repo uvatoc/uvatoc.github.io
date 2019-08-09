@@ -1,0 +1,66 @@
+{{ define "main" }}
+{{ $posts_title := index .Site.Params "posts_title" | default "Posts" }}
+{{ $posts_count := index .Site.Params "posts_count" | default 5 }}
+{{ $pubs_title := index .Site.Params "pubs_title" | default "Publications" }}
+{{ $pubs_count := index .Site.Params "pubs_count" | default 5 }}
+
+   <div class="container">       
+   <div class="sidebar">
+   <p>
+University of Virginia <br>
+cs3102: Theory of Computation<br>
+Fall 2019
+</p>
+<p>
+<!--
+<b><a href="/syllabus/">Syllabus</a></b><br>
+<b><a href="/schedule/">Schedule</a></b><br>
+</p>
+<p>
+<b><a href="https://notebooks.azure.com/evansde/projects/uvammm">Notebooks</a></b><br>
+</p>
+</p>
+-->
+   <b><a href="/posts/">Recent Posts</a></b>
+   </p>
+   {{ range first $posts_count ((where .Data.Pages.ByDate "Section" "post").Reverse) }}
+   <div class="posttitle">
+      {{ partial "post-title" . }}
+   </div>
+   {{ end }}
+<!--   <div class="more"><a href="/posts/">More...</a></div>-->
+   </p>
+   <p>
+   <b>Instructors</b><br> 
+   <a href="https://www.cs.virginia.edu/~njb2b/">Nathan Brunelle</a><br>
+   <a href="https://www.cs.virginia.edu/evans">David Evans</a>
+   </p>
+   <P>
+   <b>TAs</b><br>
+   </p>
+   </div>
+
+
+    <div class="content">
+
+    {{ range .Site.Pages }}
+        {{ if eq .Type "index" }}
+           {{ .Content }}
+        {{ end }}
+    {{ end }}
+  
+
+    {{ range first $posts_count ((where .Data.Pages.ByDate "Section" "post").Reverse) }}
+    {{ partial "post-full-summary" . }}
+    {{ end }}
+    <footer>
+      <nav>
+	<a href="/post/" class="button hollow primary">All {{ $posts_title }}</a>
+      </nav>
+    </footer>
+
+</div>
+</div>
+
+{{ end }}
+
