@@ -7,8 +7,8 @@ THEME = toc
 
 MARKDOWN = python3 -m markdown
 BASEDIR = .
-LATEXDIR = $(BASEDIR)/../latex
-DOCSDIR = $(BASEDIR)/content/docs
+LATEXDIR = $(BASEDIR)/latex
+DOCSDIR = $(BASEDIR)/docs
 PAGEDIR = $(BASEDIR)/content/
 LATEXIFY = python3 $(LATEXDIR)/utils/latexify.py
 
@@ -21,6 +21,15 @@ develop:
 github: html
 	cp -r public/* ../
 	git add -A; git commit -m "Rebuilt site" ; git push
+
+toc.sty:
+	pandoc --read=markdown+raw_tex --template=./latex/toc.template ./latex/temp-latex.md -o ./docs/test.tex
+	echo 'manually extract from test.tex'
+
+pledge.pdf: $(PAGEDIR)/pledge.md
+	$(LATEXIFY) $< > $(LATEXDIR)/temp-latex.md
+	pandoc --read=markdown+raw_tex --template=$(LATEXDIR)/tocbig.template $(LATEXDIR)/temp-latex.md -o $(DOCSDIR)/$@
+
 
 %.pdf: $(PAGEDIR)/%.md
 	$(LATEXIFY) $< > $(LATEXDIR)/temp-latex.md

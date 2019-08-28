@@ -1,0 +1,135 @@
+
+\RequirePackage[UKenglish]{babel}% http://ctan.org/pkg/babel
+\RequirePackage[UKenglish]{isodate}% http://ctan.org/pkg/isodate
+\RequirePackage{listings}
+\RequirePackage{fancyhdr}
+\RequirePackage{verbatim}
+\RequirePackage{changepage} 
+\RequirePackage[T1]{fontenc}
+\RequirePackage{lmodern}
+\RequirePackage{graphicx}
+%\RequirePackage{mathpazo} % palatino math fonts
+\RequirePackage{utopia} % fourier
+\RequirePackage{helvet}
+\RequirePackage{amssymb,amsmath}
+\RequirePackage{breqn}
+\RequirePackage[T1]{fontenc}
+
+\RequirePackage{circuitikz}
+\usetikzlibrary{shapes,arrows,positioning}
+\RequirePackage{ifxetex,ifluatex}
+\RequirePackage{svg}
+\setsvg{inkscape = inkscape -z -D}
+\RequirePackage{pgf}
+\RequirePackage{proof}
+
+\newcommand{\gnote}[1]{{\bf Grader's Note:} #1}
+\newcommand{\TODO}[1]{{\bf\Large TODO:} #1}
+\newcommand{\wrap}[1]{#1}
+\newcommand*{\QEDA}{\hfill\ensuremath{\blacksquare}}
+%\newcommand{\implies}{\textrm{ \sc implies }}
+\newcommand{\xor}{\textrm{ \sc xor }}
+\newcommand{\T}{{\bf T}}
+\newcommand{\F}{{\bf F}}
+\newcommand{\smallcaps}[1]{{\sc #1}}
+\newcommand{\fillin}{{\underline{\quad\quad}}}
+\newcommand{\bigfillin}{{\underline{\qquad\qquad\qquad\qquad\qquad\qquad}}}
+
+\RequirePackage{enumerate}
+\RequirePackage{framed}
+\definecolor{shadecolor}{gray}{0.9}
+
+\RequirePackage{adjustbox}
+\newcommand{\dbox}[1]{\begin{adjustbox}{minipage=0.85\textwidth,margin=0pt \smallskipamount,center}\begin{shaded} #1 \end{shaded}\end{adjustbox}}
+\newcommand{\cdbox}[1]{\begin{adjustbox}{minipage=0.85\textwidth,margin=0pt \smallskipamount,center}\begin{shaded}\centering #1\end{shaded}\end{adjustbox}}
+%\newcommand{\answerbox}[1]{\begin{adjustbox}{fbox=2pt,minipage=0.90\textwidth,margin=0pt \smallskipamount,center}\hspace*{0.90\textwidth}\vspace{#1}\end{adjustbox}}
+\newcommand{\answerbox}[1]{\begin{adjustbox}{minipage=0.90\textwidth,margin=0pt \smallskipamount,center}\hspace*{0.90\textwidth}\vspace{#1}\end{adjustbox}}
+%\newcommand{\answerboxtext}[1]{\begin{adjustbox}{fbox=2pt,minipage=0.90\textwidth,margin=0pt \smallskipamount,center}\hspace*{0.90\textwidth}\\#1\end{adjustbox}}
+\newcommand{\answerboxtext}[1]{\begin{adjustbox}{minipage=0.90\textwidth,margin=0pt \smallskipamount,center}\hspace*{0.90\textwidth}\\#1\end{adjustbox}}
+%\newcommand{\answerboxjusttext}[1]{\begin{adjustbox}{fbox=2pt,margin=0pt \smallskipamount,center}#1\end{adjustbox}}
+\newcommand{\answerboxjusttext}[1]{\begin{adjustbox}{margin=0pt \smallskipamount,center}#1\end{adjustbox}}
+%\newenvironment{answer}{\begin{adjustbox}{cfbox=blue!50!green,minipage=0.9\textwidth,margin=0.5in 0pt 0pt 0pt}}{\end{adjustbox}}
+
+\newenvironment{answer}{\begin{quote}}{\end{quote}}
+
+\renewenvironment{itemize}{
+  \begin{list}{--}{%
+%      \usecounter{enumi}	
+     \setlength{\labelwidth}{6pt}
+     \setlength{\labelsep}{4pt}
+     \setlength{\leftmargin}{10pt}
+     \setlength{\itemsep}{4pt}
+     \setlength{\topsep}{4pt}
+     \setlength{\parskip}{2pt}
+  }}
+  {\end{list}}
+
+\RequirePackage{fixltx2e} % provides \textsubscript
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\RequirePackage{upquote}}{}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \RequirePackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \RequirePackage{mathspec}
+    \RequirePackage{xltxtra,xunicode}
+  \else
+    \RequirePackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use microtype if available
+\IfFileExists{microtype.sty}{\RequirePackage{microtype}}{}
+\ifxetex
+  \RequirePackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \RequirePackage[unicode=true]{hyperref}
+\fi
+
+\hypersetup{breaklinks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=false,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\markboth{cs3102: Theory of Computation}{cs3102: Theory of Computation}
+
+\renewcommand{\maketitle}{
+\cleanlookdateon
+\thispagestyle{empty}
+\begin{tabular*}{1.0\textwidth}{@{\extracolsep{\fill} }l c r}
+{\bf University of Virginia} & {\bf cs3102: Theory of Computation} & \today \\
+\end{tabular*}
+\hrule
+
+\begin{center}
+{\Large \bf \title} 
+\end{center}
+}
+
+
+\fancyhf{}
+\renewcommand{\footrulewidth}{1pt}
+\lfoot{\url{https://uvatoc.github.io/}}
+\cfoot{\em Creative Commons Attribution-Noncommercial-Share Alike 3.0}
+\rfoot{Nathan Brunelle and David Evans}
+
+\rhead{\author}
+
+\pagestyle{fancy}
+
+\fi
