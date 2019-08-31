@@ -6,10 +6,19 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PS0 Posted</title>
+      <link>https://uvatoc.github.io/ps0posted/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps0posted/</guid>
+      <description>Problem Set 0: Getting started Hello students, Problem set 0 has been posted to collab. The goal of this assignment is to get you aquainted with the tools we will be using for future assignments this semester, namely LaTeX (and overleaf), as well as Jupyter notebooks. Enjoy!</description>
+    </item>
     
     <item>
       <title>Course Pledge</title>
