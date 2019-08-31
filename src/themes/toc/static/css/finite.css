@@ -7,6 +7,7 @@
   --highlight-color: #f6d365;
   --bg-color: #fff;
   --inverse-color: #fafafa;
+  --inverse-light-color: #dadada;
 }
 
 
@@ -343,7 +344,8 @@ ul.taxonomy-terms {
 
 hr.post-separator {
    border: 3px solid var(--sp-color);
-   border-radius: 5px;
+   color: var(--sp-color);
+   border-radius: 4px;
 }
 
 .post-metadata {
@@ -445,23 +447,23 @@ p {
 
 .sidebar a:link {
     color: var(--inverse-color);
-    text-decoration: none; border-bottom: 1px solid var(--inverse-color);
+    text-decoration: none; border-bottom: 1px dotted var(--inverse-light-color);
 }
 
 .sidebar a:visited {
     color: var(--inverse-color);
-    text-decoration: none; border-bottom: 1px solid var(--inverse-color);
+    text-decoration: none; border-bottom: 1px dotted var(--inverse-light-color);
 }
 
 
 .whatisthis a:link {
     color: var(--inverse-color);
-    text-decoration: none; border-bottom: 1px solid var(--inverse-color);
+    text-decoration: none; border-bottom: 1px dotted var(--inverse-light-color);
 }
 
 .whatisthis a:visited {
     color: var(--inverse-color);
-    text-decoration: none; border-bottom: 1px solid var(--inverse-color);
+    text-decoration: none; border-bottom: 1px dotted var(--inverse-light-color);
 }
 
 .nogap {
