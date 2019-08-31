@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Theory of Computation</title>
-    <link>https://uvatoc.github.io/post/index.xml</link>
-    <description>Recent content in Post-rsses on Theory of Computation</description>
+    <title>Posts on Theory of Computation</title>
+    <link>https://uvatoc.github.io/post/</link>
+    <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Course Registration Survey</title>
@@ -15,8 +17,7 @@
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/survey/</guid>
-      <description>&lt;p&gt;Please complete the &lt;a href=&#34;https://forms.gle/PYH9E9ZccDmbmYon9&#34;&gt;course registration survey&lt;/a&gt; by 4:19pm on Friday, August 30.&lt;/p&gt;
-</description>
+      <description>Please complete the course registration survey by 4:19pm on Friday, August 30.</description>
     </item>
     
     <item>
@@ -25,14 +26,8 @@
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/lecture1/</guid>
-      <description>
-
-&lt;h2 id=&#34;lecture-1-course-introduction&#34;&gt;Lecture 1: Course Introduction&lt;/h2&gt;
-
-&lt;p&gt;Today we will be discussing course mechanics, course expectations, and the values of studying theory.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/iygr1h06rkl8gco/welcome.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Lecture 1: Course Introduction Today we will be discussing course mechanics, course expectations, and the values of studying theory.
+Slides</description>
     </item>
     
     <item>
@@ -41,10 +36,9 @@
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>&lt;p&gt;The course syllabus and pledge are now posted:&lt;br /&gt;
-&lt;a href=&#34;https://uvatoc.github.io/docs/syllabus.pdf&#34;&gt;Syllabus (PDF)&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uvatoc.github.io/pledge&#34;&gt;Pledge&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>The course syllabus and pledge are now posted:
+Syllabus (PDF)
+Pledge</description>
     </item>
     
     <item>
@@ -53,9 +47,7 @@
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/welcome/</guid>
-      <description>&lt;p&gt;Welcome to the website for cs3102: Theory of Computation! More
-information will be posted here soon.&lt;/p&gt;
-</description>
+      <description>Welcome to the website for cs3102: Theory of Computation! More information will be posted here soon.</description>
     </item>
     
   </channel>
