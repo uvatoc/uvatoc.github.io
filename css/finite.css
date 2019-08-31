@@ -445,19 +445,23 @@ p {
 
 .sidebar a:link {
     color: var(--inverse-color);
+    text-decoration: none; border-bottom: 1px solid var(--inverse-color);
 }
 
 .sidebar a:visited {
     color: var(--inverse-color);
+    text-decoration: none; border-bottom: 1px solid var(--inverse-color);
 }
 
 
 .whatisthis a:link {
     color: var(--inverse-color);
+    text-decoration: none; border-bottom: 1px solid var(--inverse-color);
 }
 
 .whatisthis a:visited {
     color: var(--inverse-color);
+    text-decoration: none; border-bottom: 1px solid var(--inverse-color);
 }
 
 .nogap {
