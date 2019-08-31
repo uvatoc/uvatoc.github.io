@@ -28,14 +28,14 @@ Fall 2019
 </p>
 </p>
 -->
+   <p>
    <b><a href="/posts/">Recent Posts</a></b>
-   </p>
    {{ range first $posts_count ((where .Data.Pages.ByDate "Section" "post").Reverse) }}
    <div class="posttitle">
-      {{ partial "post-title" . }}
+      &nbsp;&nbsp;&nbsp; {{ partial "post-title" . }}
    </div>
    {{ end }}
-<!--   <div class="more"><a href="/posts/">More...</a></div>-->
+   &nbsp;&nbsp;&nbsp; <div class="more"><a href="/posts/">More...</a></div>
    </p>
    <p>
    <b>Instructors</b><br> 
