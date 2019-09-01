@@ -19,13 +19,24 @@
 
 &lt;h2 id=&#34;problem-set-0-getting-started&#34;&gt;Problem Set 0: Getting Started&lt;/h2&gt;
 
-&lt;p&gt;Hello students, Problem Set 0 is available here: &lt;a href=&#34;https://uvatoc.github.io/docs/ps0.pdf&#34;&gt;ps0.pdf&lt;/a&gt; (you will also need the &lt;a href=&#34;https://uvatoc.github.io/ps/ps0.zip&#34;&gt;ps0.zip&lt;/a&gt; file described in the PDF).&lt;/p&gt;
+&lt;p&gt;Hello students, Problem Set 0 is available here:
+&lt;a href=&#34;https://uvatoc.github.io/docs/ps0.pdf&#34;&gt;ps0.pdf&lt;/a&gt; (you will also need the
+&lt;a href=&#34;https://uvatoc.github.io/ps/ps0.zip&#34;&gt;ps0.zip&lt;/a&gt; file described in the PDF). It is due on
+&lt;strong&gt;Friday, 6 September&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;The goal of this assignment is to get you acquainted with the tools we
 will be using for future assignments this semester: LaTeX (and
 overleaf) and Jupyter notebooks (using Python).&lt;/p&gt;
 
-&lt;p&gt;It is due on &lt;strong&gt;Friday, 6 September&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;For this assignment you will be editing the &lt;code&gt;ps0.tex&lt;/code&gt; and
+&lt;code&gt;missing_file.tex&lt;/code&gt; files (in the provided &lt;code&gt;ps0.zip&lt;/code&gt; file) to produce a
+new &lt;code&gt;ps0.pdf&lt;/code&gt; according to the instructions in the assignment. Also
+modify the &lt;code&gt;ps0.ipynb&lt;/code&gt; Jupyter notebook provided according to its
+instructions within.&lt;/p&gt;
+
+&lt;p&gt;Submit your completed &lt;code&gt;ps0.ipynb&lt;/code&gt; and &lt;code&gt;ps0.pdf&lt;/code&gt; as two separate
+attachments via collab (you do not need to submit your &lt;code&gt;ps0.tex&lt;/code&gt; or
+&lt;code&gt;missing_file.tex&lt;/code&gt; files).&lt;/p&gt;
 
 &lt;p&gt;Enjoy!&lt;/p&gt;
 </description>
