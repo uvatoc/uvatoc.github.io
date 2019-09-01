@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Theory of Computation</title>
-    <link>https://uvatoc.github.io/post/</link>
-    <description>Recent content in Posts on Theory of Computation</description>
+    <title>Post-rsses on Theory of Computation</title>
+    <link>https://uvatoc.github.io/post/index.xml</link>
+    <description>Recent content in Post-rsses on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PS0 Posted</title>
@@ -17,7 +15,20 @@
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps0posted/</guid>
-      <description>Problem Set 0: Getting started Hello students, Problem set 0 has been posted to collab. The goal of this assignment is to get you aquainted with the tools we will be using for future assignments this semester, namely LaTeX (and overleaf), as well as Jupyter notebooks. Enjoy!</description>
+      <description>
+
+&lt;h2 id=&#34;problem-set-0-getting-started&#34;&gt;Problem Set 0: Getting started&lt;/h2&gt;
+
+&lt;p&gt;Hello students, Problem Set 0 has been posted to collab.&lt;/p&gt;
+
+&lt;p&gt;The goal of this assignment is to get you acquainted with the tools we
+will be using for future assignments this semester: LaTeX (and
+overleaf) and Jupyter notebooks (using Python).&lt;/p&gt;
+
+&lt;p&gt;It is due on &lt;strong&gt;Friday, 6 September&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -26,7 +37,8 @@
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/survey/</guid>
-      <description>Please complete the course registration survey by 4:19pm on Friday, August 30.</description>
+      <description>&lt;p&gt;Please complete the &lt;a href=&#34;https://forms.gle/PYH9E9ZccDmbmYon9&#34;&gt;course registration survey&lt;/a&gt; by 4:19pm on Friday, August 30.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -35,8 +47,14 @@
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/lecture1/</guid>
-      <description>Lecture 1: Course Introduction Today we will be discussing course mechanics, course expectations, and the values of studying theory.
-Slides</description>
+      <description>
+
+&lt;h2 id=&#34;lecture-1-course-introduction&#34;&gt;Lecture 1: Course Introduction&lt;/h2&gt;
+
+&lt;p&gt;Today we will be discussing course mechanics, course expectations, and the values of studying theory.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/iygr1h06rkl8gco/welcome.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -45,9 +63,10 @@ Slides</description>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>The course syllabus and pledge are now posted:
-Syllabus (PDF)
-Pledge</description>
+      <description>&lt;p&gt;The course syllabus and pledge are now posted:&lt;br /&gt;
+&lt;a href=&#34;https://uvatoc.github.io/docs/syllabus.pdf&#34;&gt;Syllabus (PDF)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uvatoc.github.io/pledge&#34;&gt;Pledge&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -56,7 +75,9 @@ Pledge</description>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/welcome/</guid>
-      <description>Welcome to the website for cs3102: Theory of Computation! More information will be posted here soon.</description>
+      <description>&lt;p&gt;Welcome to the website for cs3102: Theory of Computation! More
+information will be posted here soon.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

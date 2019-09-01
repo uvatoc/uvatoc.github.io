@@ -2,14 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theory of Computation</title>
-    <link>https://uvatoc.github.io/</link>
+    <link>https://uvatoc.github.io/index.xml</link>
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PS0 Posted</title>
@@ -17,7 +15,20 @@
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps0posted/</guid>
-      <description>Problem Set 0: Getting started Hello students, Problem set 0 has been posted to collab. The goal of this assignment is to get you aquainted with the tools we will be using for future assignments this semester, namely LaTeX (and overleaf), as well as Jupyter notebooks. Enjoy!</description>
+      <description>
+
+&lt;h2 id=&#34;problem-set-0-getting-started&#34;&gt;Problem Set 0: Getting started&lt;/h2&gt;
+
+&lt;p&gt;Hello students, Problem Set 0 has been posted to collab.&lt;/p&gt;
+
+&lt;p&gt;The goal of this assignment is to get you acquainted with the tools we
+will be using for future assignments this semester: LaTeX (and
+overleaf) and Jupyter notebooks (using Python).&lt;/p&gt;
+
+&lt;p&gt;It is due on &lt;strong&gt;Friday, 6 September&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -26,8 +37,88 @@
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/pledge/</guid>
-      <description>PDF for Printing Honor Expectations As a student at the University of Virginia, you are trusted to be honorable and expected to behave in ways that merit that trust. We take advantage of this trust to provide a better learning environment for everyone. In particular, students in cs3102 are expected to follow these rules throughout the course:
-I will not lie, cheat or steal. If I am unsure whether something would be considered lying, cheating or stealing, I will ask before doing it.</description>
+      <description>
+
+&lt;div class=&#34;printing&#34;&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/pledge.pdf&#34;&gt;PDF for Printing&lt;/a&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;honor-expectations&#34;&gt;Honor Expectations&lt;/h2&gt;
+
+&lt;p&gt;As a student at the University of Virginia, you are trusted to be
+honorable and expected to behave in ways that merit that trust. We
+take advantage of this trust to provide a better learning environment
+for everyone. In particular, students in cs3102 are expected to follow
+these rules throughout the course:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I will not lie, cheat or steal.&lt;/strong&gt; If I am unsure whether something
+  would be considered lying, cheating or stealing, I will ask before
+  doing it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I will carefully read and follow the collaboration policy on each
+  assignment.&lt;/strong&gt; I will not abuse resources in ways that would be
+  clearly detrimental to my own learning or unfair to other
+  students. Viewing solutions from previous cs3102 courses is not
+  permitted, except when explicitly allowed.&lt;/p&gt;
+
+&lt;h2 id=&#34;other-expectations&#34;&gt;Other Expectations&lt;/h2&gt;
+
+&lt;p&gt;In addition to the honor rules, students in this class are also
+expected to follow these behaviors:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I will treat all my classmates and the course staff with dignity and
+  respect.&lt;/strong&gt; I understand that one of the benefits of being at the
+  University is to be part of a vibrant community that encompasses a
+  wide range of backgrounds, ethnicities, personal and family
+  histories, and world views. I will contribute to that community by
+  sharing things that are unique about me with others, fighting
+  against any implicit biases I may have or that I observe in others,
+  and being open to and respectful of people who are different from
+  me. I will not behave in ways that harrass, intimidate, diminish, or
+  belittle others. If I observe such behaviors in others, I will not
+  tolerate them silently, but will either take it upon myself to
+  mitigate them, or will inform one of the course instructors or a
+  University administrator.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I will ask for help.&lt;/strong&gt; I will make a reasonable effort to do things
+  on my own first (or with classmates when permitted), but will ask
+  the course staff for help before getting overly frustrated. There
+  are many ways to ask for help including the office hours and the
+  course slack group.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I will do what I can to help my fellow classmates learn.&lt;/strong&gt; Except
+when specifically instructed not to, when other students ask me for
+help, I will attempt to provide it. I will listen respectfully to
+other&amp;rsquo;s ideas and discuss what I think is good or bad about their
+answers. When I work with others, I will not give or accept answers
+directly, but instead will make sure everyone understands enough to be
+able to solve the problem themselves, and insist that others explain
+things to me until I fully understand.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I will be open minded and curious.&lt;/strong&gt; I understand that this course may
+  do things in ways differently from what I expect, and may sometimes
+  buck conventions that have been followed in other courses I have
+  taken.  I will ask questions when things make me uncomfortable, but
+  also accept that being surprised, facing uncertainty and adversity,
+  and being challenged unreasonably are often beneficial for learning
+  new ways of thinking.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I grant the course staff permission to reproduce excerpts from my
+submissions for teaching purposes.&lt;/strong&gt; My work will be attributed when it
+is shown in a postive way, but may be used anonymously if it is used to
+illustrate common pitfalls or other issues.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I will provide useful feedback.&lt;/strong&gt; I realize that this will be
+  attempting many new things, and that it is important that I let the
+  course staff know what they need to improve the course. I will provide
+  feedback either anonymously or by contacting the course staff
+  directly.  &lt;strong&gt;I will fill out all requested surveys honestly and
+  thoroughly.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Sign:       ___________________________________________________   &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; Date: _____________&lt;/p&gt;
+
+&lt;p&gt;Print name:  ____________________________________________________&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -36,7 +127,8 @@ I will not lie, cheat or steal. If I am unsure whether something would be consid
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/survey/</guid>
-      <description>Please complete the course registration survey by 4:19pm on Friday, August 30.</description>
+      <description>&lt;p&gt;Please complete the &lt;a href=&#34;https://forms.gle/PYH9E9ZccDmbmYon9&#34;&gt;course registration survey&lt;/a&gt; by 4:19pm on Friday, August 30.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -45,8 +137,14 @@ I will not lie, cheat or steal. If I am unsure whether something would be consid
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/lecture1/</guid>
-      <description>Lecture 1: Course Introduction Today we will be discussing course mechanics, course expectations, and the values of studying theory.
-Slides</description>
+      <description>
+
+&lt;h2 id=&#34;lecture-1-course-introduction&#34;&gt;Lecture 1: Course Introduction&lt;/h2&gt;
+
+&lt;p&gt;Today we will be discussing course mechanics, course expectations, and the values of studying theory.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/iygr1h06rkl8gco/welcome.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -55,9 +153,10 @@ Slides</description>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>The course syllabus and pledge are now posted:
-Syllabus (PDF)
-Pledge</description>
+      <description>&lt;p&gt;The course syllabus and pledge are now posted:&lt;br /&gt;
+&lt;a href=&#34;https://uvatoc.github.io/docs/syllabus.pdf&#34;&gt;Syllabus (PDF)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uvatoc.github.io/pledge&#34;&gt;Pledge&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -66,8 +165,9 @@ Pledge</description>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>cs3102 Course Syllabus [PDF]
-cs3102 Course Pledge [PDF]</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/syllabus.pdf&#34;&gt;&lt;b&gt;cs3102 Course Syllabus&lt;/b&gt; [PDF]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uvatoc.github.io/docs/pledge.pdf&#34;&gt;&lt;b&gt;cs3102 Course Pledge&lt;/b&gt; [PDF]&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -76,7 +176,9 @@ cs3102 Course Pledge [PDF]</description>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/welcome/</guid>
-      <description>Welcome to the website for cs3102: Theory of Computation! More information will be posted here soon.</description>
+      <description>&lt;p&gt;Welcome to the website for cs3102: Theory of Computation! More
+information will be posted here soon.&lt;/p&gt;
+</description>
     </item>
     
     <item>

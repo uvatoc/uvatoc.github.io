@@ -6,7 +6,14 @@ author = "Nathan Brunelle"
 slug = "ps0posted"
 +++
 
-
 ## Problem Set 0: Getting started
 
-Hello students, Problem set 0 has been posted to collab. The goal of this assignment is to get you aquainted with the tools we will be using for future assignments this semester, namely LaTeX (and overleaf), as well as Jupyter notebooks. Enjoy!
+Hello students, Problem Set 0 has been posted to collab. 
+
+The goal of this assignment is to get you acquainted with the tools we
+will be using for future assignments this semester: LaTeX (and
+overleaf) and Jupyter notebooks (using Python). 
+
+It is due on **Friday, 6 September** at **4:19pm**.
+
+Enjoy!
