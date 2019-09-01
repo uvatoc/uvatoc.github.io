@@ -3,7 +3,7 @@ date = "01 Sep 2019"
 draft = false
 title = "Course Pledge"
 author = "David Evans and Nathan Brunelle"
-slug = "pledge"
+slug = "pledgeposted"
 +++
 
 To be in this class, students are expected to agree to the [Course
