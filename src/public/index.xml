@@ -6,8 +6,29 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Course Pledge</title>
+      <link>https://uvatoc.github.io/pledge/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/pledge/</guid>
+      <description>&lt;p&gt;To be in this class, students are expected to agree to the &lt;a href=&#34;https://uvatoc.github.io/pledge&#34;&gt;Course
+Pledge&lt;/a&gt;. The expectations there apply to everything connected
+with this class including all assignments, classes, and office hours.&lt;/p&gt;
+
+&lt;p&gt;Before &lt;strong&gt;2:59pm this Wednesday&lt;/strong&gt; (Sept 4) you must read and agree to
+the contents of the Course Pledge, and submit &lt;a href=&#34;https://collab.its.virginia.edu/portal/site/ff05ebb2-e2e1-45be-83cb-aadd96d4d2f9/tool/00120935-6be7-4122-b1c1-36a4649ec981&#34;&gt;this
+assignment&lt;/a&gt;
+(in collab) to acknowledge having done this. (It is not necessary to print and submit the pledge on paper or as a scanned PDF.)&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about it or disagree with any of the
+expectations in it, send a message to &lt;code&gt;@dave @Nathan Brunelle&lt;/code&gt; in the
+course slack (or discuss with one of us some other way).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PS0 Posted</title>
