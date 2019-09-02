@@ -10,6 +10,27 @@
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Class 2</title>
+      <link>https://uvatoc.github.io/class2/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class2/</guid>
+      <description>
+
+&lt;h2 id=&#34;class-2-defining-definitions&#34;&gt;Class 2: Defining Definitions&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Office hours start today! Full schedule (which will be updated) is &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;posted here&lt;/a&gt;. The first office hours are tonight, 6:30-8pm, in Rice 442.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Is 0 a Natural Number?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/y7levyehurel93v/class2-share.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b40a101-3c1d-4e10-8e94-aabc0141338d&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Office Hours Posted</title>
       <link>https://uvatoc.github.io/office-hours-posted/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
