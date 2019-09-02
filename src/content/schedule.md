@@ -11,6 +11,7 @@ slug = "schedule"
 
 Sundays, 2:30-4:30pm (Kush Patel, Rice 442)  
 
+Mondays, 1-2:30pm (Teddy Clark, Location TBA)
 Mondays, 6:30-8pm (Samarth Kishor / Cam Lloyd, Rice 442)  
 
 Tuesdays, 9-11am (David Evans, Rice 507)  
@@ -18,7 +19,7 @@ Tuesdays, 11am-noon (Youssef Errami, Thornton Stacks)
 Tuesdays, 4-6pm (Nathan Brunelle, Rice 209)  
 
 Wednesdays, noon-1pm (Youssef Errami, Thornton Stacks)  
-Wednesdays, 6:30-9pm (Youssef Errami / Cam Lloyd, Rice 442)  
+Wednesdays, 5-9:30pm (Teddy Clark / Kush Patel / Cam Lloyd, Rice 442)  
 
 Thursdays, 5-7pm (Samarth Kishor, Rice 442)
 
