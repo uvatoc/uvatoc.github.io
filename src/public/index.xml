@@ -6,8 +6,43 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://uvatoc.github.io/schedule/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/schedule/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://calendar.google.com/calendar?cid=ZmNwNTl2MHMzMDdobGlvM2E3b2s2bXUxOGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&#34;&gt;Google Calendar for cs3102&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;assignments&#34;&gt;Assignments&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Past Assignments&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Friday, 30 August: &lt;a href=&#34;https://uvatoc.github.io/survey/&#34;&gt;Registration Survey&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current Assignments&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Wednesday, 4 September (2:59pm): &lt;a href=&#34;https://uvatoc.github.io/pledgeposted&#34;&gt;Course Pledge&lt;/a&gt;&lt;br /&gt;
+Friday, 6 September (4:19pm): &lt;a href=&#34;https://uvatoc.github.io/ps0posted&#34;&gt;Problem Set 0&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Future Asignments&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Friday, 13 September (4:19pm): Problem Set 1&lt;br /&gt;
+Friday, 20 September (4:19pm): Problem Set 2&lt;br /&gt;
+Friday, 27 September (4:19pm): Problem Set 3&lt;br /&gt;
+&lt;strong&gt;Wednesday, 2 October (in class): Exam 1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;classes&#34;&gt;Classes&lt;/h1&gt;
+
+&lt;p&gt;Wednesday, 28 August: &lt;a href=&#34;https://uvatoc.github.io/lecture1/&#34;&gt;Class 1: Course Introduction&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter0.pdf&#34;&gt;TCS Chapter 0&lt;/a&gt;)&lt;br /&gt;
+Monday, 02 September: &lt;a href=&#34;https://uvatoc.github.io/class2&#34;&gt;Class 2: Defining Definitions&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter1.pdf&#34;&gt;TCS Chapter 1&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Course Pledge</title>
