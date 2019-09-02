@@ -10,6 +10,20 @@
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Office Hours Posted</title>
+      <link>https://uvatoc.github.io/office-hours-posted/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/office-hours-posted/</guid>
+      <description>&lt;p&gt;Office hours have now been posted on the &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;Course
+Schedule&lt;/a&gt;. These will be adjusted and likely some more
+office hours added over the next few weeks, but we wanted to have some
+posted now for help on &lt;a href=&#34;https://uvatoc.github.io/ps0posted&#34;&gt;Problem Set 0&lt;/a&gt; as well the
+background material we are covering this week.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Schedule</title>
       <link>https://uvatoc.github.io/schedule/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
