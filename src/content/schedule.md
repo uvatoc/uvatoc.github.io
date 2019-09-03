@@ -44,6 +44,7 @@ Friday, 27 September (4:19pm): Problem Set 3
 # Classes
 
 Wednesday, 28 August: [Class 1: Course Introduction](/lecture1/) ([TCS Chapter 0](/docs/tcs-chapter0.pdf))  
-Monday, 02 September: [Class 2: Defining Definitions](/class2) ([TCS Chapter 1](/docs/tcs-chapter1.pdf))  
+Monday, 2 September: [Class 2: Defining Definitions](/class2) ([TCS Chapter 1](/docs/tcs-chapter1.pdf))  
+Wednesday, 4 September: [Class 3: Representing Data](/class3) ([TCS Chapter 2](/docs/tcs-chapter2.pdf))
 
 
