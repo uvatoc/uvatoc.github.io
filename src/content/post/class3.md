@@ -20,6 +20,13 @@ Kahn's [_The Natural Numbers_](/docs/naturalnumbers.pdf) provides a
 more complete description of how to build the natural numbers from
 sets (and how this leads to the induction principle).
 
+If you want more practice with induction proofs, or to refresh on what
+it means to have a _surjection_ or _bijection_ between two sets, see
+[_Mathematics for Computer
+Science_](https://uvacs2102.github.io/docs/mcs.pdf) by Eric Lehman,
+Tom Leighton, and Albert Meyer (this is what I've been calling the
+"MCS" book).
+
 The comic book about Cantor and uncountable infinities is:
 [_Logicomix: An epic search for
 truth_](https://www.amazon.com/Logicomix-search-truth-Apostolos-Doxiadis/dp/1596914521/)
