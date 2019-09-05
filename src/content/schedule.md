@@ -11,8 +11,8 @@ slug = "schedule"
 
 Sundays, 2:30-4:30pm (Kush Patel, Rice 442)  
 
-Mondays, 1-2:30pm (Teddy Clark, Location TBA)
-Mondays, 5-6pm (Sonia Aggarwal, Rice 442)
+Mondays, 1-2:30pm (Teddy Clark, Location TBA)  
+Mondays, 5-6pm (Sonia Aggarwal, Rice 442)  
 Mondays, 6:30-8pm (Samarth Kishor / Cam Lloyd, Rice 442)  
 
 Tuesdays, 9-11am (David Evans, Rice 507)  

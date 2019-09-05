@@ -9,9 +9,7 @@ slug = "class3"
 
 ## Class 3: What Can Be Represented by Bits?
 
-**Schedule Reminders:**
-
-[Problem Set 0](/ps0) is due this Friday (4:19pm).  See [the schedule](/schedule) for updated office hours.
+**Schedule Reminders:** [Problem Set 0](/ps0) is due this Friday (4:19pm).  See [the schedule](/schedule) for updated office hours.
 
 Some of the material from today's class (and what we will continue on Monday) is in the [TCS Book, Chapter 2](/docs/tcs-chapter2.pdf).
 
