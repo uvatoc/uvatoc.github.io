@@ -11,7 +11,7 @@ slug = "class3"
 
 **Schedule Reminders:** [Problem Set 0](/ps0) is due this Friday (4:19pm).  See [the schedule](/schedule) for updated office hours.
 
-[Slides (PDF)](https://www.dropbox.com/s/kqneywmddluv8v7/class3-share.pdf?dl=0)
+[Slides (PDF)](https://www.dropbox.com/s/kqneywmddluv8v7/class3-share.pdf?dl=0)  
 [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=902b7d43-fd0d-470a-88d1-aabe01412d86)
 
 **Update (7 Sept):** There is a correction on slide 10 to the way we defined
