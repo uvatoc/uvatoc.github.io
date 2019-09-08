@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theory of Computation</title>
-    <link>https://uvatoc.github.io/index.xml</link>
+    <link>https://uvatoc.github.io/</link>
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Class 3</title>
@@ -15,38 +17,11 @@
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class3/</guid>
-      <description>
-
-&lt;h2 id=&#34;class-3-what-can-be-represented-by-bits&#34;&gt;Class 3: What Can Be Represented by Bits?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps0&#34;&gt;Problem Set 0&lt;/a&gt; is due this Friday (4:19pm).  See &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;the schedule&lt;/a&gt; for updated office hours.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/kqneywmddluv8v7/class3-share.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=902b7d43-fd0d-470a-88d1-aabe01412d86&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Update (7 Sept):&lt;/strong&gt; There is a correction on slide 10 to the way we defined
-  addition for the Set-based Natural Numbers (thanks to Nijat
-  Khanbabayev for pointing out the problem).&lt;/p&gt;
-
-&lt;p&gt;Some of the material from today&amp;rsquo;s class (and what we will continue on
-Monday) is in the &lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter2.pdf&#34;&gt;TCS Book, Chapter 2&lt;/a&gt;. Peter
-Kahn&amp;rsquo;s &lt;a href=&#34;https://uvatoc.github.io/docs/naturalnumbers.pdf&#34;&gt;&lt;em&gt;The Natural Numbers&lt;/em&gt;&lt;/a&gt; provides a
-more complete description of how to build the natural numbers from
-sets (and how this leads to the induction principle).&lt;/p&gt;
-
-&lt;p&gt;If you want more practice with induction proofs, or to refresh on what
-it means to have a &lt;em&gt;surjection&lt;/em&gt; or &lt;em&gt;bijection&lt;/em&gt; between two sets, see
-&lt;a href=&#34;https://uvacs2102.github.io/docs/mcs.pdf&#34;&gt;&lt;em&gt;Mathematics for Computer
-Science&lt;/em&gt;&lt;/a&gt; by Eric Lehman,
-Tom Leighton, and Albert Meyer (this is what I&amp;rsquo;ve been calling the
-&amp;ldquo;MCS&amp;rdquo; book).&lt;/p&gt;
-
-&lt;p&gt;The comic book about Cantor and uncountable infinities is:
-&lt;a href=&#34;https://www.amazon.com/Logicomix-search-truth-Apostolos-Doxiadis/dp/1596914521/&#34;&gt;&lt;em&gt;Logicomix: An epic search for
-truth&lt;/em&gt;&lt;/a&gt;
-by Apostolos Doxiadis and Christos Papadimitriou. I don&amp;rsquo;t know any
-other comic books about the induction principle, but can (shamelessly) recommend &lt;a href=&#34;https://dori-mic.org&#34;&gt;this comic book on countable infinities&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Class 3: What Can Be Represented by Bits? Schedule Reminders: Problem Set 0 is due this Friday (4:19pm). See the schedule for updated office hours.
+Slides (PDF)
+Video
+Update (7 Sept): There is a correction on slide 10 to the way we defined addition for the Set-based Natural Numbers (thanks to Nijat Khanbabayev for pointing out the problem).
+Some of the material from today&amp;rsquo;s class (and what we will continue on Monday) is in the TCS Book, Chapter 2.</description>
     </item>
     
     <item>
@@ -55,23 +30,11 @@ other comic books about the induction principle, but can (shamelessly) recommend
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class2/</guid>
-      <description>
-
-&lt;h2 id=&#34;class-2-defining-definitions&#34;&gt;Class 2: Defining Definitions&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; Office hours start today! Full schedule (which will be updated) is &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;posted here&lt;/a&gt;. The first office hours are tonight, 6:30-8pm, in Rice 442.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Is 0 a Natural Number?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/y7levyehurel93v/class2-share.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b40a101-3c1d-4e10-8e94-aabc0141338d&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The &amp;ldquo;Google dragon&amp;rdquo; image was drawn for &lt;a href=&#34;https://jeffersonswheel.org/google-federated-privacy-2019-the-dragon-in-the-room/&#34;&gt;this
-talk&lt;/a&gt;. You
-can find Sergey Brin&amp;rsquo;s resume
-&lt;a href=&#34;http://infolab.stanford.edu/~sergey/resume.html&#34;&gt;here&lt;/a&gt; (note the high
-honors in Mathematics and (low) honors in Computer Science).&lt;/p&gt;
-</description>
+      <description>Class 2: Defining Definitions Schedule Reminders: Office hours start today! Full schedule (which will be updated) is posted here. The first office hours are tonight, 6:30-8pm, in Rice 442.
+Is 0 a Natural Number?
+Slides (PDF)
+Video
+The &amp;ldquo;Google dragon&amp;rdquo; image was drawn for this talk. You can find Sergey Brin&amp;rsquo;s resume here (note the high honors in Mathematics and (low) honors in Computer Science).</description>
     </item>
     
     <item>
@@ -80,12 +43,7 @@ honors in Mathematics and (low) honors in Computer Science).&lt;/p&gt;
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/office-hours-posted/</guid>
-      <description>&lt;p&gt;Office hours have now been posted on the &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;Course
-Schedule&lt;/a&gt;. These will be adjusted and likely some more
-office hours added over the next few weeks, but we wanted to have some
-posted now for help on &lt;a href=&#34;https://uvatoc.github.io/ps0posted&#34;&gt;Problem Set 0&lt;/a&gt; as well the
-background material we are covering this week.&lt;/p&gt;
-</description>
+      <description>Office hours have now been posted on the Course Schedule. These will be adjusted and likely some more office hours added over the next few weeks, but we wanted to have some posted now for help on Problem Set 0 as well the background material we are covering this week.</description>
     </item>
     
     <item>
@@ -94,35 +52,11 @@ background material we are covering this week.&lt;/p&gt;
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/resources/</guid>
-      <description>
-
-&lt;p&gt;Here are links to some useful resources for cs3102.&lt;/p&gt;
-
-&lt;h2 id=&#34;course-book&#34;&gt;Course Book&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://introtcs.org&#34;&gt;Main Website&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://files.boazbarak.org/introtcs/lnotes_book.pdf&#34;&gt;Full Text PDF&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/boazbk/tcs&#34;&gt;Github&lt;/a&gt; (if you have corrections or
-suggestions for the book, submit them to Boaz Barak here; useful
-contributions will be worth bonus points in the course, so let us know
-if you have a pull request accepted or start a useful issue)&lt;/p&gt;
-
-&lt;h2 id=&#34;background-reading&#34;&gt;Background Reading&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvacs2102.github.io/docs/mcs.pdf&#34;&gt;&lt;em&gt;Mathematics for Computer Science&lt;/em&gt; (free
-PDF)&lt;/a&gt; by Eric Lehman, F
-Thomson Leighton, Albert R Meyer. (This is the book that is sometimes
-used in &lt;a href=&#34;https://uvacs2102.github.io&#34;&gt;cs2102: Discrete Math&lt;/a&gt;.) Some
-other useful resources for material that is covered in cs2102 are
-&lt;a href=&#34;https://uvacs2102.github.io/resources/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;suggestions&#34;&gt;Suggestions&lt;/h2&gt;
-
-&lt;p&gt;More resources will be added here as the semester progresses. If you
-find something you think would be useful to other students in the
-class, please let us know.&lt;/p&gt;
-</description>
+      <description>Here are links to some useful resources for cs3102.
+Course Book Main Website
+Full Text PDF
+Github (if you have corrections or suggestions for the book, submit them to Boaz Barak here; useful contributions will be worth bonus points in the course, so let us know if you have a pull request accepted or start a useful issue)
+Background Reading Mathematics for Computer Science (free PDF) by Eric Lehman, F Thomson Leighton, Albert R Meyer.</description>
     </item>
     
     <item>
@@ -131,51 +65,16 @@ class, please let us know.&lt;/p&gt;
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/schedule/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;https://calendar.google.com/calendar?cid=ZmNwNTl2MHMzMDdobGlvM2E3b2s2bXUxOGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&#34;&gt;Google Calendar for cs3102&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;office-hours&#34;&gt;Office Hours&lt;/h1&gt;
-
-&lt;p&gt;Sundays, 2:30-4:30pm (Kush Patel, Rice 442)&lt;/p&gt;
-
-&lt;p&gt;Mondays, 1-2:30pm (Teddy Clark, Location TBA)&lt;br /&gt;
-Mondays, 5-6pm (Sonia Aggarwal, Rice 442)&lt;br /&gt;
-Mondays, 6:30-8pm (Samarth Kishor / Cam Lloyd, Rice 442)&lt;/p&gt;
-
-&lt;p&gt;Tuesdays, 9-11am (David Evans, Rice 507)&lt;br /&gt;
-Tuesdays, 11am-noon (Youssef Errami, Thornton Stacks)&lt;br /&gt;
-Tuesdays, 4-6pm (Nathan Brunelle, Rice 209)&lt;/p&gt;
-
-&lt;p&gt;Wednesdays, noon-1pm (Youssef Errami, Thornton Stacks)&lt;br /&gt;
-Wednesdays, 5-9:30pm (Teddy Clark / Zane Alpher / Kush Patel / Cam Lloyd / Sonia Aggarwal, Rice 442)&lt;/p&gt;
-
-&lt;p&gt;Thursdays, 4:30-7pm (Sonia Aggarwal / Samarth Kishor, Rice 442)&lt;/p&gt;
-
-&lt;h1 id=&#34;assignments&#34;&gt;Assignments&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Past Assignments&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday, 30 August: &lt;a href=&#34;https://uvatoc.github.io/survey/&#34;&gt;Registration Survey&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Current Assignments&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday, 4 September (2:59pm): &lt;a href=&#34;https://uvatoc.github.io/pledgeposted&#34;&gt;Course Pledge&lt;/a&gt;&lt;br /&gt;
-Friday, 6 September (4:19pm): &lt;a href=&#34;https://uvatoc.github.io/ps0posted&#34;&gt;Problem Set 0&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Future Asignments&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday, 13 September (4:19pm): Problem Set 1&lt;br /&gt;
-Friday, 20 September (4:19pm): Problem Set 2&lt;br /&gt;
-Friday, 27 September (4:19pm): Problem Set 3&lt;br /&gt;
-&lt;strong&gt;Wednesday, 2 October (in class): Exam 1&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;classes&#34;&gt;Classes&lt;/h1&gt;
-
-&lt;p&gt;Wednesday, 28 August: &lt;a href=&#34;https://uvatoc.github.io/lecture1/&#34;&gt;Class 1: Course Introduction&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter0.pdf&#34;&gt;TCS Chapter 0&lt;/a&gt;)&lt;br /&gt;
-Monday, 2 September: &lt;a href=&#34;https://uvatoc.github.io/class2&#34;&gt;Class 2: Defining Definitions&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter1.pdf&#34;&gt;TCS Chapter 1&lt;/a&gt;)&lt;br /&gt;
-Wednesday, 4 September: &lt;a href=&#34;https://uvatoc.github.io/class3&#34;&gt;Class 3: What Can Be Represented by Bits?&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter2.pdf&#34;&gt;TCS Chapter 2&lt;/a&gt;)&lt;/p&gt;
-</description>
+      <description>Google Calendar for cs3102
+Office Hours Sundays, 2:30-4:30pm (Kush Patel, Rice 442)
+Mondays, 1-2:30pm (Teddy Clark, Location TBA)
+Mondays, 5-6pm (Sonia Aggarwal, Rice 442)
+Mondays, 6:30-8pm (Samarth Kishor / Cam Lloyd, Rice 442)
+Tuesdays, 9-11am (David Evans, Rice 507)
+Tuesdays, 11am-noon (Youssef Errami, Thornton Stacks)
+Tuesdays, 4-6pm (Nathan Brunelle, Rice 209)
+Wednesdays, noon-1pm (Youssef Errami, Thornton Stacks)
+Wednesdays, 5-9:30pm (Teddy Clark / Zane Alpher / Kush Patel / Cam Lloyd / Sonia Aggarwal, Rice 442)</description>
     </item>
     
     <item>
@@ -184,19 +83,8 @@ Wednesday, 4 September: &lt;a href=&#34;https://uvatoc.github.io/class3&#34;&gt;
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/pledgeposted/</guid>
-      <description>&lt;p&gt;To be in this class, students are expected to agree to the &lt;a href=&#34;https://uvatoc.github.io/pledge&#34;&gt;Course
-Pledge&lt;/a&gt;. The expectations there apply to everything connected
-with this class including all assignments, classes, and office hours.&lt;/p&gt;
-
-&lt;p&gt;Before &lt;strong&gt;2:59pm this Wednesday&lt;/strong&gt; (Sept 4) you must read and agree to
-the contents of the Course Pledge, and submit &lt;a href=&#34;https://collab.its.virginia.edu/portal/site/ff05ebb2-e2e1-45be-83cb-aadd96d4d2f9/tool/00120935-6be7-4122-b1c1-36a4649ec981&#34;&gt;this
-assignment&lt;/a&gt;
-(in collab) to acknowledge having done this. (It is not necessary to print and submit the pledge on paper or as a scanned PDF.)&lt;/p&gt;
-
-&lt;p&gt;If you have any questions about it or disagree with any of the
-expectations in it, send a message to &lt;code&gt;@dave @Nathan Brunelle&lt;/code&gt; in the
-course slack (or discuss with one of us some other way).&lt;/p&gt;
-</description>
+      <description>To be in this class, students are expected to agree to the Course Pledge. The expectations there apply to everything connected with this class including all assignments, classes, and office hours.
+Before 2:59pm this Wednesday (Sept 4) you must read and agree to the contents of the Course Pledge, and submit this assignment (in collab) to acknowledge having done this. (It is not necessary to print and submit the pledge on paper or as a scanned PDF.</description>
     </item>
     
     <item>
@@ -205,31 +93,9 @@ course slack (or discuss with one of us some other way).&lt;/p&gt;
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps0/</guid>
-      <description>
-
-&lt;h2 id=&#34;problem-set-0-getting-started&#34;&gt;Problem Set 0: Getting Started&lt;/h2&gt;
-
-&lt;p&gt;Hello students, Problem Set 0 is available here:
-&lt;a href=&#34;https://uvatoc.github.io/docs/ps0.pdf&#34;&gt;ps0.pdf&lt;/a&gt; (you will also need the
-&lt;a href=&#34;https://uvatoc.github.io/ps/ps0.zip&#34;&gt;ps0.zip&lt;/a&gt; file described in the PDF). It is due on
-&lt;strong&gt;Friday, 6 September&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;The goal of this assignment is to get you acquainted with the tools we
-will be using for future assignments this semester: LaTeX (and
-overleaf) and Jupyter notebooks (using Python).&lt;/p&gt;
-
-&lt;p&gt;For this assignment you will be editing the &lt;code&gt;ps0.tex&lt;/code&gt; and
-&lt;code&gt;missing_file.tex&lt;/code&gt; files (in the provided &lt;code&gt;ps0.zip&lt;/code&gt; file) to produce a
-new &lt;code&gt;ps0.pdf&lt;/code&gt; according to the instructions in the assignment. Also
-modify the &lt;code&gt;ps0.ipynb&lt;/code&gt; Jupyter notebook provided according to its
-instructions within.&lt;/p&gt;
-
-&lt;p&gt;Submit your completed &lt;code&gt;ps0.ipynb&lt;/code&gt; and &lt;code&gt;ps0.pdf&lt;/code&gt; as two separate
-attachments via collab (you do not need to submit your &lt;code&gt;ps0.tex&lt;/code&gt; or
-&lt;code&gt;missing_file.tex&lt;/code&gt; files).&lt;/p&gt;
-
-&lt;p&gt;Enjoy!&lt;/p&gt;
-</description>
+      <description>Problem Set 0: Getting Started Hello students, Problem Set 0 is available here: ps0.pdf (you will also need the ps0.zip file described in the PDF). It is due on Friday, 6 September at 4:19pm.
+The goal of this assignment is to get you acquainted with the tools we will be using for future assignments this semester: LaTeX (and overleaf) and Jupyter notebooks (using Python).
+For this assignment you will be editing the ps0.</description>
     </item>
     
     <item>
@@ -238,31 +104,9 @@ attachments via collab (you do not need to submit your &lt;code&gt;ps0.tex&lt;/c
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps0posted/</guid>
-      <description>
-
-&lt;h2 id=&#34;problem-set-0-getting-started&#34;&gt;Problem Set 0: Getting Started&lt;/h2&gt;
-
-&lt;p&gt;Hello students, Problem Set 0 is available here:
-&lt;a href=&#34;https://uvatoc.github.io/docs/ps0.pdf&#34;&gt;ps0.pdf&lt;/a&gt; (you will also need the
-&lt;a href=&#34;https://uvatoc.github.io/ps/ps0.zip&#34;&gt;ps0.zip&lt;/a&gt; file described in the PDF). It is due on
-&lt;strong&gt;Friday, 6 September&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;The goal of this assignment is to get you acquainted with the tools we
-will be using for future assignments this semester: LaTeX (and
-overleaf) and Jupyter notebooks (using Python).&lt;/p&gt;
-
-&lt;p&gt;For this assignment you will be editing the &lt;code&gt;ps0.tex&lt;/code&gt; and
-&lt;code&gt;missing_file.tex&lt;/code&gt; files (in the provided &lt;code&gt;ps0.zip&lt;/code&gt; file) to produce a
-new &lt;code&gt;ps0.pdf&lt;/code&gt; according to the instructions in the assignment. Also
-modify the &lt;code&gt;ps0.ipynb&lt;/code&gt; Jupyter notebook provided according to its
-instructions within.&lt;/p&gt;
-
-&lt;p&gt;Submit your completed &lt;code&gt;ps0.ipynb&lt;/code&gt; and &lt;code&gt;ps0.pdf&lt;/code&gt; as two separate
-attachments via collab (you do not need to submit your &lt;code&gt;ps0.tex&lt;/code&gt; or
-&lt;code&gt;missing_file.tex&lt;/code&gt; files).&lt;/p&gt;
-
-&lt;p&gt;Enjoy!&lt;/p&gt;
-</description>
+      <description>Problem Set 0: Getting Started Hello students, Problem Set 0 is available here: ps0.pdf (you will also need the ps0.zip file described in the PDF). It is due on Friday, 6 September at 4:19pm.
+The goal of this assignment is to get you acquainted with the tools we will be using for future assignments this semester: LaTeX (and overleaf) and Jupyter notebooks (using Python).
+For this assignment you will be editing the ps0.</description>
     </item>
     
     <item>
@@ -271,88 +115,8 @@ attachments via collab (you do not need to submit your &lt;code&gt;ps0.tex&lt;/c
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/pledge/</guid>
-      <description>
-
-&lt;div class=&#34;printing&#34;&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/pledge.pdf&#34;&gt;PDF for Printing&lt;/a&gt;&lt;/div&gt;
-
-&lt;h2 id=&#34;honor-expectations&#34;&gt;Honor Expectations&lt;/h2&gt;
-
-&lt;p&gt;As a student at the University of Virginia, you are trusted to be
-honorable and expected to behave in ways that merit that trust. We
-take advantage of this trust to provide a better learning environment
-for everyone. In particular, students in cs3102 are expected to follow
-these rules throughout the course:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I will not lie, cheat or steal.&lt;/strong&gt; If I am unsure whether something
-  would be considered lying, cheating or stealing, I will ask before
-  doing it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I will carefully read and follow the collaboration policy on each
-  assignment.&lt;/strong&gt; I will not abuse resources in ways that would be
-  clearly detrimental to my own learning or unfair to other
-  students. Viewing solutions from previous cs3102 courses is not
-  permitted, except when explicitly allowed.&lt;/p&gt;
-
-&lt;h2 id=&#34;other-expectations&#34;&gt;Other Expectations&lt;/h2&gt;
-
-&lt;p&gt;In addition to the honor rules, students in this class are also
-expected to follow these behaviors:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I will treat all my classmates and the course staff with dignity and
-  respect.&lt;/strong&gt; I understand that one of the benefits of being at the
-  University is to be part of a vibrant community that encompasses a
-  wide range of backgrounds, ethnicities, personal and family
-  histories, and world views. I will contribute to that community by
-  sharing things that are unique about me with others, fighting
-  against any implicit biases I may have or that I observe in others,
-  and being open to and respectful of people who are different from
-  me. I will not behave in ways that harrass, intimidate, diminish, or
-  belittle others. If I observe such behaviors in others, I will not
-  tolerate them silently, but will either take it upon myself to
-  mitigate them, or will inform one of the course instructors or a
-  University administrator.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I will ask for help.&lt;/strong&gt; I will make a reasonable effort to do things
-  on my own first (or with classmates when permitted), but will ask
-  the course staff for help before getting overly frustrated. There
-  are many ways to ask for help including the office hours and the
-  course slack group.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I will do what I can to help my fellow classmates learn.&lt;/strong&gt; Except
-when specifically instructed not to, when other students ask me for
-help, I will attempt to provide it. I will listen respectfully to
-other&amp;rsquo;s ideas and discuss what I think is good or bad about their
-answers. When I work with others, I will not give or accept answers
-directly, but instead will make sure everyone understands enough to be
-able to solve the problem themselves, and insist that others explain
-things to me until I fully understand.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I will be open minded and curious.&lt;/strong&gt; I understand that this course may
-  do things in ways differently from what I expect, and may sometimes
-  buck conventions that have been followed in other courses I have
-  taken.  I will ask questions when things make me uncomfortable, but
-  also accept that being surprised, facing uncertainty and adversity,
-  and being challenged unreasonably are often beneficial for learning
-  new ways of thinking.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I grant the course staff permission to reproduce excerpts from my
-submissions for teaching purposes.&lt;/strong&gt; My work will be attributed when it
-is shown in a postive way, but may be used anonymously if it is used to
-illustrate common pitfalls or other issues.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I will provide useful feedback.&lt;/strong&gt; I realize that this will be
-  attempting many new things, and that it is important that I let the
-  course staff know what they need to improve the course. I will provide
-  feedback either anonymously or by contacting the course staff
-  directly.  &lt;strong&gt;I will fill out all requested surveys honestly and
-  thoroughly.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Sign:       ___________________________________________________   &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; Date: _____________&lt;/p&gt;
-
-&lt;p&gt;Print name:  ____________________________________________________&lt;/p&gt;
-</description>
+      <description>PDF for Printing Honor Expectations As a student at the University of Virginia, you are trusted to be honorable and expected to behave in ways that merit that trust. We take advantage of this trust to provide a better learning environment for everyone. In particular, students in cs3102 are expected to follow these rules throughout the course:
+I will not lie, cheat or steal. If I am unsure whether something would be considered lying, cheating or stealing, I will ask before doing it.</description>
     </item>
     
     <item>
@@ -361,8 +125,7 @@ illustrate common pitfalls or other issues.&lt;/p&gt;
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/survey/</guid>
-      <description>&lt;p&gt;Please complete the &lt;a href=&#34;https://forms.gle/PYH9E9ZccDmbmYon9&#34;&gt;course registration survey&lt;/a&gt; by 4:19pm on Friday, August 30.&lt;/p&gt;
-</description>
+      <description>Please complete the course registration survey by 4:19pm on Friday, August 30.</description>
     </item>
     
     <item>
@@ -371,14 +134,8 @@ illustrate common pitfalls or other issues.&lt;/p&gt;
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/lecture1/</guid>
-      <description>
-
-&lt;h2 id=&#34;lecture-1-course-introduction&#34;&gt;Lecture 1: Course Introduction&lt;/h2&gt;
-
-&lt;p&gt;Today we will be discussing course mechanics, course expectations, and the values of studying theory.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/iygr1h06rkl8gco/welcome.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Lecture 1: Course Introduction Today we will be discussing course mechanics, course expectations, and the values of studying theory.
+Slides</description>
     </item>
     
     <item>
@@ -387,10 +144,9 @@ illustrate common pitfalls or other issues.&lt;/p&gt;
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>&lt;p&gt;The course syllabus and pledge are now posted:&lt;br /&gt;
-&lt;a href=&#34;https://uvatoc.github.io/docs/syllabus.pdf&#34;&gt;Syllabus (PDF)&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uvatoc.github.io/pledge&#34;&gt;Pledge&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>The course syllabus and pledge are now posted:
+Syllabus (PDF)
+Pledge</description>
     </item>
     
     <item>
@@ -399,9 +155,8 @@ illustrate common pitfalls or other issues.&lt;/p&gt;
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/syllabus.pdf&#34;&gt;&lt;b&gt;cs3102 Course Syllabus&lt;/b&gt; [PDF]&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uvatoc.github.io/docs/pledge.pdf&#34;&gt;&lt;b&gt;cs3102 Course Pledge&lt;/b&gt; [PDF]&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>cs3102 Course Syllabus [PDF]
+cs3102 Course Pledge [PDF]</description>
     </item>
     
     <item>
@@ -410,9 +165,7 @@ illustrate common pitfalls or other issues.&lt;/p&gt;
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/welcome/</guid>
-      <description>&lt;p&gt;Welcome to the website for cs3102: Theory of Computation! More
-information will be posted here soon.&lt;/p&gt;
-</description>
+      <description>Welcome to the website for cs3102: Theory of Computation! More information will be posted here soon.</description>
     </item>
     
     <item>
@@ -422,6 +175,28 @@ information will be posted here soon.&lt;/p&gt;
       
       <guid>https://uvatoc.github.io/test/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>PS1</title>
+      <link>https://uvatoc.github.io/ps1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps1/</guid>
+      <description>Problem Set 1: (Un)Natural Numbers Hello students, Problem Set 1 is available here: ps1.pdf (you will also need the ps1.zip file described in the PDF). It is due on Friday, 13 September at 4:19pm.
+In this assignment we&amp;rsquo;ll be working with constructive recursive definitions (mostly the definition of natural numbers discussed in lecture), and proofs by induction.
+For this assignment you will be editing the ps1.tex (in the provided ps1.</description>
+    </item>
+    
+    <item>
+      <title>PS1</title>
+      <link>https://uvatoc.github.io/ps1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps1/</guid>
+      <description>Problem Set 1: (Un)Natural Numbers Hello students, Problem Set 1 is available here: ps1.pdf (you will also need the ps1.zip file described in the PDF). It is due on Friday, 13 September at 4:19pm.
+In this assignment we&amp;rsquo;ll be working with constructive recursive definitions (mostly the definition of natural numbers discussed in lecture), and proofs by induction.
+For this assignment you will be editing the ps1.tex (in the provided ps1.</description>
     </item>
     
   </channel>

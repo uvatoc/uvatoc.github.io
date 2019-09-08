@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://uvatoc.github.io/</loc>
+    <loc>https://uvatoc.github.io/class3/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://uvatoc.github.io/class3/</loc>
+    <loc>https://uvatoc.github.io/post/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uvatoc.github.io/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,6 +84,23 @@
   
   <url>
     <loc>https://uvatoc.github.io/test/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://uvatoc.github.io/ps1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://uvatoc.github.io/ps1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://uvatoc.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://uvatoc.github.io/topics/</loc>
   </url>
   
 </urlset>
