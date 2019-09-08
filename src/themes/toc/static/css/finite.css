@@ -629,6 +629,17 @@ div.hangingmore {
      text-indent: -125px;
 }
 
+div.quote {
+   font-size: 9pt;
+   color: #222;
+   text-align: right;
+   padding-left: 90px;
+   padding-right: 0px;
+   margin-top:18pt;
+   margin-bottom:12pt;
+}
+
+
 .img-circle {
     border-radius: 50%;
 }

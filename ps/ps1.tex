@@ -1,0 +1,132 @@
+\documentclass[11pt]{article}
+\usepackage{uvatoc} % replace this line with the one below for your submission
+%\usepackage[response]{uvatoc}
+
+\begin{document}
+
+\makeheader
+
+\makemytitle{Problem Set 1: (Un)Natural Numbers}
+\submitter{TODO: replace this with your name (and computing id)}
+\due{4:19pm, Friday, 13 September}
+
+\directions{
+This assignment is designed to develop your skills with formal definitions and provide some practice with inductive reasoning. 
+
+\collaboration{You should do this assignment by yourself and submit your own answers. You may discuss the problems with anyone you want and it is also fine to get help from anyone on problems with LaTeX or Jupyter/Python. You are permitted to use any resources you find for this assignment. You should note in the {\em Collaborators and Resources} box below the people you collaborated with and any external resources you used (you may exclude resources you used exclusively for help with LaTeX or Jupyter/Python.}
+}
+
+\collaborators{TODO: replace this with your collaborators and resources (if you did not have any, replace this with {\em None})}
+
+\directions{
+This problem set has two parts, one of which should be completed by writing your answers in the `ps1.tex` LaTeX template, and the other in the PS1 Jupyter notebook. As with Problem Set 0, you will submit (in collab) both a PDF file with your answers to the questions in this template, and your Jupyter notebook.
+
+To get started with this assignment, follow directions similar to those from ps0:
+
+\begin{enumerate}
+\item Download the Problem Set 1 template from: \url{https://uvatoc.github.io/ps/ps1.zip}
+\item In Overleaf, click on \keyword{New Project} in Overleaf and select \keyword{Upload Project} from the menu.
+\item Click \keyword{Select a .zip file} and then select the \keyword{ps1.zip} file you downloaded in step 1.
+\end{enumerate}
+
+In the left side of the browser, you should see a file directory containing \keyword{ps1.ipynb}, a Jupyter notebook that you'll use in the second part (but shouldn't edit or view in Overleaf), \keyword{ps1.tex}, the template you will modify for this problem set, and \keyword{uvatoc.sty}, a style file that defines useful macros for cs3102 (you are welcome to look at this file, but should not need to modify it). You can click on \keyword{ps1.tex} to see the LaTeX source for this file.
+
+\shortsection{LaTeX Template} As with ps0, the first thing you should do in \keyword{ps1.tex} is set up your name as the author of the submission by replacing the line, \texttt{\textbackslash submitter\{TODO: your name\}}, with your name and UVA id, e.g., \texttt{\textbackslash submitter\{Grace Hopper (gmh1a)\}}.
+
+Before submitting your \keyword{ps1.pdf} file, also remember to:
+\begin{itemize}
+\item List your collaborators and resources, replacing the TODO in {\texttt{\textbackslash collaborators\{TODO: replace ...\}}} with your collaborators and resources. (Remember to update this before submitting if you work with more people.)
+
+\item Replace the second line in \keyword{ps1.tex}, \texttt{\textbackslash usepackage\{uvatoc\}} with \texttt{\textbackslash usepackage[response]\{uvatoc\}} so the directions do not appear in your final PDF.
+\end{itemize}
+}
+
+\begin{problem}
+Induction Practice
+\end{problem}
+Prove that for any natural number $n\geq 2$, $n! < n^{n}$. 
+
+\begin{directions} 
+Note: For this problem (and any other problems where we don't explicitly state that you should use a particular definition), you can use the intuitive informal definition of natural numbers, and assume all of the familiar operations are defined and behave as expected. \end{directions}
+
+\begin{problem}
+Higher Induction Practice
+\end{problem}
+Prove that any binary tree of height $h$ has at most $2^{h-1}$ leaves.
+
+\begin{directions}
+Note: We haven't defined a \emph{binary tree} (and the book doesn't). An adequate answer to this question will use the informal understanding of a binary tree which we expect you have entering this class, but an excellent answer will include a definition of a binary tree and connect your proof to that definition. 
+\end{directions}
+
+\begin{problem}
+Addition is Commutative 
+\end{problem}
+\begin{directions}
+For this problem, we will use the successor definition of Natural Numbers (from Class 2 and 3):
+
+\begin{definition}[Natural Numbers]
+\normalfont 
+We define the \emph{Natural Numbers} as:
+\begin{enumerate}
+\item {\bf 0} is a Natural Number.
+\item If $n$ is a Natural Number, {\bf S}($n$) is a Natural Number.
+\end{enumerate}
+\end{definition}
+We will use this definition of addition (from class 3):
+\begin{definition}[Sum]
+\normalfont
+The \emph{sum} of two Natural Numbers $a$ and $b$ (denoted as $a + b$) is defined as:
+\begin{enumerate}
+\item If $a$ is $\textbf{0}$, then $a + b$ is $b$.
+\item Otherwise, $a$ is $\textbf{S}(p)$ for some Natural Number $p$, and $a + b$ is $\textbf{S}(p + b)$.
+\end{enumerate}
+\end{definition}
+\end{directions}
+
+Prove that addition (as defined above) is \emph{commutative} (that is, for all Natural Numbers $a$ and $b$, $a + b$ is $b + a$). 
+\directions{
+Note that what ``is'' means here is they are exactly the same representation (we are not using $=$, since we haven't defined it for our number representation). You can think of all the operations we have defined as just manipulating strings of symbols, and ``$x$ is $y$'' meaning that $x$ and $y$ are exactly the same sequences of symbols.
+}
+
+
+\begin{problem}Countable Programs\end{problem}
+\directions{
+Prove that the set of all Python programs that you can execute on your laptop is \emph{countable}.
+}
+
+\vbox{ % This is to avoid an awkward page split
+\begin{problem}Countable Graphs\end{problem}
+\directions{
+The book defines an \emph{undirected graph} (Definition 1.3). We modify this by adding one word to define a \emph{undirected finite graph}:
+\begin{definition}[Undirected finite graph]
+\normalfont
+An undirected finite graph $G = (V, E)$ consists of a \emph{finite} set $V$ of vertices and a set $E$ of edges. Every edge is a size two subset of $V$.
+\end{definition}}
+
+Prove that the set of all undirected finite graphs is \emph{countably infinite}.
+} % close vbox
+
+
+\begin{problem}Uncountable Sets\end{problem}
+
+($\star$)\footnote{When a problem is marked with a $\star$, it means we think this problem is challenging enough that students who are not able to solve it well can still get ``full credit'' (i.e., \emph{gold star}) for the assignment without submitting a good answer to the problem. We still hope everyone will attempt these problems and learn from trying to solve them, but you shouldn't get overly frustrated if you are not able to solve a $\star$ problem.} 
+Prove that the set of all undirected graphs (using the book's Definition 1.3, without the constraint that $V$ is finite that was added for the previous problem) is not countable.  (Note: be careful in any argument that you make that the graphs you are counting as actually \emph{different}. The nodes on the graph have no labels, so the only way for two graphs to be different is if they have different structure.)
+
+
+% Your answer for problem here
+
+\directions{
+\section{Jupyter Problems}
+
+The \keyword{ps1.zip} file includes \keyword{ps1.ipynb}, a Jupyter notebook.
+
+To run this notebook, execute:
+\begin{quote}
+\texttt{jupyter notebook ps1.ipynb}
+\end{quote}
+
+The notebook contains additional problems and starting code for this assignment. Follow the directions there. Like for Problem Set 0, you will edit the provided \keyword{ps1.ipynb} notebook, and submit your completed jupyter notebook as your assignment.
+}
+
+
+\end{document}
