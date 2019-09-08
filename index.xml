@@ -165,11 +165,37 @@ class, please let us know.&lt;/p&gt;
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/schedule/</guid>
-      <description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://calendar.google.com/calendar?cid=ZmNwNTl2MHMzMDdobGlvM2E3b2s2bXUxOGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&#34;&gt;Google Calendar for cs3102&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://calendar.google.com/calendar?cid=ZmNwNTl2MHMzMDdobGlvM2E3b2s2bXUxOGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&#34;&gt;Google Calendar for cs3102&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;section style=&#34;display: table;width: 100%&#34;&gt;&lt;div style=&#34;display: table-row;&#34;&gt;&lt;div style=&#34;display: table-cell;width:55%&#34;&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;office-hours&#34;&gt;Office Hours&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Current Assignments&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Friday, 13 September (4:19pm): &lt;a href=&#34;https://uvatoc.github.io/ps1&#34;&gt;Problem Set 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Classes&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;28 Aug: &lt;a href=&#34;https://uvatoc.github.io/lecture1/&#34;&gt;Class 1: Course Introduction&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter0.pdf&#34;&gt;TCS Chapter 0&lt;/a&gt;)&lt;br /&gt;
+2 Sept: &lt;a href=&#34;https://uvatoc.github.io/class2&#34;&gt;Class 2: Defining Definitions&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter1.pdf&#34;&gt;TCS Chapter 1&lt;/a&gt;)&lt;br /&gt;
+4 Sept: &lt;a href=&#34;https://uvatoc.github.io/class3&#34;&gt;Class 3: What Can Be Represented by Bits?&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter2.pdf&#34;&gt;TCS Chapter 2&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Past Assignments&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Friday, 30 August: &lt;a href=&#34;https://uvatoc.github.io/survey/&#34;&gt;Registration Survey&lt;/a&gt;&lt;br /&gt;
+Wednesday, 4 September (2:59pm): &lt;a href=&#34;https://uvatoc.github.io/pledgeposted&#34;&gt;Course Pledge&lt;/a&gt;&lt;br /&gt;
+Friday, 6 September (4:19pm): &lt;a href=&#34;https://uvatoc.github.io/ps0posted&#34;&gt;Problem Set 0&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Future Asignments&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Friday, 20 September (4:19pm): Problem Set 2&lt;br /&gt;
+Friday, 27 September (4:19pm): Problem Set 3&lt;br /&gt;
+&lt;strong&gt;Wednesday, 2 October (in class): Exam 1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+   &lt;div style=&#34;display: table-cell;&#34;&gt;&lt;/div&gt;
+   &lt;div style=&#34;display: table-cell;text-align:left;background-color:var(--highlight-color);padding-left:10px;color:var(--sp-color);&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Office Hours&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Sundays, 2:30-4:30pm (Kush Patel, Rice 442)&lt;/p&gt;
 
@@ -186,29 +212,9 @@ Wednesdays, 5-9:30pm (Teddy Clark / Zane Alpher / Kush Patel / Cam Lloyd / Sonia
 
 &lt;p&gt;Thursdays, 4:30-7pm (Sonia Aggarwal / Samarth Kishor, Rice 442)&lt;/p&gt;
 
-&lt;h1 id=&#34;assignments&#34;&gt;Assignments&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Past Assignments&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday, 30 August: &lt;a href=&#34;https://uvatoc.github.io/survey/&#34;&gt;Registration Survey&lt;/a&gt;&lt;br /&gt;
-Wednesday, 4 September (2:59pm): &lt;a href=&#34;https://uvatoc.github.io/pledgeposted&#34;&gt;Course Pledge&lt;/a&gt;&lt;br /&gt;
-Friday, 6 September (4:19pm): &lt;a href=&#34;https://uvatoc.github.io/ps0posted&#34;&gt;Problem Set 0&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Current Assignments&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday, 13 September (4:19pm): &lt;a href=&#34;https://uvatoc.github.io/ps1&#34;&gt;Problem Set 1&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Future Asignments&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday, 20 September (4:19pm): Problem Set 2&lt;br /&gt;
-Friday, 27 September (4:19pm): Problem Set 3&lt;br /&gt;
-&lt;strong&gt;Wednesday, 2 October (in class): Exam 1&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;classes&#34;&gt;Classes&lt;/h1&gt;
-
-&lt;p&gt;Wednesday, 28 August: &lt;a href=&#34;https://uvatoc.github.io/lecture1/&#34;&gt;Class 1: Course Introduction&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter0.pdf&#34;&gt;TCS Chapter 0&lt;/a&gt;)&lt;br /&gt;
-Monday, 2 September: &lt;a href=&#34;https://uvatoc.github.io/class2&#34;&gt;Class 2: Defining Definitions&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter1.pdf&#34;&gt;TCS Chapter 1&lt;/a&gt;)&lt;br /&gt;
-Wednesday, 4 September: &lt;a href=&#34;https://uvatoc.github.io/class3&#34;&gt;Class 3: What Can Be Represented by Bits?&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter2.pdf&#34;&gt;TCS Chapter 2&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;/section&gt;&lt;/p&gt;
 </description>
     </item>
     
