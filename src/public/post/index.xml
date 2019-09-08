@@ -24,9 +24,13 @@
 &lt;a href=&#34;https://uvatoc.github.io/ps/ps1.zip&#34;&gt;ps1.zip&lt;/a&gt; file described in the PDF). It is due on
 &lt;strong&gt;Friday, 13 September&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
 
+&lt;p&gt;In this assignment we&amp;rsquo;ll be working with constructive recursive
+definitions (mostly the definition of natural numbers discussed in
+lecture), and proofs by induction.&lt;/p&gt;
+
 &lt;p&gt;Similarly to &lt;a href=&#34;https://uvatoc.github.io/ps0&#34;&gt;Problem Set 0&lt;/a&gt;, this assigned involves both
-`&lt;code&gt;pencil-and-paper&#39;&#39; problems (submitted as a PDF by editing the
-provided&lt;/code&gt;ps1.tex` template) and programming problems (submitted by
+&lt;em&gt;pencil-and-paper&lt;/em&gt; problems (submitted as a PDF by editing the
+provided &lt;code&gt;ps1.tex&lt;/code&gt; template) and programming problems (submitted by
 modifying the provided Jupyter notebook).&lt;/p&gt;
 
 &lt;p&gt;Submit your completed &lt;code&gt;ps1.ipynb&lt;/code&gt; and &lt;code&gt;ps1.pdf&lt;/code&gt; as two separate

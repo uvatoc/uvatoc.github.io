@@ -13,8 +13,12 @@ Problem Set 1 is available here:
 [ps1.zip](/ps/ps1.zip) file described in the PDF). It is due on
 **Friday, 13 September** at **4:19pm**.
 
+In this assignment we'll be working with constructive recursive
+definitions (mostly the definition of natural numbers discussed in
+lecture), and proofs by induction.
+
 Similarly to [Problem Set 0](/ps0), this assigned involves both
-``pencil-and-paper'' problems (submitted as a PDF by editing the
+<em>pencil-and-paper</em> problems (submitted as a PDF by editing the
 provided `ps1.tex` template) and programming problems (submitted by
 modifying the provided Jupyter notebook).
 
