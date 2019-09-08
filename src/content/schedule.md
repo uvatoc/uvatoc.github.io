@@ -37,8 +37,9 @@ Friday, 27 September (4:19pm): Problem Set 3
    </div>
    <div style="display: table-cell;"></div>
    <div style="display: table-cell;text-align:left;background-color:var(--highlight-color);padding-left:10px;color:var(--sp-color);">
-
+   <center>
 **Office Hours**
+   </center>
 
 **Sundays**  
 2:30-4:30pm (Kush, Rice 442)  
