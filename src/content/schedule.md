@@ -5,8 +5,9 @@ title = "Schedule"
 slug = "schedule"
 +++
 
-[Google Calendar for cs3102](https://calendar.google.com/calendar?cid=ZmNwNTl2MHMzMDdobGlvM2E3b2s2bXUxOGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
+   <center>
+[**Google Calendar for cs3102**](https://calendar.google.com/calendar?cid=ZmNwNTl2MHMzMDdobGlvM2E3b2s2bXUxOGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+   </center>
  
    <section style="display: table;width: 100%"><div style="display: table-row;"><div style="display: table-cell;width:55%">
 
@@ -39,20 +40,25 @@ Friday, 27 September (4:19pm): Problem Set 3
 
 **Office Hours**
 
-Sundays, 2:30-4:30pm (Kush Patel, Rice 442)  
+**Sundays**  
+2:30-4:30pm (Kush, Rice 442)  
 
-Mondays, 1-2:30pm (Teddy Clark, Location TBA)  
-Mondays, 5-6pm (Sonia Aggarwal, Rice 442)  
-Mondays, 6:30-8pm (Samarth Kishor / Cam Lloyd, Rice 442)  
+**Mondays**  
+1-2:30pm (Teddy, Location TBA)  
+5-6pm (Sonia, Rice 442)  
+6:30-8pm (Samarth/Cam, Rice 442)  
 
-Tuesdays, 9-11am (David Evans, Rice 507)  
-Tuesdays, 11am-noon (Youssef Errami, Thornton Stacks)  
-Tuesdays, 4-6pm (Nathan Brunelle, Rice 209)  
+**Tuesdays**  
+9-11am (Dave, Rice 507)  
+11am-noon (Youssef, Thornton Stacks)  
+4-6pm (Nathan, Rice 209)  
 
-Wednesdays, noon-1pm (Youssef Errami, Thornton Stacks)  
-Wednesdays, 5-9:30pm (Teddy Clark / Zane Alpher / Kush Patel / Cam Lloyd / Sonia Aggarwal, Rice 442)  
+**Wednesdays**  
+noon-1pm (Youssef, Thornton Stacks)  
+5-9:30pm (Teddy/Zane/Kush/Cam/Sonia, Rice 442)  
 
-Thursdays, 4:30-7pm (Sonia Aggarwal / Samarth Kishor, Rice 442)
+**Thursdays**  
+4:30-7pm (Sonia/Samarth, Rice 442)
 
    </div>
    </div>
