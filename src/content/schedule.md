@@ -45,7 +45,7 @@ Friday, 27 September (4:19pm): Problem Set 3
 2:30-4:30pm (Kush, Rice 442)  
 
 **Mondays**  
-1-2:30pm (Teddy, Location TBA)  
+12:30-2pm (Teddy, Location TBA)  
 5-6pm (Sonia, Rice 442)  
 6:30-8pm (Samarth/Cam, Rice 442)  
 
