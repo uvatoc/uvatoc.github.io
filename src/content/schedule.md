@@ -20,6 +20,7 @@ slug = "schedule"
 28 Aug: [Class 1: Course Introduction](/lecture1/) ([TCS Chapter 0](/docs/tcs-chapter0.pdf))  
 2 Sept: [Class 2: Defining Definitions](/class2) ([TCS Chapter 1](/docs/tcs-chapter1.pdf))  
 4 Sept: [Class 3: What Can Be Represented by Bits?](/class3) ([TCS Chapter 2](/docs/tcs-chapter2.pdf))  
+9 Sept: [Class 4: What Cannot Be Represented by Bits?](/class4) (Uncountable Sets) 
 
 
 **Past Assignments**  

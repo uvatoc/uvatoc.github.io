@@ -6,8 +6,25 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 4</title>
+      <link>https://uvatoc.github.io/class4/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class4/</guid>
+      <description>
+
+&lt;h2 id=&#34;class-4-what-cannot-be-represented-by-bits-uncountable-sets&#34;&gt;Class 4: What Cannot Be Represented by Bits? (Uncountable Sets)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps1&#34;&gt;Problem Set 1&lt;/a&gt; is due this Friday (4:19pm).  See &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;the schedule&lt;/a&gt; for updated office hours.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/w6rpp6rgwx5ycl5/class4-share.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b644143d-a3dc-4165-a524-aac30140f096&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PS1 Posted</title>
@@ -179,7 +196,8 @@ class, please let us know.&lt;/p&gt;
 
 &lt;p&gt;28 Aug: &lt;a href=&#34;https://uvatoc.github.io/lecture1/&#34;&gt;Class 1: Course Introduction&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter0.pdf&#34;&gt;TCS Chapter 0&lt;/a&gt;)&lt;br /&gt;
 2 Sept: &lt;a href=&#34;https://uvatoc.github.io/class2&#34;&gt;Class 2: Defining Definitions&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter1.pdf&#34;&gt;TCS Chapter 1&lt;/a&gt;)&lt;br /&gt;
-4 Sept: &lt;a href=&#34;https://uvatoc.github.io/class3&#34;&gt;Class 3: What Can Be Represented by Bits?&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter2.pdf&#34;&gt;TCS Chapter 2&lt;/a&gt;)&lt;/p&gt;
+4 Sept: &lt;a href=&#34;https://uvatoc.github.io/class3&#34;&gt;Class 3: What Can Be Represented by Bits?&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter2.pdf&#34;&gt;TCS Chapter 2&lt;/a&gt;)&lt;br /&gt;
+9 Sept: &lt;a href=&#34;https://uvatoc.github.io/class4&#34;&gt;Class 4: What Cannot Be Represented by Bits?&lt;/a&gt; (Uncountable Sets)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Past Assignments&lt;/strong&gt;&lt;/p&gt;
 
@@ -449,17 +467,6 @@ illustrate common pitfalls or other issues.&lt;/p&gt;
       <guid>https://uvatoc.github.io/syllabus/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/syllabus.pdf&#34;&gt;&lt;b&gt;cs3102 Course Syllabus&lt;/b&gt; [PDF]&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://uvatoc.github.io/docs/pledge.pdf&#34;&gt;&lt;b&gt;cs3102 Course Pledge&lt;/b&gt; [PDF]&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://uvatoc.github.io/welcome/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/welcome/</guid>
-      <description>&lt;p&gt;Welcome to the website for cs3102: Theory of Computation! More
-information will be posted here soon.&lt;/p&gt;
 </description>
     </item>
     
