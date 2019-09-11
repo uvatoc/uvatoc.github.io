@@ -6,8 +6,42 @@
     <description>Recent content in Post-rsses on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 5</title>
+      <link>https://uvatoc.github.io/class5/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class5/</guid>
+      <description>
+
+&lt;h2 id=&#34;class-5-defining-computation&#34;&gt;Class 5: Defining Computation&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps1&#34;&gt;Problem Set 1&lt;/a&gt; is due this Friday (4:19pm).&lt;br /&gt;
+See &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;the schedule&lt;/a&gt; for updated office hours.&lt;/p&gt;
+
+&lt;p&gt;Slides: To be posted&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter3.pdf&#34;&gt;TCS Chapter 3: Defining computation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;daniel-lewin-14-may-1970-ndash-11-september-2001&#34;&gt;Daniel Lewin, 14 May 1970 &amp;ndash; 11 September 2001&lt;/h3&gt;
+
+&lt;p&gt;Hiawatha Bray. &lt;a href=&#34;http://archive.boston.com/business/technology/articles/2011/09/04/akamai_thrives_in_the_spirit_of_its_lost_founder/?camp=pm&#34;&gt;&lt;em&gt;A Lost Spirit Still Inspires&lt;/em&gt;&lt;/a&gt;, Boston Globe, 4 September 2011.&lt;/p&gt;
+
+&lt;p&gt;Tom Leighton&amp;rsquo;s &lt;a href=&#34;http://www.egr.unlv.edu/~bein/SIGACT/lewin.html&#34;&gt;&lt;em&gt;Remarks on Danny Lewin&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/No-Better-Time-Remarkable-Transformed/dp/0306821664&#34;&gt;&lt;em&gt;No Better Time: The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet&lt;/em&gt;&lt;/a&gt; by Molly Knight Raskin.&lt;/p&gt;
+
+&lt;p&gt;David Karger, Eric Lehman, Tom Leighton, Matthew Levine, Daniel Lewin,
+Rina Panigrah.  &lt;a href=&#34;https://www.akamai.com/kr/ko/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf&#34;&gt;&lt;em&gt;Consistent Hashing and Random Trees: Distributed
+Caching Protocols for Relieving Hot Spots on the World Wide
+Web&lt;/em&gt;&lt;/a&gt;. (Note:
+tradition in theory papers is to list all authors alphabetically). 29th
+ACM &lt;em&gt;Symposium on Theory of Computing&lt;/em&gt;, 1997.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 4</title>
