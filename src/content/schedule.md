@@ -65,6 +65,7 @@ noon-1pm (Youssef, Thornton Stacks)
 8:30-9:30pm (Sonia, Rice 442)
 
 **Thursdays**  
+10am-noon: (Matthew, Rice 442)  
 5-7:00pm (Samarth, Rice 442)  
 6-8:00pm (Sonia, Rice 442)
 
