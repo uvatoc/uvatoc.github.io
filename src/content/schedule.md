@@ -48,7 +48,8 @@ Friday, 27 September (4:19pm): Problem Set 3
 **Mondays**  
 12:30-2pm (Teddy, Rice 442)  
 5-6pm (Sonia, Rice 442)  
-6:30-8pm (Samarth/Cam, Rice 442)  
+6:30-7:30pm (Samarth, Rice 442)  
+7-8:00pm (Cam, Rice 442)
 
 **Tuesdays**  
 9-11am (Dave, Rice 507)  
@@ -57,10 +58,15 @@ Friday, 27 September (4:19pm): Problem Set 3
 
 **Wednesdays**  
 noon-1pm (Youssef, Thornton Stacks)  
-5-9:30pm (Teddy/Zane/Kush/Cam/Sonia, Rice 442)  
+5-6:30pm (Teddy, Rice 442)  
+5-7:00pm (Zane, Rice 442)  
+6:30-7:30pm (Kush, Rice 442)  
+7-9:00pm (Cam, Rice 442)  
+8:30-9:30pm (Sonia, Rice 442)
 
 **Thursdays**  
-4:30-7pm (Sonia/Samarth, Rice 442)
+5-7:00pm (Samarth, Rice 442)  
+6-8:00pm (Sonia, Rice 442)
 
    </div>
    </div>
