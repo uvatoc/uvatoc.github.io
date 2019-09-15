@@ -60,7 +60,6 @@ Friday, 27 September (4:19pm): Problem Set 3
 noon-1pm (Youssef, Thornton Stacks)  
 5-6:30pm (Teddy, Rice 442)  
 5-7:00pm (Zane, Rice 442)  
-6:30-7:30pm (Kush, Rice 442)  
 7-9:00pm (Cam, Rice 442)  
 8:30-9:30pm (Sonia, Rice 442)
 
