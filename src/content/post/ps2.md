@@ -6,7 +6,7 @@ author = "David Evans and Nathan Brunelle"
 slug = "ps2"
 +++
 
-## Problem Set 1: (Un)natural Numbers
+## Problem Set 2: Fine Finite Computation
 
 Problem Set 2 is available here:
 [ps2.pdf](/docs/ps2.pdf) (you will also need the
@@ -19,10 +19,5 @@ This assigned involves only
 <em>pencil-and-paper</em> problems (submitted as a PDF by editing the
 provided `ps2.tex` template) and there is no programming portion.
 
-Submit your completed `ps2.pdf` as ab
-attachment via collab.
+Submit your completed `ps2.pdf` as an attachment via collab.
 
-<div class="quote">
-<em>Wir mussen wissen. Wir werden wissen.</em><br>
-David Hilbert
-</div>
