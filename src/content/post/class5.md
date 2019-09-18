@@ -1,7 +1,7 @@
 +++
 date = "11 Sep 2019"
 draft = false
-title = "Class 5"
+title = "Class 5: Defining Computation"
 author = "Nathan Brunelle and David Evans"
 slug = "class5"
 +++

@@ -1,7 +1,7 @@
 +++
 date = "09 Sep 2019"
 draft = false
-title = "Class 4"
+title = "Class 4: Uncountability"
 author = "David Evans"
 slug = "class4"
 +++

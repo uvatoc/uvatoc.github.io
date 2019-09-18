@@ -1,7 +1,7 @@
 +++
 date = "28 Aug 2019"
 draft = false
-title = "Lecture 1"
+title = "Class 1: Introduction"
 author = "Nathan Brunelle"
 slug = "lecture1"
 +++

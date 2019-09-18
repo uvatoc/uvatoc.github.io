@@ -1,7 +1,7 @@
 +++
 date = "04 Sep 2019"
 draft = false
-title = "Class 3"
+title = "Class 3: Countable Sets"
 author = "David Evans"
 slug = "class3"
 +++

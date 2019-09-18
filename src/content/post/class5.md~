@@ -11,8 +11,7 @@ slug = "class5"
 **Schedule Reminders:** [Problem Set 1](/ps1) is due this Friday (4:19pm).  
 See [the schedule](/schedule) for updated office hours.
 
-[Slides (PDF)](https://www.dropbox.com/s/kfm0h66scpoby44/class5.pptx?dl=0)
-
+[Slides (PDF)](https://www.dropbox.com/s/kfm0h66scpoby44/class5.pptx?dl=0)  
 [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bc59b9a8-4076-4d9e-b854-aac5014164e3)
 
 [TCS Chapter 3: Defining computation](/docs/tcs-chapter3.pdf)

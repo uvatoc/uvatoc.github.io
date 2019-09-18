@@ -1,7 +1,7 @@
 +++
 date = "16 Sep 2019"
 draft = false
-title = "Class 6"
+title = "Class 6: Defining Boolean Circuits"
 author = "David Evans"
 slug = "class6"
 +++

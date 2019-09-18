@@ -1,7 +1,7 @@
 +++
 date = "02 Sep 2019"
 draft = false
-title = "Class 2"
+title = "Class 2: Definitions"
 author = "David Evans"
 slug = "class2"
 +++

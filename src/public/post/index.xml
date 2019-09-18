@@ -10,7 +10,7 @@
     <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Class 6</title>
+      <title>Class 6: Defining Boolean Circuits</title>
       <link>https://uvatoc.github.io/class6/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       
@@ -54,7 +54,7 @@ provided &lt;code&gt;ps2.tex&lt;/code&gt; template) and there is no programming 
     </item>
     
     <item>
-      <title>Class 5</title>
+      <title>Class 5: Defining Computation</title>
       <link>https://uvatoc.github.io/class5/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       
@@ -89,7 +89,7 @@ ACM &lt;em&gt;Symposium on Theory of Computing&lt;/em&gt;, 1997.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Class 4</title>
+      <title>Class 4: Uncountability</title>
       <link>https://uvatoc.github.io/class4/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
       
@@ -169,7 +169,7 @@ David Hilbert
     </item>
     
     <item>
-      <title>Class 3</title>
+      <title>Class 3: Countable Sets</title>
       <link>https://uvatoc.github.io/class3/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
       
@@ -209,7 +209,7 @@ other comic books about the induction principle, but can (shamelessly) recommend
     </item>
     
     <item>
-      <title>Class 2</title>
+      <title>Class 2: Definitions</title>
       <link>https://uvatoc.github.io/class2/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
@@ -302,17 +302,7 @@ attachments via collab (you do not need to submit your &lt;code&gt;ps0.tex&lt;/c
     </item>
     
     <item>
-      <title>Course Registration Survey</title>
-      <link>https://uvatoc.github.io/survey/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/survey/</guid>
-      <description>&lt;p&gt;Please complete the &lt;a href=&#34;https://forms.gle/PYH9E9ZccDmbmYon9&#34;&gt;course registration survey&lt;/a&gt; by 4:19pm on Friday, August 30.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lecture 1</title>
+      <title>Class 1: Introduction</title>
       <link>https://uvatoc.github.io/lecture1/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -324,6 +314,16 @@ attachments via collab (you do not need to submit your &lt;code&gt;ps0.tex&lt;/c
 &lt;p&gt;Today we will be discussing course mechanics, course expectations, and the values of studying theory.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/iygr1h06rkl8gco/welcome.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Course Registration Survey</title>
+      <link>https://uvatoc.github.io/survey/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/survey/</guid>
+      <description>&lt;p&gt;Please complete the &lt;a href=&#34;https://forms.gle/PYH9E9ZccDmbmYon9&#34;&gt;course registration survey&lt;/a&gt; by 4:19pm on Friday, August 30.&lt;/p&gt;
 </description>
     </item>
     
