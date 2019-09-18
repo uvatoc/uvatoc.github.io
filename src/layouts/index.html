@@ -30,7 +30,7 @@ Theory of Computation<br>
 </p>
 -->
    <p>
-   <b><a href="/posts/">Recent Posts</a></b>
+   <b><a href="/post/">Recent Posts</a></b>
    {{ range first $posts_count ((where .Data.Pages.ByDate "Section" "post").Reverse) }}
    <div class="posttitle">
       &nbsp;&nbsp;&nbsp; {{ partial "post-title" . }}
@@ -38,7 +38,7 @@ Theory of Computation<br>
    {{ end }}
 <!--
    <div class="posttitle">
-     &nbsp;&nbsp;&nbsp; <div class="more"><a href="/posts/"><em>More...</em></a></div>
+     &nbsp;&nbsp;&nbsp; <div class="more"><a href="/post/"><em>More...</em></a></div>
    </div>
 -->
    </p>
