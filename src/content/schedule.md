@@ -13,7 +13,9 @@ slug = "schedule"
 
    **Current Assignments**
 
-   Friday, 13 September (4:19pm): [Problem Set 1](/ps1)
+Monday, 30 September (2:59pm): Problem Set 3  
+**Wednesday, 2 October (in class): Exam 1**  
+
 
    **Classes**
 
@@ -22,18 +24,21 @@ slug = "schedule"
 4 Sept: [Class 3: What Can Be Represented by Bits?](/class3) ([TCS Chapter 2](/docs/tcs-chapter2.pdf))  
 9 Sept: [Class 4: What Cannot Be Represented by Bits?](/class4) (Uncountable Sets) 
 11 Sept: [Class 5: Defining Computation](/class5) ([TCS Chapter 3](/docs/tcs-chapter3.pdf))
+16 Sept: [Class 6: Defining Boolean Circuits](/class6) ([TCS Chapter 3](/docs/tcs-chapter3.pdf))  
+18 Sept: [Class 7: Syntactic Sugar](/class7) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
+23 Sept: [Class 8: TBD](/class8) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
+25 Sept: [Class 9: TBD](/class9) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
 
 **Past Assignments**  
 
 Friday, 30 August: [Registration Survey](/survey/)  
 Wednesday, 4 September (2:59pm): [Course Pledge](/pledgeposted)  
 Friday, 6 September (4:19pm): [Problem Set 0](/ps0posted)  
+Friday, 13 September (4:19pm): [Problem Set 1](/ps1)
+Friday, 20 September (4:19pm): [Problem Set 2](/ps2)
 
-**Future Asignments**
+<!-- **Future Asignments** -->
 
-Friday, 20 September (4:19pm): Problem Set 2  
-Friday, 27 September (4:19pm): Problem Set 3  
-**Wednesday, 2 October (in class): Exam 1**  
    
    </div>
    <div style="display: table-cell;"></div>
