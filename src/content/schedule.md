@@ -13,7 +13,7 @@ slug = "schedule"
 
    **Current Assignments**
 
-Monday, 30 September (2:59pm): Problem Set 3  
+Monday, 30 September (2:59pm): [Problem Set 3](/ps/ps3.pdf)
 **Wednesday, 2 October (in class): Exam 1**  
 
 
