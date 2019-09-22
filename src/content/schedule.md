@@ -23,7 +23,7 @@ Monday, 30 September (2:59pm): Problem Set 3
 2 Sept: [Class 2: Defining Definitions](/class2) ([TCS Chapter 1](/docs/tcs-chapter1.pdf))  
 4 Sept: [Class 3: What Can Be Represented by Bits?](/class3) ([TCS Chapter 2](/docs/tcs-chapter2.pdf))  
 9 Sept: [Class 4: What Cannot Be Represented by Bits?](/class4) (Uncountable Sets) 
-11 Sept: [Class 5: Defining Computation](/class5) ([TCS Chapter 3](/docs/tcs-chapter3.pdf))
+11 Sept: [Class 5: Defining Computation](/class5) ([TCS Chapter 3](/docs/tcs-chapter3.pdf))  
 16 Sept: [Class 6: Defining Boolean Circuits](/class6) ([TCS Chapter 3](/docs/tcs-chapter3.pdf))  
 18 Sept: [Class 7: Syntactic Sugar](/class7) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
 23 Sept: [Class 8: TBD](/class8) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
