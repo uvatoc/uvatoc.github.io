@@ -10,6 +10,7 @@
 \usepackage[outer=0.75in,inner=0.75in,vmargin={1in,1in}]{geometry}
 \usepackage[UKenglish]{babel}% http://ctan.org/pkg/babel
 \usepackage[UKenglish]{isodate}% http://ctan.org/pkg/isodate
+\usepackage{minted}
 \usepackage{listings}
 \usepackage{fancyhdr}
 \usepackage{verbatim}
@@ -69,6 +70,10 @@
 %\newenvironment{answer}{\begin{adjustbox}{cfbox=blue!50!green,minipage=0.9\textwidth,margin=0.5in 0pt 0pt 0pt}}{\end{adjustbox}}
 
 \newenvironment{answer}{\begin{quote}}{\end{quote}}
+
+\newenvironment{code}{
+   \begin{adjustbox}{minipage=0.9\textwidth,margin=16pt,center}\begin{verbatim}}
+   {\end{verbatim}\end{adjustbox}}
 
 \renewenvironment{itemize}{
   \begin{list}{--}{%

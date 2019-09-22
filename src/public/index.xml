@@ -6,8 +6,41 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Problem Set 3</title>
+      <link>https://uvatoc.github.io/ps3/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps3/</guid>
+      <description>
+
+&lt;h2 id=&#34;problem-set-3-sugary-finite-computation&#34;&gt;Problem Set 3: Sugary Finite Computation&lt;/h2&gt;
+
+&lt;p&gt;Problem Set 3 is available here: &lt;a href=&#34;https://uvatoc.github.io/ps/ps3.pdf&#34;&gt;ps3.pdf&lt;/a&gt; (you will also
+need the &lt;a href=&#34;https://uvatoc.github.io/p3/ps3.zip&#34;&gt;ps3.zip&lt;/a&gt; file described in the PDF). It is due
+on &lt;strong&gt;Sunday, 30 September&lt;/strong&gt; at &lt;strong&gt;2:59pm&lt;/strong&gt;. (Note the unusual due date
+and time. The schedule is unusual because of Exam 1, which will be
+held Wednesday, 2 October, in class.)&lt;/p&gt;
+
+&lt;p&gt;The purpose of this assignment is to continue to develop your
+understanding of finite computation, focusing on the material in
+Chapter 4 of the textbook and what we cover in Class 7 and Class 8 and
+Class 9.  This assignment is also meant to prepare you for Exam 1,
+which will be held in class on Wednesday, 2 October (a separate post
+will provide more details on Exam 1). In addition to the graded
+problems, we have provided some additional problems to help you
+prepare for Exam 1. You do not need to turn anything in for these
+problems, but we expect that most students will benefit from doing
+them to be prepared to do well on the exam.&lt;/p&gt;
+
+&lt;p&gt;This assignment involves both PDF and Jupyter parts, and you should
+submit both your &lt;code&gt;ps3.ipynb&lt;/code&gt; and &lt;code&gt;ps3.pdf&lt;/code&gt; files as attachments in
+collab.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 7: Syntactic Sugar</title>
@@ -67,7 +100,7 @@
 
 &lt;p&gt;In this assignment we&amp;rsquo;ll be working with models of finite computation.&lt;/p&gt;
 
-&lt;p&gt;This assigned involves only
+&lt;p&gt;This assignment involves only
 &lt;em&gt;pencil-and-paper&lt;/em&gt; problems (submitted as a PDF by editing the
 provided &lt;code&gt;ps2.tex&lt;/code&gt; template) and there is no programming portion.&lt;/p&gt;
 
@@ -468,22 +501,6 @@ attachments via collab (you do not need to submit your &lt;code&gt;ps0.tex&lt;/c
 &lt;code&gt;missing_file.tex&lt;/code&gt; files).&lt;/p&gt;
 
 &lt;p&gt;Enjoy!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 1: Introduction</title>
-      <link>https://uvatoc.github.io/lecture1/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/lecture1/</guid>
-      <description>
-
-&lt;h2 id=&#34;lecture-1-course-introduction&#34;&gt;Lecture 1: Course Introduction&lt;/h2&gt;
-
-&lt;p&gt;Today we will be discussing course mechanics, course expectations, and the values of studying theory.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/iygr1h06rkl8gco/welcome.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

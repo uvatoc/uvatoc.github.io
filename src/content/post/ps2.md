@@ -15,7 +15,7 @@ Problem Set 2 is available here:
 
 In this assignment we'll be working with models of finite computation.
 
-This assigned involves only
+This assignment involves only
 <em>pencil-and-paper</em> problems (submitted as a PDF by editing the
 provided `ps2.tex` template) and there is no programming portion.
 
