@@ -34,7 +34,7 @@ Monday, 30 September (2:59pm): Problem Set 3
 Friday, 30 August: [Registration Survey](/survey/)  
 Wednesday, 4 September (2:59pm): [Course Pledge](/pledgeposted)  
 Friday, 6 September (4:19pm): [Problem Set 0](/ps0posted)  
-Friday, 13 September (4:19pm): [Problem Set 1](/ps1)
+Friday, 13 September (4:19pm): [Problem Set 1](/ps1)  
 Friday, 20 September (4:19pm): [Problem Set 2](/ps2)
 
 <!-- **Future Asignments** -->
