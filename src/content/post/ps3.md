@@ -10,7 +10,7 @@ slug = "ps3"
 
 Problem Set 3 is available here: [ps3.pdf](/ps/ps3.pdf) (you will also
 need the [ps3.zip](/ps/ps3.zip) file described in the PDF). It is due
-on **Sunday, 30 September** at **2:59pm**. (Note the unusual due date
+on **Monday, 30 September** at **2:59pm**. (Note the unusual due date
 and time. The schedule is unusual because of Exam 1, which will be
 held Wednesday, 2 October, in class.)
 
