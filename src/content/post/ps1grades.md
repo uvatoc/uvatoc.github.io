@@ -23,3 +23,5 @@ When assigning grades we sought to reward individual solutions that were high qu
  The challenge problems counted as a bonus to your count of 5's if you got at least a five, and contributed score/5 to the numerator of your average otherwise (i.e., as a bonus).
  
  Future problem sets may have use a different procedure for assigning scores to letter grades, depending on our goals for that assignment.
+ 
+ If you did not receive a grade for the assignment, this is mostly likely because you submitted late, and we could find no record of us giving you permission to do so.
