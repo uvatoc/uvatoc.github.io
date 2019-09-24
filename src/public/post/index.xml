@@ -6,8 +6,25 @@
     <description>Recent content in Post-rsses on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PS1 Grades Posted</title>
+      <link>https://uvatoc.github.io/ps1grades/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps1grades/</guid>
+      <description>&lt;p&gt;The grades for PS1 are now posted. We&amp;rsquo;re really sorry this took so
+long! Hopefully we have a process in place now that will be much
+faster and more reliable at grading and returning homeworks.&lt;/p&gt;
+
+&lt;p&gt;Please look at the posted comments on PS1 in collab: &lt;a href=&#34;only accessible to students in the class&#34;&gt;&lt;a href=&#34;https://collab.its.virginia.edu/access/content/group/ff05ebb2-e2e1-45be-83cb-aadd96d4d2f9/ps1-comments.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll post an update soon with more information about how PS1 was
+graded and how to interpret your grade.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Problem Set 3</title>
@@ -379,18 +396,6 @@ attachments via collab (you do not need to submit your &lt;code&gt;ps0.tex&lt;/c
       
       <guid>https://uvatoc.github.io/survey/</guid>
       <description>&lt;p&gt;Please complete the &lt;a href=&#34;https://forms.gle/PYH9E9ZccDmbmYon9&#34;&gt;course registration survey&lt;/a&gt; by 4:19pm on Friday, August 30.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Syllabus</title>
-      <link>https://uvatoc.github.io/syllabus/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>&lt;p&gt;The course syllabus and pledge are now posted:&lt;br /&gt;
-&lt;a href=&#34;https://uvatoc.github.io/docs/syllabus.pdf&#34;&gt;Syllabus (PDF)&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uvatoc.github.io/pledge&#34;&gt;Pledge&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
