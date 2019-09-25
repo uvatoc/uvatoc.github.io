@@ -25,6 +25,41 @@
     </item>
     
     <item>
+      <title>Preparing for Exam 1</title>
+      <link>https://uvatoc.github.io/exam1/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/exam1/</guid>
+      <description>&lt;p&gt;Exam 1 will be next &lt;strong&gt;Wednesday, 2 October&lt;/strong&gt; at the normal class time
+in the normal classroom. We will aim to start the exam right at
+3:30pm, so you will benefit from arriving early for class Wednesday to
+be settled and ready to start the exam.&lt;/p&gt;
+
+&lt;p&gt;Exam 1 will cover material from Classes 1-9 (through 25 September),
+Problem Sets 1-3 (including the comments we provide on them; we will
+post comments for Problem Set 3 shortly after it is due on September
+30), and the textbook chapters 0-4. &lt;em&gt;Most&lt;/em&gt; of the questions on the
+exam will cover topics that you will have seen in at least two
+different places (e.g., both in class and on a problem set, or in
+multiple classes, or at least both in the textbook and in class or a
+problem set).&lt;/p&gt;
+
+&lt;p&gt;As a reminder from the syllabus, you may construct a one-page
+(letter-size, two-sided) &lt;strong&gt;reference sheet for use during the exam&lt;/strong&gt;,
+but all other resources are forbidden (no internet, textbook, other
+humans, magnification instruments, etc.). We expect that students will
+benefit from thinking about what to put on your reference sheet in
+preparing for the exam, and you may work with anyone you want
+(including other students in the class) to prepare a reference sheets
+together.&lt;/p&gt;
+
+&lt;p&gt;The class on Monday (September 30) will be an exam review. If you have
+specific topics or problems you would like the review to cover, slack
+them to &lt;code&gt;@Dave&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PS1 Grades Posted</title>
       <link>https://uvatoc.github.io/ps1grades/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
@@ -414,88 +449,6 @@ other useful resources for material that is covered in cs2102 are
 &lt;p&gt;More resources will be added here as the semester progresses. If you
 find something you think would be useful to other students in the
 class, please let us know.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>https://uvatoc.github.io/schedule/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/schedule/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-&lt;a href=&#34;https://calendar.google.com/calendar?cid=ZmNwNTl2MHMzMDdobGlvM2E3b2s2bXUxOGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&#34;&gt;&lt;strong&gt;Google Calendar for cs3102&lt;/strong&gt;&lt;/a&gt;
-   &lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;section style=&#34;display: table;width: 100%&#34;&gt;&lt;div style=&#34;display: table-row;&#34;&gt;&lt;div style=&#34;display: table-cell;width:55%&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Upcoming Deadlines&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday, 30 September (2:59pm): &lt;a href=&#34;https://uvatoc.github.io/ps/ps3.pdf&#34;&gt;Problem Set 3&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;Wednesday, 2 October (in class): Exam 1&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Classes&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;28 Aug: &lt;a href=&#34;https://uvatoc.github.io/lecture1/&#34;&gt;Class 1: Course Introduction&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter0.pdf&#34;&gt;TCS Chapter 0&lt;/a&gt;)&lt;br /&gt;
-2 Sept: &lt;a href=&#34;https://uvatoc.github.io/class2&#34;&gt;Class 2: Defining Definitions&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter1.pdf&#34;&gt;TCS Chapter 1&lt;/a&gt;)&lt;br /&gt;
-4 Sept: &lt;a href=&#34;https://uvatoc.github.io/class3&#34;&gt;Class 3: What Can Be Represented by Bits?&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter2.pdf&#34;&gt;TCS Chapter 2&lt;/a&gt;)&lt;br /&gt;
-9 Sept: &lt;a href=&#34;https://uvatoc.github.io/class4&#34;&gt;Class 4: What Cannot Be Represented by Bits?&lt;/a&gt; (Uncountable Sets)
-11 Sept: &lt;a href=&#34;https://uvatoc.github.io/class5&#34;&gt;Class 5: Defining Computation&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter3.pdf&#34;&gt;TCS Chapter 3&lt;/a&gt;)&lt;br /&gt;
-16 Sept: &lt;a href=&#34;https://uvatoc.github.io/class6&#34;&gt;Class 6: Defining Boolean Circuits&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter3.pdf&#34;&gt;TCS Chapter 3&lt;/a&gt;)&lt;br /&gt;
-18 Sept: &lt;a href=&#34;https://uvatoc.github.io/class7&#34;&gt;Class 7: Syntactic Sugar&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter4.pdf&#34;&gt;TCS Chapter 4&lt;/a&gt;)&lt;br /&gt;
-23 Sept: &lt;a href=&#34;https://uvatoc.github.io/class8&#34;&gt;Class 8: Complexity&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter4.pdf&#34;&gt;TCS Chapter 4&lt;/a&gt;)&lt;br /&gt;
-25 Sept: &lt;a href=&#34;https://uvatoc.github.io/class9&#34;&gt;Class 9: TBD&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter4.pdf&#34;&gt;TCS Chapter 4&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Past Assignments&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday, 30 August: &lt;a href=&#34;https://uvatoc.github.io/survey/&#34;&gt;Registration Survey&lt;/a&gt;&lt;br /&gt;
-Wednesday, 4 September (2:59pm): &lt;a href=&#34;https://uvatoc.github.io/pledgeposted&#34;&gt;Course Pledge&lt;/a&gt;&lt;br /&gt;
-Friday, 6 September (4:19pm): &lt;a href=&#34;https://uvatoc.github.io/ps0posted&#34;&gt;Problem Set 0&lt;/a&gt;&lt;br /&gt;
-Friday, 13 September (4:19pm): &lt;a href=&#34;https://uvatoc.github.io/ps1&#34;&gt;Problem Set 1&lt;/a&gt;&lt;br /&gt;
-Friday, 20 September (4:19pm): &lt;a href=&#34;https://uvatoc.github.io/ps2&#34;&gt;Problem Set 2&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Future Asignments&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday, October 2 (in class): Exam 1&lt;br /&gt;
-Wednesday, November 6 (in class): Exam 2&lt;br /&gt;
-Wednesday, December 4 (in class): Exam 3&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;
-   &lt;div style=&#34;display: table-cell;&#34;&gt;&lt;/div&gt;
-   &lt;div style=&#34;display: table-cell;text-align:left;background-color:var(--highlight-color);padding-left:10px;color:var(--sp-color);&#34;&gt;
-   &lt;center&gt;
-&lt;strong&gt;Office Hours&lt;/strong&gt;
-   &lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sundays&lt;/strong&gt;&lt;br /&gt;
-2:30-4:30pm (Kush, Rice 442)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mondays&lt;/strong&gt;&lt;br /&gt;
-12:30-2pm (Teddy, Rice 442)&lt;br /&gt;
-5-6pm (Sonia, Rice 442)&lt;br /&gt;
-6:30-7:30pm (Samarth, Rice 442)&lt;br /&gt;
-7-8:00pm (Cam, Rice 442)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tuesdays&lt;/strong&gt;&lt;br /&gt;
-9-11am (Dave, Rice 507)&lt;br /&gt;
-11am-noon (Youssef, Thornton Stacks)&lt;br /&gt;
-4-6pm (Nathan, Rice 209)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Wednesdays&lt;/strong&gt;&lt;br /&gt;
-noon-1pm (Youssef, Thornton Stacks)&lt;br /&gt;
-5-6:30pm (Teddy, Rice 442)&lt;br /&gt;
-5-7:00pm (Zane, Rice 442)&lt;br /&gt;
-7-9:00pm (Cam, Rice 442)&lt;br /&gt;
-8:30-9:30pm (Sonia, Rice 442)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Thursdays&lt;/strong&gt;&lt;br /&gt;
-10am-noon: (Matthew, Rice 442)&lt;br /&gt;
-5-6:30pm (Sonia, Rice 442)&lt;br /&gt;
-5-7:00pm (Samarth, Rice 442)&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;
-   &lt;/div&gt;
-   &lt;/section&gt;&lt;/p&gt;
 </description>
     </item>
     
