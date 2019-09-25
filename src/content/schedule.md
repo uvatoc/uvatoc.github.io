@@ -26,7 +26,7 @@ Monday, 30 September (2:59pm): [Problem Set 3](/ps/ps3.pdf)
 11 Sept: [Class 5: Defining Computation](/class5) ([TCS Chapter 3](/docs/tcs-chapter3.pdf))  
 16 Sept: [Class 6: Defining Boolean Circuits](/class6) ([TCS Chapter 3](/docs/tcs-chapter3.pdf))  
 18 Sept: [Class 7: Syntactic Sugar](/class7) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
-23 Sept: [Class 8: TBD](/class8) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
+23 Sept: [Class 8: Complexity](/class8) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
 25 Sept: [Class 9: TBD](/class9) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
 
 **Past Assignments**  

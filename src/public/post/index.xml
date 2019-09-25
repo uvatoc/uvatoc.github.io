@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Theory of Computation</title>
-    <link>https://uvatoc.github.io/post/</link>
-    <description>Recent content in Posts on Theory of Computation</description>
+    <title>Post-rsses on Theory of Computation</title>
+    <link>https://uvatoc.github.io/post/index.xml</link>
+    <description>Recent content in Post-rsses on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Class 8: Complexity</title>
@@ -17,20 +15,17 @@
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class8/</guid>
-      <description>Class 8: Complexity Schedule Reminders: Problem Set 3 is due this Monday (2:59pm). Note the schedule change resulting from the interaction between fall break and the exam.
-Slides
-Video
-TCS Chapter 4: syntactic sugar</description>
-    </item>
-    
-    <item>
-      <title>Problem Set 3 Update</title>
-      <link>https://uvatoc.github.io/ps3update/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps3update/</guid>
-      <description>There are a few important updates to Problem Set 3.
- As originally stated, we believe Problem J2 is impossible. We have modified the problem to add the constant function ZERO to the gate set (which you can represent using 0 in Python. We believe it is impossible to solve without this. We have added an optional (double starred!) problem 5 to the PDF part of the assignment which asks you to prove that the question as originally asked (and in Exercise 3.</description>
+      <description>
+
+&lt;h2 id=&#34;class-8-complexity&#34;&gt;Class 8: Complexity&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps3&#34;&gt;Problem Set 3&lt;/a&gt; is due this Monday (2:59pm). Note the schedule change resulting from the interaction between fall break and the exam, which will be in class, Wednesday, 2 October.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/vyay005hr199it9/class8_written.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54e0e8a0-c35a-4158-bbd9-aad101416a76&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://introtcs.org/public/lec_03a_computing_every_function.html&#34;&gt;TCS Chapter 4: syntactic sugar&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -39,9 +34,59 @@ TCS Chapter 4: syntactic sugar</description>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps1grades/</guid>
-      <description>The grades for PS1 are now posted. We&amp;rsquo;re really sorry this took so long! Hopefully we have a process in place now that will be much faster and more reliable at grading and returning homeworks.
-Please look at the posted comments on PS1 in collab: PDF
-When assigning grades we sought to reward individual solutions that were high quality and total submissions that were overall decent, while not harshly punishing mild mistakes or narrow misconceptions.</description>
+      <description>&lt;p&gt;The grades for PS1 are now posted. We&amp;rsquo;re really sorry this took so
+long! Hopefully we have a process in place now that will be much
+faster and more reliable at grading and returning homeworks.&lt;/p&gt;
+
+&lt;p&gt;Please look at the posted comments on PS1 in collab: &lt;a href=&#34;only accessible to students in the class&#34;&gt;&lt;a href=&#34;https://collab.its.virginia.edu/access/content/group/ff05ebb2-e2e1-45be-83cb-aadd96d4d2f9/ps1-comments.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When assigning grades we sought to reward individual solutions that were high quality and total submissions that were overall decent, while not harshly punishing mild mistakes or narrow misconceptions. For this reason we used two metrics to assign your grades: the number of problems on which you received a 5 or higher, and the average of all your problem grades.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You earned an A if you got at least 80% 5&amp;rsquo;s or an average of at least 4.5&lt;/li&gt;
+&lt;li&gt;You earned a B if you got a least 70% 5&amp;rsquo;s or an average of at least 4&lt;/li&gt;
+&lt;li&gt;You earned a C if you got a least 60% 5&amp;rsquo;s or an average of at least 3.5&lt;/li&gt;
+&lt;li&gt;You earned a D if you got a least 50% 5&amp;rsquo;s or an average of at least 3.0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The challenge problems counted as a bonus to your count of 5&amp;rsquo;s if you got at least a five, and contributed score/5 to the numerator of your average otherwise (i.e., as a bonus).&lt;/p&gt;
+
+&lt;p&gt;Future problem sets may have use a different procedure for assigning scores to letter grades, depending on our goals for that assignment.&lt;/p&gt;
+
+&lt;p&gt;If you did not receive a grade for the assignment, this is mostly likely because you submitted late, and we could find no record of us giving you permission to do so.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 3 Update</title>
+      <link>https://uvatoc.github.io/ps3update/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps3update/</guid>
+      <description>&lt;p&gt;There are a few important updates to &lt;a href=&#34;https://uvatoc.github.io/ps/ps3.pdf&#34;&gt;Problem Set 3&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;As originally stated, we believe Problem J2 is impossible. We have
+modified the problem to add the constant function &lt;em&gt;ZERO&lt;/em&gt; to the gate
+set (which you can represent using &lt;code&gt;0&lt;/code&gt; in Python. We believe it is
+impossible to solve without this.  We have added an optional (double
+starred!) problem 5 to the PDF part of the assignment which asks you
+to prove that the question as originally asked (and in Exercise 3.6
+in the book) is impossible.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;One of the assertion tests for Problem J3 is incorrect. It should have been&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;assert(HADD2(1,1,0,1) == (0,0))
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;We added a note to the practice problems: one of these is impossible
+also! In this case, we asked you to prove something that is not
+true. Since these are practice problems, though, and it is good
+practice to be skeptical when you are asked to prove things, we
+haven&amp;rsquo;t changed the actual problem, but will leave it up to you to
+find it and modify it to a correct statement that you can prove.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -50,8 +95,33 @@ When assigning grades we sought to reward individual solutions that were high qu
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps3/</guid>
-      <description>Problem Set 3: Sugary Finite Computation Problem Set 3 is available here: ps3.pdf (you will also need the ps3.zip file described in the PDF). It is due on Monday, 30 September at 2:59pm. (Note the unusual due date and time. The schedule is unusual because of Exam 1, which will be held Wednesday, 2 October, in class.)
-The purpose of this assignment is to continue to develop your understanding of finite computation, focusing on the material in Chapter 4 of the textbook and what we cover in Class 7 and Class 8 and Class 9.</description>
+      <description>
+
+&lt;h2 id=&#34;problem-set-3-sugary-finite-computation&#34;&gt;Problem Set 3: Sugary Finite Computation&lt;/h2&gt;
+
+&lt;p&gt;Problem Set 3 is available here: &lt;a href=&#34;https://uvatoc.github.io/ps/ps3.pdf&#34;&gt;ps3.pdf&lt;/a&gt; (you will also
+need the &lt;a href=&#34;https://uvatoc.github.io/ps/ps3.zip&#34;&gt;ps3.zip&lt;/a&gt; file described in the PDF). It is due
+on &lt;strong&gt;Monday, 30 September&lt;/strong&gt; at &lt;strong&gt;2:59pm&lt;/strong&gt;. (Note the unusual due date
+and time. The schedule is unusual because of Exam 1, which will be
+held Wednesday, 2 October, in class.)&lt;/p&gt;
+
+&lt;p&gt;The purpose of this assignment is to continue to develop your
+understanding of finite computation, focusing on the material in
+Chapter 4 of the textbook and what we cover in Class 7 and Class 8 and
+Class 9.  This assignment is also meant to prepare you for Exam 1,
+which will be held in class on Wednesday, 2 October (a separate post
+will provide more details on Exam 1). In addition to the graded
+problems, we have provided some additional problems to help you
+prepare for Exam 1. You do not need to turn anything in for these
+problems, but we expect that most students will benefit from doing
+them to be prepared to do well on the exam.&lt;/p&gt;
+
+&lt;p&gt;This assignment involves both PDF and Jupyter parts, and you should
+submit both your &lt;code&gt;ps3.ipynb&lt;/code&gt; and &lt;code&gt;ps3.pdf&lt;/code&gt; files as attachments in
+collab.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note (Sept 24)&lt;/strong&gt;: see &lt;a href=&#34;https://uvatoc.github.io/ps3update/&#34;&gt;Problem Set 3 Update&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -60,11 +130,20 @@ The purpose of this assignment is to continue to develop your understanding of f
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class7/</guid>
-      <description>Class 7: Syntactic Sugar Schedule Reminders: Problem Set 2 is due this Friday (4:19pm).
-Slides
-Video of slides
-Video of Nate&amp;rsquo;s Laptop
-TCS Chapter 4: syntactic sugar</description>
+      <description>
+
+&lt;h2 id=&#34;class-7-syntactic-sugar&#34;&gt;Class 7: Syntactic Sugar&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps2&#34;&gt;Problem Set 2&lt;/a&gt; is due this Friday (4:19pm).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/rdlpxmyq6mws459/class7_written.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=daeb74b6-b92a-4c97-b045-aacc015b8c6c&#34;&gt;Video of slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6cc4a35-e227-4348-bec7-aacc015ba868&#34;&gt;Video of Nate&amp;rsquo;s Laptop&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://introtcs.org/public/lec_03a_computing_every_function.html&#34;&gt;TCS Chapter 4: syntactic sugar&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -73,10 +152,17 @@ TCS Chapter 4: syntactic sugar</description>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class6/</guid>
-      <description>Class 6: Defining Boolean Circuits Schedule Reminders: Problem Set 2 is due this Friday (4:19pm).
-Slides (PDF)
-Video
-TCS Chapter 3: Defining computation</description>
+      <description>
+
+&lt;h2 id=&#34;class-6-defining-boolean-circuits&#34;&gt;Class 6: Defining Boolean Circuits&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps2&#34;&gt;Problem Set 2&lt;/a&gt; is due this Friday (4:19pm).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/qeyzk8n0cfg9c9q/class6-post.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=827e4742-07d0-42a4-a4e4-aacc013f0abd&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter3.pdf&#34;&gt;TCS Chapter 3: Defining computation&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -85,10 +171,23 @@ TCS Chapter 3: Defining computation</description>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps2/</guid>
-      <description>Problem Set 2: Fine Finite Computation Problem Set 2 is available here: ps2.pdf (you will also need the ps2.zip file described in the PDF). It is due on Friday, 20 September at 4:19pm.
-In this assignment we&amp;rsquo;ll be working with models of finite computation.
-This assignment involves only pencil-and-paper problems (submitted as a PDF by editing the provided ps2.tex template) and there is no programming portion.
-Submit your completed ps2.</description>
+      <description>
+
+&lt;h2 id=&#34;problem-set-2-fine-finite-computation&#34;&gt;Problem Set 2: Fine Finite Computation&lt;/h2&gt;
+
+&lt;p&gt;Problem Set 2 is available here:
+&lt;a href=&#34;https://uvatoc.github.io/docs/ps2.pdf&#34;&gt;ps2.pdf&lt;/a&gt; (you will also need the
+&lt;a href=&#34;https://uvatoc.github.io/ps/ps2.zip&#34;&gt;ps2.zip&lt;/a&gt; file described in the PDF). It is due on
+&lt;strong&gt;Friday, 20 September&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this assignment we&amp;rsquo;ll be working with models of finite computation.&lt;/p&gt;
+
+&lt;p&gt;This assignment involves only
+&lt;em&gt;pencil-and-paper&lt;/em&gt; problems (submitted as a PDF by editing the
+provided &lt;code&gt;ps2.tex&lt;/code&gt; template) and there is no programming portion.&lt;/p&gt;
+
+&lt;p&gt;Submit your completed &lt;code&gt;ps2.pdf&lt;/code&gt; as an attachment via collab.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -97,14 +196,33 @@ Submit your completed ps2.</description>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class5/</guid>
-      <description>Class 5: Defining Computation Schedule Reminders: Problem Set 1 is due this Friday (4:19pm).
-See the schedule for updated office hours.
-Slides (PDF)
-Video
-TCS Chapter 3: Defining computation
-Daniel Lewin, 14 May 1970 &amp;ndash; 11 September 2001 Hiawatha Bray. A Lost Spirit Still Inspires, Boston Globe, 4 September 2011.
-Tom Leighton&amp;rsquo;s Remarks on Danny Lewin
-No Better Time: The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet by Molly Knight Raskin.</description>
+      <description>
+
+&lt;h2 id=&#34;class-5-defining-computation&#34;&gt;Class 5: Defining Computation&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps1&#34;&gt;Problem Set 1&lt;/a&gt; is due this Friday (4:19pm).&lt;br /&gt;
+See &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;the schedule&lt;/a&gt; for updated office hours.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/kfm0h66scpoby44/class5.pptx?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bc59b9a8-4076-4d9e-b854-aac5014164e3&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter3.pdf&#34;&gt;TCS Chapter 3: Defining computation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;daniel-lewin-14-may-1970-ndash-11-september-2001&#34;&gt;Daniel Lewin, 14 May 1970 &amp;ndash; 11 September 2001&lt;/h3&gt;
+
+&lt;p&gt;Hiawatha Bray. &lt;a href=&#34;http://archive.boston.com/business/technology/articles/2011/09/04/akamai_thrives_in_the_spirit_of_its_lost_founder/?camp=pm&#34;&gt;&lt;em&gt;A Lost Spirit Still Inspires&lt;/em&gt;&lt;/a&gt;, Boston Globe, 4 September 2011.&lt;/p&gt;
+
+&lt;p&gt;Tom Leighton&amp;rsquo;s &lt;a href=&#34;http://www.egr.unlv.edu/~bein/SIGACT/lewin.html&#34;&gt;&lt;em&gt;Remarks on Danny Lewin&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/No-Better-Time-Remarkable-Transformed/dp/0306821664&#34;&gt;&lt;em&gt;No Better Time: The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet&lt;/em&gt;&lt;/a&gt; by Molly Knight Raskin.&lt;/p&gt;
+
+&lt;p&gt;David Karger, Eric Lehman, Tom Leighton, Matthew Levine, Daniel Lewin,
+Rina Panigrah.  &lt;a href=&#34;https://www.akamai.com/kr/ko/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf&#34;&gt;&lt;em&gt;Consistent Hashing and Random Trees: Distributed
+Caching Protocols for Relieving Hot Spots on the World Wide
+Web&lt;/em&gt;&lt;/a&gt;. (Note:
+tradition in theory papers is to list all authors alphabetically). 29th
+ACM &lt;em&gt;Symposium on Theory of Computing&lt;/em&gt;, 1997.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -113,12 +231,44 @@ No Better Time: The Brief, Remarkable Life of Danny Lewin, the Genius Who Transf
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class4/</guid>
-      <description>Class 4: What Cannot Be Represented by Bits? (Uncountable Sets) Schedule Reminders: Problem Set 1 is due this Friday (4:19pm). See the schedule for updated office hours.
-Slides (PDF)
-Video
-Here is Cantor&amp;rsquo;s original proof (in German, but the math is universal, so somewhat understandable even without knowing German):
-Georg Cantor, Ueber eine elementare Frage der Mannigfaltigkeitslehre. Published in Jahresbericht der Deutschen Mathematiker-Vereinigung, Volume 1, 1891.
-Its only a bit over 2 pages long, and its easy to see Cantor&amp;rsquo;s answer to the ``Is 0 a Natural Number?</description>
+      <description>
+
+&lt;h2 id=&#34;class-4-what-cannot-be-represented-by-bits-uncountable-sets&#34;&gt;Class 4: What Cannot Be Represented by Bits? (Uncountable Sets)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps1&#34;&gt;Problem Set 1&lt;/a&gt; is due this Friday (4:19pm).  See &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;the schedule&lt;/a&gt; for updated office hours.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/w6rpp6rgwx5ycl5/class4-share.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b644143d-a3dc-4165-a524-aac30140f096&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is Cantor&amp;rsquo;s original proof (in German, but the math is universal, so somewhat understandable even without knowing German):&lt;/p&gt;
+
+&lt;p&gt;Georg Cantor, &lt;a href=&#34;https://uvatoc.github.io/docs/cantor-proof.pdf&#34;&gt;&lt;em&gt;Ueber eine elementare Frage der Mannigfaltigkeitslehre&lt;/em&gt;&lt;/a&gt;. Published in &lt;em&gt;Jahresbericht der Deutschen Mathematiker-Vereinigung&lt;/em&gt;, Volume 1, 1891.&lt;/p&gt;
+
+&lt;p&gt;Its only a bit over 2 pages long, and its easy to see Cantor&amp;rsquo;s answer
+to the ``Is 0 a Natural Number?&amp;rdquo; question without understanding any
+German.  Google translates the title as &lt;em&gt;On an elementary question of
+the theory of manifolds&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Barrow&amp;rsquo;s &lt;a href=&#34;https://www.amazon.com/Infinite-Book-Boundless-Timeless-Endless/dp/1400032245/&#34;&gt;&lt;em&gt;The Infinite
+Book&lt;/em&gt;&lt;/a&gt;
+has chapter on the sad life of Georg Cantor: &lt;a href=&#34;https://uvatoc.github.io/docs/madness-of-cantor.pdf&#34;&gt;&lt;em&gt;The Madness of Georg
+Cantor&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We went through the proof that the binary strings are uncountable
+pretty quickly, and this is definitely a mind-blowing result. If you
+are not bothered by this result, its probably because you aren&amp;rsquo;t
+thinking about things deeply enough. Some other recommended
+presentations of these topics include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Vi Hart video&amp;rsquo;s on &lt;a href=&#34;https://www.youtube.com/watch?v=lA6hE7NFIK0&#34;&gt;&lt;em&gt;Proof some infinities are bigger than other infinities&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=23I5GS4JiDg&#34;&gt;&lt;em&gt;How many kinds of infinity are there?&lt;/em&gt;&lt;/a&gt; (sample youtube comment: &lt;em&gt;watching this makes me feel like i&amp;rsquo;ve just taken the red pill and the blue pill, crushed them into a single, purple powder and snorted it&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Numberphile&amp;rsquo;s, &lt;a href=&#34;https://www.youtube.com/watch?v=elvOZm0d4H0]&#34;&gt;&lt;em&gt;Infinity is bigger than you think&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You can also see how Prof. Mahmoody and I covered this in &lt;a href=&#34;https://uvacs2102.github.io&#34;&gt;cs2102&lt;/a&gt; over these three classes (which overlaps a fair bit with what we&amp;rsquo;ve done in cs3102, but with more detail and examples): &lt;a href=&#34;https://uvacs2102.github.io/class17/&#34;&gt;Class 17: Infinite Sets&lt;/a&gt; [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b0b99bc-7623-457f-b5d2-73fb64c22c83&#34;&gt;Video&lt;/a&gt;],
+&lt;a href=&#34;https://uvacs2102.github.io/class18/&#34;&gt;Class 18: Spooky Infinities&lt;/a&gt; [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aa2b9e6-e148-4239-a4bf-5ad963643514&#34;&gt;Video&lt;/a&gt;], &lt;a href=&#34;https://uvacs2102.github.io/class19/&#34;&gt;Class 19: Reviewing Infinities&lt;/a&gt; [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8af6f263-4e0b-4cf7-9378-96bdbf7fc8ac&#34;&gt;Video&lt;/a&gt;].&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -127,9 +277,32 @@ Its only a bit over 2 pages long, and its easy to see Cantor&amp;rsquo;s answer 
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps1/</guid>
-      <description>Problem Set 1: (Un)natural Numbers Problem Set 1 is available here: ps1.pdf (you will also need the ps1.zip file described in the PDF). It is due on Friday, 13 September at 4:19pm.
-In this assignment we&amp;rsquo;ll be working with constructive recursive definitions (mostly the definition of natural numbers discussed in lecture), and proofs by induction.
-Similarly to Problem Set 0, this assigned involves both pencil-and-paper problems (submitted as a PDF by editing the provided ps1.</description>
+      <description>
+
+&lt;h2 id=&#34;problem-set-1-un-natural-numbers&#34;&gt;Problem Set 1: (Un)natural Numbers&lt;/h2&gt;
+
+&lt;p&gt;Problem Set 1 is available here:
+&lt;a href=&#34;https://uvatoc.github.io/docs/ps1.pdf&#34;&gt;ps1.pdf&lt;/a&gt; (you will also need the
+&lt;a href=&#34;https://uvatoc.github.io/ps/ps1.zip&#34;&gt;ps1.zip&lt;/a&gt; file described in the PDF). It is due on
+&lt;strong&gt;Friday, 13 September&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this assignment we&amp;rsquo;ll be working with constructive recursive
+definitions (mostly the definition of natural numbers discussed in
+lecture), and proofs by induction.&lt;/p&gt;
+
+&lt;p&gt;Similarly to &lt;a href=&#34;https://uvatoc.github.io/ps0&#34;&gt;Problem Set 0&lt;/a&gt;, this assigned involves both
+&lt;em&gt;pencil-and-paper&lt;/em&gt; problems (submitted as a PDF by editing the
+provided &lt;code&gt;ps1.tex&lt;/code&gt; template) and programming problems (submitted by
+modifying the provided Jupyter notebook).&lt;/p&gt;
+
+&lt;p&gt;Submit your completed &lt;code&gt;ps1.ipynb&lt;/code&gt; and &lt;code&gt;ps1.pdf&lt;/code&gt; as two separate
+attachments via collab.&lt;/p&gt;
+
+&lt;div class=&#34;quote&#34;&gt;
+&lt;em&gt;Wir mussen wissen. Wir werden wissen.&lt;/em&gt;&lt;br&gt;
+David Hilbert
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -138,11 +311,38 @@ Similarly to Problem Set 0, this assigned involves both pencil-and-paper problem
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class3/</guid>
-      <description>Class 3: What Can Be Represented by Bits? Schedule Reminders: Problem Set 0 is due this Friday (4:19pm). See the schedule for updated office hours.
-Slides (PDF)
-Video
-Update (7 Sept): There is a correction on slide 10 to the way we defined addition for the Set-based Natural Numbers (thanks to Nijat Khanbabayev for pointing out the problem).
-Some of the material from today&amp;rsquo;s class (and what we will continue on Monday) is in the TCS Book, Chapter 2.</description>
+      <description>
+
+&lt;h2 id=&#34;class-3-what-can-be-represented-by-bits&#34;&gt;Class 3: What Can Be Represented by Bits?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps0&#34;&gt;Problem Set 0&lt;/a&gt; is due this Friday (4:19pm).  See &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;the schedule&lt;/a&gt; for updated office hours.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/kqneywmddluv8v7/class3-share.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=902b7d43-fd0d-470a-88d1-aabe01412d86&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update (7 Sept):&lt;/strong&gt; There is a correction on slide 10 to the way we defined
+  addition for the Set-based Natural Numbers (thanks to Nijat
+  Khanbabayev for pointing out the problem).&lt;/p&gt;
+
+&lt;p&gt;Some of the material from today&amp;rsquo;s class (and what we will continue on
+Monday) is in the &lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter2.pdf&#34;&gt;TCS Book, Chapter 2&lt;/a&gt;. Peter
+Kahn&amp;rsquo;s &lt;a href=&#34;https://uvatoc.github.io/docs/naturalnumbers.pdf&#34;&gt;&lt;em&gt;The Natural Numbers&lt;/em&gt;&lt;/a&gt; provides a
+more complete description of how to build the natural numbers from
+sets (and how this leads to the induction principle).&lt;/p&gt;
+
+&lt;p&gt;If you want more practice with induction proofs, or to refresh on what
+it means to have a &lt;em&gt;surjection&lt;/em&gt; or &lt;em&gt;bijection&lt;/em&gt; between two sets, see
+&lt;a href=&#34;https://uvacs2102.github.io/docs/mcs.pdf&#34;&gt;&lt;em&gt;Mathematics for Computer
+Science&lt;/em&gt;&lt;/a&gt; by Eric Lehman,
+Tom Leighton, and Albert Meyer (this is what I&amp;rsquo;ve been calling the
+&amp;ldquo;MCS&amp;rdquo; book).&lt;/p&gt;
+
+&lt;p&gt;The comic book about Cantor and uncountable infinities is:
+&lt;a href=&#34;https://www.amazon.com/Logicomix-search-truth-Apostolos-Doxiadis/dp/1596914521/&#34;&gt;&lt;em&gt;Logicomix: An epic search for
+truth&lt;/em&gt;&lt;/a&gt;
+by Apostolos Doxiadis and Christos Papadimitriou. I don&amp;rsquo;t know any
+other comic books about the induction principle, but can (shamelessly) recommend &lt;a href=&#34;https://dori-mic.org&#34;&gt;this comic book on countable infinities&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -151,11 +351,23 @@ Some of the material from today&amp;rsquo;s class (and what we will continue on 
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class2/</guid>
-      <description>Class 2: Defining Definitions Schedule Reminders: Office hours start today! Full schedule (which will be updated) is posted here. The first office hours are tonight, 6:30-8pm, in Rice 442.
-Is 0 a Natural Number?
-Slides (PDF)
-Video
-The &amp;ldquo;Google dragon&amp;rdquo; image was drawn for this talk. You can find Sergey Brin&amp;rsquo;s resume here (note the high honors in Mathematics and (low) honors in Computer Science).</description>
+      <description>
+
+&lt;h2 id=&#34;class-2-defining-definitions&#34;&gt;Class 2: Defining Definitions&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; Office hours start today! Full schedule (which will be updated) is &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;posted here&lt;/a&gt;. The first office hours are tonight, 6:30-8pm, in Rice 442.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Is 0 a Natural Number?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/y7levyehurel93v/class2-share.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b40a101-3c1d-4e10-8e94-aabc0141338d&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;Google dragon&amp;rdquo; image was drawn for &lt;a href=&#34;https://jeffersonswheel.org/google-federated-privacy-2019-the-dragon-in-the-room/&#34;&gt;this
+talk&lt;/a&gt;. You
+can find Sergey Brin&amp;rsquo;s resume
+&lt;a href=&#34;http://infolab.stanford.edu/~sergey/resume.html&#34;&gt;here&lt;/a&gt; (note the high
+honors in Mathematics and (low) honors in Computer Science).&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -164,7 +376,12 @@ The &amp;ldquo;Google dragon&amp;rdquo; image was drawn for this talk. You can f
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/office-hours-posted/</guid>
-      <description>Office hours have now been posted on the Course Schedule. These will be adjusted and likely some more office hours added over the next few weeks, but we wanted to have some posted now for help on Problem Set 0 as well the background material we are covering this week.</description>
+      <description>&lt;p&gt;Office hours have now been posted on the &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;Course
+Schedule&lt;/a&gt;. These will be adjusted and likely some more
+office hours added over the next few weeks, but we wanted to have some
+posted now for help on &lt;a href=&#34;https://uvatoc.github.io/ps0posted&#34;&gt;Problem Set 0&lt;/a&gt; as well the
+background material we are covering this week.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -173,8 +390,19 @@ The &amp;ldquo;Google dragon&amp;rdquo; image was drawn for this talk. You can f
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/pledgeposted/</guid>
-      <description>To be in this class, students are expected to agree to the Course Pledge. The expectations there apply to everything connected with this class including all assignments, classes, and office hours.
-Before 2:59pm this Wednesday (Sept 4) you must read and agree to the contents of the Course Pledge, and submit this assignment (in collab) to acknowledge having done this. (It is not necessary to print and submit the pledge on paper or as a scanned PDF.</description>
+      <description>&lt;p&gt;To be in this class, students are expected to agree to the &lt;a href=&#34;https://uvatoc.github.io/pledge&#34;&gt;Course
+Pledge&lt;/a&gt;. The expectations there apply to everything connected
+with this class including all assignments, classes, and office hours.&lt;/p&gt;
+
+&lt;p&gt;Before &lt;strong&gt;2:59pm this Wednesday&lt;/strong&gt; (Sept 4) you must read and agree to
+the contents of the Course Pledge, and submit &lt;a href=&#34;https://collab.its.virginia.edu/portal/site/ff05ebb2-e2e1-45be-83cb-aadd96d4d2f9/tool/00120935-6be7-4122-b1c1-36a4649ec981&#34;&gt;this
+assignment&lt;/a&gt;
+(in collab) to acknowledge having done this. (It is not necessary to print and submit the pledge on paper or as a scanned PDF.)&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about it or disagree with any of the
+expectations in it, send a message to &lt;code&gt;@dave @Nathan Brunelle&lt;/code&gt; in the
+course slack (or discuss with one of us some other way).&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -183,59 +411,31 @@ Before 2:59pm this Wednesday (Sept 4) you must read and agree to the contents of
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps0posted/</guid>
-      <description>Problem Set 0: Getting Started Hello students, Problem Set 0 is available here: ps0.pdf (you will also need the ps0.zip file described in the PDF). It is due on Friday, 6 September at 4:19pm.
-The goal of this assignment is to get you acquainted with the tools we will be using for future assignments this semester: LaTeX (and overleaf) and Jupyter notebooks (using Python).
-For this assignment you will be editing the ps0.</description>
-    </item>
-    
-    <item>
-      <title>PS0 Posted</title>
-      <link>https://uvatoc.github.io/ps0posted/</link>
-      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps0posted/</guid>
-      <description>Problem Set 0: Getting Started Hello students, Problem Set 0 is available here: ps0.pdf (you will also need the ps0.zip file described in the PDF). It is due on Friday, 6 September at 4:19pm.
-The goal of this assignment is to get you acquainted with the tools we will be using for future assignments this semester: LaTeX (and overleaf) and Jupyter notebooks (using Python).
-For this assignment you will be editing the ps0.</description>
-    </item>
-    
-    <item>
-      <title>Class 1: Introduction</title>
-      <link>https://uvatoc.github.io/lecture1/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/lecture1/</guid>
-      <description>Lecture 1: Course Introduction Today we will be discussing course mechanics, course expectations, and the values of studying theory.
-Slides</description>
-    </item>
-    
-    <item>
-      <title>Course Registration Survey</title>
-      <link>https://uvatoc.github.io/survey/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/survey/</guid>
-      <description>Please complete the course registration survey by 4:19pm on Friday, August 30.</description>
-    </item>
-    
-    <item>
-      <title>Syllabus</title>
-      <link>https://uvatoc.github.io/syllabus/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>The course syllabus and pledge are now posted:
-Syllabus (PDF)
-Pledge</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://uvatoc.github.io/welcome/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/welcome/</guid>
-      <description>Welcome to the website for cs3102: Theory of Computation! More information will be posted here soon.</description>
+      <description>
+
+&lt;h2 id=&#34;problem-set-0-getting-started&#34;&gt;Problem Set 0: Getting Started&lt;/h2&gt;
+
+&lt;p&gt;Hello students, Problem Set 0 is available here:
+&lt;a href=&#34;https://uvatoc.github.io/docs/ps0.pdf&#34;&gt;ps0.pdf&lt;/a&gt; (you will also need the
+&lt;a href=&#34;https://uvatoc.github.io/ps/ps0.zip&#34;&gt;ps0.zip&lt;/a&gt; file described in the PDF). It is due on
+&lt;strong&gt;Friday, 6 September&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The goal of this assignment is to get you acquainted with the tools we
+will be using for future assignments this semester: LaTeX (and
+overleaf) and Jupyter notebooks (using Python).&lt;/p&gt;
+
+&lt;p&gt;For this assignment you will be editing the &lt;code&gt;ps0.tex&lt;/code&gt; and
+&lt;code&gt;missing_file.tex&lt;/code&gt; files (in the provided &lt;code&gt;ps0.zip&lt;/code&gt; file) to produce a
+new &lt;code&gt;ps0.pdf&lt;/code&gt; according to the instructions in the assignment. Also
+modify the &lt;code&gt;ps0.ipynb&lt;/code&gt; Jupyter notebook provided according to its
+instructions within.&lt;/p&gt;
+
+&lt;p&gt;Submit your completed &lt;code&gt;ps0.ipynb&lt;/code&gt; and &lt;code&gt;ps0.pdf&lt;/code&gt; as two separate
+attachments via collab (you do not need to submit your &lt;code&gt;ps0.tex&lt;/code&gt; or
+&lt;code&gt;missing_file.tex&lt;/code&gt; files).&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+</description>
     </item>
     
   </channel>
