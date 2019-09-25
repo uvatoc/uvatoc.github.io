@@ -30,3 +30,6 @@ This assignment involves both PDF and Jupyter parts, and you should
 submit both your `ps3.ipynb` and `ps3.pdf` files as attachments in
 collab.
 
+**Note (Sept 24)**: see [Problem Set 3 Update](/ps3update/)
+
+
