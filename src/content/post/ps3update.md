@@ -16,6 +16,11 @@ There are a few important updates to [Problem Set 3](/ps/ps3.pdf).
   to prove that the question as originally asked (and in Exercise 3.6
   in the book) is impossible.
 
+- One of the assertion tests for Problem J3 is incorrect. It should have been
+```
+assert(HADD2(1,1,0,1) == (0,0))
+```
+
 - We added a note to the practice problems: one of these is impossible
   also! In this case, we asked you to prove something that is not
   true. Since these are practice problems, though, and it is good
