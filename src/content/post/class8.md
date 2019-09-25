@@ -6,8 +6,6 @@ author = "Nathan Brunelle"
 slug = "class8"
 +++
 
-## Class 8: Complexity
-
 **Schedule Reminders:** [Problem Set 3](/ps3) is due this Monday (2:59pm). Note the schedule change resulting from the interaction between fall break and the exam, which will be in class, Wednesday, 2 October.
 
 [Slides](https://www.dropbox.com/s/vyay005hr199it9/class8_written.pptx?dl=0)  
