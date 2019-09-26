@@ -15,7 +15,7 @@ slug = "class4"
 
 Here is Cantor's original proof (in German, but the math is universal, so somewhat understandable even without knowing German):
 
-Georg Cantor, [_Ueber eine elementare Frage der Mannigfaltigkeitslehre_](/docs/cantor-proof.pdf). Published in _Jahresbericht der Deutschen Mathematiker-Vereinigung_, Volume 1, 1891. 
+Georg Cantor, [_Ueber eine elementare Frage der Mannigfaltigkeitslehre_](/docs/cantor-proof.pdf). Published in _Jahresbericht der Deutschen Mathematiker-Vereinigung_, Volume 1, 1891. ([About this Scan](https://jeffersonswheel.org/cantors-no-longer-lost-proof/))
 
 Its only a bit over 2 pages long, and its easy to see Cantor's answer
 to the ``Is 0 a Natural Number?'' question without understanding any
