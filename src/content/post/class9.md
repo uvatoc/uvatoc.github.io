@@ -13,11 +13,13 @@ slug = "class9"
 
 [TCS Chapter 5: Code as data, data as code](/docs/tcs-chapter5.pdf)
 
-The book mostly assumes readers are already familiar with asymptotic
+The book assumes readers are already familiar with asymptotic
 operators, so doesn't include a lot of explanation on this or
-exercises. If you feel shaky on it, we recommend reading [Chapter 7:
-Cost](https://computingbook.org/Cost.pdf) (from [_Introduction to
-Computing Explorations in Language, Logic, and
+exercises. You probably have also encountered these in other classes,
+but without a formal definition of their meaning (and possibly misused
+in confusing ways). If you feel shaky on these, we recommend reading
+[Chapter 7: Cost](https://computingbook.org/Cost.pdf) (from
+[_Introduction to Computing Explorations in Language, Logic, and
 Machines_](https://computingbook.org/)). (Solutions to the exercises
 in that chapter are available on request.)
 
