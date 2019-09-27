@@ -11,5 +11,14 @@ slug = "class9"
 [Slides](https://www.dropbox.com/s/zgpa8wbh37cs6ls/class9_writen.pptx?dl=0)  
 [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0fd7025-b671-4fe0-8949-aad3014186cb)
 
-[TCS Chapter 5: Code as data, data as code](https://introtcs.org/public/lec_04_code_and_data.html)
+[TCS Chapter 5: Code as data, data as code](/docs/tcs-chapter5.pdf)
+
+The book mostly assumes readers are already familiar with asymptotic
+operators, so doesn't include a lot of explanation on this or
+exercises. If you feel shaky on it, we recommend reading [Chapter 7:
+Cost](https://computingbook.org/Cost.pdf) (from [_Introduction to
+Computing Explorations in Language, Logic, and
+Machines_](https://computingbook.org/)). (Solutions to the exercises
+in that chapter are available on request.)
+
 

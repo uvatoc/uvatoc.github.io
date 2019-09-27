@@ -20,7 +20,15 @@
 &lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/zgpa8wbh37cs6ls/class9_writen.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0fd7025-b671-4fe0-8949-aad3014186cb&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://introtcs.org/public/lec_04_code_and_data.html&#34;&gt;TCS Chapter 5: Code as data, data as code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;TCS Chapter 5: Code as data, data as code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The book mostly assumes readers are already familiar with asymptotic
+operators, so doesn&amp;rsquo;t include a lot of explanation on this or
+exercises. If you feel shaky on it, we recommend reading &lt;a href=&#34;https://computingbook.org/Cost.pdf&#34;&gt;Chapter 7:
+Cost&lt;/a&gt; (from &lt;a href=&#34;https://computingbook.org/&#34;&gt;&lt;em&gt;Introduction to
+Computing Explorations in Language, Logic, and
+Machines&lt;/em&gt;&lt;/a&gt;). (Solutions to the exercises
+in that chapter are available on request.)&lt;/p&gt;
 </description>
     </item>
     
