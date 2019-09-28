@@ -6,7 +6,7 @@ author = "David Evans"
 slug = "class4"
 +++
 
-## Class 4: What Cannot Be Represented by Bits? (Uncountable Sets)
+## _What Cannot Be Represented by Bits?_ (Uncountable Sets)
 
 **Schedule Reminders:** [Problem Set 1](/ps1) is due this Friday (4:19pm).  See [the schedule](/schedule) for updated office hours.
 

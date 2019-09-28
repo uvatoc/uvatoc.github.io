@@ -1,13 +1,10 @@
 +++
 date = "02 Sep 2019"
 draft = false
-title = "Class 2: Definitions"
+title = "Class 2: Defining Definitions"
 author = "David Evans"
 slug = "class2"
 +++
-
-
-## Class 2: Defining Definitions
 
 **Schedule Reminders:** Office hours start today! Full schedule (which will be updated) is [posted here](/schedule). The first office hours are tonight, 6:30-8pm, in Rice 442.
 

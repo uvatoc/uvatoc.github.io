@@ -7,7 +7,7 @@ slug = "class3"
 +++
 
 
-## Class 3: What Can Be Represented by Bits?
+## _What Can Be Represented by Bits?_
 
 **Schedule Reminders:** [Problem Set 0](/ps0) is due this Friday (4:19pm).  See [the schedule](/schedule) for updated office hours.
 
