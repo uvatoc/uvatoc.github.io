@@ -11,14 +11,17 @@ in the normal classroom. We will aim to start the exam right at
 3:30pm, so you will benefit from arriving early for class Wednesday to
 be settled and ready to start the exam.
 
-Exam 1 will cover material from Classes 1-9 (through 25 September),
-Problem Sets 1-3 (including the comments we provide on them; we will
-post comments for Problem Set 3 shortly after it is due on September
-30), and the textbook chapters 0-4. _Most_ of the questions on the
-exam will cover topics that you will have seen in at least two
+Exam 1 will cover material from Classes
+1-<strikethrough>9</strikethrough> (through
+<strikethrough>25</strikethrough> 23 September) [Note: we have revised
+the coverage scope to not include any new material from Class 9 on
+Exam 1], Problem Sets 1-3 (including the comments we provide on them;
+we will post comments for Problem Set 3 shortly after it is due on
+September 30), and the textbook chapters 0-4. _Most_ of the questions
+on the exam will cover topics that you will have seen in at least two
 different places (e.g., both in class and on a problem set, or in
 multiple classes, or at least both in the textbook and in class or a
-problem set). 
+problem set).
 
 As a reminder from the syllabus, you may construct a one-page
 (letter-size, two-sided) **reference sheet for use during the exam**,
