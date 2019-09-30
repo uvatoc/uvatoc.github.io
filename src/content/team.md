@@ -61,14 +61,14 @@ slug = "team"
 
 <div style="display: table-cell;width:33%">
 <center>
-<img src="/images/xiao.jpg" height="100" width="90%"><br>
+<img src="/images/xiao-2.jpg" height="100" width="90%"><br>
 <a href="https://people.virginia.edu/~xz7bc/"><b>Xiao</b> Zhang</a>
 </center>
 </div>
 
 <div style="display: table-cell;width:34%">
 <center>
-<img src="/images/youssef.jpg" height="100" width="90%"><br>
+<img src="/images/youssef-2.jpg" height="100" width="90%"><br>
 <b>Youssef</b> Errami
 </center>
 </div>
