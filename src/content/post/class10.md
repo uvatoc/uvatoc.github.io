@@ -6,7 +6,7 @@ author = "David Evans"
 slug = "class10"
 +++
 
-**Exam 1 is in-class Wednesday.**  
+**Exam 1 is in class Wednesday.**  
 Please read the cover sheet before the exam: [Exam 1 Cover Sheet](/docs/exam1-cover.pdf)  
 
 [Problem Set 3
