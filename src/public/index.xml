@@ -6,8 +6,93 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Team</title>
+      <link>https://uvatoc.github.io/team/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/team/</guid>
+      <description>&lt;p&gt;&lt;section style=&#34;display: table;width: 100%&#34;&gt;&lt;/p&gt;
+
+&lt;div style=&#34;display: table-row;&#34;&gt;
+
+&lt;div style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/cam.jpg&#34; width=&#34;90%&#34;&gt;&lt;br&gt;
+&lt;b&gt;Cameron&lt;/b&gt; Lloyd&lt;br&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: table-cell;width:34%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/jay.png&#34; width=&#34;90%&#34;&gt;&lt;br&gt;
+&lt;b&gt;Jay&lt;/b&gt; Rothenberger&lt;br&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: table-cell;width:34%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/kush.jpg&#34; width=&#34;90%&#34;&gt;&lt;br&gt;
+&lt;b&gt;Kush&lt;/b&gt; Patel
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;div style=&#34;display: table-row;&#34;&gt;
+
+&lt;div style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/matthew.jpg&#34; width=&#34;90%&#34;&gt;&lt;br&gt;
+&lt;b&gt;Matthew&lt;/b&gt; Normansell
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: table-cell;width:34%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/samarth.jpg&#34; width=&#34;90%&#34;&gt;&lt;br&gt;
+&lt;a href=&#34;https://samarthkishor.github.io/&#34;&gt;&lt;b&gt;Samarth&lt;/b&gt; Kishor&lt;/a&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/teddy.jpg&#34; width=&#34;90%&#34;&gt;&lt;br&gt;
+&lt;b&gt;Teddy&lt;/b&gt; Clark
+&lt;/center&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: table-row;&#34;&gt;
+
+&lt;div style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/xiao.jpg&#34; width=&#34;90%&#34;&gt;&lt;br&gt;
+&lt;a href=&#34;https://people.virginia.edu/~xz7bc/&#34;&gt;&lt;b&gt;Xiao&lt;/b&gt; Zhang&lt;/a&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: table-cell;width:34%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/youssef.jpg&#34; width=&#34;90%&#34;&gt;&lt;br&gt;
+&lt;b&gt;Youssef&lt;/b&gt; Errami
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/zane.jpg&#34; width=&#34;90%&#34;&gt;&lt;br&gt;
+&lt;b&gt;Zane&lt;/b&gt; Alpher
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 9: Evaluation</title>
@@ -424,27 +509,6 @@ Tom Leighton, and Albert Meyer (this is what I&amp;rsquo;ve been calling the
 truth&lt;/em&gt;&lt;/a&gt;
 by Apostolos Doxiadis and Christos Papadimitriou. I don&amp;rsquo;t know any
 other comic books about the induction principle, but can (shamelessly) recommend &lt;a href=&#34;https://dori-mic.org&#34;&gt;this comic book on countable infinities&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 2: Defining Definitions</title>
-      <link>https://uvatoc.github.io/class2/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; Office hours start today! Full schedule (which will be updated) is &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;posted here&lt;/a&gt;. The first office hours are tonight, 6:30-8pm, in Rice 442.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Is 0 a Natural Number?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/y7levyehurel93v/class2-share.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b40a101-3c1d-4e10-8e94-aabc0141338d&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The &amp;ldquo;Google dragon&amp;rdquo; image was drawn for &lt;a href=&#34;https://jeffersonswheel.org/google-federated-privacy-2019-the-dragon-in-the-room/&#34;&gt;this
-talk&lt;/a&gt;. You
-can find Sergey Brin&amp;rsquo;s resume
-&lt;a href=&#34;http://infolab.stanford.edu/~sergey/resume.html&#34;&gt;here&lt;/a&gt; (note the high
-honors in Mathematics and (low) honors in Computer Science).&lt;/p&gt;
 </description>
     </item>
     
