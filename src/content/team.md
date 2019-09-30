@@ -37,21 +37,21 @@ slug = "team"
 
 <div style="display: table-cell;width:33%">
 <center>
-<img src="/images/matthew.jpg" height="100" width="90%"><br>
+<img src="/images/matthew.jpg" height="90" width="90%"><br>
 <b>Matthew</b> Normansell
 </center>
 </div>
 
 <div style="display: table-cell;width:34%">
 <center>
-<img src="/images/samarth.jpg" width="90%" height="100"><br>
+<img src="/images/samarth.jpg" width="90%" height="90"><br>
 <a href="https://samarthkishor.github.io/"><b>Samarth</b> Kishor</a>
 </center>
 </div>
 
 <div style="display: table-cell;width:33%">
 <center>
-<img src="/images/teddy.jpg" height="100" width="90%"><br>
+<img src="/images/teddy.jpg" height="90" width="90%"><br>
 <b>Teddy</b> Clark
 </center>
 </div>
@@ -61,21 +61,21 @@ slug = "team"
 
 <div style="display: table-cell;width:33%">
 <center>
-<img src="/images/xiao-2.jpg" height="100" width="90%"><br>
+<img src="/images/xiao-2.jpg" height="90" width="90%"><br>
 <a href="https://people.virginia.edu/~xz7bc/"><b>Xiao</b> Zhang</a>
 </center>
 </div>
 
 <div style="display: table-cell;width:34%">
 <center>
-<img src="/images/youssef-2.jpg" height="100" width="90%"><br>
+<img src="/images/youssef-3.jpg" height="90" width="90%"><br>
 <b>Youssef</b> Errami
 </center>
 </div>
 
 <div style="display: table-cell;width:33%">
 <center>
-<img src="/images/missing.png" height="100" width="90%"><br>
+<img src="/images/missing.png" height="90" width="90%"><br>
 <b>Zane</b> Alpher
 </center>
 </div>
