@@ -15,7 +15,11 @@
       <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/team/</guid>
-      <description>&lt;p&gt;&lt;section style=&#34;display: table;width: 100%&#34;&gt;&lt;/p&gt;
+      <description>
+
+&lt;h1 id=&#34;tas&#34;&gt;TAs&lt;/h1&gt;
+
+&lt;p&gt;&lt;section style=&#34;display: table;width: 100%&#34;&gt;&lt;/p&gt;
 
 &lt;div style=&#34;display: table-row;&#34;&gt;
 
@@ -86,6 +90,27 @@
 &lt;center&gt;
 &lt;img src=&#34;https://uvatoc.github.io/images/missing.png&#34; height=&#34;90&#34; width=&#34;90%&#34;&gt;&lt;br&gt;
 &lt;b&gt;Zane&lt;/b&gt; Alpher
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;instructors&#34;&gt;Instructors&lt;/h1&gt;
+
+&lt;div style=&#34;display: table-row; width:75%;&#34;&gt;
+
+&lt;div style=&#34;display: table-cell;width:50%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/nathan.jpg&#34; height=&#34;90&#34; width=&#34;90%&#34;&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.cs.virginia.edu/~njb2b/&#34;&gt;&lt;b&gt;Nathan&lt;/b&gt; Brunelle&lt;/a&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: table-cell;width:50%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/dave.jpg&#34; height=&#34;90&#34; width=&#34;90%&#34;&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.cs.virginia.edu/evans/&#34;&gt;&lt;b&gt;David&lt;/b&gt; Evans&lt;/a&gt;
 &lt;/center&gt;
 &lt;/div&gt;
 

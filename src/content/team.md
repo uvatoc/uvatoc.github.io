@@ -6,6 +6,8 @@ slug = "team"
 +++
 
 
+# TAs
+
 <section style="display: table;width: 100%">
 
 <div style="display: table-row;">
@@ -82,6 +84,29 @@ slug = "team"
 
 </div>
 </div>
+
+# Instructors
+
+
+<div style="display: table-row; width:75%;">
+
+<div style="display: table-cell;width:50%">
+<center>
+<img src="/images/nathan.jpg" height="90" width="90%"><br>
+<a href="https://www.cs.virginia.edu/~njb2b/"><b>Nathan</b> Brunelle</a>
+</center>
+</div>
+
+<div style="display: table-cell;width:50%">
+<center>
+<img src="/images/dave.jpg" height="90" width="90%"><br>
+<a href="https://www.cs.virginia.edu/evans/"><b>David</b> Evans</a>
+</center>
+</div>
+
+</div>
+</div>
+
 
 
 
