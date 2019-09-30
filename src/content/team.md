@@ -92,14 +92,14 @@ slug = "team"
 
 <div style="display: table-cell;width:50%">
 <center>
-<img src="/images/nathan.jpg" height="90" width="90%"><br>
+<a href="https://www.cs.virginia.edu/~njb2b/"><img src="/images/nathan.jpg" height="90" width="90%"></a><br>
 <a href="https://www.cs.virginia.edu/~njb2b/"><b>Nathan</b> Brunelle</a>
 </center>
 </div>
 
 <div style="display: table-cell;width:50%">
 <center>
-<img src="/images/dave.jpg" height="90" width="90%"><br>
+<a href="https://www.cs.virginia.edu/evans/"><img src="/images/dave.jpg" height="90" width="90%"></a><br>
 <a href="https://www.cs.virginia.edu/evans/"><b>David</b> Evans</a>
 </center>
 </div>
