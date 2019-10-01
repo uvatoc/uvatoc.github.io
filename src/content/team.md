@@ -99,7 +99,7 @@ slug = "team"
 
 <div style="display: table-cell;width:50%">
 <center>
-<a href="https://www.cs.virginia.edu/evans/"><img src="/images/dave.jpg" height="120"></a><br>
+<a href="https://www.cs.virginia.edu/evans/"><img src="/images/dave-canyon.jpg" height="120"></a><br>
 <a href="https://www.cs.virginia.edu/evans/"><b>David</b> Evans</a>
 </center>
 </div>
