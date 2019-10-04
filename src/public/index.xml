@@ -6,8 +6,23 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fall Break</title>
+      <link>https://uvatoc.github.io/fallbreak/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/fallbreak/</guid>
+      <description>&lt;p&gt;Enjoy your Fall Break!&lt;/p&gt;
+
+&lt;p&gt;We will have no regularly scheduled office hours until after classes
+resume on October 9. We will return Exam 1 in class on Wednesday,
+October 9.  There is no problem set due next week. Problem Set 4 will
+be due on Friday, 18 October.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 10: Exam Review</title>
@@ -483,40 +498,6 @@ presentations of these topics include:&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;You can also see how Prof. Mahmoody and I covered this in &lt;a href=&#34;https://uvacs2102.github.io&#34;&gt;cs2102&lt;/a&gt; over these three classes (which overlaps a fair bit with what we&amp;rsquo;ve done in cs3102, but with more detail and examples): &lt;a href=&#34;https://uvacs2102.github.io/class17/&#34;&gt;Class 17: Infinite Sets&lt;/a&gt; [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b0b99bc-7623-457f-b5d2-73fb64c22c83&#34;&gt;Video&lt;/a&gt;],
 &lt;a href=&#34;https://uvacs2102.github.io/class18/&#34;&gt;Class 18: Spooky Infinities&lt;/a&gt; [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aa2b9e6-e148-4239-a4bf-5ad963643514&#34;&gt;Video&lt;/a&gt;], &lt;a href=&#34;https://uvacs2102.github.io/class19/&#34;&gt;Class 19: Reviewing Infinities&lt;/a&gt; [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8af6f263-4e0b-4cf7-9378-96bdbf7fc8ac&#34;&gt;Video&lt;/a&gt;].&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PS1 Posted</title>
-      <link>https://uvatoc.github.io/ps1/</link>
-      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps1/</guid>
-      <description>
-
-&lt;h2 id=&#34;problem-set-1-un-natural-numbers&#34;&gt;Problem Set 1: (Un)natural Numbers&lt;/h2&gt;
-
-&lt;p&gt;Problem Set 1 is available here:
-&lt;a href=&#34;https://uvatoc.github.io/docs/ps1.pdf&#34;&gt;ps1.pdf&lt;/a&gt; (you will also need the
-&lt;a href=&#34;https://uvatoc.github.io/ps/ps1.zip&#34;&gt;ps1.zip&lt;/a&gt; file described in the PDF). It is due on
-&lt;strong&gt;Friday, 13 September&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;In this assignment we&amp;rsquo;ll be working with constructive recursive
-definitions (mostly the definition of natural numbers discussed in
-lecture), and proofs by induction.&lt;/p&gt;
-
-&lt;p&gt;Similarly to &lt;a href=&#34;https://uvatoc.github.io/ps0&#34;&gt;Problem Set 0&lt;/a&gt;, this assigned involves both
-&lt;em&gt;pencil-and-paper&lt;/em&gt; problems (submitted as a PDF by editing the
-provided &lt;code&gt;ps1.tex&lt;/code&gt; template) and programming problems (submitted by
-modifying the provided Jupyter notebook).&lt;/p&gt;
-
-&lt;p&gt;Submit your completed &lt;code&gt;ps1.ipynb&lt;/code&gt; and &lt;code&gt;ps1.pdf&lt;/code&gt; as two separate
-attachments via collab.&lt;/p&gt;
-
-&lt;div class=&#34;quote&#34;&gt;
-&lt;em&gt;Wir mussen wissen. Wir werden wissen.&lt;/em&gt;&lt;br&gt;
-David Hilbert
-&lt;/div&gt;
 </description>
     </item>
     
