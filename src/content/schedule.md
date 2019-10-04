@@ -13,9 +13,9 @@ slug = "schedule"
 
    **Upcoming Deadlines**
 
-Monday, 30 September (2:59pm): [Problem Set 3](/ps/ps3.pdf)  
-**Wednesday, 2 October (in class): [Exam 1](/exam1)**  
+Enjoy your fall break!
 
+Problem Set 4 will be due on Friday, 18 October.
 
    **Classes**
 
@@ -36,10 +36,11 @@ Wednesday, 4 September (2:59pm): [Course Pledge](/pledgeposted)
 Friday, 6 September (4:19pm): [Problem Set 0](/ps0posted)  
 Friday, 13 September (4:19pm): [Problem Set 1](/ps1)  
 Friday, 20 September (4:19pm): [Problem Set 2](/ps2)
+Monday, 30 September (2:59pm): [Problem Set 3](/ps/ps3.pdf)  
+**Wednesday, 2 October (in class): [Exam 1](/exam1)**  
 
 **Future Asignments**
 
-Wednesday, October 2 (in class): Exam 1  
 Wednesday, November 6 (in class): Exam 2  
 Wednesday, December 4 (in class): Exam 3
 
