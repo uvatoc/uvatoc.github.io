@@ -6,8 +6,45 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 11: Cost and Counting</title>
+      <link>https://uvatoc.github.io/class11/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class11/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/tbsytzp9n6fnyvg/class11-post.pdf?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2349417-446c-46a8-b5ec-aae10141417e&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;TCS Chapter 5: Code as data, data as code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exam 1 Comments</title>
+      <link>https://uvatoc.github.io/exam1comments/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/exam1comments/</guid>
+      <description>&lt;p&gt;The comments on Exam 1 are here: &lt;a href=&#34;https://uvatoc.github.io/docs/exam1-comments.pdf&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The original exam is here: &lt;a href=&#34;https://uvatoc.github.io/docs/exam1.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall the class did very well on Exam 1. The average scores by problem are:&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;table style=&#34;width:80%&#34;&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;Cover&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;1&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;2&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;3&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;4&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;5&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;6&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;7&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;8&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;9&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;9.8&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;9.3&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;9.8&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;9.5&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;6.7&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;8.7&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;8.8&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;8.9&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;7.9&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fall Break</title>
@@ -417,87 +454,6 @@ collab.&lt;/p&gt;
 provided &lt;code&gt;ps2.tex&lt;/code&gt; template) and there is no programming portion.&lt;/p&gt;
 
 &lt;p&gt;Submit your completed &lt;code&gt;ps2.pdf&lt;/code&gt; as an attachment via collab.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 5: Defining Computation</title>
-      <link>https://uvatoc.github.io/class5/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class5/</guid>
-      <description>
-
-&lt;h2 id=&#34;class-5-defining-computation&#34;&gt;Class 5: Defining Computation&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps1&#34;&gt;Problem Set 1&lt;/a&gt; is due this Friday (4:19pm).&lt;br /&gt;
-See &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;the schedule&lt;/a&gt; for updated office hours.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/kfm0h66scpoby44/class5.pptx?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bc59b9a8-4076-4d9e-b854-aac5014164e3&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter3.pdf&#34;&gt;TCS Chapter 3: Defining computation&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;daniel-lewin-14-may-1970-ndash-11-september-2001&#34;&gt;Daniel Lewin, 14 May 1970 &amp;ndash; 11 September 2001&lt;/h3&gt;
-
-&lt;p&gt;Hiawatha Bray. &lt;a href=&#34;http://archive.boston.com/business/technology/articles/2011/09/04/akamai_thrives_in_the_spirit_of_its_lost_founder/?camp=pm&#34;&gt;&lt;em&gt;A Lost Spirit Still Inspires&lt;/em&gt;&lt;/a&gt;, Boston Globe, 4 September 2011.&lt;/p&gt;
-
-&lt;p&gt;Tom Leighton&amp;rsquo;s &lt;a href=&#34;http://www.egr.unlv.edu/~bein/SIGACT/lewin.html&#34;&gt;&lt;em&gt;Remarks on Danny Lewin&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/No-Better-Time-Remarkable-Transformed/dp/0306821664&#34;&gt;&lt;em&gt;No Better Time: The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet&lt;/em&gt;&lt;/a&gt; by Molly Knight Raskin.&lt;/p&gt;
-
-&lt;p&gt;David Karger, Eric Lehman, Tom Leighton, Matthew Levine, Daniel Lewin,
-Rina Panigrah.  &lt;a href=&#34;https://www.akamai.com/kr/ko/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf&#34;&gt;&lt;em&gt;Consistent Hashing and Random Trees: Distributed
-Caching Protocols for Relieving Hot Spots on the World Wide
-Web&lt;/em&gt;&lt;/a&gt;. (Note:
-tradition in theory papers is to list all authors alphabetically). 29th
-ACM &lt;em&gt;Symposium on Theory of Computing&lt;/em&gt;, 1997.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 4: Uncountability</title>
-      <link>https://uvatoc.github.io/class4/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class4/</guid>
-      <description>
-
-&lt;h2 id=&#34;what-cannot-be-represented-by-bits-uncountable-sets&#34;&gt;&lt;em&gt;What Cannot Be Represented by Bits?&lt;/em&gt; (Uncountable Sets)&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps1&#34;&gt;Problem Set 1&lt;/a&gt; is due this Friday (4:19pm).  See &lt;a href=&#34;https://uvatoc.github.io/schedule&#34;&gt;the schedule&lt;/a&gt; for updated office hours.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/w6rpp6rgwx5ycl5/class4-share.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b644143d-a3dc-4165-a524-aac30140f096&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Here is Cantor&amp;rsquo;s original proof (in German, but the math is universal, so somewhat understandable even without knowing German):&lt;/p&gt;
-
-&lt;p&gt;Georg Cantor, &lt;a href=&#34;https://uvatoc.github.io/docs/cantor-proof.pdf&#34;&gt;&lt;em&gt;Ueber eine elementare Frage der Mannigfaltigkeitslehre&lt;/em&gt;&lt;/a&gt;. Published in &lt;em&gt;Jahresbericht der Deutschen Mathematiker-Vereinigung&lt;/em&gt;, Volume 1, 1891. (&lt;a href=&#34;https://jeffersonswheel.org/cantors-no-longer-lost-proof/&#34;&gt;About this Scan&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Its only a bit over 2 pages long, and its easy to see Cantor&amp;rsquo;s answer
-to the ``Is 0 a Natural Number?&amp;rdquo; question without understanding any
-German.  Google translates the title as &lt;em&gt;On an elementary question of
-the theory of manifolds&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Barrow&amp;rsquo;s &lt;a href=&#34;https://www.amazon.com/Infinite-Book-Boundless-Timeless-Endless/dp/1400032245/&#34;&gt;&lt;em&gt;The Infinite
-Book&lt;/em&gt;&lt;/a&gt;
-has chapter on the sad life of Georg Cantor: &lt;a href=&#34;https://uvatoc.github.io/docs/madness-of-cantor.pdf&#34;&gt;&lt;em&gt;The Madness of Georg
-Cantor&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We went through the proof that the binary strings are uncountable
-pretty quickly, and this is definitely a mind-blowing result. If you
-are not bothered by this result, its probably because you aren&amp;rsquo;t
-thinking about things deeply enough. Some other recommended
-presentations of these topics include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Vi Hart video&amp;rsquo;s on &lt;a href=&#34;https://www.youtube.com/watch?v=lA6hE7NFIK0&#34;&gt;&lt;em&gt;Proof some infinities are bigger than other infinities&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=23I5GS4JiDg&#34;&gt;&lt;em&gt;How many kinds of infinity are there?&lt;/em&gt;&lt;/a&gt; (sample youtube comment: &lt;em&gt;watching this makes me feel like i&amp;rsquo;ve just taken the red pill and the blue pill, crushed them into a single, purple powder and snorted it&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Numberphile&amp;rsquo;s, &lt;a href=&#34;https://www.youtube.com/watch?v=elvOZm0d4H0]&#34;&gt;&lt;em&gt;Infinity is bigger than you think&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;You can also see how Prof. Mahmoody and I covered this in &lt;a href=&#34;https://uvacs2102.github.io&#34;&gt;cs2102&lt;/a&gt; over these three classes (which overlaps a fair bit with what we&amp;rsquo;ve done in cs3102, but with more detail and examples): &lt;a href=&#34;https://uvacs2102.github.io/class17/&#34;&gt;Class 17: Infinite Sets&lt;/a&gt; [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b0b99bc-7623-457f-b5d2-73fb64c22c83&#34;&gt;Video&lt;/a&gt;],
-&lt;a href=&#34;https://uvacs2102.github.io/class18/&#34;&gt;Class 18: Spooky Infinities&lt;/a&gt; [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aa2b9e6-e148-4239-a4bf-5ad963643514&#34;&gt;Video&lt;/a&gt;], &lt;a href=&#34;https://uvacs2102.github.io/class19/&#34;&gt;Class 19: Reviewing Infinities&lt;/a&gt; [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8af6f263-4e0b-4cf7-9378-96bdbf7fc8ac&#34;&gt;Video&lt;/a&gt;].&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
