@@ -13,8 +13,6 @@ slug = "schedule"
 
    **Upcoming Deadlines**
 
-Enjoy your fall break!
-
 Problem Set 4 will be due on Friday, 18 October.
 
    **Classes**
@@ -28,8 +26,9 @@ Problem Set 4 will be due on Friday, 18 October.
 18 Sept: [Class 7: Syntactic Sugar](/class7) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
 23 Sept: [Class 8: Complexity](/class8) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
 25 Sept: [Class 9: Evaluation](/class9) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
-30 Sept: [Class 10: Review](/class10)
-09 Oct: [Class 11: Cost and Counting](/class11) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
+30 Sept: [Class 10: Review](/class10)  
+9 Oct: [Class 11: Cost and Counting](/class11) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
+
 
 **Past Assignments**  
 
