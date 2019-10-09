@@ -28,6 +28,8 @@ Problem Set 4 will be due on Friday, 18 October.
 18 Sept: [Class 7: Syntactic Sugar](/class7) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
 23 Sept: [Class 8: Complexity](/class8) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
 25 Sept: [Class 9: Evaluation](/class9) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
+30 Sept: [Class 10: Review](/class10)
+09 Oct: [Class 11: Cost and Counting](/class11) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
 
 **Past Assignments**  
 
@@ -37,7 +39,7 @@ Friday, 6 September (4:19pm): [Problem Set 0](/ps0posted)
 Friday, 13 September (4:19pm): [Problem Set 1](/ps1)  
 Friday, 20 September (4:19pm): [Problem Set 2](/ps2)
 Monday, 30 September (2:59pm): [Problem Set 3](/ps/ps3.pdf)  
-**Wednesday, 2 October (in class): [Exam 1](/exam1)**  
+**Wednesday, 2 October (in class): [Exam 1](/exam1)** ([Comments](/exam1comments))  
 
 **Future Asignments**
 
