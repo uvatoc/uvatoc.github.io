@@ -6,8 +6,34 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Problem Set 4</title>
+      <link>https://uvatoc.github.io/ps4/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps4/</guid>
+      <description>
+
+&lt;h2 id=&#34;problem-set-4-countess-of-functions&#34;&gt;Problem Set 4: Countess of Functions&lt;/h2&gt;
+
+&lt;p&gt;Problem Set 4 is available here: &lt;a href=&#34;https://uvatoc.github.io/ps/ps4.pdf&#34;&gt;ps4.pdf&lt;/a&gt; (you will also
+need the &lt;a href=&#34;https://uvatoc.github.io/ps/ps4.zip&#34;&gt;ps4.zip&lt;/a&gt; file). It is due on &lt;strong&gt;Friday, 18
+October&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This assignment involves both PDF and Jupyter parts, and you should
+submit both your &lt;code&gt;ps4.ipynb&lt;/code&gt; and &lt;code&gt;ps4.pdf&lt;/code&gt; files as attachments in
+collab. As far as we know, none of the problems are impossible (we may
+be wrong, of course, but none of them are intentionally impossible to
+solve).&lt;/p&gt;
+
+&lt;p&gt;The purpose of this assignment is to continue to develop your
+understanding of the asymptotic operators, and to understand deeply
+the results in &lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;Chapter 5&lt;/a&gt; of the textbook.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 11: Cost and Counting</title>
@@ -429,31 +455,6 @@ collab.&lt;/p&gt;
 &lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=827e4742-07d0-42a4-a4e4-aacc013f0abd&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter3.pdf&#34;&gt;TCS Chapter 3: Defining computation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PS2 Posted</title>
-      <link>https://uvatoc.github.io/ps2/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps2/</guid>
-      <description>
-
-&lt;h2 id=&#34;problem-set-2-fine-finite-computation&#34;&gt;Problem Set 2: Fine Finite Computation&lt;/h2&gt;
-
-&lt;p&gt;Problem Set 2 is available here:
-&lt;a href=&#34;https://uvatoc.github.io/docs/ps2.pdf&#34;&gt;ps2.pdf&lt;/a&gt; (you will also need the
-&lt;a href=&#34;https://uvatoc.github.io/ps/ps2.zip&#34;&gt;ps2.zip&lt;/a&gt; file described in the PDF). It is due on
-&lt;strong&gt;Friday, 20 September&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;In this assignment we&amp;rsquo;ll be working with models of finite computation.&lt;/p&gt;
-
-&lt;p&gt;This assignment involves only
-&lt;em&gt;pencil-and-paper&lt;/em&gt; problems (submitted as a PDF by editing the
-provided &lt;code&gt;ps2.tex&lt;/code&gt; template) and there is no programming portion.&lt;/p&gt;
-
-&lt;p&gt;Submit your completed &lt;code&gt;ps2.pdf&lt;/code&gt; as an attachment via collab.&lt;/p&gt;
 </description>
     </item>
     
