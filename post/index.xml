@@ -33,7 +33,7 @@ solve).&lt;/p&gt;
 understanding of the asymptotic operators, and to understand deeply
 the results in &lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;Chapter 5&lt;/a&gt; of the textbook.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Updated 12 Oct 2019:&lt;/strong&gt; The original problem 4b asked you to prove
+&lt;p&gt;&lt;strong&gt;Updated 13 Oct 2019:&lt;/strong&gt; The original problem 4b asked you to prove
   something impossible. The question we meant to as is to prove that
   &lt;em&gt;n&lt;/em&gt; is in &lt;em&gt;o&lt;/em&gt;(&lt;em&gt;n&lt;/em&gt; log &lt;em&gt;n&lt;/em&gt;). This is
   corrected now, sorry for the confusion and thanks to Gustavo Moreira

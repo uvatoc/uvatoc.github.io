@@ -22,7 +22,7 @@ The purpose of this assignment is to continue to develop your
 understanding of the asymptotic operators, and to understand deeply
 the results in [Chapter 5](/docs/tcs-chapter5.pdf) of the textbook.
 
-**Updated 12 Oct 2019:** The original problem 4b asked you to prove
+**Updated 13 Oct 2019:** The original problem 4b asked you to prove
   something impossible. The question we meant to as is to prove that
   <em>n</em> is in <em>o</em>(<em>n</em> log <em>n</em>). This is
   corrected now, sorry for the confusion and thanks to Gustavo Moreira
