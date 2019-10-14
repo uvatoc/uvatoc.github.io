@@ -84,7 +84,7 @@ A function $f(n): \N \rightarrow \mathbb{R}$ is in $\widetilde{O}(g(n))$ for any
 Another useful notation is ``little-$o$'' which is designed to capture the notion that a function $g$ grows much faster than $f$:
 
 \begin{definition}[$o$]
-A function $f(n): \N \rightarrow \mathbb{R}$ is in $o(g(n)$ for any function $g(n): \N \rightarrow \mathbb{R}$ if and only if for every positive constant $c$, there exists an $n_0 \in \N$ such that:
+A function $f(n): \N \rightarrow \mathbb{R}$ is in $o(g(n))$ for any function $g(n): \N \rightarrow \mathbb{R}$ if and only if for every positive constant $c$, there exists an $n_0 \in \N$ such that:
 $$ \forall n > n_0 . f(n) \le cg(n).$$
 \end{definition}
 }
@@ -95,7 +95,7 @@ Goldilocks and the Three $O$s
 
 \begin{enumerate}[(a)]
     \item Prove that for any function $f$, $f \notin o(f)$.
-    \item Prove that $n \log n \in o(n)$.
+    \item Prove that $n \in o(n \log n)$.
     \item ($\star$) Prove that for any $k \in \N$, $\log^k n \in o(n^\epsilon)$ for any $\epsilon > 0$.
     \item ($\star$) Prove that for any two functions $f, g$ and constant $\alpha>0$, $f \in \widetilde{O}(g) \implies g^{1+\alpha} \in \Omega(f)$.
 \end{enumerate}
