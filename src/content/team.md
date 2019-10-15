@@ -17,7 +17,9 @@ slug = "team"
 <a href="https://www.cs.virginia.edu/~njb2b/"><b>Nathan</b> Brunelle</a>
 </center>
 </div>
-
+<div style="display: table-cell;width:2%">
+&nbsp;
+</div>
 <div style="display: table-cell;width:48%">
 <center>
 <a href="https://www.cs.virginia.edu/evans/"><img src="/images/dave-canyon.jpg" height="120"></a><br>
@@ -38,21 +40,21 @@ slug = "team"
 
 <div style="display: table-cell;width:33%">
 <center>
-<img src="/images/cam.jpg" width="90%"><br>
+<img src="/images/cam.jpg" width="90%" height=120><br>
 <b>Cameron</b> Lloyd<br>
 </center>
 </div>
 
 <div style="display: table-cell;width:34%">
 <center>
-<img src="/images/jay.png" width="90%"><br>
+<img src="/images/jay.png" width="90%" height=120><br>
 <b>Jay</b> Rothenberger<br>
 </center>
 </div>
 
 <div style="display: table-cell;width:34%">
 <center>
-<img src="/images/missing.png" width="90%"><br>
+<img src="/images/missing.png" width="90%" height=120><br>
 <b>Kush</b> Patel
 </center>
 </div>
@@ -63,21 +65,21 @@ slug = "team"
 
 <div style="display: table-cell;width:33%">
 <center>
-<img src="/images/matthew.jpg" height="90" width="90%"><br>
+<img src="/images/matthew.jpg" height="90" width="90%" height=120><br>
 <b>Matthew</b> Normansell
 </center>
 </div>
 
 <div style="display: table-cell;width:34%">
 <center>
-<img src="/images/samarth.jpg" width="90%" height="90"><br>
+<img src="/images/samarth.jpg" width="90%" height=120 height="90"><br>
 <a href="https://samarthkishor.github.io/"><b>Samarth</b> Kishor</a>
 </center>
 </div>
 
 <div style="display: table-cell;width:33%">
 <center>
-<img src="/images/teddy.jpg" height="90" width="90%"><br>
+<img src="/images/teddy.jpg" height="90" width="90%" height=120><br>
 <b>Teddy</b> Clark
 </center>
 </div>
@@ -87,21 +89,21 @@ slug = "team"
 
 <div style="display: table-cell;width:33%">
 <center>
-<img src="/images/xiao-2.jpg" height="90" width="90%"><br>
+<img src="/images/xiao-2.jpg" height="90" width="90%" height=120><br>
 <a href="https://people.virginia.edu/~xz7bc/"><b>Xiao</b> Zhang</a>
 </center>
 </div>
 
 <div style="display: table-cell;width:34%">
 <center>
-<img src="/images/youssef-3.jpg" height="90" width="90%"><br>
+<img src="/images/youssef-3.jpg" height="90" width="90%" height=120><br>
 <b>Youssef</b> Errami
 </center>
 </div>
 
 <div style="display: table-cell;width:33%">
 <center>
-<img src="/images/missing.png" height="90" width="90%"><br>
+<img src="/images/missing.png" height="90" width="90%" height=120za><br>
 <b>Zane</b> Alpher
 </center>
 </div>
