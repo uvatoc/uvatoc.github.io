@@ -13,7 +13,7 @@ slug = "team"
 
 <div style="display: table-cell;width:48%">
 <center>
-<a href="https://www.cs.virginia.edu/~njb2b/"><img src="/images/nathan.jpg" height="120"></a><br>
+<a href="https://www.cs.virginia.edu/~njb2b/"><img src="/images/nathan.jpg" height="100"></a><br>
 <a href="https://www.cs.virginia.edu/~njb2b/"><b>Nathan</b> Brunelle</a>
 </center>
 </div>
@@ -22,7 +22,7 @@ slug = "team"
 </div>
 <div style="display: table-cell;width:48%">
 <center>
-<a href="https://www.cs.virginia.edu/evans/"><img src="/images/dave-canyon.jpg" height="120"></a><br>
+<a href="https://www.cs.virginia.edu/evans/"><img src="/images/dave-canyon.jpg" height="100"></a><br>
 <a href="https://www.cs.virginia.edu/evans/"><b>David</b> Evans</a>
 </center>
 </div>
