@@ -38,7 +38,7 @@ slug = "team"
 
 <div style="display: table-cell;width:33%">
 <center>
-<img src="/images/missing.png" width="90%"><br>
+<img src="/images/cam.jpg" width="90%"><br>
 <b>Cameron</b> Lloyd<br>
 </center>
 </div>
