@@ -13,7 +13,7 @@ slug = "schedule"
 
    **Upcoming Deadlines**
 
-Problem Set 4 will be due on Friday, 18 October.
+[**Problem Set 4**](/ps4) is due Friday, 18 October (4:19pm).
 
    **Classes**
 
@@ -28,6 +28,7 @@ Problem Set 4 will be due on Friday, 18 October.
 25 Sept: [Class 9: Evaluation](/class9) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
 30 Sept: [Class 10: Review](/class10)  
 9 Oct: [Class 11: Cost and Counting](/class11) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
+14 Oct: [Class 12: Size Hierarchy](/class12) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
 
 
 **Past Assignments**  
