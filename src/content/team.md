@@ -38,23 +38,23 @@ slug = "team"
 
 <div style="display: table-row;">
 
-<div style="display: table-cell;width:33%">
+<div class="crop" style="display: table-cell;width:33%">
 <center>
-<img src="/images/cam.jpg" height=100><br>
+<img src="/images/cam.jpg"><br>
 <b>Cameron</b> Lloyd<br>
 </center>
 </div>
 
-<div style="display: table-cell;width:34%">
+<div class="crop" style="display: table-cell;width:34%">
 <center>
-<img src="/images/jay.png" height=100><br>
+<img src="/images/jay.png"><br>
 <b>Jay</b> Rothenberger<br>
 </center>
 </div>
 
-<div style="display: table-cell;width:34%">
+<div class="crop" style="display: table-cell;width:34%">
 <center>
-<img src="/images/missing.png" height=100><br>
+<img src="/images/missing.png"><br>
 <b>Kush</b> Patel
 </center>
 </div>

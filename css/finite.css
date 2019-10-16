@@ -643,3 +643,13 @@ div.quote {
 .img-circle {
     border-radius: 50%;
 }
+
+.crop {
+ height: 100px;
+ width: 120px;
+ overflow: hidden;
+}
+.crop img {
+ height: auto;
+ width: 120px;
+}
