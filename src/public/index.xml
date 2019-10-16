@@ -2,14 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theory of Computation</title>
-    <link>https://uvatoc.github.io/</link>
+    <link>https://uvatoc.github.io/index.xml</link>
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Class 12: Size Hierarchy</title>
@@ -17,9 +15,11 @@
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class12/</guid>
-      <description>Slides
-Video
-TCS Chapter 5: Code as data, data as code</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/fj5ko40dnimx3h2/class12_written.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18139c06-6bac-49b2-a340-aae601415d26&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;TCS Chapter 5: Code as data, data as code&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +28,30 @@ TCS Chapter 5: Code as data, data as code</description>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps4/</guid>
-      <description>Problem Set 4: Countess of Functions Problem Set 4 is available here: ps4.pdf (you will also need the ps4.zip file). It is due on Friday, 18 October at 4:19pm.
-This assignment involves both PDF and Jupyter parts, and you should submit both your ps4.ipynb and ps4.pdf files as attachments in collab. As far as we know, none of the problems are impossible (we may be wrong, of course, but none of them are intentionally impossible to solve).</description>
+      <description>
+
+&lt;h2 id=&#34;problem-set-4-countess-of-functions&#34;&gt;Problem Set 4: Countess of Functions&lt;/h2&gt;
+
+&lt;p&gt;Problem Set 4 is available here: &lt;a href=&#34;https://uvatoc.github.io/ps/ps4.pdf&#34;&gt;ps4.pdf&lt;/a&gt; (you will also
+need the &lt;a href=&#34;https://uvatoc.github.io/ps/ps4.zip&#34;&gt;ps4.zip&lt;/a&gt; file). It is due on &lt;strong&gt;Friday, 18
+October&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This assignment involves both PDF and Jupyter parts, and you should
+submit both your &lt;code&gt;ps4.ipynb&lt;/code&gt; and &lt;code&gt;ps4.pdf&lt;/code&gt; files as attachments in
+collab. As far as we know, none of the problems are impossible (we may
+be wrong, of course, but none of them are intentionally impossible to
+solve).&lt;/p&gt;
+
+&lt;p&gt;The purpose of this assignment is to continue to develop your
+understanding of the asymptotic operators, and to understand deeply
+the results in &lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;Chapter 5&lt;/a&gt; of the textbook.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Updated 13 Oct 2019:&lt;/strong&gt; The original problem 4b asked you to prove
+  something impossible. The question we meant to as is to prove that
+  &lt;em&gt;n&lt;/em&gt; is in &lt;em&gt;o&lt;/em&gt;(&lt;em&gt;n&lt;/em&gt; log &lt;em&gt;n&lt;/em&gt;). This is
+  corrected now, sorry for the confusion and thanks to Gustavo Moreira
+  for pointing out the problem.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -38,9 +60,11 @@ This assignment involves both PDF and Jupyter parts, and you should submit both 
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class11/</guid>
-      <description>Slides
-Video
-TCS Chapter 5: Code as data, data as code</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/tbsytzp9n6fnyvg/class11-post.pdf?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2349417-446c-46a8-b5ec-aae10141417e&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;TCS Chapter 5: Code as data, data as code&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -49,10 +73,22 @@ TCS Chapter 5: Code as data, data as code</description>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/exam1comments/</guid>
-      <description>The comments on Exam 1 are here: PDF.
-The original exam is here: PDF
-Overall the class did very well on Exam 1. The average scores by problem are:
-  Cover123456789   159.89.39.89.56.78.78.88.97.9</description>
+      <description>&lt;p&gt;The comments on Exam 1 are here: &lt;a href=&#34;https://uvatoc.github.io/docs/exam1-comments.pdf&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The original exam is here: &lt;a href=&#34;https://uvatoc.github.io/docs/exam1.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall the class did very well on Exam 1. The average scores by problem are:&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;table style=&#34;width:80%&#34;&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;Cover&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;1&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;2&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;3&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;4&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;5&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;6&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;7&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;8&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;9&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;15&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;9.8&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;9.3&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;9.8&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;9.5&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;6.7&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;8.7&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;8.8&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;8.9&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;7.9&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -61,8 +97,13 @@ Overall the class did very well on Exam 1. The average scores by problem are:
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/fallbreak/</guid>
-      <description>Enjoy your Fall Break!
-We will have no regularly scheduled office hours until after classes resume on October 9. We will return Exam 1 in class on Wednesday, October 9. There is no problem set due next week. Problem Set 4 will be due on Friday, 18 October.</description>
+      <description>&lt;p&gt;Enjoy your Fall Break!&lt;/p&gt;
+
+&lt;p&gt;We will have no regularly scheduled office hours until after classes
+resume on October 9. We will return Exam 1 in class on Wednesday,
+October 9.  There is no problem set due next week. Problem Set 4 will
+be due on Friday, 18 October.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -71,13 +112,19 @@ We will have no regularly scheduled office hours until after classes resume on O
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class10/</guid>
-      <description>Exam 1 is in class Wednesday.
-Please read the cover sheet before the exam: Exam 1 Cover Sheet
-Problem Set 3 Comments (PDF in collab).
-Practice Problems Comments
-Slides
-Video
-Quantum supremacy using a programmable superconducting processor, Google AI Quantum and collaborators. Leaked preprint, August 2019.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Exam 1 is in class Wednesday.&lt;/strong&gt;&lt;br /&gt;
+Please read the cover sheet before the exam: &lt;a href=&#34;https://uvatoc.github.io/docs/exam1-cover.pdf&#34;&gt;Exam 1 Cover Sheet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://collab.its.virginia.edu/access/content/group/ff05ebb2-e2e1-45be-83cb-aadd96d4d2f9/ps3-comments.pdf&#34;&gt;Problem Set 3
+Comments&lt;/a&gt;
+(PDF in collab).&lt;br /&gt;
+&lt;a href=&#34;https://uvatoc.github.io/docs/practiceproblems.pdf&#34;&gt;Practice Problems Comments&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/5t50pttf9wyi3oi/class10-post.pdf?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89d8c09a-52ae-48d5-8659-aad80140f125&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/quantumsupremacy.pdf&#34;&gt;&lt;em&gt;Quantum supremacy using a programmable superconducting processor&lt;/em&gt;&lt;/a&gt;, Google AI Quantum and collaborators. Leaked preprint, August 2019.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -86,15 +133,112 @@ Quantum supremacy using a programmable superconducting processor, Google AI Quan
       <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/team/</guid>
-      <description>Co-Leads 
- 
-Nathan Brunelle   &amp;nbsp;   
-David Evans    
- Assistants 
- Cameron Lloyd
-   Jay Rothenberger
-   Kush Patel   
- Matthew Normansell    Samarth Kishor    Teddy Clark     Xiao Zhang    Youssef Errami    Zane Alpher</description>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;font size=&#34;+1&#34;&gt;&lt;b&gt;Co-Leads&lt;/b&gt;&lt;/font&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;div style=&#34;display: table-row; width:75%;&#34;&gt;
+
+&lt;div style=&#34;display: table-cell;width:48%&#34;&gt;
+&lt;center&gt;
+&lt;a href=&#34;https://www.cs.virginia.edu/~njb2b/&#34;&gt;&lt;img src=&#34;https://uvatoc.github.io/images/nathan.jpg&#34; height=&#34;100&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.cs.virginia.edu/~njb2b/&#34;&gt;&lt;b&gt;Nathan&lt;/b&gt; Brunelle&lt;/a&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: table-cell;width:2%&#34;&gt;
+&amp;nbsp;
+&lt;/div&gt;
+&lt;div style=&#34;display: table-cell;width:48%&#34;&gt;
+&lt;center&gt;
+&lt;a href=&#34;https://www.cs.virginia.edu/evans/&#34;&gt;&lt;img src=&#34;https://uvatoc.github.io/images/dave-canyon.jpg&#34; height=&#34;100&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.cs.virginia.edu/evans/&#34;&gt;&lt;b&gt;David&lt;/b&gt; Evans&lt;/a&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;font size=&#34;+1&#34;&gt;&lt;b&gt;Assistants&lt;/b&gt;&lt;/font&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;section style=&#34;display: table;width: 100%&#34;&gt;&lt;/p&gt;
+
+&lt;div style=&#34;display: table-row;&#34;&gt;
+
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/cam.jpg&#34;&gt;&lt;br&gt;
+&lt;b&gt;Cameron&lt;/b&gt; Lloyd&lt;br&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:34%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/jay.png&#34;&gt;&lt;br&gt;
+&lt;b&gt;Jay&lt;/b&gt; Rothenberger&lt;br&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:34%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/kush.jpg&#34;&gt;&lt;br&gt;
+&lt;b&gt;Kush&lt;/b&gt; Patel
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;div style=&#34;display: table-row;&#34;&gt;
+
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/matthew.jpg&#34;&gt;&lt;br&gt;
+&lt;b&gt;Matthew&lt;/b&gt; Normansell
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:34%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/samarth.jpg&#34;&gt;&lt;br&gt;
+&lt;a href=&#34;https://samarthkishor.github.io/&#34;&gt;&lt;b&gt;Samarth&lt;/b&gt; Kishor&lt;/a&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/teddy.jpg&#34;&gt;&lt;br&gt;
+&lt;b&gt;Teddy&lt;/b&gt; Clark
+&lt;/center&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;crop&#34; style=&#34;display: table-row;&#34;&gt;
+
+&lt;div style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/xiao-2.jpg&#34;&gt;&lt;br&gt;
+&lt;a href=&#34;https://people.virginia.edu/~xz7bc/&#34;&gt;&lt;b&gt;Xiao&lt;/b&gt; Zhang&lt;/a&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:34%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/youssef-3.jpg&#34;&gt;&lt;br&gt;
+&lt;b&gt;Youssef&lt;/b&gt; Errami
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;center&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/missing.png&#34;&gt;&lt;br&gt;
+&lt;b&gt;Zane&lt;/b&gt; Alpher
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -103,11 +247,23 @@ David Evans
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class9/</guid>
-      <description>Schedule Reminders: Problem Set 3 is due this Monday (2:59pm). Note the schedule change resulting from the interaction between fall break and the exam, which will be in class, Wednesday, 2 October.
-Slides
-Video
-TCS Chapter 5: Code as data, data as code
-The book assumes readers are already familiar with asymptotic operators, so doesn&amp;rsquo;t include a lot of explanation on this or exercises. You probably have also encountered these in other classes, but without a formal definition of their meaning (and possibly misused in confusing ways).</description>
+      <description>&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps3&#34;&gt;Problem Set 3&lt;/a&gt; is due this Monday (2:59pm). Note the schedule change resulting from the interaction between fall break and the exam, which will be in class, Wednesday, 2 October.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/zgpa8wbh37cs6ls/class9_writen.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0fd7025-b671-4fe0-8949-aad3014186cb&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;TCS Chapter 5: Code as data, data as code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The book assumes readers are already familiar with asymptotic
+operators, so doesn&amp;rsquo;t include a lot of explanation on this or
+exercises. You probably have also encountered these in other classes,
+but without a formal definition of their meaning (and possibly misused
+in confusing ways). If you feel shaky on these, we recommend reading
+&lt;a href=&#34;https://computingbook.org/Cost.pdf&#34;&gt;Chapter 7: Cost&lt;/a&gt; (from
+&lt;a href=&#34;https://computingbook.org/&#34;&gt;&lt;em&gt;Introduction to Computing Explorations in Language, Logic, and
+Machines&lt;/em&gt;&lt;/a&gt;). (Solutions to the exercises
+in that chapter are available on request.)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -116,9 +272,21 @@ The book assumes readers are already familiar with asymptotic operators, so does
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps2grades/</guid>
-      <description>The grades for PS2 are now posted in Assignments on Collab. You will find your grades, comments, and an attached pdf of solutions with PS2 assignment
-Our grading policy for PS2 was the same as for PS1, but we reserve the right to change this policy for future assignments. That policy was:
- You earned an A if you got at least 80% 5&amp;rsquo;s or an average of at least 4.</description>
+      <description>&lt;p&gt;The grades for PS2 are now posted in Assignments on Collab. You will find your grades, comments, and an attached pdf of solutions with PS2 assignment&lt;/p&gt;
+
+&lt;p&gt;Our grading policy for PS2 was the same as for PS1, but we reserve the right to change this policy for future assignments. That policy was:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You earned an A if you got at least 80% 5&amp;rsquo;s or an average of at least 4.5&lt;/li&gt;
+&lt;li&gt;You earned a B if you got a least 70% 5&amp;rsquo;s or an average of at least 4&lt;/li&gt;
+&lt;li&gt;You earned a C if you got a least 60% 5&amp;rsquo;s or an average of at least 3.5&lt;/li&gt;
+&lt;li&gt;You earned a D if you got a least 50% 5&amp;rsquo;s or an average of at least 3.0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The challenge problems counted as a bonus to your count of 5&amp;rsquo;s if you got at least a five, and contributed score/5 to the numerator of your average otherwise (i.e., as a bonus).&lt;/p&gt;
+
+&lt;p&gt;If you did not receive a grade for the assignment, this is mostly likely because you submitted late, and we could find no record of us giving you permission to do so.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -127,10 +295,13 @@ Our grading policy for PS2 was the same as for PS1, but we reserve the right to 
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class8/</guid>
-      <description>Schedule Reminders: Problem Set 3 is due this Monday (2:59pm). Note the schedule change resulting from the interaction between fall break and the exam, which will be in class, Wednesday, 2 October.
-Slides
-Video
-TCS Chapter 4: syntactic sugar</description>
+      <description>&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps3&#34;&gt;Problem Set 3&lt;/a&gt; is due this Monday (2:59pm). Note the schedule change resulting from the interaction between fall break and the exam, which will be in class, Wednesday, 2 October.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/vyay005hr199it9/class8_written.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54e0e8a0-c35a-4158-bbd9-aad101416a76&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://introtcs.org/public/lec_03a_computing_every_function.html&#34;&gt;TCS Chapter 4: syntactic sugar&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -139,18 +310,36 @@ TCS Chapter 4: syntactic sugar</description>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/exam1/</guid>
-      <description>Exam 1 will be next Wednesday, 2 October at the normal class time in the normal classroom. We will aim to start the exam right at 3:30pm, so you will benefit from arriving early for class Wednesday to be settled and ready to start the exam.
-Exam 1 will cover material from Classes 1-9 8 (through 25 23 September) [Note: we have revised the coverage scope to not include any new material from Class 9 on Exam 1], Problem Sets 1-3 (including the comments we provide on them; we will post comments for Problem Set 3 shortly after it is due on September 30), and the textbook chapters 0-4.</description>
-    </item>
-    
-    <item>
-      <title>Problem Set 3 Update</title>
-      <link>https://uvatoc.github.io/ps3update/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps3update/</guid>
-      <description>There are a few important updates to Problem Set 3.
- As originally stated, we believe Problem J2 is impossible. We have modified the problem to add the constant function ZERO to the gate set (which you can represent using 0 in Python. We believe it is impossible to solve without this. We have added an optional (double starred!) problem 5 to the PDF part of the assignment which asks you to prove that the question as originally asked (and in Exercise 3.</description>
+      <description>&lt;p&gt;Exam 1 will be next &lt;strong&gt;Wednesday, 2 October&lt;/strong&gt; at the normal class time
+in the normal classroom. We will aim to start the exam right at
+3:30pm, so you will benefit from arriving early for class Wednesday to
+be settled and ready to start the exam.&lt;/p&gt;
+
+&lt;p&gt;Exam 1 will cover material from Classes
+1-&lt;strike&gt;9&lt;/strike&gt; &lt;b&gt;8&lt;/b&gt; (through
+&lt;strike&gt;25&lt;/strike&gt; &lt;b&gt;23&lt;/b&gt; September) [Note: we have revised
+the coverage scope to not include any new material from Class 9 on
+Exam 1], Problem Sets 1-3 (including the comments we provide on them;
+we will post comments for Problem Set 3 shortly after it is due on
+September 30), and the textbook chapters 0-4. &lt;em&gt;Most&lt;/em&gt; of the questions
+on the exam will cover topics that you will have seen in at least two
+different places (e.g., both in class and on a problem set, or in
+multiple classes, or at least both in the textbook and in class or a
+problem set).&lt;/p&gt;
+
+&lt;p&gt;As a reminder from the syllabus, you may construct a one-page
+(letter-size, two-sided) &lt;strong&gt;reference sheet for use during the exam&lt;/strong&gt;,
+but all other resources are forbidden (no internet, textbook, other
+humans, magnification instruments, etc.). We expect that students will
+benefit from thinking about what to put on your reference sheet in
+preparing for the exam, and you may work with anyone you want
+(including other students in the class) to prepare a reference sheets
+together.&lt;/p&gt;
+
+&lt;p&gt;The class on Monday (September 30) will be an exam review. If you have
+specific topics or problems you would like the review to cover, slack
+them to &lt;code&gt;@Dave&lt;/code&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -159,9 +348,59 @@ Exam 1 will cover material from Classes 1-9 8 (through 25 23 September) [Note: w
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps1grades/</guid>
-      <description>The grades for PS1 are now posted. We&amp;rsquo;re really sorry this took so long! Hopefully we have a process in place now that will be much faster and more reliable at grading and returning homeworks.
-Please look at the posted comments on PS1 in collab: PDF
-When assigning grades we sought to reward individual solutions that were high quality and total submissions that were overall decent, while not harshly punishing mild mistakes or narrow misconceptions.</description>
+      <description>&lt;p&gt;The grades for PS1 are now posted. We&amp;rsquo;re really sorry this took so
+long! Hopefully we have a process in place now that will be much
+faster and more reliable at grading and returning homeworks.&lt;/p&gt;
+
+&lt;p&gt;Please look at the posted comments on PS1 in collab: &lt;a href=&#34;only accessible to students in the class&#34;&gt;&lt;a href=&#34;https://collab.its.virginia.edu/access/content/group/ff05ebb2-e2e1-45be-83cb-aadd96d4d2f9/ps1-comments.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When assigning grades we sought to reward individual solutions that were high quality and total submissions that were overall decent, while not harshly punishing mild mistakes or narrow misconceptions. For this reason we used two metrics to assign your grades: the number of problems on which you received a 5 or higher, and the average of all your problem grades.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You earned an A if you got at least 80% 5&amp;rsquo;s or an average of at least 4.5&lt;/li&gt;
+&lt;li&gt;You earned a B if you got a least 70% 5&amp;rsquo;s or an average of at least 4&lt;/li&gt;
+&lt;li&gt;You earned a C if you got a least 60% 5&amp;rsquo;s or an average of at least 3.5&lt;/li&gt;
+&lt;li&gt;You earned a D if you got a least 50% 5&amp;rsquo;s or an average of at least 3.0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The challenge problems counted as a bonus to your count of 5&amp;rsquo;s if you got at least a five, and contributed score/5 to the numerator of your average otherwise (i.e., as a bonus).&lt;/p&gt;
+
+&lt;p&gt;Future problem sets may have use a different procedure for assigning scores to letter grades, depending on our goals for that assignment.&lt;/p&gt;
+
+&lt;p&gt;If you did not receive a grade for the assignment, this is mostly likely because you submitted late, and we could find no record of us giving you permission to do so.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 3 Update</title>
+      <link>https://uvatoc.github.io/ps3update/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps3update/</guid>
+      <description>&lt;p&gt;There are a few important updates to &lt;a href=&#34;https://uvatoc.github.io/ps/ps3.pdf&#34;&gt;Problem Set 3&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;As originally stated, we believe Problem J2 is impossible. We have
+modified the problem to add the constant function &lt;em&gt;ZERO&lt;/em&gt; to the gate
+set (which you can represent using &lt;code&gt;0&lt;/code&gt; in Python. We believe it is
+impossible to solve without this.  We have added an optional (double
+starred!) problem 5 to the PDF part of the assignment which asks you
+to prove that the question as originally asked (and in Exercise 3.6
+in the book) is impossible.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;One of the assertion tests for Problem J3 is incorrect. It should have been&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;assert(HADD2(1,1,0,1) == (0,0))
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;We added a note to the practice problems: one of these is impossible
+also! In this case, we asked you to prove something that is not
+true. Since these are practice problems, though, and it is good
+practice to be skeptical when you are asked to prove things, we
+haven&amp;rsquo;t changed the actual problem, but will leave it up to you to
+find it and modify it to a correct statement that you can prove.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -170,8 +409,33 @@ When assigning grades we sought to reward individual solutions that were high qu
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps3/</guid>
-      <description>Problem Set 3: Sugary Finite Computation Problem Set 3 is available here: ps3.pdf (you will also need the ps3.zip file described in the PDF). It is due on Monday, 30 September at 2:59pm. (Note the unusual due date and time. The schedule is unusual because of Exam 1, which will be held Wednesday, 2 October, in class.)
-The purpose of this assignment is to continue to develop your understanding of finite computation, focusing on the material in Chapter 4 of the textbook and what we cover in Class 7 and Class 8 and Class 9.</description>
+      <description>
+
+&lt;h2 id=&#34;problem-set-3-sugary-finite-computation&#34;&gt;Problem Set 3: Sugary Finite Computation&lt;/h2&gt;
+
+&lt;p&gt;Problem Set 3 is available here: &lt;a href=&#34;https://uvatoc.github.io/ps/ps3.pdf&#34;&gt;ps3.pdf&lt;/a&gt; (you will also
+need the &lt;a href=&#34;https://uvatoc.github.io/ps/ps3.zip&#34;&gt;ps3.zip&lt;/a&gt; file described in the PDF). It is due
+on &lt;strong&gt;Monday, 30 September&lt;/strong&gt; at &lt;strong&gt;2:59pm&lt;/strong&gt;. (Note the unusual due date
+and time. The schedule is unusual because of Exam 1, which will be
+held Wednesday, 2 October, in class.)&lt;/p&gt;
+
+&lt;p&gt;The purpose of this assignment is to continue to develop your
+understanding of finite computation, focusing on the material in
+Chapter 4 of the textbook and what we cover in Class 7 and Class 8 and
+Class 9.  This assignment is also meant to prepare you for Exam 1,
+which will be held in class on Wednesday, 2 October (a separate post
+will provide more details on Exam 1). In addition to the graded
+problems, we have provided some additional problems to help you
+prepare for Exam 1. You do not need to turn anything in for these
+problems, but we expect that most students will benefit from doing
+them to be prepared to do well on the exam.&lt;/p&gt;
+
+&lt;p&gt;This assignment involves both PDF and Jupyter parts, and you should
+submit both your &lt;code&gt;ps3.ipynb&lt;/code&gt; and &lt;code&gt;ps3.pdf&lt;/code&gt; files as attachments in
+collab.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note (Sept 24)&lt;/strong&gt;: see &lt;a href=&#34;https://uvatoc.github.io/ps3update/&#34;&gt;Problem Set 3 Update&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -180,251 +444,20 @@ The purpose of this assignment is to continue to develop your understanding of f
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class7/</guid>
-      <description>Class 7: Syntactic Sugar Schedule Reminders: Problem Set 2 is due this Friday (4:19pm).
-Slides
-Video of slides
-Video of Nate&amp;rsquo;s Laptop
-TCS Chapter 4: syntactic sugar</description>
-    </item>
-    
-    <item>
-      <title>Class 6: Defining Boolean Circuits</title>
-      <link>https://uvatoc.github.io/class6/</link>
-      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class6/</guid>
-      <description>Class 6: Defining Boolean Circuits Schedule Reminders: Problem Set 2 is due this Friday (4:19pm).
-Slides (PDF)
-Video
-TCS Chapter 3: Defining computation</description>
-    </item>
-    
-    <item>
-      <title>PS2 Posted</title>
-      <link>https://uvatoc.github.io/ps2/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps2/</guid>
-      <description>Problem Set 2: Fine Finite Computation Problem Set 2 is available here: ps2.pdf (you will also need the ps2.zip file described in the PDF). It is due on Friday, 20 September at 4:19pm.
-In this assignment we&amp;rsquo;ll be working with models of finite computation.
-This assignment involves only pencil-and-paper problems (submitted as a PDF by editing the provided ps2.tex template) and there is no programming portion.
-Submit your completed ps2.</description>
-    </item>
-    
-    <item>
-      <title>Class 5: Defining Computation</title>
-      <link>https://uvatoc.github.io/class5/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class5/</guid>
-      <description>Class 5: Defining Computation Schedule Reminders: Problem Set 1 is due this Friday (4:19pm).
-See the schedule for updated office hours.
-Slides (PDF)
-Video
-TCS Chapter 3: Defining computation
-Daniel Lewin, 14 May 1970 &amp;ndash; 11 September 2001 Hiawatha Bray. A Lost Spirit Still Inspires, Boston Globe, 4 September 2011.
-Tom Leighton&amp;rsquo;s Remarks on Danny Lewin
-No Better Time: The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet by Molly Knight Raskin.</description>
-    </item>
-    
-    <item>
-      <title>Class 4: Uncountability</title>
-      <link>https://uvatoc.github.io/class4/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class4/</guid>
-      <description>What Cannot Be Represented by Bits? (Uncountable Sets) Schedule Reminders: Problem Set 1 is due this Friday (4:19pm). See the schedule for updated office hours.
-Slides (PDF)
-Video
-Here is Cantor&amp;rsquo;s original proof (in German, but the math is universal, so somewhat understandable even without knowing German):
-Georg Cantor, Ueber eine elementare Frage der Mannigfaltigkeitslehre. Published in Jahresbericht der Deutschen Mathematiker-Vereinigung, Volume 1, 1891. (About this Scan)
-Its only a bit over 2 pages long, and its easy to see Cantor&amp;rsquo;s answer to the ``Is 0 a Natural Number?</description>
-    </item>
-    
-    <item>
-      <title>PS1 Posted</title>
-      <link>https://uvatoc.github.io/ps1/</link>
-      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps1/</guid>
-      <description>Problem Set 1: (Un)natural Numbers Problem Set 1 is available here: ps1.pdf (you will also need the ps1.zip file described in the PDF). It is due on Friday, 13 September at 4:19pm.
-In this assignment we&amp;rsquo;ll be working with constructive recursive definitions (mostly the definition of natural numbers discussed in lecture), and proofs by induction.
-Similarly to Problem Set 0, this assigned involves both pencil-and-paper problems (submitted as a PDF by editing the provided ps1.</description>
-    </item>
-    
-    <item>
-      <title>Class 3: Countable Sets</title>
-      <link>https://uvatoc.github.io/class3/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class3/</guid>
-      <description>What Can Be Represented by Bits? Schedule Reminders: Problem Set 0 is due this Friday (4:19pm). See the schedule for updated office hours.
-Slides (PDF)
-Video
-Update (7 Sept): There is a correction on slide 10 to the way we defined addition for the Set-based Natural Numbers (thanks to Nijat Khanbabayev for pointing out the problem).
-Some of the material from today&amp;rsquo;s class (and what we will continue on Monday) is in the TCS Book, Chapter 2.</description>
-    </item>
-    
-    <item>
-      <title>Class 2: Defining Definitions</title>
-      <link>https://uvatoc.github.io/class2/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class2/</guid>
-      <description>Schedule Reminders: Office hours start today! Full schedule (which will be updated) is posted here. The first office hours are tonight, 6:30-8pm, in Rice 442.
-Is 0 a Natural Number?
-Slides (PDF)
-Video
-The &amp;ldquo;Google dragon&amp;rdquo; image was drawn for this talk. You can find Sergey Brin&amp;rsquo;s resume here (note the high honors in Mathematics and (low) honors in Computer Science).</description>
-    </item>
-    
-    <item>
-      <title>Office Hours Posted</title>
-      <link>https://uvatoc.github.io/office-hours-posted/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/office-hours-posted/</guid>
-      <description>Office hours have now been posted on the Course Schedule. These will be adjusted and likely some more office hours added over the next few weeks, but we wanted to have some posted now for help on Problem Set 0 as well the background material we are covering this week.</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>https://uvatoc.github.io/resources/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/resources/</guid>
-      <description>Here are links to some useful resources for cs3102.
-Course Book Main Website
-Full Text PDF
-Github (if you have corrections or suggestions for the book, submit them to Boaz Barak here; useful contributions will be worth bonus points in the course, so let us know if you have a pull request accepted or start a useful issue)
-Background Reading Mathematics for Computer Science (free PDF) by Eric Lehman, F Thomson Leighton, Albert R Meyer.</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>https://uvatoc.github.io/schedule/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/schedule/</guid>
-      <description>Google Calendar for cs3102 
-Upcoming Deadlines
-Problem Set 4 will be due on Friday, 18 October.
-Classes
-28 Aug: Class 1: Course Introduction (TCS Chapter 0)
-2 Sept: Class 2: Defining Definitions (TCS Chapter 1)
-4 Sept: Class 3: What Can Be Represented by Bits? (TCS Chapter 2)
-9 Sept: Class 4: What Cannot Be Represented by Bits? (Uncountable Sets) 11 Sept: Class 5: Defining Computation (TCS Chapter 3)</description>
-    </item>
-    
-    <item>
-      <title>Course Pledge</title>
-      <link>https://uvatoc.github.io/pledgeposted/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/pledgeposted/</guid>
-      <description>To be in this class, students are expected to agree to the Course Pledge. The expectations there apply to everything connected with this class including all assignments, classes, and office hours.
-Before 2:59pm this Wednesday (Sept 4) you must read and agree to the contents of the Course Pledge, and submit this assignment (in collab) to acknowledge having done this. (It is not necessary to print and submit the pledge on paper or as a scanned PDF.</description>
-    </item>
-    
-    <item>
-      <title>PS0</title>
-      <link>https://uvatoc.github.io/ps0/</link>
-      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps0/</guid>
-      <description>Problem Set 0: Getting Started Hello students, Problem Set 0 is available here: ps0.pdf (you will also need the ps0.zip file described in the PDF). It is due on Friday, 6 September at 4:19pm.
-The goal of this assignment is to get you acquainted with the tools we will be using for future assignments this semester: LaTeX (and overleaf) and Jupyter notebooks (using Python).
-For this assignment you will be editing the ps0.</description>
-    </item>
-    
-    <item>
-      <title>PS0 Posted</title>
-      <link>https://uvatoc.github.io/ps0posted/</link>
-      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps0posted/</guid>
-      <description>Problem Set 0: Getting Started Hello students, Problem Set 0 is available here: ps0.pdf (you will also need the ps0.zip file described in the PDF). It is due on Friday, 6 September at 4:19pm.
-The goal of this assignment is to get you acquainted with the tools we will be using for future assignments this semester: LaTeX (and overleaf) and Jupyter notebooks (using Python).
-For this assignment you will be editing the ps0.</description>
-    </item>
-    
-    <item>
-      <title>PS0 Posted</title>
-      <link>https://uvatoc.github.io/ps0posted/</link>
-      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps0posted/</guid>
-      <description>Problem Set 0: Getting Started Hello students, Problem Set 0 is available here: ps0.pdf (you will also need the ps0.zip file described in the PDF). It is due on Friday, 6 September at 4:19pm.
-The goal of this assignment is to get you acquainted with the tools we will be using for future assignments this semester: LaTeX (and overleaf) and Jupyter notebooks (using Python).
-For this assignment you will be editing the ps0.</description>
-    </item>
-    
-    <item>
-      <title>Class 1: Introduction</title>
-      <link>https://uvatoc.github.io/lecture1/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/lecture1/</guid>
-      <description>Lecture 1: Course Introduction Today we will be discussing course mechanics, course expectations, and the values of studying theory.
-Slides</description>
-    </item>
-    
-    <item>
-      <title>Course Pledge</title>
-      <link>https://uvatoc.github.io/pledge/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/pledge/</guid>
-      <description>PDF for Printing Honor Expectations As a student at the University of Virginia, you are trusted to be honorable and expected to behave in ways that merit that trust. We take advantage of this trust to provide a better learning environment for everyone. In particular, students in cs3102 are expected to follow these rules throughout the course:
-I will not lie, cheat or steal. If I am unsure whether something would be considered lying, cheating or stealing, I will ask before doing it.</description>
-    </item>
-    
-    <item>
-      <title>Course Registration Survey</title>
-      <link>https://uvatoc.github.io/survey/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/survey/</guid>
-      <description>Please complete the course registration survey by 4:19pm on Friday, August 30.</description>
-    </item>
-    
-    <item>
-      <title>Syllabus</title>
-      <link>https://uvatoc.github.io/syllabus/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>The course syllabus and pledge are now posted:
-Syllabus (PDF)
-Pledge</description>
-    </item>
-    
-    <item>
-      <title>Syllabus</title>
-      <link>https://uvatoc.github.io/syllabus/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>cs3102 Course Syllabus [PDF]
-cs3102 Course Pledge [PDF]</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://uvatoc.github.io/welcome/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/welcome/</guid>
-      <description>Welcome to the website for cs3102: Theory of Computation! More information will be posted here soon.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://uvatoc.github.io/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/test/</guid>
-      <description></description>
+      <description>
+
+&lt;h2 id=&#34;class-7-syntactic-sugar&#34;&gt;Class 7: Syntactic Sugar&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps2&#34;&gt;Problem Set 2&lt;/a&gt; is due this Friday (4:19pm).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/rdlpxmyq6mws459/class7_written.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=daeb74b6-b92a-4c97-b045-aacc015b8c6c&#34;&gt;Video of slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6cc4a35-e227-4348-bec7-aacc015ba868&#34;&gt;Video of Nate&amp;rsquo;s Laptop&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://introtcs.org/public/lec_03a_computing_every_function.html&#34;&gt;TCS Chapter 4: syntactic sugar&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
