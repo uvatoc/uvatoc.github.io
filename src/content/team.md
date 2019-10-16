@@ -54,7 +54,7 @@ slug = "team"
 
 <div class="crop" style="display: table-cell;width:34%">
 <center>
-<img src="/images/missing.png"><br>
+<img src="/images/kush.jpg"><br>
 <b>Kush</b> Patel
 </center>
 </div>
