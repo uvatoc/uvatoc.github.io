@@ -178,47 +178,47 @@ Comments&lt;/a&gt;
 
 &lt;div style=&#34;display: table-row;&#34;&gt;
 
-&lt;div style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:33%&#34;&gt;
 &lt;center&gt;
-&lt;img src=&#34;https://uvatoc.github.io/images/matthew.jpg&#34; height=100&gt;&lt;br&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/matthew.jpg&#34;&gt;&lt;br&gt;
 &lt;b&gt;Matthew&lt;/b&gt; Normansell
 &lt;/center&gt;
 &lt;/div&gt;
 
-&lt;div style=&#34;display: table-cell;width:34%&#34;&gt;
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:34%&#34;&gt;
 &lt;center&gt;
-&lt;img src=&#34;https://uvatoc.github.io/images/samarth.jpg&#34; height=100&gt;&lt;br&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/samarth.jpg&#34;&gt;&lt;br&gt;
 &lt;a href=&#34;https://samarthkishor.github.io/&#34;&gt;&lt;b&gt;Samarth&lt;/b&gt; Kishor&lt;/a&gt;
 &lt;/center&gt;
 &lt;/div&gt;
 
-&lt;div style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:33%&#34;&gt;
 &lt;center&gt;
-&lt;img src=&#34;https://uvatoc.github.io/images/teddy.jpg&#34; height=100&gt;&lt;br&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/teddy.jpg&#34;&gt;&lt;br&gt;
 &lt;b&gt;Teddy&lt;/b&gt; Clark
 &lt;/center&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div style=&#34;display: table-row;&#34;&gt;
+&lt;div class=&#34;crop&#34; style=&#34;display: table-row;&#34;&gt;
 
 &lt;div style=&#34;display: table-cell;width:33%&#34;&gt;
 &lt;center&gt;
-&lt;img src=&#34;https://uvatoc.github.io/images/xiao-2.jpg&#34; height=100&gt;&lt;br&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/xiao-2.jpg&#34;&gt;&lt;br&gt;
 &lt;a href=&#34;https://people.virginia.edu/~xz7bc/&#34;&gt;&lt;b&gt;Xiao&lt;/b&gt; Zhang&lt;/a&gt;
 &lt;/center&gt;
 &lt;/div&gt;
 
-&lt;div style=&#34;display: table-cell;width:34%&#34;&gt;
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:34%&#34;&gt;
 &lt;center&gt;
-&lt;img src=&#34;https://uvatoc.github.io/images/youssef-3.jpg&#34; height=100&gt;&lt;br&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/youssef-3.jpg&#34;&gt;&lt;br&gt;
 &lt;b&gt;Youssef&lt;/b&gt; Errami
 &lt;/center&gt;
 &lt;/div&gt;
 
-&lt;div style=&#34;display: table-cell;width:33%&#34;&gt;
+&lt;div class=&#34;crop&#34; style=&#34;display: table-cell;width:33%&#34;&gt;
 &lt;center&gt;
-&lt;img src=&#34;https://uvatoc.github.io/images/missing.png&#34; height=100&gt;&lt;br&gt;
+&lt;img src=&#34;https://uvatoc.github.io/images/missing.png&#34;&gt;&lt;br&gt;
 &lt;b&gt;Zane&lt;/b&gt; Alpher
 &lt;/center&gt;
 &lt;/div&gt;

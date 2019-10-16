@@ -645,11 +645,11 @@ div.quote {
 }
 
 .crop {
- height: 100px;
- width: 120px;
+ height: 180px;
+ width: 300px;
  overflow: hidden;
 }
 .crop img {
  height: auto;
- width: 120px;
+ width: 300px;
 }
