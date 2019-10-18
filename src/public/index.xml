@@ -6,8 +6,21 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 13: Machines</title>
+      <link>https://uvatoc.github.io/class13/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class13/</guid>
+      <description>&lt;p&gt;Slides: (to be posted soon)&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89195d73-1989-4b2f-8b70-aae8014178c4&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter6.pdf&#34;&gt;TCS Chapter 6: Loops and Infinity&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 12: Size Hierarchy</title>
@@ -435,28 +448,6 @@ submit both your &lt;code&gt;ps3.ipynb&lt;/code&gt; and &lt;code&gt;ps3.pdf&lt;/
 collab.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Note (Sept 24)&lt;/strong&gt;: see &lt;a href=&#34;https://uvatoc.github.io/ps3update/&#34;&gt;Problem Set 3 Update&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 7: Syntactic Sugar</title>
-      <link>https://uvatoc.github.io/class7/</link>
-      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class7/</guid>
-      <description>
-
-&lt;h2 id=&#34;class-7-syntactic-sugar&#34;&gt;Class 7: Syntactic Sugar&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps2&#34;&gt;Problem Set 2&lt;/a&gt; is due this Friday (4:19pm).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/rdlpxmyq6mws459/class7_written.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=daeb74b6-b92a-4c97-b045-aacc015b8c6c&#34;&gt;Video of slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6cc4a35-e227-4348-bec7-aacc015ba868&#34;&gt;Video of Nate&amp;rsquo;s Laptop&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://introtcs.org/public/lec_03a_computing_every_function.html&#34;&gt;TCS Chapter 4: syntactic sugar&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
