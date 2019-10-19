@@ -6,8 +6,29 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Problem Set 5</title>
+      <link>https://uvatoc.github.io/ps5/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps5/</guid>
+      <description>
+
+&lt;h2 id=&#34;problem-set-5-loopy-tunes&#34;&gt;Problem Set 5: Loopy Tunes&lt;/h2&gt;
+
+&lt;p&gt;Problem Set 5 is available here: &lt;a href=&#34;https://uvatoc.github.io/ps/ps5.pdf&#34;&gt;ps5.pdf&lt;/a&gt; (you will also
+need the &lt;a href=&#34;https://uvatoc.github.io/ps/ps5.zip&#34;&gt;ps5.zip&lt;/a&gt; file). It is due on &lt;strong&gt;Friday, 25
+October&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;These is no Jupyter part for PS5, so your submission can be just one &lt;code&gt;ps5.pdf&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;p&gt;This assignment covers the Size Hierarchy from &lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;Chapter 5&lt;/a&gt;, Finite State Macines from Class 12 and Class 13, and Turing Machines, NAND-TM, and computability from
+&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;Chapter 5&lt;/a&gt;, Class 13 and Class 14.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 13: Machines</title>
@@ -413,41 +434,6 @@ practice to be skeptical when you are asked to prove things, we
 haven&amp;rsquo;t changed the actual problem, but will leave it up to you to
 find it and modify it to a correct statement that you can prove.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Problem Set 3</title>
-      <link>https://uvatoc.github.io/ps3/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps3/</guid>
-      <description>
-
-&lt;h2 id=&#34;problem-set-3-sugary-finite-computation&#34;&gt;Problem Set 3: Sugary Finite Computation&lt;/h2&gt;
-
-&lt;p&gt;Problem Set 3 is available here: &lt;a href=&#34;https://uvatoc.github.io/ps/ps3.pdf&#34;&gt;ps3.pdf&lt;/a&gt; (you will also
-need the &lt;a href=&#34;https://uvatoc.github.io/ps/ps3.zip&#34;&gt;ps3.zip&lt;/a&gt; file described in the PDF). It is due
-on &lt;strong&gt;Monday, 30 September&lt;/strong&gt; at &lt;strong&gt;2:59pm&lt;/strong&gt;. (Note the unusual due date
-and time. The schedule is unusual because of Exam 1, which will be
-held Wednesday, 2 October, in class.)&lt;/p&gt;
-
-&lt;p&gt;The purpose of this assignment is to continue to develop your
-understanding of finite computation, focusing on the material in
-Chapter 4 of the textbook and what we cover in Class 7 and Class 8 and
-Class 9.  This assignment is also meant to prepare you for Exam 1,
-which will be held in class on Wednesday, 2 October (a separate post
-will provide more details on Exam 1). In addition to the graded
-problems, we have provided some additional problems to help you
-prepare for Exam 1. You do not need to turn anything in for these
-problems, but we expect that most students will benefit from doing
-them to be prepared to do well on the exam.&lt;/p&gt;
-
-&lt;p&gt;This assignment involves both PDF and Jupyter parts, and you should
-submit both your &lt;code&gt;ps3.ipynb&lt;/code&gt; and &lt;code&gt;ps3.pdf&lt;/code&gt; files as attachments in
-collab.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note (Sept 24)&lt;/strong&gt;: see &lt;a href=&#34;https://uvatoc.github.io/ps3update/&#34;&gt;Problem Set 3 Update&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -29,7 +29,7 @@ slug = "schedule"
 30 Sept: [Class 10: Review](/class10)  
 9 Oct: [Class 11: Cost and Counting](/class11) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
 14 Oct: [Class 12: Size Hierarchy](/class12) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
-
+16 Oct: [Class 13: Machines](/class13) ([TCS Chapter 6](/docs/tcs-chapter6.pdf))
 
 **Past Assignments**  
 
