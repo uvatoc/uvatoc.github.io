@@ -6,8 +6,25 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 14: Computability</title>
+      <link>https://uvatoc.github.io/class14/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class14/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/uu9s1er20tepclh/class14-post.pdf?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e086e67f-71aa-45e1-a59d-aaed01412ded&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter6.pdf&#34;&gt;TCS Chapter 6: Loops and Infinity&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter8.pdf&#34;&gt;TCS Chapter 8: Universaility and Uncomputability&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Alan M. Turing, &lt;a href=&#34;https://uvatoc.github.io/docs/computablenumbers.pdf&#34;&gt;&lt;em&gt;On Computable Numbers, with an Application to the
+Entscheidungsproblem&lt;/em&gt;&lt;/a&gt;. 1936. (&lt;a href=&#34;https://uvatoc.github.io/docs/bigfix.pdf&#34;&gt;bug fix&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Problem Set 5</title>
@@ -403,38 +420,6 @@ faster and more reliable at grading and returning homeworks.&lt;/p&gt;
 &lt;p&gt;Future problem sets may have use a different procedure for assigning scores to letter grades, depending on our goals for that assignment.&lt;/p&gt;
 
 &lt;p&gt;If you did not receive a grade for the assignment, this is mostly likely because you submitted late, and we could find no record of us giving you permission to do so.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Problem Set 3 Update</title>
-      <link>https://uvatoc.github.io/ps3update/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps3update/</guid>
-      <description>&lt;p&gt;There are a few important updates to &lt;a href=&#34;https://uvatoc.github.io/ps/ps3.pdf&#34;&gt;Problem Set 3&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;As originally stated, we believe Problem J2 is impossible. We have
-modified the problem to add the constant function &lt;em&gt;ZERO&lt;/em&gt; to the gate
-set (which you can represent using &lt;code&gt;0&lt;/code&gt; in Python. We believe it is
-impossible to solve without this.  We have added an optional (double
-starred!) problem 5 to the PDF part of the assignment which asks you
-to prove that the question as originally asked (and in Exercise 3.6
-in the book) is impossible.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;One of the assertion tests for Problem J3 is incorrect. It should have been&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;assert(HADD2(1,1,0,1) == (0,0))
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;We added a note to the practice problems: one of these is impossible
-also! In this case, we asked you to prove something that is not
-true. Since these are practice problems, though, and it is good
-practice to be skeptical when you are asked to prove things, we
-haven&amp;rsquo;t changed the actual problem, but will leave it up to you to
-find it and modify it to a correct statement that you can prove.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

@@ -13,7 +13,9 @@ slug = "schedule"
 
    **Upcoming Deadlines**
 
-[**Problem Set 4**](/ps4) is due Friday, 18 October (4:19pm).
+[**Problem Set 5**](/ps5) is due Friday, 25 October (4:19pm).
+
+**Exam 2** will be in class on Wednesday, November 6.
 
    **Classes**
 
@@ -29,7 +31,8 @@ slug = "schedule"
 30 Sept: [Class 10: Review](/class10)  
 9 Oct: [Class 11: Cost and Counting](/class11) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
 14 Oct: [Class 12: Size Hierarchy](/class12) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
-16 Oct: [Class 13: Machines](/class13) ([TCS Chapter 6](/docs/tcs-chapter6.pdf))
+16 Oct: [Class 13: Machines](/class13) ([TCS Chapter 6](/docs/tcs-chapter6.pdf))  
+
 
 **Past Assignments**  
 
@@ -40,12 +43,12 @@ Friday, 13 September (4:19pm): [Problem Set 1](/ps1)
 Friday, 20 September (4:19pm): [Problem Set 2](/ps2)  
 Monday, 30 September (2:59pm): [Problem Set 3](/ps3)  
 **Wednesday, 2 October (in class): [Exam 1](/exam1)** ([Comments](/exam1comments))  
+Friday, 18 October (4:19pm): [**Problem Set 4**](/ps4)
 
 **Future Asignments**
 
 Wednesday, November 6 (in class): Exam 2  
 Wednesday, December 4 (in class): Exam 3
-
    
    </div>
    <div style="display: table-cell;"></div>
