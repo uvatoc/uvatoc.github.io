@@ -19,8 +19,9 @@
 
 &lt;p&gt;Problem 1a should be:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;Prove that when $f^*(i) = 0$, $f_{i+1} = f_i$. That is, the two functions denoted by $f_{i + 1}$ and $f_i$ are actually the same function. 
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;tt&gt;
+Prove that when $f^*(i) = 0$, $f_{i+1} = f&lt;em&gt;i$. That is, the two functions denoted by $f&lt;/em&gt;{i + 1}$ and $f_i$ are actually the same function.
+&lt;/tt&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to Joey Rudek for noticing the problem!&lt;/p&gt;
 </description>
