@@ -1,12 +1,12 @@
 +++
 date = "22 Oct 2019"
 draft = false
-title = "Problem Set 5"
+title = "Problem Set 5 Update"
 author = "David Evans and Nathan Brunelle"
 slug = "ps5update"
 +++
 
-There was a mistake in PS5, Problem 1, which is now corrected ([updated ps5.pdf](/docs/ps5.pdf), [ps5.zip](/ps5.zip)).
+There was a mistake in PS5, Problem 1, which is now corrected ([updated ps5.pdf](/ps/ps5.pdf), [ps5.zip](/ps/ps5.zip)).
 
 Problem 1a should be:
 
