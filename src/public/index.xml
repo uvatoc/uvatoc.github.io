@@ -6,8 +6,25 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Problem Set 5</title>
+      <link>https://uvatoc.github.io/ps5update/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps5update/</guid>
+      <description>&lt;p&gt;There was a mistake in PS5, Problem 1, which is now corrected (&lt;a href=&#34;https://uvatoc.github.io/docs/ps5.pdf&#34;&gt;updated ps5.pdf&lt;/a&gt;, &lt;a href=&#34;https://uvatoc.github.io/ps5.zip&#34;&gt;ps5.zip&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Problem 1a should be:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Prove that when $f^*(i) = 0$, $f_{i+1} = f_i$. That is, the two functions denoted by $f_{i + 1}$ and $f_i$ are actually the same function. 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Thanks to Joey Rudek for noticing the problem!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 14: Computability</title>
@@ -391,35 +408,6 @@ together.&lt;/p&gt;
 &lt;p&gt;The class on Monday (September 30) will be an exam review. If you have
 specific topics or problems you would like the review to cover, slack
 them to &lt;code&gt;@Dave&lt;/code&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PS1 Grades Posted</title>
-      <link>https://uvatoc.github.io/ps1grades/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps1grades/</guid>
-      <description>&lt;p&gt;The grades for PS1 are now posted. We&amp;rsquo;re really sorry this took so
-long! Hopefully we have a process in place now that will be much
-faster and more reliable at grading and returning homeworks.&lt;/p&gt;
-
-&lt;p&gt;Please look at the posted comments on PS1 in collab: &lt;a href=&#34;only accessible to students in the class&#34;&gt;&lt;a href=&#34;https://collab.its.virginia.edu/access/content/group/ff05ebb2-e2e1-45be-83cb-aadd96d4d2f9/ps1-comments.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;When assigning grades we sought to reward individual solutions that were high quality and total submissions that were overall decent, while not harshly punishing mild mistakes or narrow misconceptions. For this reason we used two metrics to assign your grades: the number of problems on which you received a 5 or higher, and the average of all your problem grades.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You earned an A if you got at least 80% 5&amp;rsquo;s or an average of at least 4.5&lt;/li&gt;
-&lt;li&gt;You earned a B if you got a least 70% 5&amp;rsquo;s or an average of at least 4&lt;/li&gt;
-&lt;li&gt;You earned a C if you got a least 60% 5&amp;rsquo;s or an average of at least 3.5&lt;/li&gt;
-&lt;li&gt;You earned a D if you got a least 50% 5&amp;rsquo;s or an average of at least 3.0&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The challenge problems counted as a bonus to your count of 5&amp;rsquo;s if you got at least a five, and contributed score/5 to the numerator of your average otherwise (i.e., as a bonus).&lt;/p&gt;
-
-&lt;p&gt;Future problem sets may have use a different procedure for assigning scores to letter grades, depending on our goals for that assignment.&lt;/p&gt;
-
-&lt;p&gt;If you did not receive a grade for the assignment, this is mostly likely because you submitted late, and we could find no record of us giving you permission to do so.&lt;/p&gt;
 </description>
     </item>
     
