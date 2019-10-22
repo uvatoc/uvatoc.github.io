@@ -13,4 +13,4 @@ slug = "class14"
 [TCS Chapter 8: Universaility and Uncomputability](/docs/tcs-chapter8.pdf)
 
 Alan M. Turing, [_On Computable Numbers, with an Application to the
-Entscheidungsproblem_](/docs/computablenumbers.pdf). 1936. ([bug fix](/docs/bigfix.pdf))
+Entscheidungsproblem_](/docs/computablenumbers.pdf). 1936. ([bug fix](/docs/bugfix.pdf))
