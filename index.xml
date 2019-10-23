@@ -15,15 +15,26 @@
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps5update/</guid>
-      <description>&lt;p&gt;There was a mistake in PS5, Problem 1, which is now corrected (&lt;a href=&#34;https://uvatoc.github.io/ps/ps5.pdf&#34;&gt;updated ps5.pdf&lt;/a&gt;, &lt;a href=&#34;https://uvatoc.github.io/ps/ps5.zip&#34;&gt;ps5.zip&lt;/a&gt;).&lt;/p&gt;
+      <description>&lt;p&gt;There were several mistakes in PS5, Problem 1, which are now corrected (&lt;a href=&#34;https://uvatoc.github.io/ps/ps5.pdf&#34;&gt;updated ps5.pdf&lt;/a&gt;, &lt;a href=&#34;https://uvatoc.github.io/ps/ps5.zip&#34;&gt;ps5.zip&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;Problem 1a should be:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Problem 1a&lt;/strong&gt; should be:&lt;/p&gt;
 
 &lt;p&gt;&lt;tt&gt;
 Prove that when $f^*(i) = 0$, $f_{i+1} = f&lt;em&gt;i$. That is, the two functions denoted by $f&lt;/em&gt;{i + 1}$ and $f_i$ are actually the same function.
 &lt;/tt&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to Joey Rudek for noticing the problem!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Problems and 7&lt;/strong&gt; mixed up NAND-CIRC and NAND-TM. Problem 6 should be
+asking if NAND-LOOP is more powerful than NAND-CIRC (it would be silly
+to ask if it is more powerful than NAND-TM, since NAND-TM has
+everything in NAND-LOOP plus arrays, so there&amp;rsquo;s no way NAND-LOOP could
+be more powerful than NAND-TM). Similarly, Problem 7 should be asking
+if NAND-ARRAY is more powerful than NAND-CIRC.&lt;/p&gt;
+
+&lt;p&gt;Thanks to Jiahe for pointing out the problems!&lt;/p&gt;
+
+&lt;p&gt;Sorry for all the confusing mistakes on this problem set.&lt;/p&gt;
 </description>
     </item>
     
