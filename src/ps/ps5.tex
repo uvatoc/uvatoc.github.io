@@ -171,9 +171,12 @@ Is NAND-ARRAY more powerful than NAND-CIRC?
 \end{problem}
 
 \directions{
-Define the language NAND-ARRAY as NAND-CIRC plus the special integer variable {\tt i} and array variables (that is, with everything in the first four bullets of the description of NAND-TM in Section 6.2.1, but without {\sf MODANDJUMP}.
+Define the language NAND-ARRAY as NAND-CIRC plus the special integer variable {\tt i} and array variables (that is, with everything in the first four bullets of the description of NAND-TM in Section 6.2.1, but without {\sf MODANDJUMP}. Instead, we add two instructions to NAND-CIRC:
+\begin{itemize}
+\item {\sf CINC} \emph{v} takes a regular variable as its input, and if the value of \emph{v} is 1 it updates the value of {\tt i} to be {\tt i}$ + 1$. Otherwise (when \emph{v} is 0), it does not do anything.
 
-Are there any functions that NAND-ARRAY can compute that cannot be computed by NAND-CIRC?
+\item {\sf CDEC} \emph{v} takes a regular variable as its input, and if the value of \emph{v} is 1 it updates the value of {\tt i} to be $max(\mathtt{i} - 1, 0)$. Otherwise, it does not do anything.
+\end{itemize}
 }
 
 \begin{problem}
@@ -183,6 +186,14 @@ Define a language that extends NAND-CIRC, which is more powerful (in an interest
 \directions{
 One way to interpret ``in an interesting way'' is that your language should be able to implement an infinite set of functions that cannot be implemented by NAND-CIRC, but there should be an infinite set of functions that NAND-TM can implement which cannot be implemented in your language.
 }
+
+\begin{center}
+{\bf End of Problem Set 5} \\
+\end{center}
+
+\subsection*{Deferred Problems}
+
+The two problems below were originally included in Problem Set 5, but since it took longer than we expected to cover computability in class, we are deferring these to Problem Set 6. (If you've already complete these, great! Just save your solutions to paste into PS6; the exact same problems will be included in the next problem set.)
 
 \begin{problem}
 Prove that the Busy Beaver Problem (defined in Class 14 and below) is uncomputable.
@@ -209,13 +220,5 @@ For any $n \in \mathbb{N}$, define $\mathit{BOA}(n)$ as the largest integer that
 
 The \emph{idealized Python} language is the Python language you are familiar with, but without any arbitrary limits. So, for example, it provides a {\tt +} operation that works on all natural numbers, unlike any actual Python implementation which can only implement {\tt +} for a subset of $\mathbb{N}$.
 }
-
-
-
-
-
-\begin{center}
-{\bf End of Problem Set 5} \\
-\end{center}
 
 \end{document}

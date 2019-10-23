@@ -85,13 +85,19 @@ Theory of Computation<br>
    <b><a href="/post/">Recent Posts</a></b>
    
    <div class="posttitle">
-      &nbsp;&nbsp;&nbsp; <a href="/ps5update/">Problem Set 5 Update</a>
+      &nbsp;&nbsp;&nbsp; <a href="/ps5update2/">Problem Set 5 Update</a>
 
 
    </div>
    
    <div class="posttitle">
       &nbsp;&nbsp;&nbsp; <a href="/class15/">Class 15: Universality and Uncomputability</a>
+
+
+   </div>
+   
+   <div class="posttitle">
+      &nbsp;&nbsp;&nbsp; <a href="/ps5update/">Problem Set 5 Update</a>
 
 
    </div>
@@ -104,12 +110,6 @@ Theory of Computation<br>
    
    <div class="posttitle">
       &nbsp;&nbsp;&nbsp; <a href="/ps5/">Problem Set 5</a>
-
-
-   </div>
-   
-   <div class="posttitle">
-      &nbsp;&nbsp;&nbsp; <a href="/class13/">Class 13: Machines</a>
 
 
    </div>
@@ -205,7 +205,75 @@ Theory of Computation<br>
     
         
     
+        
+    
   
+
+    
+    <h1><a href="/ps5update2/">Problem Set 5 Update</a></h1>
+<div class="post-metadata">
+  <span class="post-date">
+    <time datetime="2019-10-23 00:00:00 &#43;0000 UTC" itemprop="datePublished">23 October 2019</time> by David Evans and Nathan Brunelle
+  </span>
+  
+</div>
+
+      <div class="post-body" itemprop="articleBody">
+        <p>Two more updates to PS5:</p>
+
+<ol>
+<li><strong>Problem 6</strong> considered adding an array but not loops to NAND-CIRC. But, it doesn&rsquo;t make sense to have arrays without any way to update the index used to access them. So, for this to make sense we need to also have an instruction to update i. So, we have modified this question to add conditional increment and decrement instructions:</li>
+</ol>
+
+<ul>
+<li><p><code>CINC _v_ takes a regular variable as its input, and if the value of _v_ is 1 it updates the value of</code>i<code>to be</code>i` + 1. Otherwise (when <em>v</em> is 0), it does not do anything.</p></li>
+
+<li><p><code>CDEC</code> <em>v</em> takes a regular variable as its input, and if the value of <em>v</em> is 1 it updates the value of <code>i</code> to be max(<code>i</code> - 1, 0). Otherwise, it does not do anything.</p></li>
+</ul>
+
+<ol>
+<li>Since we didn&rsquo;t get to examples of uncomputability proofs in class
+this week, we&rsquo;re deferring Problem 9 and Problem 10 from PS5 to
+PS6. If you&rsquo;ve already solved these, great - just save your solution
+to submit for the same questions that will be moved to PS6.</li>
+</ol>
+
+      </div>
+<hr class="post-separator"></hr>
+
+    
+    <h1><a href="/class15/">Class 15: Universality and Uncomputability</a></h1>
+<div class="post-metadata">
+  <span class="post-date">
+    <time datetime="2019-10-23 00:00:00 &#43;0000 UTC" itemprop="datePublished">23 October 2019</time> by David Evans
+  </span>
+  
+</div>
+
+      <div class="post-body" itemprop="articleBody">
+        <p><a href="https://www.dropbox.com/s/iibngc72d0snb0f/class15-inked.pdf?dl=0">Slides</a>
+<a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8ce23af-8a26-44b4-9678-aaef01410d8e">Video</a></p>
+
+<p><a href="/docs/tcs-chapter8.pdf">TCS Chapter 8: Universaility and Uncomputability</a></p>
+
+<p>Alan M. Turing, <a href="/docs/computablenumbers.pdf"><em>On Computable Numbers, with an Application to the
+Entscheidungsproblem</em></a>. 1936. (<a href="/docs/bugfix.pdf">bug
+fix</a>) (You missed your chance to by an <a href="http://www.sothebys.com/en/auctions/ecatalogue/lot.929.html/2018/the-library-of-erwin-tomash-l18409">original
+printing for GBP 30,000</a>.)</p>
+
+<p>According to <a href="http://www.scottaaronson.com/">Scott Aaronson</a>,
+<a href="https://dori-mic.org"><em>Dori-Mic and the Universal Machine! A Tragicomic Tale of
+Combinatorics and Computability for Curious Children of All
+Ages</em></a> is <a href="https://www.amazon.com/review/R1TSEFIBYW9Y6I/ref=cm_cr_dp_title?ie=UTF8&amp;ASIN=1495944980&amp;channel=detail-glance&amp;nodeID=283155&amp;store=books">&ldquo;The BEST babies&rsquo; book about
+computational universality I&rsquo;ve
+read.&rdquo;</a>. I
+have free copies available for anyone who needs a holiday present for
+a young sibling/cousin/nibling/other person who is behind in her
+theoretical computer science education and needs a holiday present for
+any cs3102 students who ask.</p>
+
+      </div>
+<hr class="post-separator"></hr>
 
     
     <h1><a href="/ps5update/">Problem Set 5 Update</a></h1>
@@ -237,40 +305,6 @@ if NAND-ARRAY is more powerful than NAND-CIRC.</p>
 <p>Thanks to Jiahe for pointing out the problems!</p>
 
 <p>Sorry for all the confusing mistakes on this problem set.</p>
-
-      </div>
-<hr class="post-separator"></hr>
-
-    
-    <h1><a href="/class15/">Class 15: Universality and Uncomputability</a></h1>
-<div class="post-metadata">
-  <span class="post-date">
-    <time datetime="2019-10-21 00:00:00 &#43;0000 UTC" itemprop="datePublished">21 October 2019</time> by David Evans
-  </span>
-  
-</div>
-
-      <div class="post-body" itemprop="articleBody">
-        <p><a href="https://www.dropbox.com/s/iibngc72d0snb0f/class15-inked.pdf?dl=0">Slides</a>
-<a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8ce23af-8a26-44b4-9678-aaef01410d8e">Video</a></p>
-
-<p><a href="/docs/tcs-chapter8.pdf">TCS Chapter 8: Universaility and Uncomputability</a></p>
-
-<p>Alan M. Turing, <a href="/docs/computablenumbers.pdf"><em>On Computable Numbers, with an Application to the
-Entscheidungsproblem</em></a>. 1936. (<a href="/docs/bugfix.pdf">bug
-fix</a>) (You missed your chance to by an <a href="http://www.sothebys.com/en/auctions/ecatalogue/lot.929.html/2018/the-library-of-erwin-tomash-l18409">original
-printing for GBP 30,000</a>.)</p>
-
-<p>According to <a href="http://www.scottaaronson.com/">Scott Aaronson</a>,
-<a href="https://dori-mic.org"><em>Dori-Mic and the Universal Machine! A Tragicomic Tale of
-Combinatorics and Computability for Curious Children of All
-Ages</em></a> is <a href="https://www.amazon.com/review/R1TSEFIBYW9Y6I/ref=cm_cr_dp_title?ie=UTF8&amp;ASIN=1495944980&amp;channel=detail-glance&amp;nodeID=283155&amp;store=books">&ldquo;The BEST babies&rsquo; book about
-computational universality I&rsquo;ve
-read.&rdquo;</a>. I
-have free copies available for anyone who needs a holiday present for
-a young sibling/cousin/nibling/other person who is behind in her
-theoretical computer science education and needs a holiday present for
-any cs3102 students who ask.</p>
 
       </div>
 <hr class="post-separator"></hr>
@@ -319,25 +353,6 @@ October</strong> at <strong>4:19pm</strong>.</p>
 
 <p>This assignment covers the Size Hierarchy from <a href="/docs/tcs-chapter5.pdf">Chapter 5</a>, Finite State Macines from Class 12 and Class 13, and Turing Machines, NAND-TM, and computability from
 <a href="/docs/tcs-chapter5.pdf">Chapter 5</a>, Class 13 and Class 14.</p>
-
-      </div>
-<hr class="post-separator"></hr>
-
-    
-    <h1><a href="/class13/">Class 13: Machines</a></h1>
-<div class="post-metadata">
-  <span class="post-date">
-    <time datetime="2019-10-17 00:00:00 &#43;0000 UTC" itemprop="datePublished">17 October 2019</time> by Nathan Brunelle
-  </span>
-  
-</div>
-
-      <div class="post-body" itemprop="articleBody">
-        <p><a href="https://www.dropbox.com/s/36tv9no453ffmkn/class13_written.pptx?dl=0">Slides</a></p>
-
-<p><a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89195d73-1989-4b2f-8b70-aae8014178c4">Video</a></p>
-
-<p><a href="/docs/tcs-chapter6.pdf">TCS Chapter 6: Loops and Infinity</a></p>
 
       </div>
 <hr class="post-separator"></hr>

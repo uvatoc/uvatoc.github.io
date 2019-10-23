@@ -6,8 +6,64 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 15: Universality and Uncomputability</title>
+      <link>https://uvatoc.github.io/class15/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class15/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/iibngc72d0snb0f/class15-inked.pdf?dl=0&#34;&gt;Slides&lt;/a&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8ce23af-8a26-44b4-9678-aaef01410d8e&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter8.pdf&#34;&gt;TCS Chapter 8: Universaility and Uncomputability&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Alan M. Turing, &lt;a href=&#34;https://uvatoc.github.io/docs/computablenumbers.pdf&#34;&gt;&lt;em&gt;On Computable Numbers, with an Application to the
+Entscheidungsproblem&lt;/em&gt;&lt;/a&gt;. 1936. (&lt;a href=&#34;https://uvatoc.github.io/docs/bugfix.pdf&#34;&gt;bug
+fix&lt;/a&gt;) (You missed your chance to by an &lt;a href=&#34;http://www.sothebys.com/en/auctions/ecatalogue/lot.929.html/2018/the-library-of-erwin-tomash-l18409&#34;&gt;original
+printing for GBP 30,000&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;According to &lt;a href=&#34;http://www.scottaaronson.com/&#34;&gt;Scott Aaronson&lt;/a&gt;,
+&lt;a href=&#34;https://dori-mic.org&#34;&gt;&lt;em&gt;Dori-Mic and the Universal Machine! A Tragicomic Tale of
+Combinatorics and Computability for Curious Children of All
+Ages&lt;/em&gt;&lt;/a&gt; is &lt;a href=&#34;https://www.amazon.com/review/R1TSEFIBYW9Y6I/ref=cm_cr_dp_title?ie=UTF8&amp;amp;ASIN=1495944980&amp;amp;channel=detail-glance&amp;amp;nodeID=283155&amp;amp;store=books&#34;&gt;&amp;ldquo;The BEST babies&amp;rsquo; book about
+computational universality I&amp;rsquo;ve
+read.&amp;rdquo;&lt;/a&gt;. I
+have free copies available for anyone who needs a holiday present for
+a young sibling/cousin/nibling/other person who is behind in her
+theoretical computer science education and needs a holiday present for
+any cs3102 students who ask.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 5 Update</title>
+      <link>https://uvatoc.github.io/ps5update2/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps5update2/</guid>
+      <description>&lt;p&gt;Two more updates to PS5:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Problem 6&lt;/strong&gt; considered adding an array but not loops to NAND-CIRC. But, it doesn&amp;rsquo;t make sense to have arrays without any way to update the index used to access them. So, for this to make sense we need to also have an instruction to update i. So, we have modified this question to add conditional increment and decrement instructions:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;CINC _v_ takes a regular variable as its input, and if the value of _v_ is 1 it updates the value of&lt;/code&gt;i&lt;code&gt;to be&lt;/code&gt;i` + 1. Otherwise (when &lt;em&gt;v&lt;/em&gt; is 0), it does not do anything.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;code&gt;CDEC&lt;/code&gt; &lt;em&gt;v&lt;/em&gt; takes a regular variable as its input, and if the value of &lt;em&gt;v&lt;/em&gt; is 1 it updates the value of &lt;code&gt;i&lt;/code&gt; to be max(&lt;code&gt;i&lt;/code&gt; - 1, 0). Otherwise, it does not do anything.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Since we didn&amp;rsquo;t get to examples of uncomputability proofs in class
+this week, we&amp;rsquo;re deferring Problem 9 and Problem 10 from PS5 to
+PS6. If you&amp;rsquo;ve already solved these, great - just save your solution
+to submit for the same questions that will be moved to PS6.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Problem Set 5 Update</title>
@@ -52,35 +108,6 @@ if NAND-ARRAY is more powerful than NAND-CIRC.&lt;/p&gt;
 
 &lt;p&gt;Alan M. Turing, &lt;a href=&#34;https://uvatoc.github.io/docs/computablenumbers.pdf&#34;&gt;&lt;em&gt;On Computable Numbers, with an Application to the
 Entscheidungsproblem&lt;/em&gt;&lt;/a&gt;. 1936. (&lt;a href=&#34;https://uvatoc.github.io/docs/bugfix.pdf&#34;&gt;bug fix&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 15: Universality and Uncomputability</title>
-      <link>https://uvatoc.github.io/class15/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class15/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/iibngc72d0snb0f/class15-inked.pdf?dl=0&#34;&gt;Slides&lt;/a&gt;
-&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8ce23af-8a26-44b4-9678-aaef01410d8e&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter8.pdf&#34;&gt;TCS Chapter 8: Universaility and Uncomputability&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Alan M. Turing, &lt;a href=&#34;https://uvatoc.github.io/docs/computablenumbers.pdf&#34;&gt;&lt;em&gt;On Computable Numbers, with an Application to the
-Entscheidungsproblem&lt;/em&gt;&lt;/a&gt;. 1936. (&lt;a href=&#34;https://uvatoc.github.io/docs/bugfix.pdf&#34;&gt;bug
-fix&lt;/a&gt;) (You missed your chance to by an &lt;a href=&#34;http://www.sothebys.com/en/auctions/ecatalogue/lot.929.html/2018/the-library-of-erwin-tomash-l18409&#34;&gt;original
-printing for GBP 30,000&lt;/a&gt;.)&lt;/p&gt;
-
-&lt;p&gt;According to &lt;a href=&#34;http://www.scottaaronson.com/&#34;&gt;Scott Aaronson&lt;/a&gt;,
-&lt;a href=&#34;https://dori-mic.org&#34;&gt;&lt;em&gt;Dori-Mic and the Universal Machine! A Tragicomic Tale of
-Combinatorics and Computability for Curious Children of All
-Ages&lt;/em&gt;&lt;/a&gt; is &lt;a href=&#34;https://www.amazon.com/review/R1TSEFIBYW9Y6I/ref=cm_cr_dp_title?ie=UTF8&amp;amp;ASIN=1495944980&amp;amp;channel=detail-glance&amp;amp;nodeID=283155&amp;amp;store=books&#34;&gt;&amp;ldquo;The BEST babies&amp;rsquo; book about
-computational universality I&amp;rsquo;ve
-read.&amp;rdquo;&lt;/a&gt;. I
-have free copies available for anyone who needs a holiday present for
-a young sibling/cousin/nibling/other person who is behind in her
-theoretical computer science education and needs a holiday present for
-any cs3102 students who ask.&lt;/p&gt;
 </description>
     </item>
     
@@ -396,21 +423,6 @@ in that chapter are available on request.)&lt;/p&gt;
 &lt;p&gt;The challenge problems counted as a bonus to your count of 5&amp;rsquo;s if you got at least a five, and contributed score/5 to the numerator of your average otherwise (i.e., as a bonus).&lt;/p&gt;
 
 &lt;p&gt;If you did not receive a grade for the assignment, this is mostly likely because you submitted late, and we could find no record of us giving you permission to do so.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 8: Complexity</title>
-      <link>https://uvatoc.github.io/class8/</link>
-      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class8/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Schedule Reminders:&lt;/strong&gt; &lt;a href=&#34;https://uvatoc.github.io/ps3&#34;&gt;Problem Set 3&lt;/a&gt; is due this Monday (2:59pm). Note the schedule change resulting from the interaction between fall break and the exam, which will be in class, Wednesday, 2 October.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/vyay005hr199it9/class8_written.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54e0e8a0-c35a-4158-bbd9-aad101416a76&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://introtcs.org/public/lec_03a_computing_every_function.html&#34;&gt;TCS Chapter 4: syntactic sugar&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

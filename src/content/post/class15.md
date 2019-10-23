@@ -1,5 +1,5 @@
 +++
-date = "21 Oct 2019"
+date = "23 Oct 2019"
 draft = false
 title = "Class 15: Universality and Uncomputability"
 author = "David Evans"
