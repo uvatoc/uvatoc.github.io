@@ -2,7 +2,7 @@
 date = "22 Oct 2019"
 draft = false
 title = "Problem Set 5 Update"
-author = "David Evans and Nathan Brunelle"
+author = "David Evans"
 slug = "ps5update"
 +++
 
