@@ -16,7 +16,7 @@ Prove that when $f^*(i) = 0$, $f_{i+1} = f_i$. That is, the two functions denote
 
 Thanks to Joey Rudek for noticing the problem!
 
-**Problems and 7** mixed up NAND-CIRC and NAND-TM. Problem 6 should be
+**Problems 6 and 7** mixed up NAND-CIRC and NAND-TM. Problem 6 should be
 asking if NAND-LOOP is more powerful than NAND-CIRC (it would be silly
 to ask if it is more powerful than NAND-TM, since NAND-TM has
 everything in NAND-LOOP plus arrays, so there's no way NAND-LOOP could

@@ -25,7 +25,7 @@ Prove that when $f^*(i) = 0$, $f_{i+1} = f&lt;em&gt;i$. That is, the two functio
 
 &lt;p&gt;Thanks to Joey Rudek for noticing the problem!&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Problems and 7&lt;/strong&gt; mixed up NAND-CIRC and NAND-TM. Problem 6 should be
+&lt;p&gt;&lt;strong&gt;Problems 6 and 7&lt;/strong&gt; mixed up NAND-CIRC and NAND-TM. Problem 6 should be
 asking if NAND-LOOP is more powerful than NAND-CIRC (it would be silly
 to ask if it is more powerful than NAND-TM, since NAND-TM has
 everything in NAND-LOOP plus arrays, so there&amp;rsquo;s no way NAND-LOOP could
