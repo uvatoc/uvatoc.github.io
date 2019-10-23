@@ -156,24 +156,24 @@ $$
 The NAND-TM language is defined by adding both loops and arrays to NAND-CIRC. For the next two problems, we consider the impact of adding either just loops or just arrays to NAND-CIRC.
 
 \begin{problem}
-Is NAND-LOOP more powerful than NAND-TM?
+Is NAND-LOOP more powerful than NAND-CIRC? % backwards?
 \end{problem}
 
 \directions{
-Define the language NAND-LOOP as NAND-CIRC plus the {\sf MODANDJUMP} instruction. Are there any functions that NAND-LOOP can compute that cannot be computed by NAND-TM?
+Define the language NAND-LOOP as NAND-CIRC plus the {\sf MODANDJUMP} instruction. Are there any functions that NAND-LOOP can compute that cannot be computed by NAND-CIRC?
 
 (A good answer will either provide a proof that the languages are equivalent in power, or show that there exists a function which can be computed by NAND-LOOP but not by NAND-CIRC.)
 }
 
 \directions{\clearpage}
 \begin{problem}
-Is NAND-ARRAY more powerful than NAND-TM?
+Is NAND-ARRAY more powerful than NAND-CIRC?
 \end{problem}
 
 \directions{
 Define the language NAND-ARRAY as NAND-CIRC plus the special integer variable {\tt i} and array variables (that is, with everything in the first four bullets of the description of NAND-TM in Section 6.2.1, but without {\sf MODANDJUMP}.
 
-Are there any functions that NAND-ARRAY can compute that cannot be computed by NAND-TM?
+Are there any functions that NAND-ARRAY can compute that cannot be computed by NAND-CIRC?
 }
 
 \begin{problem}
