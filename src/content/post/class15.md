@@ -6,7 +6,7 @@ author = "David Evans"
 slug = "class15"
 +++
 
-[Slides](https://www.dropbox.com/s/iibngc72d0snb0f/class15-inked.pdf?dl=0)
+[Slides](https://www.dropbox.com/s/iibngc72d0snb0f/class15-inked.pdf?dl=0)  
 [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8ce23af-8a26-44b4-9678-aaef01410d8e)
 
 [TCS Chapter 8: Universaility and Uncomputability](/docs/tcs-chapter8.pdf)
