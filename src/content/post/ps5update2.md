@@ -8,7 +8,7 @@ slug = "ps5update2"
 
 Two more updates to [PS5](/ps/ps5.pdf):
 
-1. **Problem 6** considered adding an array but not loops to NAND-CIRC. But, it doesn't make sense to have arrays without any way to update the index used to access them. So, for this to make sense we need to also have an instruction to update i. So, we have modified this question to add conditional increment and decrement instructions:
+1. **Problem 7** considered adding an array but not loops to NAND-CIRC. But, it doesn't make sense to have arrays without any way to update the index used to access them. So, for this to make sense we need to also have an instruction to update i. So, we have modified this question to add conditional increment and decrement instructions:
 
    - `CINC` _v_ takes a regular variable as its input, and if the value of _v_ is 1 it updates the value of `i` to be `i` + 1. Otherwise (when _v_ is 0), it does not do anything.
 
