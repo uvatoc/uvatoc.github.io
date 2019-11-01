@@ -6,8 +6,51 @@
     <description>Recent content in Post-rsses on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Preparing for Exam 2</title>
+      <link>https://uvatoc.github.io/exam2/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/exam2/</guid>
+      <description>&lt;p&gt;Exam 2 will be &lt;strong&gt;Wednesday, 6 November&lt;/strong&gt; at the normal class time
+in the normal classroom. We will aim to start the exam right at
+3:30pm, so you will benefit from arriving early for class Wednesday to
+be settled and ready to start the exam.&lt;/p&gt;
+
+&lt;p&gt;Exam 2 will cover material from Classes 1-16 (through 28 October) (so
+the new material introduced on Rice&amp;rsquo;s Theorem in Class 17 is not
+covered in this exam), Problem Sets 1-6 (comments for PS4 and PS5 are
+now available in collab, sorry it has taken so long to get the grading
+done for these, but you can see our solutions and comments in collab
+now; we will post comments for Problem Set 6 on Sunday afternoon), and
+the textbook chapters 0-6 and parts of 8 (8.1-8.4).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Most&lt;/em&gt; of the questions on the exam will cover topics that you will
+have seen in at least two different places (e.g., both in class and on
+a problem set, or in multiple classes, or at least both in the
+textbook and in class or a problem set). The exam will emphasize
+material that was not covered by Exam 1 (so focusing on the material
+on problem sets 4-6), but will also build on material earlier in the
+class, and you should be surprised if it does not include induction
+proofs.&lt;/p&gt;
+
+&lt;p&gt;As a reminder from the syllabus, you may construct a one-page
+(letter-size, two-sided) &lt;strong&gt;reference sheet for use during the exam&lt;/strong&gt;,
+but all other resources are forbidden (no internet, textbook, other
+humans, magnification instruments, etc.). We expect that students will
+benefit from thinking about what to put on your reference sheet in
+preparing for the exam, and you may work with anyone you want
+(including other students in the class) to prepare a reference sheets
+together.&lt;/p&gt;
+
+&lt;p&gt;The class on Monday (November 4) will include an exam review. If you
+have specific topics or problems you would like the review to cover,
+slack them to &lt;code&gt;@Dave&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 17: Rice&#39;s Theorem</title>
@@ -284,27 +327,6 @@ the results in &lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#3
 resume on October 9. We will return Exam 1 in class on Wednesday,
 October 9.  There is no problem set due next week. Problem Set 4 will
 be due on Friday, 18 October.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 10: Exam Review</title>
-      <link>https://uvatoc.github.io/class10/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class10/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Exam 1 is in class Wednesday.&lt;/strong&gt;&lt;br /&gt;
-Please read the cover sheet before the exam: &lt;a href=&#34;https://uvatoc.github.io/docs/exam1-cover.pdf&#34;&gt;Exam 1 Cover Sheet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://collab.its.virginia.edu/access/content/group/ff05ebb2-e2e1-45be-83cb-aadd96d4d2f9/ps3-comments.pdf&#34;&gt;Problem Set 3
-Comments&lt;/a&gt;
-(PDF in collab).&lt;br /&gt;
-&lt;a href=&#34;https://uvatoc.github.io/docs/practiceproblems.pdf&#34;&gt;Practice Problems Comments&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/5t50pttf9wyi3oi/class10-post.pdf?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89d8c09a-52ae-48d5-8659-aad80140f125&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/quantumsupremacy.pdf&#34;&gt;&lt;em&gt;Quantum supremacy using a programmable superconducting processor&lt;/em&gt;&lt;/a&gt;, Google AI Quantum and collaborators. Leaked preprint, August 2019.&lt;/p&gt;
 </description>
     </item>
     
