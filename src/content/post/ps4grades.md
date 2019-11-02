@@ -25,6 +25,6 @@ That policy was:
  - You earned a C if `score_by_fives >= 0.60` or `score_by_average >= 3.5`
  - You earned a D if `score_by_fives >= 0.50` or `score_by_average >= 3.0`
  
-Bonusses were added when we felt it appropriate.
+Bonuses were added when we felt it appropriate.
  
  If you did not receive a grade for the assignment, this is mostly likely because you submitted late, and we could find no record of us giving you permission to do so.
