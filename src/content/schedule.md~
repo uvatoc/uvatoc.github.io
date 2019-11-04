@@ -32,10 +32,10 @@ slug = "schedule"
 9 Oct: [Class 11: Cost and Counting](/class11) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
 14 Oct: [Class 12: Size Hierarchy](/class12) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
 16 Oct: [Class 13: Machines](/class13) ([TCS Chapter 6](/docs/tcs-chapter6.pdf))  
-21 Oct: [Class 14: Computability](/class14) ([TCS Chapter 6](/docs/tcs-chapter6.pdf), [Chapter 8](/docs/tcs-chapter8.pdf)  
-23 Oct: [Class 15: Universality and Unomputability](/class15) ([Chapter 8](/docs/tcs-chapter8.pdf)  
-28 Oct: [Class 16: Reductions](/class16) ([Chapter 8](/docs/tcs-chapter8.pdf)  
-28 Oct: [Class 17: Rice's Theorem](/class17) ([Chapter 8](/docs/tcs-chapter8.pdf)  
+21 Oct: [Class 14: Computability](/class14) ([TCS Chapter 6](/docs/tcs-chapter6.pdf), [Chapter 8](/docs/tcs-chapter8.pdf))  
+23 Oct: [Class 15: Universality and Unomputability](/class15) ([Chapter 8](/docs/tcs-chapter8.pdf))  
+28 Oct: [Class 16: Reductions](/class16) ([Chapter 8](/docs/tcs-chapter8.pdf))  
+28 Oct: [Class 17: Rice's Theorem](/class17) ([Chapter 8](/docs/tcs-chapter8.pdf))  
 
 **Past Assignments**  
 
@@ -46,7 +46,7 @@ Friday, 13 September (4:19pm): [Problem Set 1](/ps1)
 Friday, 20 September (4:19pm): [Problem Set 2](/ps2)  
 Monday, 30 September (2:59pm): [Problem Set 3](/ps3)  
 **Wednesday, 2 October (in class): [Exam 1](/exam1)** ([Comments](/exam1comments))  
-Friday, 18 October (4:19pm): [**Problem Set 4**](/ps4)
+Friday, 18 October (4:19pm): [**Problem Set 4**](/ps4)  
 Friday, 25 October (5:19pm): [**Problem Set 5**](/ps5)
 
 **Future Asignments**

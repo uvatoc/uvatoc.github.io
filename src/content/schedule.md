@@ -28,14 +28,15 @@ slug = "schedule"
 18 Sept: [Class 7: Syntactic Sugar](/class7) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
 23 Sept: [Class 8: Complexity](/class8) ([TCS Chapter 4](/docs/tcs-chapter4.pdf))  
 25 Sept: [Class 9: Evaluation](/class9) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
-30 Sept: [Class 10: Review](/class10)  
+30 Sept: [Class 10: Review for Exam 1](/class10)  
 9 Oct: [Class 11: Cost and Counting](/class11) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
 14 Oct: [Class 12: Size Hierarchy](/class12) ([TCS Chapter 5](/docs/tcs-chapter5.pdf))  
 16 Oct: [Class 13: Machines](/class13) ([TCS Chapter 6](/docs/tcs-chapter6.pdf))  
 21 Oct: [Class 14: Computability](/class14) ([TCS Chapter 6](/docs/tcs-chapter6.pdf), [Chapter 8](/docs/tcs-chapter8.pdf))  
 23 Oct: [Class 15: Universality and Unomputability](/class15) ([Chapter 8](/docs/tcs-chapter8.pdf))  
 28 Oct: [Class 16: Reductions](/class16) ([Chapter 8](/docs/tcs-chapter8.pdf))  
-28 Oct: [Class 17: Rice's Theorem](/class17) ([Chapter 8](/docs/tcs-chapter8.pdf))  
+30 Oct: [Class 17: Rice's Theorem](/class17) ([Chapter 8](/docs/tcs-chapter8.pdf))  
+04 Nov: [Class 18: Review for Exam 2](/class18) ([Exam 2 Practice](/exam2practice))  
 
 **Past Assignments**  
 
