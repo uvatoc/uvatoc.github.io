@@ -3,7 +3,7 @@ date = "02 Nov 2019"
 draft = false
 title = "Practice Problems for Exam 2"
 author = "David Evans and Nathan Brunelle"
-slug = "exam2"
+slug = "exam2practice"
 +++
 
 By popular request, here are some practice problems for preparing to Exam 2: [[PDF](/docs/exam2practice.pdf)]
