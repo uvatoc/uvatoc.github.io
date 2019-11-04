@@ -6,8 +6,22 @@
     <description>Recent content in Post-rsses on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 18: Review for Exam 2</title>
+      <link>https://uvatoc.github.io/class18/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class18/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/c2ciuclc2zjgqtk/class18-post.pdf?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ce45bc2-ca94-402e-84ac-aafb01519dbc&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/exam2practice&#34;&gt;Exam 2 Practice Problems&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uvatoc.github.io/exam2&#34;&gt;Exam 2 Preparation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PS4 Grades Posted</title>
@@ -325,19 +339,6 @@ the results in &lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#3
   &lt;em&gt;n&lt;/em&gt; is in &lt;em&gt;o&lt;/em&gt;(&lt;em&gt;n&lt;/em&gt; log &lt;em&gt;n&lt;/em&gt;). This is
   corrected now, sorry for the confusion and thanks to Gustavo Moreira
   for pointing out the problem.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 11: Cost and Counting</title>
-      <link>https://uvatoc.github.io/class11/</link>
-      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class11/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/tbsytzp9n6fnyvg/class11-post.pdf?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2349417-446c-46a8-b5ec-aae10141417e&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;TCS Chapter 5: Code as data, data as code&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
