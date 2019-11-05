@@ -36,7 +36,7 @@ slug = "schedule"
 23 Oct: [Class 15: Universality and Unomputability](/class15) ([Chapter 8](/docs/tcs-chapter8.pdf))  
 28 Oct: [Class 16: Reductions](/class16) ([Chapter 8](/docs/tcs-chapter8.pdf))  
 30 Oct: [Class 17: Rice's Theorem](/class17) ([Chapter 8](/docs/tcs-chapter8.pdf))  
-04 Nov: [Class 18: Review for Exam 2](/class18) ([Exam 2 Practice](/exam2practice))  
+4 Nov: [Class 18: Review for Exam 2](/class18) ([Exam 2 Practice](/exam2practice))  
 
 **Past Assignments**  
 
