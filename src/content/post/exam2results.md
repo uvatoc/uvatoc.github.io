@@ -21,7 +21,7 @@ where a "good" answer was worth 6 points) are:
 <center>
 <table style="width:80%">
 <tr>
-<th align="center" width="10%">Cover</th><th align="center" width="10%">1</th><th align="center" width="10%">2</th><th align="center" width="10%">3</th><th align="center" width="10%">4</th><th align="center" width="10%">5</th><th align="center" width="10%">6</th><th align="center" width="10%">7</th><th align="center" width="10%">8</th><th align="center" width="10%">9</th>th align="center" width="10%">10</th>th align="center" width="10%">11</th>
+<th align="center" width="12%">Cover</th><th align="center" width="8%">1</th><th align="center" width="8%">2</th><th align="center" width="8%">3</th><th align="center" width="8%">4</th><th align="center" width="8%">5</th><th align="center" width="8%">6</th><th align="center" width="8%">7</th><th align="center" width="8%">8</th><th align="center" width="8%">9</th>th align="center" width="8%">8</th><th align="center" width="8%">11</th>
 </tr>
 <tr>
 <td align="center">5.99 (6)</td><td align="center">8.12</td><td align="center">6.76</td><td align="center">8.34</td><td align="center">8.17</td><td align="center">8.05</td><td align="center">8.42</td><td align="center">8.43</td><td align="center">6.92</td><td align="center">6.58</td><td align="center">4.50</td><td align="center">6.80</td></tr>
