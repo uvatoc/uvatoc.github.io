@@ -6,8 +6,38 @@
     <description>Recent content in Post-rsses on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exam 2 Results</title>
+      <link>https://uvatoc.github.io/exam2results/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/exam2results/</guid>
+      <description>&lt;p&gt;The comments on Exam 2 are here: &lt;a href=&#34;https://uvatoc.github.io/docs/exam2comments.pdf&#34;&gt;Exam 2 Comments&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The exam is: &lt;a href=&#34;https://uvatoc.github.io/docs/exam2.pdf&#34;&gt;Exam 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall, this exam was more difficult than Exam 1 and several of the
+problems turned out to be quite challenging (actually, three of them
+were impossible!).&lt;/p&gt;
+
+&lt;p&gt;The average scores by problem (as explained on the cover sheet, the
+score for a good answer for each problem was 9, other than the Cover
+where a &amp;ldquo;good&amp;rdquo; answer was worth 6 points) are:&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;table style=&#34;width:80%&#34;&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;Cover&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;1&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;2&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;3&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;4&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;5&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;6&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;7&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;8&lt;/th&gt;&lt;th align=&#34;center&#34; width=&#34;10%&#34;&gt;9&lt;/th&gt;th align=&amp;ldquo;center&amp;rdquo; width=&amp;ldquo;10%&amp;rdquo;&amp;gt;10&lt;/th&gt;th align=&amp;ldquo;center&amp;rdquo; width=&amp;ldquo;10%&amp;rdquo;&amp;gt;11&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;5.99 (6)&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;8.12&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;6.76&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;8.34&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;8.17&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;8.05&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;8.42&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;8.43&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;6.92&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;6.58&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;4.50&lt;/td&gt;&lt;td align=&#34;center&#34;&gt;6.80&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 18: Review for Exam 2</title>
@@ -307,38 +337,6 @@ October&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
 &lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18139c06-6bac-49b2-a340-aae601415d26&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;TCS Chapter 5: Code as data, data as code&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Problem Set 4</title>
-      <link>https://uvatoc.github.io/ps4/</link>
-      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps4/</guid>
-      <description>
-
-&lt;h2 id=&#34;problem-set-4-countess-of-functions&#34;&gt;Problem Set 4: Countess of Functions&lt;/h2&gt;
-
-&lt;p&gt;Problem Set 4 is available here: &lt;a href=&#34;https://uvatoc.github.io/ps/ps4.pdf&#34;&gt;ps4.pdf&lt;/a&gt; (you will also
-need the &lt;a href=&#34;https://uvatoc.github.io/ps/ps4.zip&#34;&gt;ps4.zip&lt;/a&gt; file). It is due on &lt;strong&gt;Friday, 18
-October&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;This assignment involves both PDF and Jupyter parts, and you should
-submit both your &lt;code&gt;ps4.ipynb&lt;/code&gt; and &lt;code&gt;ps4.pdf&lt;/code&gt; files as attachments in
-collab. As far as we know, none of the problems are impossible (we may
-be wrong, of course, but none of them are intentionally impossible to
-solve).&lt;/p&gt;
-
-&lt;p&gt;The purpose of this assignment is to continue to develop your
-understanding of the asymptotic operators, and to understand deeply
-the results in &lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;Chapter 5&lt;/a&gt; of the textbook.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Updated 13 Oct 2019:&lt;/strong&gt; The original problem 4b asked you to prove
-  something impossible. The question we meant to as is to prove that
-  &lt;em&gt;n&lt;/em&gt; is in &lt;em&gt;o&lt;/em&gt;(&lt;em&gt;n&lt;/em&gt; log &lt;em&gt;n&lt;/em&gt;). This is
-  corrected now, sorry for the confusion and thanks to Gustavo Moreira
-  for pointing out the problem.&lt;/p&gt;
 </description>
     </item>
     
