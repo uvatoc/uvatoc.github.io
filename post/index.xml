@@ -10,6 +10,20 @@
     <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Class 19: Turing maching running time</title>
+      <link>https://uvatoc.github.io/class19/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class19/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/vcsuqjrnqld3lhk/class19_written.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e454df5-59af-4a8b-a257-ab020151ee1b&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter11.pdf&#34;&gt;TCS Chapter 11: Efficient computation&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter12.pdf&#34;&gt;TCS Chapter 12: Modeling running time&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Exam 2 Results</title>
       <link>https://uvatoc.github.io/exam2results/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
@@ -324,19 +338,6 @@ October&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89195d73-1989-4b2f-8b70-aae8014178c4&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter6.pdf&#34;&gt;TCS Chapter 6: Loops and Infinity&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 12: Size Hierarchy</title>
-      <link>https://uvatoc.github.io/class12/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class12/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/fj5ko40dnimx3h2/class12_written.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18139c06-6bac-49b2-a340-aae601415d26&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;TCS Chapter 5: Code as data, data as code&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -15,6 +15,8 @@ slug = "schedule"
 
 Problem Set 7 (not yet posted) will be due sometime after Nov 18 (details coming soon).
 
+Exam 3 will be in class Wednesday, December 4 (this is the last day of class; there is no scheduled final exam after this).
+
    **Classes**
 
 28 Aug: [Class 1: Course Introduction](/lecture1/) ([TCS Chapter 0](/docs/tcs-chapter0.pdf))  
@@ -46,7 +48,7 @@ Friday, 20 September (4:19pm): [Problem Set 2](/ps2)
 Monday, 30 September (2:59pm): [Problem Set 3](/ps3)  
 Wednesday, 2 October (in class): [Exam 1](/exam1) ([Comments](/exam1comments))  
 Friday, 18 October (4:19pm): [**Problem Set 4**](/ps4)  
-Friday, 25 October (5:19pm): [**Problem Set 5**](/ps5)
+Friday, 25 October (5:19pm): [**Problem Set 5**](/ps5)  
 Friday, 1 November (4:19pm): [**Problem Set 6**](/ps6)  
 Wednesday, November 6: [Exam 2](/exam2) ([Comments](/exam2results))  
 
