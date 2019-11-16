@@ -3,7 +3,7 @@ date = "16 Nov 2019"
 draft = false
 title = "Problem Set 7"
 author = "David Evans and Nathan Brunelle"
-slug = "ps6"
+slug = "ps7"
 +++
 
 ## Problem Set 7: Is <b>P</b> a proper subset of <b>NP</b>?
