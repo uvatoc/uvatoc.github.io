@@ -1,7 +1,7 @@
 +++
 date = "13 Nov 2019"
 draft = false
-title = "Class 20: Polynomial Time reductions"
+title = "Class 20: Polynomial-Time Reductions"
 author = "Nathan Brunelle"
 slug = "class20"
 +++
