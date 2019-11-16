@@ -13,7 +13,7 @@ slug = "schedule"
 
    **Upcoming Deadlines**
 
-Problem Set 7 (to be posted soon) will be due on Tuesday, 26 November.
+[**Problem Set 7**](/ps7) is due **Tuesday, 26 November** (7:29pm).
 
 Exam 3 will be in class Wednesday, December 4 (this is the last day of class; there is no scheduled final exam after this).
 
@@ -38,7 +38,8 @@ Exam 3 will be in class Wednesday, December 4 (this is the last day of class; th
 30 Oct: [Class 17: Rice's Theorem](/class17) ([Chapter 8](/docs/tcs-chapter8.pdf))  
 4 Nov: [Class 18: Review for Exam 2](/class18) ([Exam 2 Practice](/exam2practice))  
 6 Nov: [Exam 2](/exam2results)  
-11 Nov: [Class 19: Turing Machine running time](/class19) ([Chapter 11](/docs/tcs-chapter11.pdf), [Chapter 12](/docs/tcs-chapter12.pdf))
+11 Nov: [Class 19: Turing Machine running time](/class19) ([Chapter 11](/docs/tcs-chapter11.pdf), [Chapter 12](/docs/tcs-chapter12.pdf))  
+13 Nov: [Class 20: Polynomial-Time Reductions](/class20) ([Chapter 13](/docs/tcs-chapter13.pdf))
 
 **Past Assignments**  
 

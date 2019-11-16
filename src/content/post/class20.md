@@ -10,7 +10,7 @@ slug = "class20"
 [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5502d967-a9a6-402b-842e-ab040151b68a)
 
 [TCS Chapter 11: Efficient computation](/docs/tcs-chapter11.pdf)  
-[TCS Chapter 12: Modeling running time](/docs/tcs-chapter12.pdf)
+[TCS Chapter 12: Modeling running time](/docs/tcs-chapter12.pdf)  
 [TCS Chapter 13: Polynomial-time reductions](/docs/tcs-chapter13.pdf)
 
 
