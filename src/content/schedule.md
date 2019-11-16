@@ -13,7 +13,7 @@ slug = "schedule"
 
    **Upcoming Deadlines**
 
-Problem Set 7 (not yet posted) will be due sometime after Nov 18 (details coming soon).
+Problem Set 7 (to be posted soon) will be due on Tuesday, 26 November.
 
 Exam 3 will be in class Wednesday, December 4 (this is the last day of class; there is no scheduled final exam after this).
 

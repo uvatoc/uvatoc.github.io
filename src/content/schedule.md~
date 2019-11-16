@@ -49,9 +49,9 @@ Friday, 13 September (4:19pm): [Problem Set 1](/ps1)
 Friday, 20 September (4:19pm): [Problem Set 2](/ps2)  
 Monday, 30 September (2:59pm): [Problem Set 3](/ps3)  
 Wednesday, 2 October (in class): [Exam 1](/exam1) ([Comments](/exam1comments))  
-Friday, 18 October (4:19pm): [**Problem Set 4**](/ps4)  
-Friday, 25 October (5:19pm): [**Problem Set 5**](/ps5)  
-Friday, 1 November (4:19pm): [**Problem Set 6**](/ps6)  
+Friday, 18 October (4:19pm): [Problem Set 4](/ps4)  
+Friday, 25 October (5:19pm): [Problem Set 5](/ps5)  
+Friday, 1 November (4:19pm): [Problem Set 6](/ps6)  
 Wednesday, November 6: [Exam 2](/exam2) ([Comments](/exam2results))  
 
 
