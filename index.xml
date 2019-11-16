@@ -6,8 +6,29 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Problem Set 7</title>
+      <link>https://uvatoc.github.io/ps6/</link>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps6/</guid>
+      <description>
+
+&lt;h2 id=&#34;problem-set-is-p-a-proper-subset-of-np&#34;&gt;Problem Set &amp;amp;: Is P a proper subset of NP?&lt;/h2&gt;
+
+&lt;p&gt;Problem Set 7 is available here: &lt;a href=&#34;https://uvatoc.github.io/ps/ps7.pdf&#34;&gt;ps7.pdf&lt;/a&gt; (you will also
+need the &lt;a href=&#34;https://uvatoc.github.io/ps/ps7.zip&#34;&gt;ps7.zip&lt;/a&gt; file). It is due on &lt;strong&gt;Tuesday, 26
+November&lt;/strong&gt; at &lt;strong&gt;7:29pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note that PS7 is considerably longer than previous problem sets, and
+you have a longer time period to complete it. I covers a lot of
+challenging material from recent (and upcoming) classes and book
+chapters 11-14.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 19: Turing maching running time</title>
@@ -324,20 +345,6 @@ October&lt;/strong&gt; at &lt;strong&gt;4:19pm&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;This assignment covers the Size Hierarchy from &lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;Chapter 5&lt;/a&gt;, Finite State Macines from Class 12 and Class 13, and Turing Machines, NAND-TM, and computability from
 &lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter5.pdf&#34;&gt;Chapter 5&lt;/a&gt;, Class 13 and Class 14.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 13: Machines</title>
-      <link>https://uvatoc.github.io/class13/</link>
-      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class13/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/36tv9no453ffmkn/class13_written.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89195d73-1989-4b2f-8b70-aae8014178c4&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter6.pdf&#34;&gt;TCS Chapter 6: Loops and Infinity&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
