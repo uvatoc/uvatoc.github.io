@@ -39,7 +39,9 @@ Exam 3 will be in class Wednesday, December 4 (this is the last day of class; th
 4 Nov: [Class 18: Review for Exam 2](/class18) ([Exam 2 Practice](/exam2practice))  
 6 Nov: [Exam 2](/exam2results)  
 11 Nov: [Class 19: Turing Machine running time](/class19) ([Chapter 11](/docs/tcs-chapter11.pdf), [Chapter 12](/docs/tcs-chapter12.pdf))  
-13 Nov: [Class 20: Polynomial-Time Reductions](/class20) ([Chapter 13](/docs/tcs-chapter13.pdf))
+13 Nov: [Class 20: Polynomial-Time Reductions](/class20) ([Chapter 13](/docs/tcs-chapter13.pdf))  
+18 Nov: [Class 21: Is Omniscience Helpful?]/class21) ([Chapter 14](/docs/tcs-chapter14.pdf))
+20 Nov: [Class 22: NP Completeness](/class22)
 
 **Past Assignments**  
 
