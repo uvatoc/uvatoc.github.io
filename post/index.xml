@@ -6,8 +6,24 @@
     <description>Recent content in Post-rsses on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 22: NP Completeness</title>
+      <link>https://uvatoc.github.io/class22/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class22/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/rqtkwlp6hk9m7vo/class22-post.pdf?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb91d06d-83f5-47d8-a05c-ab0b0151a8de&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter14.pdf&#34;&gt;TCS Chapter 14: NP, NP completeness, and the Cook-Levin Theorem&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/cook.pdf&#34;&gt;Cook&amp;rsquo;s Paper&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uvatoc.github.io/docs/universalsearch.pdf&#34;&gt;Levin&amp;rsquo;s Paper&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/levin.pdf&#34;&gt;Translated&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 21: Is Omniscience Helpful?</title>
@@ -308,35 +324,6 @@ this week, we&amp;rsquo;re deferring Problem 9 and Problem 10 from PS5 to
 PS6. If you&amp;rsquo;ve already solved these, great - just save your solution
 to submit for the same questions that will be moved to PS6.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Problem Set 5 Update</title>
-      <link>https://uvatoc.github.io/ps5update/</link>
-      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps5update/</guid>
-      <description>&lt;p&gt;There were several mistakes in PS5, Problem 1, which are now corrected (&lt;a href=&#34;https://uvatoc.github.io/ps/ps5.pdf&#34;&gt;updated ps5.pdf&lt;/a&gt;, &lt;a href=&#34;https://uvatoc.github.io/ps/ps5.zip&#34;&gt;ps5.zip&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Problem 1a&lt;/strong&gt; should be:&lt;/p&gt;
-
-&lt;p&gt;&lt;tt&gt;
-Prove that when $f^*(i) = 0$, $f_{i+1} = f&lt;em&gt;i$. That is, the two functions denoted by $f&lt;/em&gt;{i + 1}$ and $f_i$ are actually the same function.
-&lt;/tt&gt;&lt;/p&gt;
-
-&lt;p&gt;Thanks to Joey Rudek for noticing the problem!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Problems 6 and 7&lt;/strong&gt; mixed up NAND-CIRC and NAND-TM. Problem 6 should be
-asking if NAND-LOOP is more powerful than NAND-CIRC (it would be silly
-to ask if it is more powerful than NAND-TM, since NAND-TM has
-everything in NAND-LOOP plus arrays, so there&amp;rsquo;s no way NAND-LOOP could
-be more powerful than NAND-TM). Similarly, Problem 7 should be asking
-if NAND-ARRAY is more powerful than NAND-CIRC.&lt;/p&gt;
-
-&lt;p&gt;Thanks to Jiahe for pointing out the problems!&lt;/p&gt;
-
-&lt;p&gt;Sorry for all the confusing mistakes on this problem set.&lt;/p&gt;
 </description>
     </item>
     
