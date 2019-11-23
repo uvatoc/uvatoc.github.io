@@ -6,8 +6,44 @@
     <description>Recent content in Post-rsses on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Preparing for Exam 3</title>
+      <link>https://uvatoc.github.io/exam3/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/exam3/</guid>
+      <description>&lt;p&gt;Exam 3 will be &lt;strong&gt;Wednesday, 4 December&lt;/strong&gt; at the normal class time in
+the normal classroom. We will aim to start the exam right at 3:30pm,
+so you will benefit from arriving early for class Wednesday to be
+settled and ready to start the exam. This is the final exam for the
+class and we will not use the registrar-scheduled final exam time, but
+recall from the &lt;a href=&#34;https://uvatoc.github.io/docs/syllabus.pdf&#34;&gt;course syllabus&lt;/a&gt; that there will
+still be an opportunity for students who feel they were &amp;ldquo;not be able
+to demonstrate their best ability during a 75 minute in-class exam,
+&amp;hellip; to request an oral final exam to be scheduled with one of the
+instructors during the exam period.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Exam 3 will cover material from the entire course, with an emphasis on
+material that has been covered since Exam 2 (Classes 17-24, Problem
+Set 7, and Chapters 11-14 in the TCS book). It will definitely also
+include some problems on earlier topics such as Boolean circuits,
+infinite cardinalities, and computability, and some questions designed
+to ask you to synthesize things you have learned throughout the
+course.&lt;/p&gt;
+
+&lt;p&gt;As a reminder from the syllabus, you may construct a one-page
+(letter-size, two-sided) &lt;strong&gt;reference sheet for use during the exam&lt;/strong&gt;,
+but all other resources are forbidden (no internet, textbook, other
+humans, magnification instruments, etc.). We expect that students will
+benefit from thinking about what to put on your reference sheet in
+preparing for the exam, and you may work with anyone you want
+(including other students in the class) to prepare a reference sheets
+together.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 22: NP Completeness</title>
@@ -299,31 +335,6 @@ have free copies available for anyone who needs a holiday present for
 a young sibling/cousin/nibling/other person who is behind in her
 theoretical computer science education and needs a holiday present for
 any cs3102 students who ask.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Problem Set 5 Update</title>
-      <link>https://uvatoc.github.io/ps5update2/</link>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/ps5update2/</guid>
-      <description>&lt;p&gt;Two more updates to &lt;a href=&#34;https://uvatoc.github.io/ps/ps5.pdf&#34;&gt;PS5&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Problem 7&lt;/strong&gt; considered adding an array but not loops to NAND-CIRC. But, it doesn&amp;rsquo;t make sense to have arrays without any way to update the index used to access them. So, for this to make sense we need to also have an instruction to update i. So, we have modified this question to add conditional increment and decrement instructions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;CINC&lt;/code&gt; &lt;em&gt;v&lt;/em&gt; takes a regular variable as its input, and if the value of &lt;em&gt;v&lt;/em&gt; is 1 it updates the value of &lt;code&gt;i&lt;/code&gt; to be &lt;code&gt;i&lt;/code&gt; + 1. Otherwise (when &lt;em&gt;v&lt;/em&gt; is 0), it does not do anything.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;code&gt;CDEC&lt;/code&gt; &lt;em&gt;v&lt;/em&gt; takes a regular variable as its input, and if the value of &lt;em&gt;v&lt;/em&gt; is 1 it updates the value of &lt;code&gt;i&lt;/code&gt; to be max(&lt;code&gt;i&lt;/code&gt; - 1, 0). Otherwise, it does not do anything.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Since we didn&amp;rsquo;t get to examples of uncomputability proofs in class
-this week, we&amp;rsquo;re deferring Problem 9 and Problem 10 from PS5 to
-PS6. If you&amp;rsquo;ve already solved these, great - just save your solution
-to submit for the same questions that will be moved to PS6.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
