@@ -6,8 +6,21 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Class 24: Conclusion</title>
+      <link>https://uvatoc.github.io/class24/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class24/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://uvatoc.github.io/exam3&#34;&gt;Exam 3&lt;/a&gt;&lt;/strong&gt; will be in class on Wednesday.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/b73sske963lea83/class24-post.pdf?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b77fcbf-9e00-4f20-ace8-ab1701519a7c&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 23: More NP Completeness</title>
@@ -71,19 +84,6 @@ together.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/cook.pdf&#34;&gt;Cook&amp;rsquo;s Paper&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://uvatoc.github.io/docs/universalsearch.pdf&#34;&gt;Levin&amp;rsquo;s Paper&lt;/a&gt; (&lt;a href=&#34;https://uvatoc.github.io/docs/levin.pdf&#34;&gt;Translated&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 24: Conclusion</title>
-      <link>https://uvatoc.github.io/class24/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class24/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://uvatoc.github.io/exam3&#34;&gt;Exam 3&lt;/a&gt;&lt;/strong&gt; will be in class on Wednesday.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/b73sske963lea83/class24-post.pdf?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b77fcbf-9e00-4f20-ace8-ab1701519a7c&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
