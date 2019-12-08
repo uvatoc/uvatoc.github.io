@@ -13,7 +13,7 @@ slug = "schedule"
 
    **Upcoming Deadlines**
 
-Exam 3 will be in class Wednesday, December 4 (this is the last day of class; there is no scheduled final exam after this).
+The semester has concluded! There are no more deadlines for cs3102.
 
    **Classes**
 
@@ -55,15 +55,11 @@ Wednesday, 2 October (in class): [Exam 1](/exam1) ([Comments](/exam1comments))
 Friday, 18 October (4:19pm): [Problem Set 4](/ps4)  
 Friday, 25 October (5:19pm): [Problem Set 5](/ps5)  
 Friday, 1 November (4:19pm): [Problem Set 6](/ps6)  
-Wednesday, November 6: [Exam 2](/exam2) ([Comments](/exam2results))  
-Tuesday, 26 November (7:29pm): [Problem Set 7](/ps7)
+Wednesday, 6 November: [Exam 2](/exam2) ([Comments](/exam2results))  
+Tuesday, 26 November (7:29pm): [Problem Set 7](/ps7)  
+Wednesday, 4 December: [Exam 3](/exam3) ([Comments](/exam3results))
 
 
-
-**Future Asignments**
-
-Wednesday, December 4 (in class): Exam 3
-   
    </div>
    <div style="display: table-cell;"></div>
    <div style="display: table-cell;text-align:left;background-color:var(--highlight-color);padding-left:10px;color:var(--sp-color);">

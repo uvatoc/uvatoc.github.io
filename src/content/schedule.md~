@@ -13,8 +13,6 @@ slug = "schedule"
 
    **Upcoming Deadlines**
 
-[**Problem Set 7**](/ps7) is due **Tuesday, 26 November** (7:29pm).
-
 Exam 3 will be in class Wednesday, December 4 (this is the last day of class; there is no scheduled final exam after this).
 
    **Classes**
@@ -41,7 +39,9 @@ Exam 3 will be in class Wednesday, December 4 (this is the last day of class; th
 11 Nov: [Class 19: Turing Machine running time](/class19) ([Chapter 11](/docs/tcs-chapter11.pdf), [Chapter 12](/docs/tcs-chapter12.pdf))  
 13 Nov: [Class 20: Polynomial-Time Reductions](/class20) ([Chapter 13](/docs/tcs-chapter13.pdf))  
 18 Nov: [Class 21: Is Omniscience Helpful?](/class21) ([Chapter 14](/docs/tcs-chapter14.pdf))  
-20 Nov: [Class 22: NP Completeness](/class22)
+20 Nov: [Class 22: NP Completeness](/class22)  
+27 Nov: [Class 23: More NP Completeness](/class23)  
+2 Dec: [Class 24: Conclusion](/class24)  
 
 **Past Assignments**  
 
@@ -56,6 +56,8 @@ Friday, 18 October (4:19pm): [Problem Set 4](/ps4)
 Friday, 25 October (5:19pm): [Problem Set 5](/ps5)  
 Friday, 1 November (4:19pm): [Problem Set 6](/ps6)  
 Wednesday, November 6: [Exam 2](/exam2) ([Comments](/exam2results))  
+Tuesday, 26 November (7:29pm): [Problem Set 7](/ps7)
+
 
 
 **Future Asignments**
