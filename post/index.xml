@@ -6,8 +6,38 @@
     <description>Recent content in Post-rsses on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exam 3 Comments</title>
+      <link>https://uvatoc.github.io/exam3results/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/exam3results/</guid>
+      <description>&lt;p&gt;Exam 3 and solutions to Exam 3 are posted here:&lt;br /&gt;
+&lt;a href=&#34;https://uvatoc.github.io/docs/exam3.pdf&#34;&gt;Exam 3&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://uvatoc.github.io/docs/exam3comments.pdf&#34;&gt;Exam 3 Comments&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Out of 157 students who filled in something we could interpret as a
+grade for the Oral Exam Request on the last page, there were 40 who
+filled in the exact grade they received in the course, 109 who filled
+in a lower grade than they received (of whom 50 received at least a
+full letter grade higher than the minimum grade entered), and 8 who
+filled in a higher grade than the grade we determined was appropriate
+(and have the opportunity to improve their grade by doing an oral
+exam).&lt;/p&gt;
+
+&lt;p&gt;We realize that this was not quite a &amp;ldquo;tell us the grade you think you
+deserve&amp;rdquo; question since some people may find having to do an oral exam
+a non-neutral experience, but we these results do give us some
+confidence that most students will consider their course grade fair.&lt;/p&gt;
+
+&lt;p&gt;If you would like to retrieve your exam, or have anything else you&amp;rsquo;d
+like to discuss, we will have our normal office hours on Tuesday
+(Dave, 9-11am in Rice 507; Nathan, 4-6pm in Rice 209).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Class 24: Conclusion</title>
@@ -297,19 +327,6 @@ slack them to &lt;code&gt;@Dave&lt;/code&gt;.&lt;/p&gt;
       <guid>https://uvatoc.github.io/class17/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/pml6l1teoxa7y5s/class17_inked.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c2428a4-02a2-499e-af00-aaf601419207&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter8.pdf&#34;&gt;TCS Chapter 8: Universaility and Uncomputability&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Class 16: Reductions</title>
-      <link>https://uvatoc.github.io/class16/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/class16/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ww3pqjm7v6nc8uq/class16_written.pptx?dl=0&#34;&gt;Slides&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d36c3729-5dbc-43e9-aebd-aaf40141ae83&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://uvatoc.github.io/docs/tcs-chapter8.pdf&#34;&gt;TCS Chapter 8: Universaility and Uncomputability&lt;/a&gt;&lt;/p&gt;
 </description>
