@@ -438,7 +438,7 @@ p {
     float: right;
     width: 270px;
     background-color: var(--bside-color);
-    color: #faf8f8;
+    color: var(--inverse-light-color);
     padding-left: 1em;
     padding-right: 1em;
     padding-top: 1em;
