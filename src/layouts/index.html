@@ -21,26 +21,15 @@ Theory of Computation<br>
 <b><a href="/resources">Resources</a></b></br>
 <p></p>
 
-<!--
-<b><a href="/schedule/">Schedule</a></b><br>
-</p>
-<p>
-<b><a href="https://notebooks.azure.com/evansde/projects/uvammm">Notebooks</a></b><br>
-</p>
-</p>
--->
    <p>
    <b><a href="/post/">Recent Posts</a></b>
-   {{ range first $posts_count ((where .Data.Pages.ByDate "Section" "post").Reverse) }}
+
+   {{ range first 15 (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
    <div class="posttitle">
-      &nbsp;&nbsp;&nbsp; {{ partial "post-title" . }}
+      {{ partial "post-title" . }}
    </div>
    {{ end }}
-<!--
-   <div class="posttitle">
-     &nbsp;&nbsp;&nbsp; <div class="more"><a href="/post/"><em>More...</em></a></div>
-   </div>
--->
+   
    </p>
    <p>
    <b><a href="/team/">Team</a></b><br>
@@ -55,11 +44,14 @@ Theory of Computation<br>
            {{ .Content }}
         {{ end }}
     {{ end }}
-  
 
-    {{ range first $posts_count ((where .Data.Pages.ByDate "Section" "post").Reverse) }}
+
+    
+    {{ range first $posts_count (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
     {{ partial "post-full-summary" . }}
     {{ end }}
+
+
     <footer>
       <nav>
 	<a href="/post/" class="button hollow primary">All {{ $posts_title }}</a>

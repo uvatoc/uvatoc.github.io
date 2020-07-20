@@ -11,7 +11,8 @@ paginatePath = "page"
 pageNotFoundTitle = "Not Found"
 pageNotFoundDetail = "Your request cannot be resolved in the current axiomatic system. This could be because you have discovered a contradiction to Cantor's Continuum Hypothesis, but it is most likely a bad link or mistyped URL. If its a broken link, please let us know."
 
-# disqusShortname = "evans1629"
+[markup.goldmark.renderer]
+unsafe= true
 
 [permalinks]
     post = "/:slug/"
