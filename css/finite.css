@@ -653,3 +653,8 @@ div.quote {
  height: auto;
  width: 300px;
 }
+
+blockquote {
+    color: var(--primary-color);
+    border-left: none;
+}
