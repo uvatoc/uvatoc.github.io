@@ -654,7 +654,7 @@ div.quote {
  width: 300px;
 }
 
-blockquote {
+blockquote, blockquote p {
     color: var(--primary-color);
     border-left: none;
 }
