@@ -6,7 +6,7 @@ slug = "schedule"
 +++
 
    <center>
-[**Google Calendar for cs3102**](https://calendar.google.com/calendar?cid=ZmNwNTl2MHMzMDdobGlvM2E3b2s2bXUxOGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+<a href="https://calendar.google.com/calendar?cid=ZmNwNTl2MHMzMDdobGlvM2E3b2s2bXUxOGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"><b>Google Calendar for cs3102</b></a>
    </center>
  
    <section style="display: table;width: 100%"><div style="display: table-row;"><div style="display: table-cell;width:55%">
