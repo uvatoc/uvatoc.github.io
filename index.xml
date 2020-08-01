@@ -6,10 +6,21 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Team</title>
+      <link>https://uvatoc.github.io/team/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/team/</guid>
+      <description>Co-Leads
+Nathan Brunelle&amp;nbsp;
+David EvansAssistantsComing soon&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Course Planning Survey</title>
@@ -32,19 +43,6 @@ We’re looking forward to the fall semester, as much as one can under these cir
       <guid>https://uvatoc.github.io/fall2020/</guid>
       <description>A version of this course will be offered in Fall 2020. It is optimistically scheduled for Mondays and Wednesdays, 3:30-4:45 in McLeod Hall 1020 (assuming we will be back to cramming 300 students in a classroom in the fall).
 In the happy event that we can offer courses normally in the fall, the content and structure will be fairly similar to what was done in recent semesters. You can see all the materials from recent versions of this course here:</description>
-    </item>
-    
-    <item>
-      <title>Team</title>
-      <link>https://uvatoc.github.io/team/</link>
-      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/team/</guid>
-      <description>Co-Leads
-Nathan Brunelle&amp;nbsp;
-David EvansAssistantsCameron Lloyd
-Jay Rothenberger
-Kush PatelMatthew NormansellSamarth KishorTeddy ClarkXiao ZhangYoussef ErramiZane Alpher</description>
     </item>
     
     <item>
