@@ -1,9 +1,9 @@
 +++
 date = "31 Aug 2019"
 draft = false
-title = "PS0 Posted"
+title = "PS0"
 author = "Nathan Brunelle"
-slug = "ps0posted"
+slug = "ps0"
 +++
 
 ## Problem Set 0: Getting Started

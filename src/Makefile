@@ -4,6 +4,7 @@
 
 GITHUB_PAGES_BRANCH=gh-pages
 THEME = toc
+THEME19 = toc19
 
 MARKDOWN = python3 -m markdown
 BASEDIR = .
@@ -14,6 +15,11 @@ LATEXIFY = python3 $(LATEXDIR)/utils/latexify.py
 
 html:
 	hugo --theme=$(THEME)
+
+f19:
+	hugo --config config2019.toml --theme=$(THEME19) --contentDir content19 --layoutDir layouts19 --destination public19
+	mv public19 ../f19
+
 
 develop:
 	hugo server --theme=$(THEME) --buildDrafts --watch

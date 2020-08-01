@@ -1,0 +1,30 @@
+{{ define "top-bar-right" }}
+{{ partial "share.html" $ }}
+{{ end }}
+{{ define "title-bar-right" }}
+{{ partial "share.html" $ }}
+{{ end }}
+{{ define "whatisthis" }}
+{{ partial "whatisthis.html" . }}
+{{ end }}
+{{ define "main" }}
+
+<div class="content">
+
+        <div class="yellownote">
+	This is an archived page from the Fall 2019 version of the course. For the latest version, see <a href="https://uvatoc.github.io/"><em>https://uvatoc.github.io</em></a>.
+      </div>
+
+    <article class="article" itemscope itemtype="http://schema.org/Article">
+      <h1 itemprop="name">{{ .Title }}</h1>
+      <div class="post-body" itemprop="articleBody">
+        {{ .Content }}
+      </div>
+
+      <meta itemprop="wordCount" content="{{ .WordCount }}">
+      <meta itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
+      <meta itemprop="url" content="{{ .Permalink }}">
+    </article>
+</div>
+
+{{ end }}
