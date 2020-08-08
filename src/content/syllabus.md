@@ -505,7 +505,7 @@ to ensure survivor safety and the safety of the University
 community. If you would rather keep this information confidential,
 there are Confidential Employees you can talk to on Grounds (see
 [http://www.virginia.edu/justreportit/confidential_resources.pdf]
-(http://www.virginia.edu/justreportit/confidential_resources.pdf])). The
+(http://www.virginia.edu/justreportit/confidential_resources.pdf)). The
 worst possible situation would be for you or your friend to remain
 silent when there are so many here willing and able to help.
 
