@@ -11,12 +11,6 @@ slug = "schedule"
 </p>
 
    <table class="fschedule">
-   <thead>
-   <tr>
-   <th width="35%" text-align="center">Dates</th>
-   <th width="65%" align="center">Activity</th>
-   </tr>
-   </thead>
    <tbody>
   
    <tr>
