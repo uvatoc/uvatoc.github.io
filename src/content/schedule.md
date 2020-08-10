@@ -12,7 +12,13 @@ slug = "schedule"
 
    <table class="fschedule">
    <tbody>
-  
+
+<tr>
+<td class="section" colspan=2>
+Introduction
+</td>
+</tr>
+
    <tr>
    <td class="week" colspan=2>
 
