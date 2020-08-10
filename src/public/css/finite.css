@@ -731,6 +731,45 @@ blockquote, blockquote p {
     text-align: center;
 }    
 
+
+.fschedule th {
+    text-align: center;
+    color: var(--primary-color);
+}    
+
+.fschedule tr {
+    text-align: center;
+    color: var(--sp-color);
+}    
+
+.week {
+    text-align: center;
+    background-color: var(--sp-color);
+    color: var(--inverse-color);
+}
+
+.bluenote {
+    text-align: left;
+    padding-left: 12pt;
+    padding-right: 12pt;
+    padding-top: 12pt;
+    padding-bottom: 12pt;
+    background-color: var(--inverse-color);
+    color: var(--primary-color);
+}
+
+.week p {
+    margin-bottom: 6pt;
+    margin=top: 6pt;
+}
+
+
+.week a {
+    color: var(--inverse-color);
+    border-color: var(--inverse-color);
+}
+
+
 .grades th {
     text-align: center;
 }    
