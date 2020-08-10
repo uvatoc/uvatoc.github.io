@@ -68,6 +68,12 @@ Assessed Cohort Meetings
 </tr>
 
 <tr>
+<td class="section" colspan=2>
+Finite Computation
+</td>
+</tr>
+
+<tr>
 <td class="week" colspan=2>
 
 [Week 3: Boolean Circuits](/week3)
@@ -160,6 +166,13 @@ Tue 6 Oct &ndash; Mon 12 Oct
 Assessed Cohort Meetings
 </td>
 </tr>
+
+<tr>
+<td class="section" colspan=2>
+Uniform Computation
+</td>
+</tr>
+
 
 <tr>
 <td class="week" colspan=2>
@@ -261,6 +274,16 @@ Materials Posted, TCS Chapter 8, Chapter 11
 Assessed Cohort Meetings
 </td>
 </tr>
+
+
+<tr>
+<td class="section" colspan=2>
+Efficient Algorithms
+</td>
+</tr>
+
+
+
 
 <tr>
 <td class="week" colspan=2>
