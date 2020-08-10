@@ -190,6 +190,7 @@ Assessed Cohort Meetings
 
 <tr>
 <td class="week" colspan=2>
+
 [Week 7: Non-Determinism](/week7)
 </td>
 </tr>
