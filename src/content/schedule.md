@@ -154,28 +154,6 @@ Assessed Cohort Meetings
 </td>
 </tr>
 
-<tr>
-<td class="week" colspan=2>
-
-[Week 6: Size Hierarchy](/week6)
-</td>
-</tr>
-<tr>
-<td>
-Tue 29 September
-</td>
-<td>
-Materials Posted, TCS Chapter 5 (continued)
-</td>
-</tr>
-<tr>
-<td>
-Tue 6 Oct &ndash; Mon 12 Oct
-</td>
-<td>
-Assessed Cohort Meetings
-</td>
-</tr>
 
 <tr class="blankspace"><td colspan=2 class="blankspace"></td></tr>
 
@@ -189,7 +167,30 @@ Uniform Computation
 <tr>
 <td class="week" colspan=2>
 
-[Week 7: Automata](/week7)
+<tr>
+<td class="week" colspan=2>
+
+[Week 6: Automata](/week6)
+</td>
+</tr>
+<tr>
+<td>
+Tue 29 September
+</td>
+<td>
+Materials Posted
+</td>
+</tr>
+<tr>
+<td>
+Tue 6 Oct &ndash; Mon 12 Oct
+</td>
+<td>
+Assessed Cohort Meetings
+</td>
+</tr>
+
+[Week 7: Non-Determinism](/week7)
 </td>
 </tr>
 <tr>
