@@ -324,8 +324,7 @@ Finals Week
 <td>
 Monday 7 December (2-5pm)
 </td>
-<td>
-
+<td style="text-align:left;">
 The registrar has scheduled a final exam for this course on <b>Monday,
 7 December 2020</b> (2-5:00 pm). We do not anticipate using this for
 an exam or anything that would be required, but may use it for a
