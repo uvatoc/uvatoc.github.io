@@ -176,7 +176,7 @@ Uniform Computation
 Tue 29 September
 </td>
 <td>
-Materials Posted
+Materials Posted, TCS Chapter 6
 </td>
 </tr>
 <tr>
@@ -222,7 +222,7 @@ Assessed Cohort Meetings
 Tue 13 October
 </td>
 <td>
-Materials Posted, TCS Chapter 6
+Materials Posted, TCS Chapter 7
 </td>
 </tr>
 <tr>
@@ -245,7 +245,7 @@ Assessed Cohort Meetings
 Tue 20 October
 </td>
 <td>
-Materials Posted, TCS Chapter 6, TCS Chapter 8
+Materials Posted, TCS Chapter 9
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ being the last one to meet for the remainder of the semester.
 Tue 27 October
 </td>
 <td>
-Materials Posted, TCS Chapter 8, Chapter 11
+Materials Posted, TCS Chapter 12, 13
 </td>
 </tr>
 <tr>
@@ -314,7 +314,7 @@ Assessed Cohort Meetings
 Tue 3 November
 </td>
 <td>
-Materials Posted, TCS Chapter 13, Chapter 14
+Materials Posted, TCS Chapter 14, 15
 </td>
 </tr>
 <tr>
