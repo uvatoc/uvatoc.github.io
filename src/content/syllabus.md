@@ -74,14 +74,15 @@ things better for you.
 # Preparation
 
 **Official Prerequisites:** CS 2102 and CS 2110 (or comparable
-  courses) with grades of C- or higher. (We do not enforce this
-  prerequisite, and students who are comfortable with the expected
-  background below should be able to succeed in the course.)
+  courses) with grades of C- or higher. (We will waive this
+  prerequisite for students who convince us that they satisfy the
+  expected background below.)
 
 **Expected Background:** We expect students entering cs3102 to be
-  comfortable using proof techniques involving first order predicate
-  logic and induction, and reasoning about finite and infinite sets,
-  and understanding recursive definitions and problem solving.
+  comfortable using proof techniques including proof-by-contradiction,
+  using quantifiers, and induction; reasoning about finite and
+  infinite sets; and understanding recursive definitions and problem
+  solving.
 
 **Programming:** We also expect students to be able to read and write short
 programs. We will use the Python programming language for some
@@ -101,7 +102,7 @@ should take the class.
   questions about the course, computer science, or anything else you
   think we can help with (but please read the section below on
   communications to determine if it would be better to post a message
-  in slack before emailing us).
+  in discord before emailing us).
 
 **Teaching Assistants:** Will be updated soon (see course website).
 
@@ -153,9 +154,10 @@ communications (posting course materials), and use the course discord
 for interactive communications.
 
 **Course Website:** We will post all course materials at
-  [_https://uvatoc.github.io_](https://uvatoc.github.io). We will use
-  the collab site for assignment submissions, and occasionally to post
-  materials we cannot post publicly.
+  [_https://uvatoc.github.io_](https://uvatoc.github.io). We will also
+  use a [custom-built Kytos site[(https://kytos.cs.virginia.edu/cstheory/) for assignment submissions., and may
+  occasionally use the collab site to post materials we cannot post
+  publicly.
 
 **Discord:** We will use the course discord server for most other
   course communications. You should signup at **[TODO: invite link]()**,
@@ -317,7 +319,7 @@ cohort meeting on this scale:
 </table>
 
 We will make allowances for cases where a student is not able to make
-a schedule cohort meeting due to extenuating circumstances and provide
+a scheduled cohort meeting due to extenuating circumstances and provide
 a way for students [TODO: if ready, link to form for this] to be
 excused from a schedule cohort meeting or have an alternate assessment
 if there is a need to miss several cohort meetings, but otherwise a
@@ -504,8 +506,7 @@ information presented to determine whether further action is necessary
 to ensure survivor safety and the safety of the University
 community. If you would rather keep this information confidential,
 there are Confidential Employees you can talk to on Grounds (see
-[http://www.virginia.edu/justreportit/confidential_resources.pdf]
-(http://www.virginia.edu/justreportit/confidential_resources.pdf)). The
+[https://eocr.virginia.edu/chart-confidential-resources](https://eocr.virginia.edu/chart-confidential-resources)  ). The
 worst possible situation would be for you or your friend to remain
 silent when there are so many here willing and able to help.
 
