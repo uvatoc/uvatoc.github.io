@@ -155,9 +155,10 @@ for interactive communications.
 
 **Course Website:** We will post all course materials at
   [_https://uvatoc.github.io_](https://uvatoc.github.io). We will also
-  use a [custom-built Kytos site[(https://kytos.cs.virginia.edu/cstheory/) for assignment submissions., and may
-  occasionally use the collab site to post materials we cannot post
-  publicly.
+  use a [custom-built Kytos
+  site](https://kytos.cs.virginia.edu/cstheory/) for assignment
+  submissions, and may occasionally use the collab site to post
+  materials we cannot post publicly.
 
 **Discord:** We will use the course discord server for most other
   course communications. You should signup at **[TODO: invite link]()**,
