@@ -577,6 +577,15 @@ p {
    padding: 12px;
 }
 
+.yellownotec {
+   margin-left: 50px;
+   margin-right: 60px;
+   background: #FAFAE6;
+   margin-bottom: 10px;
+   padding: 12px;
+   text-align: center;
+}
+
 .hint {
    margin-left: 50px;
    margin-right: 60px;
