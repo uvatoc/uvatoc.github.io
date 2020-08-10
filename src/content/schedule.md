@@ -137,6 +137,7 @@ Assessed Cohort Meetings
 [Week 5: Code as Data Data as Code](/week5)
 </td>
 </tr>
+
 <tr>
 <td>
 Tue 22 September
@@ -167,9 +168,6 @@ Uniform Computation
 <tr>
 <td class="week" colspan=2>
 
-<tr>
-<td class="week" colspan=2>
-
 [Week 6: Automata](/week6)
 </td>
 </tr>
@@ -190,6 +188,8 @@ Assessed Cohort Meetings
 </td>
 </tr>
 
+<tr>
+<td class="week" colspan=2>
 [Week 7: Non-Determinism](/week7)
 </td>
 </tr>
