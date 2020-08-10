@@ -13,11 +13,13 @@ slug = "schedule"
    <table class="fschedule">
    <tbody>
 
+<tr class="blankspace"><td></td><td></td></tr>
 <tr>
 <td class="section" colspan=2>
 Introduction
 </td>
 </tr>
+<tr class="blankspace"><td></td><td></td></tr>
 
    <tr>
    <td class="week" colspan=2>
@@ -73,11 +75,13 @@ Assessed Cohort Meetings
 </td>
 </tr>
 
+<tr class="blankspace"><td></td><td></td></tr>
 <tr>
 <td class="section" colspan=2>
 Finite Computation
 </td>
 </tr>
+<tr class="blankspace"><td></td><td></td></tr>
 
 <tr>
 <td class="week" colspan=2>
@@ -173,13 +177,15 @@ Assessed Cohort Meetings
 </td>
 </tr>
 
+<tr class="blankspace"><td colspan=2 class="blankspace"></td></tr>
+
 <tr>
 <td class="section" colspan=2>
 Uniform Computation
 </td>
 </tr>
 
-
+<tr class="blankspace"><td colspan=2 class="blankspace"></td></tr>
 <tr>
 <td class="week" colspan=2>
 
@@ -249,6 +255,16 @@ Assessed Cohort Meetings
 </td>
 </tr>
 
+<tr class="blankspace"><td></td><td></td></tr>
+<tr>
+<td class="section" colspan=2>
+Tractable and Intractable Computation
+</td>
+</tr>
+
+<tr class="blankspace"><td></td><td></td></tr>
+
+
 <tr>
 <td class="week" colspan=2>
 
@@ -281,12 +297,6 @@ Assessed Cohort Meetings
 </td>
 </tr>
 
-
-<tr>
-<td class="section" colspan=2>
-Efficient Algorithms
-</td>
-</tr>
 
 
 

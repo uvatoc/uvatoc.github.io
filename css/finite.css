@@ -757,6 +757,10 @@ blockquote, blockquote p {
     padding-bottom: 1.2rem;
 }
 
+.blankspace {
+    background-color: var(--bg-color);
+}
+
 .bluenote {
     text-align: left;
     padding-left: 12pt;
