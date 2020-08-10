@@ -20,10 +20,10 @@ slug = "schedule"
 </td>
 </tr>
 <tr>
-<td>
+<td width="35%">
 Wed 26 August
 </td>
-<td>
+<td width="65%">
 Materials Posted, TCS Chapter 0, TCS Chapter 1
 </td>
 </tr>
