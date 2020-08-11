@@ -47,7 +47,7 @@ done when a problem cannot be solved or is too expensive to solve.
 **Class Meetings:** The course is officially scheduled for Mondays and
   Wednesdays, 3:30-4:45pm. We will use this time for a full class
   welcome meeting on the first day of the course, Wednesday, 26
-  May. For subsequent weeks, students will have cohort meetings (see
+  August. For subsequent weeks, students will have cohort meetings (see
   [details below](#cohorts)).
 
 **Pandemic.** The challenges we are facing with the current pandemic
