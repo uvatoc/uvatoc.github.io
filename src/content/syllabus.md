@@ -164,7 +164,7 @@ for interactive communications.
   course communications. You should signup at **[TODO: invite link]()**,
   and we expect students to receive messages we send to the `#general`
   channel as well as any direct messages we send to you on
-  discord. Each cohort with have a channel on the Discord server.
+  discord. Each cohort will have a channel on the Discord server.
 
 
 If you have questions about course materials or assignments that will
@@ -259,8 +259,8 @@ Science_](https://introtcs.org/public/index.html) textbook and a set
 of recorded videos that cover the concepts for the week.
 
 There will be a problem set with problems designed to develop your
-understanding of these concepts. We hope students learn value in
-applying theoretical insights to computer science practice, and will
+understanding of these concepts. We hope students learn the value in
+applying theoretical insights to computer science practice, and we will
 also provide more concrete exercises to help students grasp
 theoretical ideas. For this reason, problem sets will contain a
 mixture of theoretically-focused written problems (with an emphasis on
@@ -364,7 +364,7 @@ scale:
 
 With the exception of cases of academic dishonesty or inappropriate
 behavior, we guarantee that you will at least receive the minimum
-letter grade given in the table (possible modified by a <b>-</b> based
+letter grade given in the table (possibly modified by a <b>-</b> based
 on the community grading described below), but you may be assigned a
 higher grade based on your overall performance and showing improvement
 over the course of the semester.
@@ -401,7 +401,7 @@ Two main factors will contribute to a cohort's community grade:
   individual minimum individual cohort assessment, and the trend of
   these values over the semester.
 
-- The quality of the cohorts written problem submissions. The cohort
+- The quality of the cohort's written problem submissions. The cohort
   will submit the problem write-up as a group, and everyone in the
   cohort receives the same grade.
 
