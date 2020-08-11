@@ -259,7 +259,7 @@ Science_](https://introtcs.org/public/index.html) textbook and a set
 of recorded videos that cover the concepts for the week.
 
 There will be a problem set with problems designed to develop your
-understanding of these concepts. We hope students learn the value in
+understanding of these concepts. We hope students find value in
 applying theoretical insights to computer science practice, and we will
 also provide more concrete exercises to help students grasp
 theoretical ideas. For this reason, problem sets will contain a
