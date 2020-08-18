@@ -146,9 +146,10 @@ suggestions, please share them with your classmates in the discord):
     with a speeded-up video, than to be bored by a normal-speed one.
 
 - **Take Breaks.** Watching videos can be exhausting. Take breaks
-    often (we include a few reminders in the embedded videos below,
-    but don't limit your breaks to these). Get your eyes of the
-    screen, and go outside if you can.
+    often (we include a few reminders and suggestions in the embedded
+    videos below, but don't limit your breaks to these, and don't feel
+    obligated to follow our suggestions). Get your eyes of the screen,
+    and go outside if you can.
 
 # Reading
 
@@ -157,30 +158,12 @@ suggestions, please share them with your classmates in the discord):
 [**Week 1 Playlist**](https://www.youtube.com/playlist?list=PLvpsxlEF9cP0GAOvLDM8v868vjepEqc_f)
 
 <p>
-<center>
+Why Study Theory? (4:27)<br>
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/0_DzHM_dNes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Why Study Theory? (4:27)
-</center>
 </p>
 <p>
-<center>
+Is Zero a Natural Number? (17:24)<br>
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/QZNUwRFgk6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Is Zero a Natural Number? (17:24)
-</center>
-</p>
-
-<p>
-<center>
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/RKWRv9E0Kwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Constructing the Natural Numbers (12:10)
-</center>
-</p>
-
-<p>
-<center>
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/8bSXB2n22fM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Defining Equality (14:35)
-</center>
 </p>
 
 <div class="takeabreak">
@@ -188,66 +171,85 @@ Defining Equality (14:35)
 </div>
 
 <p>
-<center>
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/__oagxwaiHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Sets and the Natural Numbers (7:53)
-</center>
+Constructing the Natural Numbers (12:10)<br>
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/RKWRv9E0Kwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p>
+
+<p>
+Defining Equality (14:35)<br>
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/8bSXB2n22fM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<div class="takeabreak">
+<b>Take a Walk</b>
+</div>
+
+<p>
+Sets and the Natural Numbers (7:53)<br>
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/__oagxwaiHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p>
+Defining Addition (8:04)<br>
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/IFLyT-JTNt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<div class="takeabreak">
+<b>Call a Long Lost Relative</b>
+</div>
+
+
+<p>
+Principle of Induction (9:19)<br>
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/fZHqmvbMKGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p>
+Using the Induction Principle (1:28)<br>
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/VNUA3hJyMAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<div class="takeabreak">
+<b>Enjoy some fresh air!</b>
+</div>
+
+<p>
+Defining the Binary Strings (5:49)<br>
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/HjWexe59j-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
 <p>
-<center>
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/IFLyT-JTNt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Defining Addition (8:04)
-</center>
+Defining Set Cardinality (5:28)<br>
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/-Mm4_o0T4zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p>
-<center>
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/fZHqmvbMKGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Principle of Induction (9:19)
-</center>
-</p>
-
-<p>
-<center>
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/[TODO]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Using the Induction Principle (1:28)
-</center>
-</p>
-
-<p>
-<center>
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/[TODO]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Defining the Binary Strings (5:49)
-</center>
+Contable Sets (6:40)<br>
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/l0tYF9QrWag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
-<p>
-<center>
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/[TODO]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Defining Set Cardinality (5:28)
-</center>
-</p>
+The video sets up, but doesn't complete, the proof about the cardinality of the powerset.
 
-<p>
-<center>
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/[TODO]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Contable Sets (6:40)
-</center>
-</p>
-
-
-[PDF of the powerset proof]
-
-
-
-
+See if you can finish it on your own.  Then, look at our proof here: [Powerset
+Proof](/docs/powerset.pdf)
 
 <a name="problems"></a>
 # Cohort Problems
 
+These are the problems you should discuss in your Cohort Meeting, and
+everyone in your cohort should be prepared to present and discuss
+solutions to at the Assessed Cohort Meeting:
+
+[Cohort Problems for Week 1 [PDF]](/docs/week1problems.pdf)
+
+# Write-up Problem
+
+After the Assessed Cohort Meeting, your Cohort Leader will select one
+problem that your cohort needs to write-up and submit.
+
+TODO: template for writing and starting with latex
 
 
 

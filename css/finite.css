@@ -787,3 +787,11 @@ blockquote, blockquote p {
     text-align: center;
 }    
 
+
+.takeabreak {
+    background-color: var(--tb-color);
+    color: var(--inverse-color);
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    text-align:center;
+}
