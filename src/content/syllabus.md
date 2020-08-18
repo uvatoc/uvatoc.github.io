@@ -226,8 +226,8 @@ the week the cohort meeting is scheduled):
   </thead>
   <tbody>
     <tr>
-<td>Wednesday</td><td>Preparation Materials: Video Lectures</td><td>90 minutes</td></tr>
-<tr><td></td><td>Preparation Materials: Readings</td><td>120 minutes</td></tr>
+<td>Wednesday</td><td>Preparation Materials: Video Lectures</td><td>120 minutes</td></tr>
+<tr><td></td><td>Preparation Materials: Readings</td><td>90 minutes</td></tr>
 <tr><td>Thursday</td><td>Work on Problem Set (individually)</td><td>120 minutes</td></tr>
 <tr><td>Friday</td><td>Cohort Meeting (without staff)</td><td>75 minutes</td></tr>
 <tr><td>Saturday/Sunday</td><td>Complete Problem Set, Review</td><td>60 minutes</td></tr>
@@ -240,6 +240,13 @@ The schedule is designed to expect 10 hours of total work per week,
 commensurate with a 3-unit course, and we expect this will work best
 for most students by spreading the work throughout the week following
 a schedule similar to the one above.
+
+Although we have sequentialized the preparation and problem working
+efforts, we expect for most students these will be done more
+fluidly. It will be valuable to read through the assigned problems at
+the beginning of the week, and to attempt to solve problems as you
+complete the relevant preparation materials, rather than doing all the
+preparation materials first and then approaching the problems.
 
 The actual schedule will vary based on the date of a student's
 assessed cohort meeing, and all students are expected to participate

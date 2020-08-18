@@ -33,11 +33,6 @@
   </url>
   
   <url>
-    <loc>https://uvatoc.github.io/week1/</loc>
-    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://uvatoc.github.io/week10/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
@@ -123,6 +118,10 @@
   
   <url>
     <loc>https://uvatoc.github.io/topics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://uvatoc.github.io/week1/</loc>
   </url>
   
 </urlset>
