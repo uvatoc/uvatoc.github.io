@@ -803,5 +803,5 @@ blockquote, blockquote p {
 .cohortlist ul {
     line-height: 0.2;
     margin-bottom: 0;
-    list-style: square inside;
+    list-style: none;
 }
