@@ -795,3 +795,13 @@ blockquote, blockquote p {
     padding-bottom: 1.2rem;
     text-align:center;
 }
+
+.cohortlist label {
+    font-size: 1.0rem;
+}
+
+.cohortlist ul {
+    line-height: 0.2;
+    margin-bottom: 0;
+    list-style: square inside;
+}
