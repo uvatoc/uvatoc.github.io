@@ -4,6 +4,10 @@ title = "Week 1"
 slug= "week1"
 +++
 
+   <div class="yellownote" style="text-align:center;">
+   <b>DRAFT: subject to change until posted</b>
+   </div>
+   
 # Welcome to cs3102!
 
 The main goals for the first week are:
