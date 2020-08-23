@@ -104,7 +104,9 @@ should take the class.
   communications to determine if it would be better to post a message
   in discord before emailing us).
 
-**Teaching Assistants:** Will be updated soon (see course website).
+**Teaching Assistants:** See the [Team Page](/team) for all our wise
+  and wonderful teaching assistants.
+
 
 # Learning Materials
     
