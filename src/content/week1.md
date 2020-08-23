@@ -29,7 +29,7 @@ This will be the one full class meeting we plan to have during the
 semester, and it is at the officially scheduled class time. We hope
 everyone can make it to the meeting as scheduled.
 
-**Wednesday, 26 August, 10:59pm:** [Cohort Scheduling Survey](TODO) TODO: make link
+**Wednesday, 26 August, 10:59pm:** [Cohort Scheduling](https://cohortor.herokuapp.com/)
 
 To schedule the cohorts, it is essential that everyone in the course
 submits this survey on time, and provides as much flexibility on your
@@ -152,6 +152,38 @@ suggestions, please share them with your classmates in the discord):
     and go outside if you can.
 
 # Reading
+
+The main textbook we will use is [_Introduction to Theoretical
+Computer Science_](https://introtcs.org/public/index.html) by Boaz
+Barak. We will refer to this as the "TCS" book.
+
+This is an open textbook, you can download the full PDF from
+[_https://files.boazbarak.org/introtcs/lnotes_book.pdf_](https://files.boazbarak.org/introtcs/lnotes_book.pdf)
+and contribute to the book by submitting Issues and Pull Requests at
+[_https://github.com/boazbk/tcs_](https://github.com/boazbk/tcs). (See
+the [Syllabus](/syllabus#bonus) section on "Bonus Points" for a bit of
+extra motivation for doing this, if just making the world better for
+future generations of Theory of Computing students isn't enough
+already.)
+
+For Week 1, you should read these two chapters from the TCS book:
+
+[Chapter 0: Introduction](https://introtcs.org/public/lec_01_introduction.html) [[PDF](https://files.boazbarak.org/introtcs/lec_01_introduction.pdf)]  
+[Chapter 1: Mathematical Background](https://introtcs.org/public/lec_00_1_math_background.html) [[PDF](https://files.boazbarak.org/introtcs/lec_00_1_math_background.pdf)] (you can skip 1.4.8 and 1.4.9 on _Asymptotics and Big-O Notation_ for now; we will go into more depth on this later in the course)  
+
+There is one additional reading for Week 1:
+
+<blockquote>
+
+Jeremy Kun, [_Habits of highly mathematical people_](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e) (blog post on Medium, July 2016).
+</blockquote>
+
+(The second lecture segment talk refers to a survey students in past
+semesters took in reponse to this reading. You will not need to do the
+survey, but should read the essay to understand what is was about, and
+to get a valuable perspective on the goals of this class and
+mathematically-inclined classes in general.)
+
 
 # Videos 
 

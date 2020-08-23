@@ -124,17 +124,7 @@ also cover some topics that are not included, and present some of the
 material in ways that are different from how it is presented in the
 book.
 
-Although the book is available free to read on-line, if you have
-access to a printer we do recommend printing out the chapters you are
-reading from the PDF files. [Numerous
-studies](https://www.scientificamerican.com/article/reading-paper-screens/)
-have found that essentially everyone reads faster and comprehends
-better from printed paper than from even the best on-screen
-reading. To encourage on-paper reading, we will provide links on the
-[course website](https://uvatoc.github.io) to PDF files for relevant
-chapters.
-
-In addition to the course textbook, some readings will be assigned
+In addition to the course textbook, a few readings will be assigned
 from other (freely available) sources.
 
 **Lectures:** Due to Covid-19, we will not have any in-person lectures
@@ -161,11 +151,10 @@ for interactive communications.
   materials we cannot post publicly.
 
 **Discord:** We will use the course discord server for most other
-  course communications. You should signup at **[TODO: invite link]()**,
-  and we expect students to receive messages we send to the `#general`
-  channel as well as any direct messages we send to you on
-  discord. Each cohort will have a channel on the Discord server.
-
+  course communications (you will receive information on joining the
+  server by email). We expect students to receive messages we send to
+  the `#general` channel as well as any direct messages we send to you
+  on discord. Each cohort will have a channel on the Discord server.
 
 If you have questions about course materials or assignments that will
 be relevant to other students, please ask them in the `#general`
@@ -327,16 +316,17 @@ cohort meeting on this scale:
 </table>
 
 We will make allowances for cases where a student is not able to make
-a scheduled cohort meeting due to extenuating circumstances and provide
-a way for students [TODO: if ready, link to form for this] to be
-excused from a schedule cohort meeting or have an alternate assessment
-if there is a need to miss several cohort meetings, but otherwise a
-student who misses a cohort meeting received 0 cohort assessment
-points for that week. We consider medical issues, personal trauma,
-legal obligations, family responsibilities, and other justifiable
-conflicts to be valid reasons for missing cohort meetings, and
-students who are not able to make a scheduled cohort meeting for such
-reasons will not be disadvantaged as a result.
+a scheduled cohort meeting due to extenuating circumstances and
+provide a way for students to request an exemption due to a valid
+reason for being unable to make a cohort meeting. Otherwise, a student
+who misses a cohort meeting received 0 cohort assessment points for
+that week. We consider medical issues, personal trauma, legal
+obligations, family responsibilities, and other justifiable conflicts
+to be valid reasons for missing cohort meetings, and students who are
+not able to make a scheduled cohort meeting for such reasons will not
+be disadvantaged as a result. In cases where a student has to miss
+more than two cohort meetings during the semester, we will provide an
+alternate assessment through an individual video meeting.
 
 Following each cohort meeting, students will receive a grade and brief
 feedback from their TA. We hope this grading will be simple and clear
@@ -381,6 +371,7 @@ assessments, we will provide option for students to request an oral
 final exam to be scheduled with one of the instructors during the exam
 period.
 
+<a name="bonus"></a>
 **Bonus Points.** We hope students will go beyond the provided
 assignments and do other things to contribute to the class as well as
 beyond. We provide some concrete opportunities for this in the form of
@@ -394,6 +385,16 @@ to the book
 repository](https://github.com/boazbk/tcs/graphs/contributors?from=2017-07-23&to=2020-08-08&type=a)
 is worth an automatic A in the class.
 
+An additional bonus opportunity is to create an interesting artifact
+(could be a
+[vi](https://youtu.be/YC-ewXitC5w)[deo](https://youtu.be/PeRRF3jrHbQ),
+[song](https://soundcloud.com/max-rifkin/discrete-song-copy), [comic
+book](http://dori-mic.org/), or some other artifact that can be
+distributed on the Internet) that conveys something (at least loosely)
+related to theoretical computer science. We will post more information
+on this later, but to get an idea of what it will be and to start
+thinking of ideas for this, see [Problem Set
+&Omega;](https://uvacs2102.github.io/psomega/) (from cs2102).
 
 **Community Grading.** In addition to the individual cohort assessment
   grades, each cohort will receive a community grade based on how well
@@ -441,8 +442,9 @@ required to read, understand, and sign the course pledge:
 learn by thinking about problems on their own, so it is expected that
 each student studies the provided materials and attempts to solve the
 problems on their own, before discussing the problems with cohortmates
-at the cohort meeting. [TODO: do we have any restrictions on
-discussion or working with students in different cohorts?]
+at the cohort meeting. You are welcome to also discuss problems with
+students and others who are not in your cohort, and to share what you
+learn from them with your cohortmates.
 
 Many problems in this course will be selected from problems used in
 previous courses, as well as well known problems. The goal of these
