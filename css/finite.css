@@ -196,6 +196,7 @@ pre {
     margin: 0 0 16px 0;
     border-left: 1px dashed #2199e8;
     padding-left: 1em;
+    border: none;
 }
 
 .hljs
