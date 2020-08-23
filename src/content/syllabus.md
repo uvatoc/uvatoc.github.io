@@ -5,10 +5,6 @@ title = "Syllabus"
 slug = "syllabus"
 +++
 
-   <div class="yellownote" style="text-align:center;">
-   <b>DRAFT: subject to change until posted</b>
-   </div>
-
 # Overview
 
 **Course Description:** The goal of this course is to understand the

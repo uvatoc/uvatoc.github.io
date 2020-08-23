@@ -38,9 +38,9 @@ I will not lie, cheat or steal. If I am unsure whether something would be consid
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>DRAFT: subject to change until postedOverview Course Description: The goal of this course is to understand the fundamental limits on what can be efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal deep and mysterious properties about information, communication, and computing, as well as practical issues about how to solve problems.
+      <description>Overview Course Description: The goal of this course is to understand the fundamental limits on what can be efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal deep and mysterious properties about information, communication, and computing, as well as practical issues about how to solve problems.
 Two fundamental questions about any problem are:
- Can it be solved using a machine of a certain type?</description>
+ Can it be solved using a machine of a certain type? (computability) How much does it cost to solve it?</description>
     </item>
     
     <item>

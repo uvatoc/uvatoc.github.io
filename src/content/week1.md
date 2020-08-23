@@ -27,7 +27,7 @@ The main goals for the first week are:
 
 # Schedule
 
-**Wednesday, 26 August, 3:30-4:45pm:** Full Class Welcome Meeting &mdash; [Zoom Link](https://virginia.zoom.us/j/92284894225?pwd=T2Z6QjZveC9pOXJXa0lPNkI4TXhkQT09)
+**Wednesday, 26 August, 3:30-4:45pm:** Full Class Welcome Meeting &mdash; [Zoom Link](https://virginia.zoom.us/j/95556147173?pwd=cW5iVUxiSEg4M0pVWlg1MG0yZ29zZz09)
 
 This will be the one full class meeting we plan to have during the
 semester, and it is at the officially scheduled class time. We hope
@@ -175,19 +175,12 @@ For Week 1, you should read these two chapters from the TCS book:
 [Chapter 0: Introduction](https://introtcs.org/public/lec_01_introduction.html) [[PDF](https://files.boazbarak.org/introtcs/lec_01_introduction.pdf)]  
 [Chapter 1: Mathematical Background](https://introtcs.org/public/lec_00_1_math_background.html) [[PDF](https://files.boazbarak.org/introtcs/lec_00_1_math_background.pdf)] (you can skip 1.4.8 and 1.4.9 on _Asymptotics and Big-O Notation_ for now; we will go into more depth on this later in the course)  
 
-There is one additional reading for Week 1:
+There is one additional reading for Week 1 (which you should have already done before submitting the registration survey):
 
 <blockquote>
 
 Jeremy Kun, [_Habits of highly mathematical people_](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e) (blog post on Medium, July 2016).
 </blockquote>
-
-(The second lecture segment talk refers to a survey students in past
-semesters took in reponse to this reading. You will not need to do the
-survey, but should read the essay to understand what is was about, and
-to get a valuable perspective on the goals of this class and
-mathematically-inclined classes in general.)
-
 
 # Videos 
 
