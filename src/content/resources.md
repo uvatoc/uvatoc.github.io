@@ -26,6 +26,18 @@ used in [cs2102: Discrete Math](https://uvacs2102.github.io).) Some
 other useful resources for material that is covered in cs2102 are
 [here](https://uvacs2102.github.io/resources/).
 
+## Other Classes
+
+Courses similar to this one include:
+
+- Harvard's [CS 121: Introduction to Theoretical Computer Science](http://people.seas.harvard.edu/~madhusudan/courses/Fall2020/) (Madhu Sudan and Adam Hesterberg), and [earlier versions](https://cs121.boazbarak.org/) (Boaz Barak, the textbook author)
+
+- UCLA's [CS181: Introduction to Theoretical Computer Science](https://hackmd.io/@raghum/introtcs#Raghu-Meka-CS181-Introduction-to-Theoretical-Computer-Science) (Raghu Meka)
+
+- Our previous cs3102 courses at UVA: [Fall 2019 Course](/f19) (Nathan Brunelle and David Evans)  
+[Spring 2020 Course](https://www.cs.virginia.edu/~njb2b/cstheory/s2020) (Nathan Brunelle)
+
+
 ## Suggestions
 
 More resources will be added here as the semester progresses. If you
