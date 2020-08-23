@@ -804,8 +804,6 @@ blockquote, blockquote p {
   width: 30px; 
   height: 30px; 
   cursor: pointer;
-  -webkit-appearance: none;
-  appearance: none;
 }
 
 .cohortlist ul {
