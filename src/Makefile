@@ -22,6 +22,7 @@ f19:
 
 
 develop:
+	sleep 1 && echo "Opening local browser..." &&  open http://localhost:1313 &
 	hugo server --theme=$(THEME) --buildDrafts --watch
 
 github: html

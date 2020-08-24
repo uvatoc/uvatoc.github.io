@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://uvatoc.github.io/post/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uvatoc.github.io/starting/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://uvatoc.github.io/pledge/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
   </url>
@@ -84,11 +94,6 @@
   
   <url>
     <loc>https://uvatoc.github.io/summersurvey/</loc>
-    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uvatoc.github.io/post/</loc>
     <lastmod>2020-07-19T00:00:00+00:00</lastmod>
   </url>
   

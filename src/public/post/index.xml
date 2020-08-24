@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Starting the Semester</title>
+      <link>https://uvatoc.github.io/starting/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/starting/</guid>
+      <description>First Class Meeting We will have our first meeting on Wednesday at our scheduled 3:30-4:45pm meeting time via zoom: zoom link.
+Assessed cohort meetings will start (at the ealiest) on Tuesday, 1 September, so students scheduled in Tuesday cohorts will have preparation Cohort Meetings on Sunday (30 August), and will need to be ready with the Week 1 problems by their cohort meeting on 1 September. (Other students will have more time, depending on when your assessed cohort meeting is scheduled.</description>
+    </item>
     
     <item>
       <title>Course Planning Survey</title>

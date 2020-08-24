@@ -5,7 +5,7 @@ slug= "week1"
 +++
 
    <div class="yellownote" style="text-align:center;">
-   <b>DRAFT: subject to change until posted</b>
+   <b>Parts of this are subject to (minor) change until Wednesday, 26 August</b>
    </div>
    
 # Welcome to cs3102!
@@ -27,19 +27,21 @@ The main goals for the first week are:
 
 # Schedule
 
+**Before First Meeting** (if possible)**:** [Course Registration Survey](https://forms.gle/pMH4AQJjcrh61JXW8)
+
 **Wednesday, 26 August, 3:30-4:45pm:** Full Class Welcome Meeting &mdash; [Zoom Link](https://virginia.zoom.us/j/95556147173?pwd=cW5iVUxiSEg4M0pVWlg1MG0yZ29zZz09)
 
 This will be the one full class meeting we plan to have during the
 semester, and it is at the officially scheduled class time. We hope
 everyone can make it to the meeting as scheduled.
 
-**Wednesday, 26 August, 10:59pm:** [Cohort Scheduling](https://cohortor.herokuapp.com/)
+<font color="red"><b>Wednesday, 26 August, 10:59pm:</b></font> [**Cohort Scheduling**](https://cohortor.herokuapp.com/)
 
 To schedule the cohorts, it is essential that everyone in the course
-submits this survey on time, and provides as much flexibility on your
-scheduling availablity as possible.
-
-We will send out the cohort assignments by Friday morning.
+submits their scheduling preferences by **10:59pm** on
+**Wednesday**. We will send out the cohort assignments by Friday
+morning, and these will determine your schedule for the rest of the
+week (and semester).
 
 Here is the expected schedule for cohorts, based on the day of your
 assessed cohort meeting.  This schedule will repeat similarly

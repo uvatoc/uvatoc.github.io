@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Starting the Semester</title>
+      <link>https://uvatoc.github.io/starting/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/starting/</guid>
+      <description>First Class Meeting We will have our first meeting on Wednesday at our scheduled 3:30-4:45pm meeting time via zoom: zoom link.
+Assessed cohort meetings will start (at the ealiest) on Tuesday, 1 September, so students scheduled in Tuesday cohorts will have preparation Cohort Meetings on Sunday (30 August), and will need to be ready with the Week 1 problems by their cohort meeting on 1 September. (Other students will have more time, depending on when your assessed cohort meeting is scheduled.</description>
+    </item>
+    
+    <item>
       <title>Course Pledge</title>
       <link>https://uvatoc.github.io/pledge/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
@@ -195,7 +205,7 @@ Background Reading Mathematics for Computer Science (free PDF) by Eric Lehman, F
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/week1/</guid>
-      <description>DRAFT: subject to change until posted  Welcome to cs3102! The main goals for the first week are:
+      <description>Parts of this are subject to (minor) change until Wednesday, 26 August  Welcome to cs3102! The main goals for the first week are:
   Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
   Re-awaking the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
     </item>
