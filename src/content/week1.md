@@ -287,10 +287,10 @@ solutions to at the Assessed Cohort Meeting:
 After the Assessed Cohort Meeting, your Cohort Leader will select one
 problem that your cohort needs to write-up and submit.
 
+The [PS1 Template](/docs/ps/ps1template.pdf) provides directions and a
+template for producing the PDF file you will submit as your write-up.
 
-
-TODO: template for writing and starting with latex
-
+Download the [Problem Set 1 Template](https://uvatoc.github.io/ps/ps1.zip)
 
 
 
