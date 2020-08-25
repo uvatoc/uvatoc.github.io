@@ -95,11 +95,12 @@ activities, that require discussion and interaction with others.
 **Problems and Preparation:** The weekly guides will include a set of
   problems ([Cohort Problems](#problems) below) that will be the focus
   on the assessed cohort meeting. We recommend reading through the
-  problems at the beginning of the week, and starting to think about
-  them before you do the readings and watch the course videos.  Then,
-  as you watch the videos and read the book chapters, you should
-  return to the problems that are related to that material and try to
-  solve them. For most students, we expect it will be better to mix up
+  problems at the beginning of the week ([Cohort Problems for Week 1
+  [PDF]](/docs/week1problems.pdf)), and starting to think about them
+  before you do the readings and watch the course videos.  Then, as
+  you watch the videos and read the book chapters, you should return
+  to the problems that are related to that material and try to solve
+  them. For most students, we expect it will be better to mix up
   watching and reading with solving the problems, rather than doing
   all the preparation materials first before trying the problems.
   
@@ -186,6 +187,7 @@ Jeremy Kun, [_Habits of highly mathematical people_](https://medium.com/@jeremyj
 
 # Videos 
 
+You can play all the week 1 videos using the playlist, but don't forget to take breaks:
 [**Week 1 Playlist**](https://www.youtube.com/playlist?list=PLvpsxlEF9cP0GAOvLDM8v868vjepEqc_f)
 
 <p>
