@@ -103,6 +103,9 @@ should take the class.
 **Teaching Assistants:** See the [Team Page](/team) for all our wise
   and wonderful teaching assistants.
 
+**Office Hours:** Office hours will be held using the course discord
+  server.  The full office hours schedule will be posted on the course
+  site later.
 
 # Learning Materials
     
