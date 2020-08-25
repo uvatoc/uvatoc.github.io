@@ -197,8 +197,10 @@ Is Zero a Natural Number? (17:24)<br>
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/QZNUwRFgk6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </p>
 
+<div class="break">
 <div class="takeabreak">
 <b>Breaktime</b>
+</div>
 </div>
 
 <p>
@@ -211,8 +213,10 @@ Defining Equality (14:35)<br>
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/8bSXB2n22fM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+<div class="break">
 <div class="takeabreak">
 <b>Take a Walk</b>
+</div>
 </div>
 
 <p>
@@ -225,10 +229,11 @@ Defining Addition (8:04)<br>
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/IFLyT-JTNt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+<div class="break">
 <div class="takeabreak">
-<b>Call a Long Lost Relative</b>
+<b>Call a Long Lost Friend or Relative</b>
 </div>
-
+</div>
 
 <p>
 Principle of Induction (9:19)<br>
@@ -240,8 +245,10 @@ Using the Induction Principle (1:28)<br>
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/VNUA3hJyMAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+<div class="break">
 <div class="takeabreak">
 <b>Enjoy some fresh air!</b>
+</div>
 </div>
 
 <p>
@@ -261,7 +268,7 @@ Contable Sets (6:40)<br>
 </p>
 
 
-The video sets up, but doesn't complete, the proof about the cardinality of the powerset.
+This video sets up, but doesn't complete, the proof about the cardinality of the powerset.
 
 See if you can finish it on your own.  Then, look at our proof here: [Powerset
 Proof](/docs/powerset.pdf)
@@ -279,6 +286,8 @@ solutions to at the Assessed Cohort Meeting:
 
 After the Assessed Cohort Meeting, your Cohort Leader will select one
 problem that your cohort needs to write-up and submit.
+
+
 
 TODO: template for writing and starting with latex
 

@@ -789,12 +789,21 @@ blockquote, blockquote p {
 }    
 
 
+.break {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
 .takeabreak {
     background-color: var(--tb-color);
     color: var(--inverse-color);
+    border: medium dashed var(--bside-color);
+    border-radius: 15%;
     padding-top: 1.2rem;
     padding-bottom: 1.2rem;
     text-align:center;
+    width: 60%;
 }
 
 .cohortlist label {
