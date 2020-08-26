@@ -283,12 +283,15 @@ solutions to at the Assessed Cohort Meeting:
 # Write-up Problem
 
 After the Assessed Cohort Meeting, your Cohort Leader will select one
-problem that your cohort needs to write-up and submit.
+problem that your cohort needs to write-up and submit.  The write-up
+is due by **11:59pm** on the day after your assessed cohort
+meeting (see the schedule above).
 
 The [PS1 Template](/docs/ps/ps1template.pdf) provides directions and a
 template for producing the PDF file you will submit as your write-up.
 
 Download the [Problem Set 1 Template](https://uvatoc.github.io/ps/ps1.zip)
+
 
 
 
