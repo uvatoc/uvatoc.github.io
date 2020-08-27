@@ -171,8 +171,11 @@ already.)
 
 For Week 1, you should read these two chapters from the TCS book:
 
+<blockquote>
+
 [Chapter 0: Introduction](https://introtcs.org/public/lec_01_introduction.html) [[PDF](https://files.boazbarak.org/introtcs/lec_01_introduction.pdf)]  
 [Chapter 1: Mathematical Background](https://introtcs.org/public/lec_00_1_math_background.html) [[PDF](https://files.boazbarak.org/introtcs/lec_00_1_math_background.pdf)] (you can skip 1.4.8 and 1.4.9 on _Asymptotics and Big-O Notation_ for now; we will go into more depth on this later in the course)  
+</blockquote>
 
 There is one additional reading for Week 1 (which you should have already done before submitting the registration survey):
 
