@@ -189,6 +189,13 @@ Jeremy Kun, [_Habits of highly mathematical people_](https://medium.com/@jeremyj
 You can play all the week 1 videos using the playlist, but don't forget to take breaks:
 [**Week 1 Playlist**](https://www.youtube.com/playlist?list=PLvpsxlEF9cP0GAOvLDM8v868vjepEqc_f)
 
+# 
+<p>
+
+[PDF of slides "Why Study Theory?" through "Defining Equality"](https://www.dropbox.com/s/y7levyehurel93v/class2-share.pdf?dl=0)
+[PDF of slides "Sets and the Natural Numbers" through the end of Week 1](https://www.dropbox.com/s/kqneywmddluv8v7/class3-share.pdf?dl=0)
+</p>
+
 <p>
 Why Study Theory? (4:27)<br>
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/0_DzHM_dNes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -219,6 +226,8 @@ Defining Equality (14:35)<br>
 <b>Take a Walk</b>
 </div>
 </div>
+
+[PDF of slides "Sets and the Natural Numbers" through the end of Week 1](https://www.dropbox.com/s/kqneywmddluv8v7/class3-share.pdf?dl=0)
 
 <p>
 Sets and the Natural Numbers (7:53)<br>
