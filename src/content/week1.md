@@ -192,7 +192,7 @@ You can play all the week 1 videos using the playlist, but don't forget to take 
 # 
 <p>
 
-[PDF of slides "Why Study Theory?" through "Defining Equality"](https://www.dropbox.com/s/y7levyehurel93v/class2-share.pdf?dl=0)
+[PDF of slides "Why Study Theory?" through "Defining Equality"](https://www.dropbox.com/s/y7levyehurel93v/class2-share.pdf?dl=0)  
 [PDF of slides "Sets and the Natural Numbers" through the end of Week 1](https://www.dropbox.com/s/kqneywmddluv8v7/class3-share.pdf?dl=0)
 </p>
 
