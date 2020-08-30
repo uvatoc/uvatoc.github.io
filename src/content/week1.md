@@ -227,7 +227,11 @@ Defining Equality (14:35)<br>
 </div>
 </div>
 
-[PDF of slides "Sets and the Natural Numbers" through the end of Week 1](https://www.dropbox.com/s/kqneywmddluv8v7/class3-share.pdf?dl=0)
+<p>
+
+[Slides for "Sets and the Natural Numbers" through the end of Week 1 [PDF]](https://www.dropbox.com/s/kqneywmddluv8v7/class3-share.pdf?dl=0)
+
+</p>
 
 <p>
 Sets and the Natural Numbers (7:53)<br>
