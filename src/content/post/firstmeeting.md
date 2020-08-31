@@ -1,7 +1,7 @@
 +++
 date = "26 Aug 2020"
 draft = false
-title = "Office Hours"
+title = "First Class"
 author = "Nate Brunelle"
 slug = "firstmeeting"
 +++
