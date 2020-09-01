@@ -72,7 +72,7 @@ I will not lie, cheat or steal. If I am unsure whether something would be consid
       
       <guid>https://uvatoc.github.io/schedule/</guid>
       <description>IntroductionWeek 1: Mathematical Definitions
-Wed 26 AugustMaterials Posted, TCS Chapter 0, TCS Chapter 1Wed 26 August (3:30-4:45pm)Full Class Welcome MeetingTue 1 Sept &amp;ndash; Mon 7 SeptAssessed Cohort MeetingsWeek 2: What Can Bit Strings Can Represent?
+Wed 26 AugustMaterials Posted, TCS Chapter 0, TCS Chapter 1Wed 26 August (3:30-4:45pm)Full Class Welcome MeetingTue 1 Sept &amp;ndash; Mon 7 SeptAssessed Cohort MeetingsWeek 2: Bit Strings and Computing Models
 Tue 1 SeptemberMaterials Posted, TCS Chapter 2Tue 8 Sept &amp;ndash; Mon 14 SeptAssessed Cohort MeetingsFinite ComputationWeek 3: Boolean Circuits</description>
     </item>
     
@@ -121,7 +121,9 @@ Two fundamental questions about any problem are:
       
       <guid>https://uvatoc.github.io/week2/</guid>
       <description>Materials for Week 2 will be posted here.
-Week 2 Playlist</description>
+Week 2: Bit Strings and Computing Models The main goals for Week 2 are:
+TODO
+Schedule   Day &#34;Tuesday&#34; Cohort &#34;Wednesday&#34; Cohort &#34;Thursday&#34; Cohort &#34;Friday&#34; Cohort &#34;Sunday&#34; Cohort &#34;Monday&#34; Cohort    Wed 2 Sep Preparation	(Week 1) (Week 1) (Week 1)	(Week 1)	(Week 1)	Thu 3 Sep Preparation Preparation (Week 1) (Week 1)	(Week 1)	(Week 1)	Fri 4 Sep Preparation Preparation Preparation (Week 1)	(Week 1)	(Week 1)	Sat/Sun 5/6 Sep Cohort Meeting Preparation Preparation Preparation (Week 1) (Week 1)	Mon 7 Sep Preparation	Cohort Meeting Preparation Preparation Preparation (Week 1)	Tue 8 Sep Assessed Cohort Meeting Preparation Cohort Meeting Preparation Preparation Preparation Wed 9 Sep Write-up Due Assessed Cohort Meeting Preparation Cohort Meeting Preparation Preparation Thu 10 Sep Week 3 Write-up Due Assessed Cohort Meeting Preparation Cohort Meeting Preparation Fri 11 Sep Week 3 Week 3 Write-up Due Assessed Cohort Meeting Preparation Cohort Meeting Sat/Sun 12/13 Sep Week 3 Week 3 Week 3 Write-up Due Assessed Cohort Meeting Preparation Mon 14 Sep Week 3 Week 3 Week 3 Week 3  Write-up Due Assessed Cohort Meeting  Tue 15 Sep Week 3 Week 3 Week 3 Week 3 Week 3 Write-up Due    Reading TODO</description>
     </item>
     
     <item>

@@ -55,7 +55,7 @@ Assessed Cohort Meetings
    <tr>
    <td class="week" colspan=2>
 
-[Week 2: What Can Bit Strings Can Represent?](/week2)
+[Week 2: Bit Strings and Computing Models](/week2)
    </td>
 </tr>
 <tr>
