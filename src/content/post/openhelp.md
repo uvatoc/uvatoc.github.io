@@ -66,10 +66,10 @@ channel. You will also see open help video rooms (that may have
 particular topics that are being covered), and should feel free to
 just jump into these rooms.
 
-You may be wondering what the point of faculty office hours is with
-how wonderful the TAs are, and all the opportunities you have with the
-cohort sessions and TA office hours. If you are feeling reluctant to
-come to faculty office hours, this video might help:
+You may be wondering what the point of faculty open student hours is
+with how wonderful the TAs are, and all the opportunities you have
+with the cohort sessions and TA office hours.  If you are feeling
+reluctant to come to faculty office hours, this video might help:
 
 <center>
 <iframe src="https://player.vimeo.com/video/145546541" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -81,7 +81,8 @@ For my (Dave) office hours, I will be in the discord, but will use
 discussions (this is mainly to be able to use the waiting room to have
 private discussions when desirable; if you connect to the zoom room
 and are not invited in immediately, I will try to send you a message,
-but you might have to wait for this to finish).
+but you might have to wait for this to finish).  (Note: if you want to
+arrange a private meeting with me at a different time, use [_https://davidevans.youcanbook.me/_](https://davidevans.youcanbook.me/).)
 
 
 
