@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Open Student Hours</title>
+      <link>https://uvatoc.github.io/openhours/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/openhours/</guid>
+      <description>Below is the schedule for open student hours (no one is in an office these days, but these are similar to what is sometimes called &amp;ldquo;office hours&amp;rdquo;).
+These are times when there will be a course staff person available to answer any questions you have.
+ 	Monday	11am-12:30pm		Anlan	 	Monday	4-5:30pm		Nick	 	Monday	5:30-6pm		Yu	 	Monday	8-9:30pm		Megan	 &amp;nbsp;		Tuesday	12:30-2pm		Timothy	 	Tuesday	2-3:30pm		Nijat	 	Tuesday	3:30-5pm		Jonah	 	Tuesday	5-6:30pm		Nick	 	Tuesday	6-7:30pm		Kush	 &amp;nbsp;		Wednesday	9:30-10:30am		Dave	 	Wednesday	noon-1:30pm		Timothy	 	Wednesday	1:30-3pm		Vi	 	Wednesday	7:30-9pm		Noah	    	Thursday	9:30-11am		John	 	Thursday	12:30-2pm		Joey	 	Thursday	2:30-4pm		Joshua	 	Thursday	4:30-6pm		Brandon	 	Thursday	6:30-8pm		Preston	 		Friday	9-10:30am		Yu	 	Friday	10:30-noon		Megan	 	Friday	12-1pm		Dave	 	Friday	2-3:30pm		William	 	Friday	5:30-7:00pm		Nijat	 		Saturday	10-11:30am		Nicholas	 	Saturday	11:30am-1pm		Rachel	 		Sunday	10:30am-noon		Michelle	 	Sunday	3:30-5pm		Joshua	 	Sunday	5:30-7pm		Nicholas	    During the scheduled times, the listed staff person is available to answer your questions.</description>
+    </item>
+    
+    <item>
       <title>First Class</title>
       <link>https://uvatoc.github.io/firstmeeting/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
@@ -26,10 +37,10 @@ We look forward to seeing you there!</description>
     
     <item>
       <title>Office Hours</title>
-      <link>https://uvatoc.github.io/starting/</link>
+      <link>https://uvatoc.github.io/firstoh/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://uvatoc.github.io/starting/</guid>
+      <guid>https://uvatoc.github.io/firstoh/</guid>
       <description>We will post a more complete office hours schedule by early next week.
 I (Dave) will have office hours on Wednesdays at 9:30-10:30am (including tomorrow, Wednesday, August 26) and Fridays at 10-11am (including this Friday, August 28). For now, these will use my zoom office (but these will move to the course discord server once everyone is set up there).</description>
     </item>

@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://uvatoc.github.io/openhours/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uvatoc.github.io/post/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://uvatoc.github.io/firstmeeting/</loc>
     <lastmod>2020-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://uvatoc.github.io/post/</loc>
-    <lastmod>2020-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uvatoc.github.io/starting/</loc>
+    <loc>https://uvatoc.github.io/firstoh/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   

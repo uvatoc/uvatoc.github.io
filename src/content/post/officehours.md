@@ -3,7 +3,7 @@ date = "25 Aug 2020"
 draft = false
 title = "Office Hours"
 author = "David Evans"
-slug = "starting"
+slug = "firstoh"
 +++
 
 We will post a more complete office hours schedule by early next week.
