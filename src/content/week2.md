@@ -50,6 +50,30 @@ TODO
 </table>
 
 
+<a name="problems"></a>
+# Cohort Problems
+
+These are the problems you should discuss in your Cohort Meeting, and
+everyone in your cohort should be prepared to present and discuss
+solutions to at the Assessed Cohort Meeting:
+
+TODO: [Cohort Problems for Week 2 [PDF]](/docs/week2problems.pdf)
+
+TODO: programming problems, Python resources
+
+# Write-up Problem
+
+After the Assessed Cohort Meeting, your Cohort Leader will select one
+problem that your cohort needs to write-up and submit.  The write-up
+is due by **11:59pm** on the day after your assessed cohort
+meeting (see the schedule above).
+
+TODO: The [PS2 Template](/ps/ps1template.pdf) provides directions and a
+template for producing the PDF file you will submit as your write-up.
+
+Download the [Problem Set 2 Template](https://uvatoc.github.io/ps/ps2.zip)
+
+
 # Reading
 
 TODO
