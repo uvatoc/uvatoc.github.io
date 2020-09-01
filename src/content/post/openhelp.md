@@ -67,8 +67,9 @@ particular topics that are being covered), and should feel free to
 just jump into these rooms.
 
 You may be wondering what the point of faculty office hours is with
-all the access you have to TAs with the scheduled office hours and
-cohorot sessions. This video might help:
+how wonderful the TAs are, and all the opportunities you have with the
+cohort sessions and TA office hours. If you are feeling reluctant to
+come to faculty office hours, this video might help:
 
 <center>
 <iframe src="https://player.vimeo.com/video/145546541" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
