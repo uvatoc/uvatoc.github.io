@@ -1,0 +1,32 @@
++++
+date = "11 Sep 2019"
+draft = false
+title = "Class 5: Defining Computation"
+author = "Nathan Brunelle and David Evans"
+slug = "class5"
++++
+
+## Class 5: Defining Computation
+
+**Schedule Reminders:** [Problem Set 1](/ps1) is due this Friday (4:19pm).  
+See [the schedule](/schedule) for updated office hours.
+
+[Slides (PDF)](https://www.dropbox.com/s/kfm0h66scpoby44/class5.pptx?dl=0)  
+[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bc59b9a8-4076-4d9e-b854-aac5014164e3)
+
+[TCS Chapter 3: Defining computation](/docs/tcs-chapter3.pdf)
+
+### Daniel Lewin, 14 May 1970 &ndash; 11 September 2001
+
+<p>Hiawatha Bray. <a href="http://archive.boston.com/business/technology/articles/2011/09/04/akamai_thrives_in_the_spirit_of_its_lost_founder/?camp=pm"><em>A Lost Spirit Still Inspires</em></a>, Boston Globe, 4 September 2011.</p>
+
+<p>Tom Leighton&rsquo;s <a href="http://www.egr.unlv.edu/~bein/SIGACT/lewin.html"><em>Remarks on Danny Lewin</em></a></p>
+
+<p><a href="https://www.amazon.com/No-Better-Time-Remarkable-Transformed/dp/0306821664"><em>No Better Time: The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet</em></a> by Molly Knight Raskin.</p>
+
+<p>David Karger, Eric Lehman, Tom Leighton, Matthew Levine, Daniel Lewin,
+Rina Panigrah.  <a href="https://www.akamai.com/kr/ko/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf"><em>Consistent Hashing and Random Trees: Distributed
+Caching Protocols for Relieving Hot Spots on the World Wide
+Web</em></a>. (Note:
+tradition in theory papers is to list all authors alphabetically). 29th
+ACM <em>Symposium on Theory of Computing</em>, 1997.</p>
