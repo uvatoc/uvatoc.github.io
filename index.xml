@@ -6,10 +6,32 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Assignment Submission</title>
+      <link>https://uvatoc.github.io/assignments/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/assignments/</guid>
+      <description>Submitting Assignments, Viewing Grades To submit your write-ups and see your feedback, use this site: Assignment Submissions
+To see how to use it, reference this video
+In general, you will only need to submit your weekly written problem, and only one member of your cohort needs to submit. Make sure you tell your cohort coach (TA) who is submitting.</description>
+    </item>
+    
+    <item>
+      <title>Submitting Assignments</title>
+      <link>https://uvatoc.github.io/submission/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/submission/</guid>
+      <description>Submitting Assignments, Viewing Grades To submit your write-ups and see your feedback, use this site: Assignment Submissions
+To see how to use it, reference this video
+In general, you will only need to submit your weekly written problem, and only one member of your cohort needs to submit. Make sure you tell your cohort coach (TA) who is submitting.</description>
+    </item>
     
     <item>
       <title>Open Student Hours</title>
