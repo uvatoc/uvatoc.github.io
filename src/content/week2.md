@@ -47,7 +47,7 @@ At this point you should have been assigned to a cohort and met with them at lea
 </tr><tr><td><b>Thu</b> 10 Sep</td>         <td bgcolor="lightblue">Week 3</td> <td><font color="blue"><b>Write-up Due</b></font></td>  <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td> <td><b>Cohort Meeting</b></td> <td>Preparation</td>
 </tr><tr>
 <td rowspan="2"><b>Fri</b> 11 Sep</td>
-<td colspan="6" style="text-align:center;" bgcolor="#111" color="lightgrey"><a href="https://www.youtube.com/watch?v=aH-q_xb3FnM"><font color="#CCC"><b>September 11 and Distributed Hashing</b></font></a></td></tr>
+<td colspan="6" style="text-align:center;" bgcolor="#111" color="lightgrey"><a href="https://www.youtube.com/watch?v=aH-q_xb3FnM"><font color="#CCC"><b>September 11 and Distributed Hashing</b></font></a> <font color="#CCC">(<a href="#lewin"><font color="#CCC">links below</a><font color="#CCC">)</font></font></font></td></tr>
 <tr><td bgcolor="lightblue">Week 3</td> <td bgcolor="lightblue">Week 3</td> <td><font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>   <td><b>Cohort Meeting</b></td>
 </tr><tr><td><b>Sat/Sun</b> 12/13 Sep</td>     <td bgcolor="lightblue">Week 3</td> <td bgcolor="lightblue">Week 3</td> <td bgcolor="lightblue">Week 3</td>  <td><font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></td> <td>Preparation</td>
 </tr><tr><td><b>Mon</b> 14 Sep</td>         <td bgcolor="lightblue">Week 3</td> <td bgcolor="lightblue">Week 3</td> <td bgcolor="lightblue">Week 3</td> <td bgcolor="lightblue">Week 3</td> <td> <font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></font></td>
@@ -216,17 +216,20 @@ Boolean Circuits (10:31)<Br>
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/lim78IpB8AI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<p>
+<a name="lewin"></a>
 
+### Daniel Lewin, 14 May 1970 &ndash; 11 September 2001
+
+<p>
 If you missed the link to the video for September 11, here it is: <a
 href="https://www.youtube.com/watch?v=aH-q_xb3FnM"><b>September 11 and
 Distributed Hashing</b></font></a>.<br>
+</p>
+<p>
 This is "course-optional" in the sense
 that you are not expected to answer any questions related to it, but
 we do hope you find it worthwhile to watch.
-</blockquote>
-
-### Daniel Lewin, 14 May 1970 &ndash; 11 September 2001
+</p>
 
 <p>Hiawatha Bray. <a href="http://archive.boston.com/business/technology/articles/2011/09/04/akamai_thrives_in_the_spirit_of_its_lost_founder/?camp=pm"><em>A Lost Spirit Still Inspires</em></a>, Boston Globe, 4 September 2011.</p>
 
