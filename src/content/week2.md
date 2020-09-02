@@ -5,7 +5,6 @@ title = "Week 2"
 slug="week2"
 +++
 
-Materials for Week 2 are being posted here. Instructional materials are present (lectures, readings, etc.), but the assignments are not quite completed to be posted.
 
 
 # Week 2: Bit Strings and Computing Models
@@ -67,9 +66,11 @@ These are the problems you should discuss in your Cohort Meeting, and
 everyone in your cohort should be prepared to present and discuss
 solutions to at the Assessed Cohort Meeting:
 
-TODO: [Cohort Problems for Week 2 [PDF]](/docs/week2problems.pdf)
+[Cohort Problems for Week 2 [PDF]](/docs/week2problems.pdf)
 
-TODO: programming problems, Python resources
+The above problems include completing the function implemenations in this python file (the comments in the file itself will guide you, please read everything linearly)
+
+[straighline.py](/docs/straightline.py)
 
 ## Installing Python
 
@@ -87,7 +88,7 @@ If you already have python3 on your machine, you should be good to go for the pr
     
     4.  If asked, check "Add Python to environment variables" and "Install for all users"; leave all other options at their default values.
 
-2.  Install PyCharm Community Edition 2017.3.2:
+2.  Install PyCharm Community Edition 2020.2.1:
     
     1.  Download [the executable installer from jetbrains.com](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC).
     
@@ -107,7 +108,7 @@ If you already have python3 on your machine, you should be good to go for the pr
     
     4.  If asked, check "Add Python to environment variables" and "Install for all users"; leave all other options at their default values.
 
-2.  Install PyCharm Community Edition 2017.3.2:
+2.  Install PyCharm Community Edition 2020.2.1:
     
     1.  Download [the dmg disk image from jetbrains.com](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC).
     
@@ -122,7 +123,7 @@ problem that your cohort needs to write-up and submit.  The write-up
 is due by **11:59pm** on the day after your assessed cohort
 meeting (see the schedule above).
 
-TODO: The [PS2 Template](/ps/ps2template.pdf) provides directions and a
+The [PS2 Template](/ps/ps2template.pdf) provides directions and a
 template for producing the PDF file you will submit as your write-up.
 
 Download the [Problem Set 2 Template](https://uvatoc.github.io/ps/ps2.zip)
