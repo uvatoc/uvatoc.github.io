@@ -1,9 +1,5 @@
 \newcommand{\directions}[1]{#1} % to be removed from submissions
-
-\newcommand{\submitter}[1]{}
-
-\DeclareOption{response}{\renewcommand{\directions}[1]{}
-    \renewcommand{\submitter}[1]{\author{#1}\begin{flushright}{Response by: \bf #1}\end{flushright}\markboth{#1}{#1}}}
+\DeclareOption{response}{\renewcommand{\directions}[1]{}}
 
 \ProcessOptions\relax
 
@@ -20,16 +16,17 @@
 \usepackage{lmodern}
 \usepackage{graphicx}
 %\usepackage{mathpazo} % palatino math fonts
-\usepackage{utopia} % fourier
+%\usepackage{utopia} % fourier
+\usepackage{charter}
 \usepackage{helvet}
 \usepackage{amssymb,amsmath}
 \usepackage{breqn}
 \usepackage[T1]{fontenc}
 
-\usepackage{circuitikz}
-\usetikzlibrary{shapes,arrows,positioning}
-\usepackage{ifxetex,ifluatex}
-\usepackage[inkscapeexe=inkscape,inkscapeopt=-z -D]{svg}
+%\usepackage{circuitikz}
+%\usetikzlibrary{shapes,arrows,positioning}
+%\usepackage{ifxetex,ifluatex}
+%\usepackage[inkscapeexe=inkscape,inkscapeopt=-z -D]{svg}
 %\setsvg{inkscape = inkscape -z -D}
 \usepackage{pgf}
 \usepackage{proof}
@@ -57,7 +54,7 @@
 
 \newcommand{\dbox}[1]{\begin{adjustbox}{minipage=0.85\textwidth,margin=0pt \smallskipamount,center}\begin{shaded} #1 \end{shaded}\end{adjustbox}}
 
-\newcommand{\coloredbox}[2]{\begin{adjustbox}{minipage=0.85\textwidth,margin=0pt \smallskipamount,center}\setlength\fboxsep{0.2cm}\colorbox{#1}{\parbox{1.0\textwidth}{#2}}\end{adjustbox}}
+\newcommand{\coloredbox}[2]{\begin{adjustbox}{minipage=0.85\textwidth,margin=0pt \smallskipamount,center}\setlength\fboxsep{0.2cm}\colorbox{#1}{\parbox{1.0\textwidth}{\raggedright #2}}\end{adjustbox}}
 
 \newcommand{\dybox}[1]{\coloredbox{yellow}{#1}}
 
@@ -160,7 +157,7 @@
 \cfoot{\footnotesize \href{https://creativecommons.org/licenses/by-nc/4.0/}{\em Creative Commons BY-NC 4.0}}
 \rfoot{\footnotesize \href{https://www.cs.virginia.edu/~njb2b/}{Nathan Brunelle} and \href{https://www.cs.virginia.edu/evans}{David Evans}}
 
-\lhead{\textbf{cs3102 Fall 2019}}
+\lhead{\textbf{cs3102 Fall 2020}}
 \rhead{\em \mytitle}
 \chead{\thepage}
 
@@ -184,6 +181,9 @@
 
 
 \newcommand{\collaborators}[1]{\coloredbox{pink}{{\bf Collaborators and Resources:} #1}}
+
+\newcommand{\submitter}[1]{\coloredbox{yellow}{{\bf Authors:} #1}}
+
 
 \usepackage{clrscode}
 
@@ -209,4 +209,3 @@
 \newtheorem{lemma}{Lemma}
 \newtheorem{definition}{Definition}
 \newcommand{\class}[1]{\mathsf{#1}}
-
