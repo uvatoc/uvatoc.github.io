@@ -86,7 +86,7 @@ Finite Computation
 <tr>
 <td class="week" colspan=2>
 
-[Week 3: Boolean Circuits](/week3)
+[Week 3: Boolean Circuits and Universality](/week3)
 
 </td>
 </tr>
