@@ -68,7 +68,13 @@ solutions to at the Assessed Cohort Meeting:
 
 [Cohort Problems for Week 2 [PDF]](/docs/ps2.pdf)
 
-The above problems include completing the function implemenations in this python file (the comments in the file itself will guide you, please read everything linearly)
+The problems are posted here and we think its a good idea to look at
+them early, but you're not expected to be able to solve them until
+after doing the readings and watching the videos below.
+
+The above problems include completing the function implemenations in
+this python file (the comments in the file itself will guide you,
+please read everything linearly)
 
 [straighline.py](/docs/straightline.py)
 
