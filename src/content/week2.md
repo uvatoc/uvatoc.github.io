@@ -130,7 +130,7 @@ meeting (see the schedule above).
 The [PS2 Template](/ps/ps2template.pdf) provides directions and a
 template for producing the PDF file you will submit as your write-up.
 
-Download the [Problem Set 2 Template](https://uvatoc.github.io/ps/ps2.zip)
+Download the [Problem Set 2 Template [zip]](https://uvatoc.github.io/ps/ps2.zip).
 
 
 # Reading
