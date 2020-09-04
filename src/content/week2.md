@@ -66,7 +66,7 @@ These are the problems you should discuss in your Cohort Meeting, and
 everyone in your cohort should be prepared to present and discuss
 solutions to at the Assessed Cohort Meeting:
 
-[Cohort Problems for Week 2 [PDF]](/docs/week2problems.pdf)
+[Cohort Problems for Week 2 [PDF]](/docs/ps2.pdf)
 
 The above problems include completing the function implemenations in this python file (the comments in the file itself will guide you, please read everything linearly)
 
