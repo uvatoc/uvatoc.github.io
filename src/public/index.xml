@@ -23,6 +23,18 @@ In general, you will only need to submit your weekly written problem, and only o
     </item>
     
     <item>
+      <title>Installing Python</title>
+      <link>https://uvatoc.github.io/python/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/python/</guid>
+      <description>If you already have python3 on your machine, you should be good to go for the programming problems.
+If you don’t, please follow these directions to download Python and PyCharm (you’re welcome to use any IDE that you want, we semi-arbitrarily picked PyCharm).
+Windows   Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
+  Download the executable x86-64 installer from python.</description>
+    </item>
+    
+    <item>
       <title>Submitting Assignments</title>
       <link>https://uvatoc.github.io/submission/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
