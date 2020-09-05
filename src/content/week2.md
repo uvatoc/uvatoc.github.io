@@ -74,7 +74,7 @@ after doing the readings and watching the videos below.
 
 The above problems include completing the function implementations in
 this python file (the comments in the file itself will guide you,
-please read everything linearly): [straighline.py](/docs/straightline.py).
+please read everything linearly): [straightline.py](/docs/straightline.py).
 
 ## Installing Python
 
