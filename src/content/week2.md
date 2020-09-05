@@ -78,9 +78,7 @@ please read everything linearly): [straightline.py](/docs/straightline.py).
 
 If you already have python3 on your machine, you should be good to go
 for the programming problems. If you don't, please [follow these
-directions to setup Python](/python). to download Python and PyCharm
-(you're welcome to use any IDE that you want, we semi-arbitrarily
-picked PyCharm).
+directions to setup Python](/python). 
 
 # Write-up Problem
 
