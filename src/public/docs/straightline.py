@@ -80,7 +80,7 @@ def MAJ(a,b,c):
 
 
 
-"""Now you're ready to start implementing programs in AON straightline for yourself. Implement the 3 functions (IMPL, PAL5, COMPARE4) described below."""
+"""Now you're ready to start implementing programs in AON straightline for yourself. Implement the two functions (IMPL, COMPARE4) described below."""
 
 def IMPL(a,b):
     """TODO: Implement the boolean operator Implies which is true whenever "a implies b" is true."""

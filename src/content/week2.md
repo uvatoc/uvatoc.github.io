@@ -97,8 +97,8 @@ Download the [Problem Set 2 Template [zip]](https://uvatoc.github.io/ps/ps2.zip)
 
 Material in this week's lectures parallels with:
 
-- [TCS Chapter 2](introtcs.org/public/lec_02_representation.html) for our discussions on what can and cannot be represented by binary strings.
-- This week's discussion of Boolean circuits gives a high-level treatment of several sections of [TCS Chapter 3](introtcs.org/public/lec_03_computation.html). In particular, we give semi-formal coverage of sections 3.1, 3.2, 3.3, 3.5, and 3.6 (but we'll discuss much of this in more detail next week).
+- [TCS Chapter 2](//introtcs.org/public/lec_02_representation.html) for our discussions on what can and cannot be represented by binary strings.
+- This week's discussion of Boolean circuits gives a high-level treatment of several sections of [TCS Chapter 3](//introtcs.org/public/lec_03_computation.html). In particular, we give semi-formal coverage of sections 3.1, 3.2, 3.3, 3.5, and 3.6 (but we'll discuss much of this in more detail next week).
 
 Here are some things that may be of interest to you:
 
