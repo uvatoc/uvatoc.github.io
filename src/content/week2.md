@@ -46,7 +46,7 @@ At this point you should have been assigned to a cohort and met with them at lea
 </tr><tr><td><b>Thu</b> 10 Sep</td>         <td bgcolor="lightblue">Week 3</td> <td><font color="blue"><b>Write-up Due</b></font></td>  <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td> <td><b>Cohort Meeting</b></td> <td>Preparation</td>
 </tr><tr>
 <td rowspan="2"><b>Fri</b> 11 Sep</td>
-<td colspan="6" style="text-align:center;" bgcolor="#111" color="lightgrey"><a href="https://www.youtube.com/watch?v=aH-q_xb3FnM"><font color="#CCC"><b>September 11 and Distributed Hashing</b></font></a> <font color="#CCC">(<a href="#lewin"><font color="#CCC">links below</a><font color="#CCC">)</font></font></font></td></tr>
+<td colspan="6" style="text-align:center;" bgcolor="#111" color="lightgrey"><a href="https://www.youtube.com/watch?v=aH-q_xb3FnM"><font color="#CCC"><b>September 11 and Distributed Hashing</b> [video available Sept 11]</font></a> <font color="#CCC">(<a href="#lewin"><font color="#CCC">links below</a><font color="#CCC">)</font></font></font></td></tr>
 <tr><td bgcolor="lightblue">Week 3</td> <td bgcolor="lightblue">Week 3</td> <td><font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>   <td><b>Cohort Meeting</b></td>
 </tr><tr><td><b>Sat/Sun</b> 12/13 Sep</td>     <td bgcolor="lightblue">Week 3</td> <td bgcolor="lightblue">Week 3</td> <td bgcolor="lightblue">Week 3</td>  <td><font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></td> <td>Preparation</td>
 </tr><tr><td><b>Mon</b> 14 Sep</td>         <td bgcolor="lightblue">Week 3</td> <td bgcolor="lightblue">Week 3</td> <td bgcolor="lightblue">Week 3</td> <td bgcolor="lightblue">Week 3</td> <td> <font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></font></td>
@@ -230,7 +230,7 @@ Boolean Circuits (10:31)<Br>
 ### Daniel Lewin, 14 May 1970 &ndash; 11 September 2001
 
 <p>
-If you missed the link to the video for September 11, here it is: <a
+If you missed the link to the video for September 11, here it is (visible on Sept 11, but not earlier): <a
 href="https://www.youtube.com/watch?v=aH-q_xb3FnM"><b>September 11 and
 Distributed Hashing</b></font></a>.<br>
 </p>
