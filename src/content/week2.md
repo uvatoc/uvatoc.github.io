@@ -108,6 +108,13 @@ Here are some things that may be of interest to you:
 
 You can play all the videos using this playlist, but don't forget to take breaks:[Week 2 Playlist](https://www.youtube.com/playlist?list=PLvpsxlEF9cP0K8WmvzXVD2SPzT6YOCkZA)
 
+These videos are edited from cs3102 Fall 2019 classes (we don't generally recommend watching the unedited versions, but they are available if you want to)::
+
+- [Class 4: Uncountability](https://uvatoc.github.io/f19/class4/) - [Unedited Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b644143d-a3dc-4165-a524-aac30140f096)
+
+- [Class 5: Defining Computation](https://uvatoc.github.io/f19/class5/) - [Unedited Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bc59b9a8-4076-4d9e-b854-aac5014164e3)
+
+
 # 
 <p>
 

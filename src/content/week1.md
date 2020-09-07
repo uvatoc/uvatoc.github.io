@@ -189,6 +189,12 @@ Jeremy Kun, [_Habits of highly mathematical people_](https://medium.com/@jeremyj
 You can play all the week 1 videos using the playlist, but don't forget to take breaks:
 [**Week 1 Playlist**](https://www.youtube.com/playlist?list=PLvpsxlEF9cP0GAOvLDM8v868vjepEqc_f)
 
+These videos are edited from cs3102 Fall 2019 classes (we don't generally recommend watching the unedited versions, but they are available if you want to):
+
+- [Class 2: Defining Definitions](https://uvatoc.github.io/f19/class2/) - [Unedited Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b40a101-3c1d-4e10-8e94-aabc0141338d)
+- [Class 3: Countable Sets](https://uvatoc.github.io/f19/class3/) - [Unedited Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=902b7d43-fd0d-470a-88d1-aabe01412d86)
+
+
 # 
 <p>
 
