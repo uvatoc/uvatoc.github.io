@@ -5,13 +5,11 @@ title = "Week 2"
 slug="week2"
 +++
 
-
-
 # Week 2: Bit Strings and Computing Models
 
-The main goals for Week 2 are:
-
-At this point you should have been assigned to a cohort and met with them at least twice (once during your assigned prep time and once during your assessed time with a TA). This week, our main goals are:
+At this point you should have been assigned to a cohort and met with
+them at least twice (once during your assigned prep time and once
+during your assessed time with a TA). This week, our main goals are:
 
 - Now that you've had some cohort experience, reflect on how to make the most out of your cohort experience this semester.
 - Begin exploration of the theory of computing, most importantly seeing the motivations for significant themes.
@@ -19,7 +17,6 @@ At this point you should have been assigned to a cohort and met with them at lea
 - Have you mind blown by infinities.
 - See and example of the limits of computing.
 - Learn a first model of computing.
-
 
 # Schedule
 
