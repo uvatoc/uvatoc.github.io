@@ -7,10 +7,10 @@ slug="week3"
 
 # Week 3: 
 
-The main goals for Week 3 are:
+The main goals for Week 3 are to:
 
-- Show how simple models of computing can result in complex behavior
-- Begin building a bridge from theoretical models of computing (like straightline programs and boolean circuits) to practical implementations of computing (like python and integrated circuits)
+- Show how simple models of computing can result in complex behavior.
+- Begin building a bridge from theoretical models of computing (like straightline programs and boolean circuits) to practical implementations of computing (like Python and integrated circuits).
 - Explore the powers and limitations of a model of computing, including being able to understand the details of how to use that model, and why it is defined in the way chosen.
 
 # Schedule
