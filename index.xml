@@ -18,8 +18,7 @@
       
       <guid>https://uvatoc.github.io/week3/</guid>
       <description>Week 3: The main goals for Week 3 are:
-TODO
-Schedule   Day &#34;Tuesday&#34; Cohort &#34;Wednesday&#34; Cohort &#34;Thursday&#34; Cohort &#34;Friday&#34; Cohort &#34;Sunday&#34; Cohort &#34;Monday&#34; Cohort    Wed 9 Sep Preparation	(Week 2) (Week 2) (Week 2)	(Week 2)	(Week 2)	Thu 10 Sep Preparation Preparation (Week 2) (Week 2)	(Week 2)	(Week 2)	 Fri 11 Sep September 11 and Distributed Hashing (links from Week 2)  Preparation Preparation Preparation (Week 2)	(Week 2)	(Week 2)	Sat/Sun 12/13 Sep Cohort Meeting Preparation Preparation Preparation (Week 2) (Week 2)	Mon 14 Sep Preparation	Cohort Meeting Preparation Preparation Preparation (Week 2)	Tue 15 Sep Assessed Cohort Meeting Preparation Cohort Meeting Preparation Preparation Preparation Wed 16 Sep Write-up Due Assessed Cohort Meeting Preparation Cohort Meeting Preparation Preparation Thu 17 Sep Week 4 Write-up Due Assessed Cohort Meeting Preparation Cohort Meeting Preparation  Fri 18 Sep Week 4 Week 4 Write-up Due Assessed Cohort Meeting Preparation Cohort Meeting Sat/Sun 19/20 Sep Week 4 Week 4 Week 4 Write-up Due Assessed Cohort Meeting Preparation Mon 21 Sep Week 4 Week 4 Week 4 Week 4  Write-up Due Assessed Cohort Meeting  Tue 22 Sep Week 4 Week 4 Week 4 Week 4 Week 4 Write-up Due</description>
+ Show how simple models of computing can result in complex behavior Begin building a bridge from theoretical models of computing (like straightline programs and boolean circuits) to practical implementations of computing (like python and integrated circuits) Explore the powers and limitations of a model of computing, including being able to understand the details of how to use that model, and why it is defined in the way chosen.</description>
     </item>
     
     <item>
