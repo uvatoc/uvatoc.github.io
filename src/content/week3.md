@@ -60,7 +60,7 @@ These are the problems you should discuss in your Cohort Meeting, and
 everyone in your cohort should be prepared to present and discuss
 solutions to at the Assessed Cohort Meeting:
 
-[Cohort Problems for Week 3 [PDF]](/docs/ps3.pdf)
+[Cohort Problems for Week 3 [PDF]](/docs/ps3.pdf)  
 [Programming Problems for Week 3 [py]](/docs/adders.py)
 
 The problems are posted here and we think its a good idea to look at
