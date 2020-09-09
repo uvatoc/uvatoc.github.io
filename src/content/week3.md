@@ -82,8 +82,8 @@ Download the [Problem Set 3 Template [zip]](https://uvatoc.github.io/ps/ps3.zip)
 
 Material in this week's lectures parallels with:
  
-- Ch. 3, Defining Computation of the TOC textbook. We discussed this last week as well, we're looking at this chapter in more detail this week
-- Ch. 4, Syntactic sugar and computing every function from the TOC textbook. In particular, we cover sections 4.1 through 4.3.
+- [Ch. 3, Defining Computation](/docs/tcs-chapter3.pdf) of the TOC textbook. We discussed this last week as well, we're looking at this chapter in more detail this week
+- [Ch. 4, Syntactic sugar and computing every function](/docs/tcs-chapter4.pdf) from the TOC textbook. In particular, we cover sections 4.1 through 4.3.
 
 # Videos
 
