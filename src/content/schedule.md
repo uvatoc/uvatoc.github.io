@@ -60,7 +60,7 @@ Assessed Cohort Meetings
 </tr>
 <tr>
 <td>
-Tue 1 September
+Wed 2 September
 </td>
 <td>
 Materials Posted, TCS Chapter 2
@@ -92,7 +92,7 @@ Finite Computation
 </tr>
 <tr>
 <td>
-Tue 8 September
+Wed 9 September
 </td>
 <td>
 Materials Posted, TCS Chapter 3
@@ -116,7 +116,7 @@ Assessed Cohort Meetings
 </tr>
 <tr>
 <td>
-Tue 15 September
+Wed 16 September
 </td>
 <td>
 Materials Posted, TCS Chapter 4
@@ -140,7 +140,7 @@ Assessed Cohort Meetings
 
 <tr>
 <td>
-Tue 22 September
+Wed 23 September
 </td>
 <td>
 Materials Posted, TCS Chapter 5
@@ -173,7 +173,7 @@ Uniform Computation
 </tr>
 <tr>
 <td>
-Tue 29 September
+Wed 30 September
 </td>
 <td>
 Materials Posted, TCS Chapter 6
@@ -196,7 +196,7 @@ Assessed Cohort Meetings
 </tr>
 <tr>
 <td>
-Tue 6 October
+Wed 7 October
 </td>
 <td>
 Materials Posted
@@ -219,7 +219,7 @@ Assessed Cohort Meetings
 </tr>
 <tr>
 <td>
-Tue 13 October
+Wed 14 October
 </td>
 <td>
 Materials Posted, TCS Chapter 7
@@ -242,7 +242,7 @@ Assessed Cohort Meetings
 </tr>
 <tr>
 <td>
-Tue 20 October
+Wed 21 October
 </td>
 <td>
 Materials Posted, TCS Chapter 9
@@ -284,7 +284,7 @@ being the last one to meet for the remainder of the semester.
 </tr>
 <tr>
 <td>
-Tue 27 October
+Wed 28 October
 </td>
 <td>
 Materials Posted, TCS Chapter 12, 13
@@ -311,7 +311,7 @@ Assessed Cohort Meetings
 </tr>
 <tr>
 <td>
-Tue 3 November
+Wed 4 November
 </td>
 <td>
 Materials Posted, TCS Chapter 14, 15
@@ -334,7 +334,7 @@ Assessed Cohort Meetings
 </tr>
 <tr>
 <td>
-Wed 11 November
+Thu 12 November
 </td>
 <td>
 Materials Posted
