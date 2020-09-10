@@ -7,9 +7,12 @@ slug = "schedule"
 
 
 <p>
-
 </p>
+<p>
+For the open help schedule, see [_Open Student Hours_](/openhours/).
 
+For the detailed weekly schedule for each cohort, see one of the week postings (e.g., [Week 1](/week1)).
+</p>
    <table class="fschedule">
    <tbody>
 
