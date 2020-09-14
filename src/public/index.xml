@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theory of Computation</title>
@@ -40,8 +40,8 @@ In general, you will only need to submit your weekly written problem, and only o
       <guid>https://uvatoc.github.io/python/</guid>
       <description>If you already have python3 on your machine, you should be good to go for the programming problems.
 If you don’t, please follow these directions to download Python and PyCharm (you’re welcome to use any IDE that you want, we semi-arbitrarily picked PyCharm).
-Windows  Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
- Download the executable x86-64 installer from python.</description>
+Windows   Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
+  Download the executable x86-64 installer from python.</description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@ In general, you will only need to submit your weekly written problem, and only o
       <guid>https://uvatoc.github.io/openhours/</guid>
       <description>Below is the schedule for open student hours (no one is in an office these days, but these are similar to what is sometimes called &amp;ldquo;office hours&amp;rdquo;).
 These are times when there will be a course staff person available to answer any questions you have.
-  Monday 4-5:30pm  Nick   Monday 5:30-6pm  Yu   Monday 6:30-8pm  Anlan   Monday 8-9:30pm  Megan  &amp;nbsp;  Tuesday 12:30-2pm  Timothy   Tuesday 2-3:30pm  Nijat   Tuesday 3:30-5pm  Jonah   Tuesday 5-6:30pm  Nick   Tuesday 6-7:30pm  Kush  &amp;nbsp;  Wednesday 9:30-10:30am  Dave   Wednesday noon-2:00pm  Nathan   Wednesday noon-1:30pm  Timothy   Wednesday 1:30-3pm  Vi   Wednesday 7:30-9pm  Noah      Thursday 9:30-11am  John   Thursday 12:30-2pm  Joey   Thursday 2:30-4pm  Joshua   Thursday 3:30-5pm  Nathan   Thursday 4:30-6pm  Brandon   Thursday 6:30-8pm  Preston    Friday 9-10:30am  Yu   Friday 10:30-noon  Megan   Friday 12-1pm  Dave   Friday 2-3:30pm  William   Friday 5:30-7:00pm  Nijat    Saturday 10-11:30am  Nicholas   Saturday 11:30am-1pm  Rachel    Sunday 10:30am-noon  Michelle   Sunday 3:30-5pm  Joshua   Sunday 5:30-7pm  Nicholas     During the scheduled times, the listed staff person is available to answer your questions.</description>
+ 	Monday	4-5:30pm		Nick	 	Monday	5:30-6pm		Yu	 	Monday	6:30-8pm		Anlan	 	Monday	8-9:30pm		Megan	 &amp;nbsp;		Tuesday	12:30-2pm		Timothy	 	Tuesday	2-3:30pm		Nijat	 	Tuesday	3:30-5pm		Jonah	 	Tuesday	5-6:30pm		Nick	 	Tuesday	6-7:30pm		Kush	 &amp;nbsp;		Wednesday	9:30-10:30am		Dave	 	Wednesday	noon-2:00pm		Nathan	 	Wednesday	noon-1:30pm		Timothy	 	Wednesday	1:30-3pm		Vi	 	Wednesday	7:30-9pm		Noah	    	Thursday	9:30-11am		John	 	Thursday	12:30-2pm		Joey	 	Thursday	2:30-4pm		Joshua	 	Thursday	3:30-5pm		Nathan	 	Thursday	4:30-6pm		Brandon	 	Thursday	6:30-8pm		Preston	 		Friday	9-10:30am		Yu	 	Friday	10:30-noon		Megan	 	Friday	12-1pm		Dave	 	Friday	2-3:30pm		William	 	Friday	5:30-7:00pm		Nijat	 		Saturday	10-11:30am		Nicholas	 	Saturday	11:30am-1pm		Rachel	 		Sunday	10:30am-noon		Michelle	 	Sunday	3:30-5pm		Joshua	 	Sunday	5:30-7pm		Nicholas	    During the scheduled times, the listed staff person is available to answer your questions.</description>
     </item>
     
     <item>
@@ -125,9 +125,9 @@ I will not lie, cheat or steal. If I am unsure whether something would be consid
       
       <guid>https://uvatoc.github.io/schedule/</guid>
       <description>For the open help schedule, see Open Student Hours.
-For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1). 
-  Introduction   
- Week 1: Mathematical Definitions    Wed 26 August  Materials Posted, TCS Chapter 0, TCS Chapter 1     Wed 26 August (3:30-4:45pm)   Full Class Welcome Meeting     Tue 1 Sept &amp;ndash; Mon 7 Sept   Assessed Cohort Meetings</description>
+For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1).
+IntroductionWeek 1: Mathematical Definitions
+Wed 26 AugustMaterials Posted, TCS Chapter 0, TCS Chapter 1Wed 26 August (3:30-4:45pm)Full Class Welcome MeetingTue 1 Sept &amp;ndash; Mon 7 SeptAssessed Cohort MeetingsWeek 2: Bit Strings and Computing Models</description>
     </item>
     
     <item>
@@ -138,7 +138,7 @@ For the detailed weekly schedule for each cohort, see one of the week postings (
       <guid>https://uvatoc.github.io/syllabus/</guid>
       <description>Overview Course Description: The goal of this course is to understand the fundamental limits on what can be efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal deep and mysterious properties about information, communication, and computing, as well as practical issues about how to solve problems.
 Two fundamental questions about any problem are:
- Can it be solved using a machine of a certain type?</description>
+ Can it be solved using a machine of a certain type? (computability) How much does it cost to solve it?</description>
     </item>
     
     <item>
@@ -228,12 +228,9 @@ Two fundamental questions about any problem are:
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/team/</guid>
-      <description>Co-Leads 
- 
-Nathan Brunelle   &amp;nbsp;   
-David Evans    
- Assistants 
-Coming soon&amp;hellip;</description>
+      <description>Co-Leads
+Nathan Brunelle&amp;nbsp;
+David EvansAssistantsComing soon&amp;hellip;</description>
     </item>
     
     <item>
@@ -244,7 +241,9 @@ Coming soon&amp;hellip;</description>
       <guid>https://uvatoc.github.io/summersurvey/</guid>
       <description>This email was sent out to students registered for the Fall 2020 course. If you are not registered yet but interested in taking the course in the fall, please read the message below and submit the survey. Thanks!
 Mail Sent  Date: Wed, Jul 15, 2020 at 10:16 AM Subject: cs3102: Welcome and Survey Request
-Dear Theory of Computation Students, Thank you for registering for cs3102! We’re looking forward to the fall semester, as much as one can under these circumstances, and considering plans for the course.</description>
+Dear Theory of Computation Students,
+Thank you for registering for cs3102!
+We’re looking forward to the fall semester, as much as one can under these circumstances, and considering plans for the course.</description>
     </item>
     
     <item>
@@ -277,8 +276,8 @@ Background Reading Mathematics for Computer Science (free PDF) by Eric Lehman, F
       
       <guid>https://uvatoc.github.io/week1/</guid>
       <description>Welcome to cs3102! The main goals for the first week are:
- Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
- Re-awaking the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
+  Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
+  Re-awaking the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
     </item>
     
   </channel>
