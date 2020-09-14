@@ -75,34 +75,34 @@ Implement a 2-bit half adder below. You may only use NAND
 """
 
 def HADD2(a0, a1, b0, b1):
-    return '0','0'
+    return 0,0
 
-assert(HADD2('1','0','1','0') == ('0','0'))
-assert(HADD2('1','1','1','0') == ('0','1'))
-assert(HADD2('0','0','0','0') == ('0','0'))
-assert(HADD2('1','1','0','1') == ('0','0'))
+assert(HADD2(1,0,1,0) == (0,0))
+assert(HADD2(1,1,1,0) == (0,1))
+assert(HADD2(0,0,0,0) == (0,0))
+assert(HADD2(1,1,0,1) == (0,0))
 
 """A Full Adder is a function that takes in three bits as input and gives their sum as output. For example, FADD(0,1,1) = 1,0. The idea of a full adder is that two of the bits will represent input bits in the addition, and the third bit will represent the carry value of the addition of a less-significant bit.
 
 Implement a Full Adder below. You may use only NAND."""
 
 def FADD(a,b,c):
-    return '0','0'
+    return 0,0
     
-assert(FADD('0','1','1') == ('1','0'))
-assert(FADD('0','0','0') == ('0','0'))
-assert(FADD('1','1','1') == ('1','1'))
+assert(FADD(0,1,1) == (1,0))
+assert(FADD(0,0,0) == (0,0))
+assert(FADD(1,1,1) == (1,1))
 
 """Use the HADD2 and FADD procedures to implement a function that adds together two 4-bit numbers. You may use NAND, XOR, MAJ, or any other procedures as syntactic sugar if you wish (you must follow these same rules when implementing your own procedures)."""
 
 def ADD4(a0, a1, a2, a3, b0, b1, b2, b3):
-    return '0' # you must figure out how many bits you actually need to return
+    return 0 # you must figure out how many bits you actually need to return
     
 """The next problem is a challenge problem. These are problems whose difficulty is so high that we do not necessarily expect most students will be able to do them within the time constraints of this assignment. We do, though, believe that they will be good practice. You are not required to complete or even attempt any challenge problems, but if you do, please let you Cohort Coach know. Successful completion of challenge problems will very much impress the course staff, and can also improve your community score.
 
 CHALLENGE: Implement a function which computes the product of two 4-bit numbers"""
 
 def MULT4(a0, a1, a2, a3, b0, b1, b2, b3):
-    return '0' # you must figure out how many bits you actually need to return
+    return 0 # you must figure out how many bits you actually need to return
 
 
