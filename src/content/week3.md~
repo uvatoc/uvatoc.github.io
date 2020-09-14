@@ -7,10 +7,10 @@ slug="week3"
 
 # Week 3: 
 
-The main goals for Week 3 are:
+The main goals for Week 3 are to:
 
-- Show how simple models of computing can result in complex behavior
-- Begin building a bridge from theoretical models of computing (like straightline programs and boolean circuits) to practical implementations of computing (like python and integrated circuits)
+- Show how simple models of computing can result in complex behavior.
+- Begin building a bridge from theoretical models of computing (like straightline programs and boolean circuits) to practical implementations of computing (like Python and integrated circuits).
 - Explore the powers and limitations of a model of computing, including being able to understand the details of how to use that model, and why it is defined in the way chosen.
 
 # Schedule
@@ -60,7 +60,7 @@ These are the problems you should discuss in your Cohort Meeting, and
 everyone in your cohort should be prepared to present and discuss
 solutions to at the Assessed Cohort Meeting:
 
-[Cohort Problems for Week 3 [PDF]](/docs/ps3.pdf)
+[Cohort Problems for Week 3 [PDF]](/docs/ps3.pdf)  
 [Programming Problems for Week 3 [py]](/docs/adders.py)
 
 The problems are posted here and we think its a good idea to look at
@@ -82,8 +82,8 @@ Download the [Problem Set 3 Template [zip]](https://uvatoc.github.io/ps/ps3.zip)
 
 Material in this week's lectures parallels with:
  
-- Ch. 3, Defining Computation of the TOC textbook. We discussed this last week as well, we're looking at this chapter in more detail this week
-- Ch. 4, Syntactic sugar and computing every function from the TOC textbook. In particular, we cover sections 4.1 through 4.3.
+- [Ch. 3, Defining Computation](/docs/tcs-chapter3.pdf) of the TOC textbook. We discussed this last week as well, we're looking at this chapter in more detail this week
+- [Ch. 4, Syntactic sugar and computing every function](/docs/tcs-chapter4.pdf) from the TOC textbook. In particular, we cover sections 4.1 through 4.3.
 
 # Videos
 
