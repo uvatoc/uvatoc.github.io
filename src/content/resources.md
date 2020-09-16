@@ -28,6 +28,8 @@ used in [cs2102: Discrete Math](https://uvacs2102.github.io).) Some
 other useful resources for material that is covered in cs2102 are
 [here](https://uvacs2102.github.io/resources/).
 
+[forall _x_ (Solutions Booklet from University of Calgary)](http://forallx.openlogicproject.org/solutions/forallxsol.pdf) (P. D. Magnus and Tim Button)
+
 Here are some other materials from cs2012/DMT1 courses that may be useful:
 - [Sets Primer](http://www.cs.virginia.edu/luther/DMT1/S2020/sets.html) (from Luther Tychonievich)
 - [Proof Techniques](http://www.cs.virginia.edu/luther/DMT1/S2020/techniques-q8.html)
