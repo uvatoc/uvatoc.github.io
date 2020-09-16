@@ -6,10 +6,22 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resources</title>
+      <link>https://uvatoc.github.io/resources/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/resources/</guid>
+      <description>Here are links to some useful resources for cs3102. If you discover other resources you think would be helpful for students in the class, please let us know to add them here.
+Course Book Main Website
+Full Text PDF
+Github (if you have corrections or suggestions for the book, submit them to Boaz Barak here; useful contributions will be worth bonus points in the course, so let us know if you have a pull request accepted or start a useful issue)</description>
+    </item>
     
     <item>
       <title>Week 3</title>
@@ -256,19 +268,6 @@ We’re looking forward to the fall semester, as much as one can under these cir
       <guid>https://uvatoc.github.io/fall2020/</guid>
       <description>A version of this course will be offered in Fall 2020. It is optimistically scheduled for Mondays and Wednesdays, 3:30-4:45 in McLeod Hall 1020 (assuming we will be back to cramming 300 students in a classroom in the fall).
 In the happy event that we can offer courses normally in the fall, the content and structure will be fairly similar to what was done in recent semesters. You can see all the materials from recent versions of this course here:</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>https://uvatoc.github.io/resources/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/resources/</guid>
-      <description>Here are links to some useful resources for cs3102.
-Course Book Main Website
-Full Text PDF
-Github (if you have corrections or suggestions for the book, submit them to Boaz Barak here; useful contributions will be worth bonus points in the course, so let us know if you have a pull request accepted or start a useful issue)
-Background Reading Mathematics for Computer Science (free PDF) by Eric Lehman, F Thomson Leighton, Albert R Meyer.</description>
     </item>
     
     <item>
