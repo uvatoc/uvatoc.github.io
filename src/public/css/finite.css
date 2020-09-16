@@ -793,6 +793,7 @@ blockquote, blockquote p {
     align-items: center;
     justify-content: center;
     display: flex;
+    width: 800;
 }
 
 .takeabreak {
@@ -803,7 +804,7 @@ blockquote, blockquote p {
     padding-top: 1.2rem;
     padding-bottom: 1.2rem;
     text-align:center;
-    width: 60%;
+    width: 70%;
 }
 
 .cohortlist label {
