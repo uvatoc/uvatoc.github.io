@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 4, Resources</title>
+      <link>https://uvatoc.github.io/week4posted/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/week4posted/</guid>
+      <description>Week 4 is now posted - see the Week 4 page for the details.
+The Resources page has some links to resources that we think will be useful for cs3102 students, including additional background materials, and other sources that cover concepts in the class.</description>
+    </item>
     
     <item>
       <title>Submitting Assignments</title>
