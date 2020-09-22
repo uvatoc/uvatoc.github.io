@@ -5,7 +5,7 @@ title = "Week 4"
 slug="week4"
 +++
 
-# Week 4: 
+# Goals
 
 The main goals for Week 4 are to:
 

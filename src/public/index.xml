@@ -27,8 +27,8 @@ We have created a peer evaluation form for you to reflect on the ways that you a
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/week4/</guid>
-      <description>Week 4: The main goals for Week 4 are to:
- Implement and use the EVAL function. This is our first exposure to a modul of computing which is able to simulate an instance of itself. This idea is fundamental to the practice of computer science, as it enables us to have arbitrarily reprogrammable machines which run with fixed hardware. Begin classifying functions by complexity (i.e. resources required to implement them).</description>
+      <description>Goals The main goals for Week 4 are to:
+ Implement and use the EVAL function. This is our first exposure to a modul of computing which is able to simulate an instance of itself. This idea is fundamental to the practice of computer science, as it enables us to have arbitrarily reprogrammable machines which run with fixed hardware. Begin classifying functions by complexity (i.e. resources required to implement them). Reason about how theory and practice might differ from one another, and why that might be a good thing.</description>
     </item>
     
     <item>
@@ -216,7 +216,8 @@ Two fundamental questions about any problem are:
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/week5/</guid>
-      <description>Materials for Week 5 will be posted here.</description>
+      <description>Goals The main goals for Week 5 are to:
+ Understand what a complexity class is and how to provide properties about circuit-size complexity classes. Learn the asymptotic operators (Big-O, Ω, and Θ) and how to use them correctly. Be able to both intuitively understand what functions are in O(f(), and to prove membership or non-membership. Be able to connect the formal definitions of computing costs to practical questions about the cost of computing.</description>
     </item>
     
     <item>

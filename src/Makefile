@@ -29,7 +29,7 @@ github: html
 	cp -r ./docs/* ./public/docs/
 	cp -r ./ps/* ./public/ps/
 	cp -r ./images/* ./public/images/
-	cp -r public/* ../
+	cp -r ./public/* ../
 	git add -A; git commit -m "Rebuilt site" ; git push
 
 toc.sty:
