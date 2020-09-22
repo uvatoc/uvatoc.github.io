@@ -31,23 +31,23 @@ The schedule is identical to previous weeks, and repeated here (with updated dat
     </tr>
   </thead> 
   <tbody>
-     <tr><td><b>Wed</b> 23 Sep</td>        <td>Preparation</td>	          <td bgcolor="lightyellow">(Week 4)</td> <td bgcolor="lightyellow">(Week 4)</td> <td bgcolor="lightyellow">(Week 4)</td>	 <td bgcolor="lightyellow">(Week 4)</td>	 <td bgcolor="lightyellow">(Week 4)</td>			 
-</tr><tr><td><b>Thu</b> 24 Sep</td>        <td>Preparation</td>           <td>Preparation</td> <td bgcolor="lightyellow">(Week 4)</td> <td bgcolor="lightyellow">(Week 4)</td>	 <td bgcolor="lightyellow">(Week 4)</td>	<td bgcolor="lightyellow">(Week 4)</td>		
+     <tr><td><b>Wed</b> 23&nbsp;Sep</td>        <td>Preparation</td>	          <td bgcolor="lightyellow">(Week 4)</td> <td bgcolor="lightyellow">(Week 4)</td> <td bgcolor="lightyellow">(Week 4)</td>	 <td bgcolor="lightyellow">(Week 4)</td>	 <td bgcolor="lightyellow">(Week 4)</td>			 
+</tr><tr><td><b>Thu</b> 24&nbsp;Sep</td>        <td>Preparation</td>           <td>Preparation</td> <td bgcolor="lightyellow">(Week 4)</td> <td bgcolor="lightyellow">(Week 4)</td>	 <td bgcolor="lightyellow">(Week 4)</td>	<td bgcolor="lightyellow">(Week 4)</td>		
 </tr>
-<tr><td><b>Fri</b> 25 Sep</td>   <td>Preparation</td>           <td>Preparation</td>      <td>Preparation</td>   <td bgcolor="lightyellow">(Week 4)</td>	<td bgcolor="lightyellow">(Week 4)</td>	<td bgcolor="lightyellow">(Week 4)</td>	  
-</tr><tr><td><b>Sat/Sun</b> 26/27 Sep</td> <td><b>Cohort Meeting</b></td> <td>Preparation</td>      <td>Preparation</td>      <td>Preparation</td>   <td bgcolor="lightyellow">(Week 4)</td>  <td bgcolor="lightyellow">(Week 4)</td>		 
-</tr><tr><td><b>Mon</b> 28 Sep</td>        <td>Preparation</td>		  <td><b>Cohort Meeting</b></td> <td>Preparation</td>       <td>Preparation</td>     <td>Preparation</td> <td bgcolor="lightyellow">(Week 4)</td>		
-</tr><tr><td><b>Tue</b> 29 Sep</td>         <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>   <td><b>Cohort Meeting</b></td> <td>Preparation</td>       <td>Preparation</td> <td>Preparation</td>
-</tr><tr><td><b>Wed</b> 30 Sep</td>         <td><font color="blue"><b>Write-up Due</b></font></td>  <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>        <td><b>Cohort Meeting</b></td> <td>Preparation</td> <td>Preparation</td>
-</tr><tr><td><b>Thu</b> 1 Oct</td>         <td bgcolor="lightblue">Week 6</td> <td><font color="blue"><b>Write-up Due</b></font></td>  <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td> <td><b>Cohort Meeting</b></td> <td>Preparation</td>
+<tr><td><b>Fri</b> 25&nbsp;Sep</td>   <td>Preparation</td>           <td>Preparation</td>      <td>Preparation</td>   <td bgcolor="lightyellow">(Week 4)</td>	<td bgcolor="lightyellow">(Week 4)</td>	<td bgcolor="lightyellow">(Week 4)</td>	  
+</tr><tr><td><b>Sat/Sun</b> 26/27&nbsp;Sep</td> <td><b>Cohort Meeting</b></td> <td>Preparation</td>      <td>Preparation</td>      <td>Preparation</td>   <td bgcolor="lightyellow">(Week 4)</td>  <td bgcolor="lightyellow">(Week 4)</td>		 
+</tr><tr><td><b>Mon</b> 28&nbsp;Sep</td>        <td>Preparation</td>		  <td><b>Cohort Meeting</b></td> <td>Preparation</td>       <td>Preparation</td>     <td>Preparation</td> <td bgcolor="lightyellow">(Week 4)</td>		
+</tr><tr><td><b>Tue</b> 29&nbsp;Sep</td>         <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>   <td><b>Cohort Meeting</b></td> <td>Preparation</td>       <td>Preparation</td> <td>Preparation</td>
+</tr><tr><td><b>Wed</b> 30&nbsp;Sep</td>         <td><font color="blue"><b>Write-up Due</b></font></td>  <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>        <td><b>Cohort Meeting</b></td> <td>Preparation</td> <td>Preparation</td>
+</tr><tr><td><b>Thu</b> 1&nbsp;Oct</td>         <td bgcolor="lightblue">Week 6</td> <td><font color="blue"><b>Write-up Due</b></font></td>  <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td> <td><b>Cohort Meeting</b></td> <td>Preparation</td>
 </tr><tr>
-<td><b>Fri</b> 2 Oct</td>
+<td><b>Fri</b> 2&nbsp;Oct</td>
 <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td><font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>   <td><b>Cohort Meeting</b></td>
-</tr><tr><td><b>Sat/Sun</b> 3/4 Oct</td>     <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td>  <td><font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></td> <td>Preparation</td>
-</tr><tr><td><b>Mon</b> 5 Oct</td>         <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td> <font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></font></td>
+</tr><tr><td><b>Sat/Sun</b> 3/4&nbsp;Oct</td>     <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td>  <td><font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></td> <td>Preparation</td>
+</tr><tr><td><b>Mon</b> 5&nbsp;Oct</td>         <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td> <font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></font></td>
 </tr>
 
-</tr><tr><td><b>Tue</b> 6 Oct</td>         <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td>  <td bgcolor="lightblue">Week 6</td> <td><font color="blue"><b>Write-up Due</b></font></td>
+</tr><tr><td><b>Tue</b> 6&nbsp;Oct</td>         <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td> <td bgcolor="lightblue">Week 6</td>  <td bgcolor="lightblue">Week 6</td> <td><font color="blue"><b>Write-up Due</b></font></td>
 </tr>
 
 </tbody>
@@ -111,23 +111,11 @@ some clips from this in a future class).
 
 </p>
 
-
-
 <p>Introducing Complexity (8:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/xR0EWMVw-Kk' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
-<p>Complexity Classes: SIZE (6:19) <br>' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Complexity Classes: SIZE (6:19) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/es1QLNCa4FY' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
-<p>First Complexity Proof (4:39) <br>' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
-<div class="break">
-<div class="takeabreak">
-<b>Breaktime</b>
-</div>
-</div>
-
-<p>Asympototic Operators (7:05) <br>' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
-<p>Using Big-O (Theorem 5.2) (4:51) <br>' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>First Complexity Proof (4:39) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/8hyf4s_tdM0' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
 <div class="break">
 <div class="takeabreak">
@@ -135,11 +123,12 @@ some clips from this in a future class).
 </div>
 </div>
 
-<p>Understanding 𝑂, Ω, and Θ (7:20) <br>' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Asympototic Operators (7:05) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/96XtkxDNDCs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
-<p>Big-O Examples (5:35) <br>' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Using Big-O (Theorem 5.2) (4:51) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/ZPVsL3mCxkg' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
-<p>Common Misuses of Asymptotic Notation (5:52) <br>' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Understanding 𝑂, Ω, and Θ (7:20) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/0O-rGXVp5yU' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
 
 <div class="break">
 <div class="takeabreak">
@@ -147,7 +136,18 @@ some clips from this in a future class).
 </div>
 </div>
 
-<p>Some Functions are Expensive (7:35) <br>' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Big-O Examples (5:35) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/NUUnux_BFSA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
-<p>Cost of Computing (5:02) <br>' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Common Misuses of Asymptotic Notation (5:52) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/WLV99-6ep2c' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+
+<div class="break">
+<div class="takeabreak">
+<b>Breaktime</b>
+</div>
+</div>
+
+<p>Some Functions are Expensive (7:35) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/BavLtSyKlFg' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+<p>Cost of Computing (5:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/5H6DvmEzwDY' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
