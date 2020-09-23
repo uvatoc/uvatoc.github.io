@@ -56,8 +56,6 @@ The schedule is identical to previous weeks, and repeated here (with updated dat
 <a name="problems"></a>
 # Cohort Problems
 
-TODO 
-
 These are the problems you should discuss in your Cohort Meeting, and
 everyone in your cohort should be prepared to present and discuss
 solutions to at the Assessed Cohort Meeting:
