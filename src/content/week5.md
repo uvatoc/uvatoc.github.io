@@ -11,7 +11,7 @@ The main goals for Week 5 are to:
 
 - Understand what a complexity class is and how to provide properties about circuit-size complexity classes.
 - Learn the asymptotic operators (Big-<em>O</em>, &Omega;, and &Theta;) and how to use them correctly.
-- Be able to both intuitively understand what functions are in <em>O</em>(<em>f(</em>), and to prove membership or non-membership.
+- Be able to both intuitively understand what functions are in <em>O</em>(<em>f(<em>n</em>)</em>), and to prove membership or non-membership.
 - Be able to connect the formal definitions of computing costs to practical questions about the cost of computing.
 
 # Schedule
