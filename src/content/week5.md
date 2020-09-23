@@ -89,7 +89,7 @@ books provide more detailed presentations of these concepts, and lots
 of examples. If you would like a more complex textbook explanation,
 the course instructors (at least one of them!) recommends this
 chapter: [Chapter 7: Cost](https://computingbook.org/Cost.pdf) (from [_Introduction to Computing
-Explorations in Language, Logic, and Machines_](https://computingbook.org/).
+Explorations in Language, Logic, and Machines_](https://computingbook.org/)).
 
 # Videos
 
@@ -97,8 +97,8 @@ You can play all the videos using this playlist, but don't forget to take breaks
 <p>
 These videos are edited from these cs3102 classes (we don't generally recommend watching the unedited versions, but they are available if you want to):
 
-- (Spring 2020) Feb 13: Complexity - [Full Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bac56a89-3c1e-42f8-ac16-ab600151fdf6) [Slides](https://www.cs.virginia.edu/~njb2b/cstheory/s2020/files/slides/big-oh_written.pdf)
-- (Fall 2019) [Class 11: Cost and Counting](https://uvatoc.github.io/f19/class11/) - [Full Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2349417-446c-46a8-b5ec-aae10141417e) [Slides](https://www.dropbox.com/s/tbsytzp9n6fnyvg/class11-post.pdf?dl=0)
+- (Spring 2020) Feb 13: Complexity - [Full Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bac56a89-3c1e-42f8-ac16-ab600151fdf6), [Slides](https://www.cs.virginia.edu/~njb2b/cstheory/s2020/files/slides/big-oh_written.pdf)
+- (Fall 2019) [Class 11: Cost and Counting](https://uvatoc.github.io/f19/class11/) - [Full Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2349417-446c-46a8-b5ec-aae10141417e), [Slides](https://www.dropbox.com/s/tbsytzp9n6fnyvg/class11-post.pdf?dl=0)
 
 We don't have exams this semester, but adventurous students may find
 the [exam review from Fall
