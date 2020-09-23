@@ -62,8 +62,7 @@ These are the problems you should discuss in your Cohort Meeting, and
 everyone in your cohort should be prepared to present and discuss
 solutions to at the Assessed Cohort Meeting:
 
-[Cohort Problems for Week 5 [PDF]](/docs/ps5.pdf)
-TODO ???? [Programming Problems for Week 5 [PY]](/docs/eval.py)
+[Cohort Problems for Week 5 [PDF]](/ps/ps5.pdf)
 
 The problems are posted here and we think its a good idea to look at
 them early, but you're not expected to be able to solve them until
@@ -74,10 +73,7 @@ problem that your cohort needs to write-up and submit.  The write-up
 is due by **11:59pm** on the day after your assessed cohort meeting
 (see the schedule above).
 
-The [PS5 Template](/docs/ps5template.pdf) provides directions and a
-template for producing the PDF file you will submit as your write-up.
-
-Download the [Problem Set 5 Template [zip]](https://uvatoc.github.io/docs/ps5template.zip).
+[Problem Set 5 Template [zip]](https://uvatoc.github.io/ps/ps5template.zip).
 
 
 # Reading
