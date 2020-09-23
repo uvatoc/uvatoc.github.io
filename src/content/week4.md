@@ -59,7 +59,7 @@ These are the problems you should discuss in your Cohort Meeting, and
 everyone in your cohort should be prepared to present and discuss
 solutions to at the Assessed Cohort Meeting:
 
-[Cohort Problems for Week 4 [PDF]](/docs/ps4.pdf)
+[Cohort Problems for Week 4 [PDF]](/docs/ps4.pdf)<br>
 [Programming Problems for Week 4 [PY]](/docs/eval.py)
 
 The problems are posted here and we think its a good idea to look at
