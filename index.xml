@@ -235,7 +235,10 @@ Two fundamental questions about any problem are:
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/week6/</guid>
-      <description>Materials for Week 6 will be posted here.</description>
+      <description>Goals The main goals for Week 6 are to:
+  Synthesize what we have learned about finite computation in the first 5 weeks, and start exploring unbounded computation.
+  Appreciate the connection between functions and languages, and the different ways of talking about computation.
+  Understand and be able to formally define a Finite State Automaton, and to reason about the language accepted (or function computed) by a Deterministic Finite Automaton.</description>
     </item>
     
     <item>

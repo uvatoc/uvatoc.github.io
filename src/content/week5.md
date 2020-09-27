@@ -76,8 +76,8 @@ is due by **11:59pm** on the day after your assessed cohort meeting
 
 # Reading
 
-This week focuses on material in [Ch. 5, Code as data, data as
-code](/docs/tcs-chapter5.pdf) from the TOC textbook (which you already
+This week focuses on material in [Chapter 5: Code as data, data as
+code](/docs/tcs-chapter5.pdf) from the TCS textbook (which you already
 read last week, but we go into more depth on this week). The main theorems we focus on are in [Section 5.2](https://introtcs.org/public/lec_04_code_and_data.html#countingcircuitsec).
 
 The TCS book does not provide a detailed presentation of the
