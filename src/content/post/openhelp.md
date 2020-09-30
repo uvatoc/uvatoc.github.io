@@ -28,8 +28,8 @@ answer any questions you have.
 <tr><td>	Tuesday	5-6:30pm	</td><td>	Nick	</td></tr>
 <tr><td>	Tuesday	6-7:30pm	</td><td>	Kush	</td></tr>
 <tr><td colspan=2>&nbsp;</td></tr>					
-<tr><td>	Wednesday	9:30-10:30am	</td><td>	Dave	</td></tr>
-<tr><td>	Wednesday	noon-2:00pm	</td><td>	Nathan	</td></tr>
+<tr><td>	Wednesday	9:30-10:30am	</td><td>	<a href=https://virginia.zoom.us/s/2024003839>Dave</a>	</td></tr>
+<tr><td>	Wednesday	noon-2:00pm	</td><td>	<a href=https://virginia.zoom.us/my/profnateb>Nathan</a>	</td></tr>
 <tr><td>	Wednesday	noon-1:30pm	</td><td>	Timothy	</td></tr>
 <tr><td>	Wednesday	1:30-3pm	</td><td>	Vi	</td></tr>
 <tr><td>	Wednesday	7:30-9pm	</td><td>	Noah	</td></tr>
@@ -40,13 +40,13 @@ answer any questions you have.
 <tr><td>	Thursday	9:30-11am	</td><td>	John	</td></tr>
 <tr><td>	Thursday	12:30-2pm	</td><td>	Joey	</td></tr>
 <tr><td>	Thursday	2:30-4pm	</td><td>	Joshua	</td></tr>
-<tr><td>	Thursday	3:30-5pm	</td><td>	Nathan	</td></tr>
 <tr><td>	Thursday	4:30-6pm	</td><td>	Brandon	</td></tr>
 <tr><td>	Thursday	6:30-8pm	</td><td>	Preston	</td></tr>
 <tr><td colspan=2></td></tr>					
 <tr><td>	Friday	9-10:30am	</td><td>	Yu	</td></tr>
 <tr><td>	Friday	10:30-noon	</td><td>	Megan	</td></tr>
-<tr><td>	Friday	12-1pm	</td><td>	Dave	</td></tr>
+<tr><td>	Friday	12-1pm	</td><td>	<a href=https://virginia.zoom.us/s/2024003839>Dave</a>	</td></tr>
+<tr><td>	Friday	1pm-2:30pm	</td><td>	<a href=https://virginia.zoom.us/my/profnateb>Nathan</a>	</td></tr>
 <tr><td>	Friday	2-3:30pm	</td><td>	William	</td></tr>
 <tr><td>	Friday	5:30-7:00pm	</td><td>	Nijat	</td></tr>
 <tr><td colspan=2></td></tr>					
