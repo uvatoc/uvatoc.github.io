@@ -73,13 +73,17 @@ to what is already known about Piazza).
 
 I don't have any problem with Piazza's original business plan, which
 was to be a service for students to use to help each other and have
-their own discussions. But, this didn't work - the only way to get
-enough students on the platform was for courses to adopt it
-officially, and for course staff to use it as a required platform for
-courses.  So, if students want to set up a Piazza forum for this
-course themselves as a totally optional way of discussing topics
-without any involvement of the course staff, I have no objection to
-that.
+their own discussions (assuming they would be transparent and honest
+about the data they are collecting and what they would do with it, and
+students would join knowing these risks). But, this didn't work
+&mdash; the only way to get enough students on the platform was for
+courses to adopt it officially (but based on instructors deciding to
+use it, not their universities, who would have needed to do a privacy
+and legal compliance audit on Piazza before doing this), and for
+course staff to use it as a required platform for courses.  So, if
+students want to set up a Piazza forum for this course themselves as a
+totally optional way of discussing topics without any involvement of
+the course staff, I have no objection to that.
 
 ## What should students do if they are now uneasy about Piazza collecting dossiers on them?
 
