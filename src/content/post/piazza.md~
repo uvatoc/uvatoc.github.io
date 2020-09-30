@@ -27,13 +27,15 @@ well as when they work, how often they ask questions, the contents of
 the questions they ask, when they answer questions, and how often and
 at what times they view any course materials posted there.
 
-You can read their privacy policy here: [_https://piazza.com/legal/privacy_](https://piazza.com/legal/privacy). Among other highlights,
+You can read their privacy policy here: [_https://piazza.com/legal/privacy_](https://piazza.com/legal/privacy). 
+
+Among other high(low)-lights:
 
 > "When you use our website, we collect and analyze information such as your IP address, browser types, browser language, operating system, the state or country from which you accessed the Services, software and hardware attributes (including device IDs) referring and exit pages and URLs, platform type, the number of clicks, files you download, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the terms you use in searches on our sites, the date and time you used the Services and upload or post content, error logs, and other similar information."
 
 > "We use the information that we collect through our Services for a variety of purposes, including the following business and commercial purposes: ... notify you in the Services about Events and that may be of interest to you; "
 
-> "We may share or disclose information in the following ways: ... We may share or disclose certain information, in connection with or during negotiations of any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. If such transfer is subject to additional mandatory restrictions under applicable laws, we will comply with such restrictions."
+> "... We may share or disclose certain information, in connection with or during negotiations of any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company."
 
 (This one should especially scare you, since even if they seem to be
 behaving mostly responsibly now, in the long run, they either need to

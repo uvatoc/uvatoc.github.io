@@ -6,9 +6,9 @@ author = "David Evans"
 +++
 
 Since a few students asked about using Piazza, I wanted to post an
-explanation of why I'm not willing to use Piazza in my courses here
-(these are my personal views, which don't necessarily reflect those of
-anyone else on the course staff).
+explanation of why I'm not willing to use Piazza for any official
+course interactions here (these are my personal views, which don't
+necessarily reflect those of anyone else on the course staff).
 
 The reason I'm not willing to use Piazza is their business model is
 based on surveillance of students and monetizing the data collected
