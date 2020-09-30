@@ -12,7 +12,8 @@ anyone else on the course staff).
 
 The reason I'm not willing to use Piazza is their business model is
 based on surveillance of students and monetizing the data collected
-through this. (Note: I did use it once, [cs4414 Fall
+through this is ways that may be harmful to students forced to use
+it. (Note: I did use it once, [cs4414 Fall
 2103](https://www.rust-class.org/0/pages/syllabus.html), and can talk
 more about that separately than I will here.)
 
