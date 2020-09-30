@@ -68,6 +68,16 @@ email). Discord's business model isn't clear yet, so this does raise
 some concerns, but I think it is still fairly safe (at least relative
 to what is already known about Piazza).
 
+I don't have any problem with Piazza's original business plan, which
+was to be a service for students to use to help each other and have
+their own discussions. But, this didn't work - the only way to get
+enough students on the platform was for courses to adopt it
+officially, and for course staff to use it as a required platform for
+courses.  So, if students want to set up a Piazza forum for this
+course themselves as a totally optional way of discussing topics
+without any involvement of the course staff, I have no objection to
+that.
+
 ## What should students do if they are now uneasy about Piazza collecting dossiers on them?
 
 My suggestions would be, if you are uncomfortable with the data Piazza
