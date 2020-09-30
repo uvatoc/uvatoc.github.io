@@ -30,7 +30,7 @@ github: html
 	cp -r ./ps/* ./public/ps/
 	cp -r ./images/* ./public/images/
 	cp -r ./public/* ../
-	git add -A :/; git commit -m "Rebuilt site" ; git push
+	git add -A; git commit -m "Rebuilt site" ; git push
 
 toc.sty:
 	pandoc --read=markdown+raw_tex --template=./latex/toc.template ./latex/temp-latex.md -o ./docs/test.tex
