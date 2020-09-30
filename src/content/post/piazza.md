@@ -45,6 +45,19 @@ you are already providing all this data to them. On the other hand, I
 don't feel comfortable requiring you to provide data with these risks
 to participate in a class that I have influence over.
 
+Beyond the privacy policy, you should also be aware who owns the content you post on Piazza and what limits there are on how it is used. Namely, from their [Terms of Use](https://piazza.com/legal/terms):
+
+> By posting User Content on or through the Service, you grant Piazza a worldwide, irrevocable, perpetual, non-exclusive, transferable, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display, distribute, and otherwise exploit such User Content in any format or medium now known or developed in the future, in order to provide the Service subject to applicable law and our Privacy Policy.
+
+I want my course materials to be used openly, and this is the reason
+for using the [Creative Commons BY-NC
+license](https://creativecommons.org/licenses/by-nc/4.0/) on nearly
+everything that I have control over. You should also think about the
+intellectual property value of anything you contribute to a course
+(and I do hope many students produce things of value), and whether you
+want a for-profit third-party to have an "irrevocable, perpetual"
+license to do anything they want with them.
+
 ## But how is this different from Google/Github/Discord/Slack/etc.?
 
 At some level, the entire Internet ecosystem we use operates under
