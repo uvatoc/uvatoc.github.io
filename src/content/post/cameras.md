@@ -88,7 +88,14 @@ But, there are also lots of "bad" reasons why people prefer to keep their camera
 
 - Not wanting to be the first one in the meeting with a camera on. This is a tough one, and understandable, but also the reason why small group meetings that start with about half of the people with cameras on, tend to devlolve into meetings with no cameras on. It feels awkward to be the only one in a meeting with camera on since it seems like everyone is looking at you and you have no one to look at. But, try and stick it out and hope that if you do, others will join. We would also suggest that there is a way to encourage others to turn on their cameras without pressuring any individual to do so: "If I turn on my camera, will anyone join me?"
 
-It isn't possible for us, or your cohortmates, to distinguish between the "good" and "bad" reasons you might not be willing to have your camera on. On the other hand, my guess is the vast majority of students who have their cameras off, it is for a "bad" reason not a "good" one. So, we don't want anyone to feel any individual pressure to turn their camera on since we know some people do have valid reasons not to. But, we hope that people who are turning their camera off for "bad" reasons, will consider that although it is an immediate sacrifice personally to turn on your camera, it is a community benefit that will, in the long run end up being a personal benefit also.
+It isn't possible for us, or your cohortmates, to distinguish between the "good" and "bad" reasons you might not be willing to have your camera on. On the other hand, my guess is the vast majority of students who have their cameras off, it is for a "bad" reason not a "good" one.
+
+We don't want anyone to feel any individual pressure to turn their
+camera on since we know some people do have valid reasons not to. But,
+we hope that people who are turning their camera off for "bad"
+reasons, will consider that although it is an immediate sacrifice
+personally to turn on your camera, it is a community benefit that
+will, in the long run end up being a personal benefit also.
 
 
 
