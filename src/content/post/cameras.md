@@ -35,7 +35,7 @@ meetings, although we really don't want this to be stressful).
     <img src="/images/zoommeeting.jpg" width="95%">
     </div>
     <div class="column small-12 medium-6">
-    <img src="/images/bettermeeting.png" width=70%>
+    <img src="/images/betterzoommeeting.png" width=70%>
     </div>
 </div>
 <em>Which meeting would you rather be in?</em>
