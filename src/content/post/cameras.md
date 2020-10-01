@@ -28,6 +28,7 @@ especially difficult (and perhaps exaccerbated by the additional
 stress you might feel about being graded during the assessed cohort
 meetings, although we really don't want this to be stressful).
 
+##
 
 <center>
 <div class="row">
@@ -41,17 +42,19 @@ meetings, although we really don't want this to be stressful).
 <em>Which meeting would you rather be in?</em>
 </center>
 
-One thing that I think is a big factor in how well group video
-meetings work is correlated with having cameras on. From the now
-thousands of group on-line meetings I've been, with groups ranging
-from 3 up to several hundred people, the biggest thing that seems to
-impact the quality of the meeting is whether or not most people have
-their cameras on. I've seen similar things from observing my
-daughter's classes and activities &mdash; some require everyone to
-have their camera on all the time, others do not allow anyone to turn
-their camera on. There are very good justifications for each of these
-policies, but the cameras-off meetings lead to stale, non-interactive
-environments, where no one forms any connections.
+##
+
+One thing that is a big factor in how well group video meetings work
+is correlated with having cameras on. From the now thousands of group
+on-line meetings I've been, with groups ranging from 3 up to several
+hundred people, the biggest thing that seems to impact the quality of
+the meeting is whether or not most people have their cameras on. I've
+seen similar things from observing my daughter's classes and
+activities &mdash; some require everyone to have their camera on all
+the time, others do not allow anyone to turn their camera on. There
+are very good justifications for each of these policies, but the
+cameras-off meetings lead to stale, non-interactive environments,
+where no one forms any connections.
 
 Having cameras on allows interactions that aren't possible with audio
 only &mdash; mid-meeting high fives, playing rock-paper-scissors,
