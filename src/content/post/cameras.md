@@ -32,7 +32,7 @@ meetings, although we really don't want this to be stressful).
 
 <center>
 <div class="row">
-    <div class="column small-12 medium-6">
+    <div class="column small-10 medium-5">
     <img src="/images/zoommeeting.jpg" height="300">
     </div>
     <div class="column small-12 medium-6">
