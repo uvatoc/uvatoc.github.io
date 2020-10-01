@@ -1,6 +1,6 @@
 +++
-date = "02 Oct 2020"
-draft = true
+date = "01 Oct 2020"
+draft = false
 title = "Cameras and Community"
 author = "David Evans and Nathan Brunelle"
 +++
@@ -28,6 +28,19 @@ especially difficult (and perhaps exaccerbated by the additional
 stress you might feel about being graded during the assessed cohort
 meetings, although we really don't want this to be stressful).
 
+
+<center>
+<div class="row">
+    <div class="column small-12 medium-6">
+    <img src="/images/zoommeeting.jpg" width="95%">
+    </div>
+    <div class="column small-12 medium-6">
+    <img src="/images/bettermeeting.png" width=70%>
+    </div>
+</div>
+<em>Which meeting would you rather be in?</em>
+</center>
+
 One thing that I think is a big factor in how well group video
 meetings work is correlated with having cameras on. From the now
 thousands of group on-line meetings I've been, with groups ranging
@@ -39,6 +52,12 @@ have their camera on all the time, others do not allow anyone to turn
 their camera on. There are very good justifications for each of these
 policies, but the cameras-off meetings lead to stale, non-interactive
 environments, where no one forms any connections.
+
+Having cameras on allows interactions that aren't possible with audio
+only &mdash; mid-meeting high fives, playing rock-paper-scissors,
+raising hands, showing interest, showing confusion, showing pets,
+celebration dances, etc. Video also helps make people seem like
+humans, not just voices in the ethernet.
 
 That said, we don't want to require or pressure anyone to turn their
 camera on during the cohort meetings, and as we said [at the beginning
@@ -68,9 +87,6 @@ But, there are also lots of "bad" reasons why people prefer to keep their camera
 
 It isn't possible for us, or your cohortmates, to distinguish between the "good" and "bad" reasons you might not be willing to have your camera on. On the other hand, my guess is the vast majority of students who have their cameras off, it is for a "bad" reason not a "good" one. So, we don't want anyone to feel any individual pressure to turn their camera on since we know some people do have valid reasons not to. But, we hope that people who are turning their camera off for "bad" reasons, will consider that although it is an immediate sacrifice personally to turn on your camera, it is a community benefit that will, in the long run end up being a personal benefit also.
 
-<center>
-<img src="/images/zoommeeting.jpg" width=70%>
-</center>
 
 
 
