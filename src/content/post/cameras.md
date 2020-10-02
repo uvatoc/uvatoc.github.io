@@ -46,10 +46,10 @@ meetings, although we really don't want this to be stressful).
 
 One thing that is a big factor in how well group video meetings work
 is correlated with having cameras on. From the now thousands of group
-on-line meetings I've been, with groups ranging from 3 up to several
+on-line meetings we've been, with groups ranging from 3 up to several
 hundred people, the biggest thing that seems to impact the quality of
 the meeting is whether or not most people have their cameras on. I've
-seen similar things from observing my daughter's classes and
+(Dave) seen similar things from observing my daughter's classes and
 activities &mdash; some require everyone to have their camera on all
 the time, others do not allow anyone to turn their camera on. There
 are very good justifications for each of these policies, but the
@@ -72,7 +72,7 @@ keep their camera off, such as:
 
 - Not having an adequate and private place to use to join the meeting and being worried about things that might be seen in your background.
 
-- Being anxious about how you look on camera, or fearing that people will judge your ideas differently if they can see you (I really hope this would not happen with people in our class, but that doesn't make the fear of it less valid, especially when it does happen in lots of other environments).
+- Being anxious about how you look on camera, or fearing that people will judge your ideas differently if they can see you (we really hope this would not happen with people in our class, but that doesn't make the fear of it less valid, especially when it does happen in lots of other environments).
 
 - Not having enough bandwidth to have good audio and video at the same time and prioritizing audio.
 
@@ -82,7 +82,7 @@ But, there are also lots of "bad" reasons why people prefer to keep their camera
 
 - Not wanting to reveal if you are falling asleep, distracted, bored, or confused. (All of these are important visual clues for the other people in the meeting that, although not always pleasant to see, are very valuable to know.)
 
-- Wanting to be able to only partially engage in the meeting, and to be able to do other things without being noticed. I sympathize with this reason for many meetings I attend, but for the cohort meetings we really want everyone to be fully engaged and participating, even during times when others are speaking.
+- Wanting to be able to only partially engage in the meeting, and to be able to do other things without being noticed. We sympathize with this reason for many meetings we attend, but for the cohort meetings we really want everyone to be fully engaged and participating, even during times when others are speaking.
 
 - Wanting to be able to "hide" and lurk in a meeting, without contributing to it.
 
