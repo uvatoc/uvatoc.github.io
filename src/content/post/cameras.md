@@ -36,7 +36,7 @@ meetings, although we really don't want this to be stressful).
     <img src="/images/zoommeeting.jpg" height="300">
     </div>
     <div class="column small-12 medium-6">
-    <img src="/images/betterzoommeeting.png" height="300">
+    <a href="https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F1312455%252F7547ce41-c51a-4d39-9df6-31e3d4e774c3.png%252Ffull-fit-in__950x534.png?signature=804rWkTLuUZ1TPgV7VTYCmrRyWg=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com"><img src="/images/betterzoommeeting.png" height="300"></a>
     </div>
 </div>
 <em>Which meeting would you rather be in?</em>
