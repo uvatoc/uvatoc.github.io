@@ -6,10 +6,20 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 7</title>
+      <link>https://uvatoc.github.io/week7/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/week7/</guid>
+      <description>Goals The main goals for Week 7 are to:
+  Understand the proof that Regular Expressions are equivalent in power to Deterministic Finite Automata. This is a long proof, split over 4 videos, but is something we hope everyone understands in detail. The methods used in the proof are similar to ones we have seen before in showing equivalence of NAND-Circ and Boolean circuits, but is a fair bit more complex.</description>
+    </item>
     
     <item>
       <title>Cameras and Community</title>
@@ -279,15 +289,6 @@ Two fundamental questions about any problem are:
   Synthesize what we have learned about finite computation in the first 5 weeks, and start exploring unbounded computation.
   Appreciate the connection between functions and languages, and the different ways of talking about computation.
   Understand and be able to formally define a Finite State Automaton, and to reason about the language accepted (or function computed) by a Deterministic Finite Automaton.</description>
-    </item>
-    
-    <item>
-      <title>Week 7</title>
-      <link>https://uvatoc.github.io/week7/</link>
-      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week7/</guid>
-      <description>Materials for Week 7 will be posted here.</description>
     </item>
     
     <item>
