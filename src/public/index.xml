@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theory of Computation</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,7 +27,7 @@
       
       <guid>https://uvatoc.github.io/week7/</guid>
       <description>Goals The main goals for Week 7 are to:
-  Understand the proof that Regular Expressions are equivalent in power to Deterministic Finite Automata. This is a long proof, split over 4 videos, but is something we hope everyone understands in detail. The methods used in the proof are similar to ones we have seen before in showing equivalence of NAND-Circ and Boolean circuits, but is a fair bit more complex.</description>
+ Understand the proof that Regular Expressions are equivalent in power to Deterministic Finite Automata. This is a long proof, split over 4 videos, but is something we hope everyone understands in detail. The methods used in the proof are similar to ones we have seen before in showing equivalence of NAND-Circ and Boolean circuits, but is a fair bit more complex.</description>
     </item>
     
     <item>
@@ -96,7 +96,7 @@ We have created a peer evaluation form for you to reflect on the ways that you a
       
       <guid>https://uvatoc.github.io/week4/</guid>
       <description>Goals The main goals for Week 4 are to:
- Implement and use the EVAL function. This is our first exposure to a modul of computing which is able to simulate an instance of itself. This idea is fundamental to the practice of computer science, as it enables us to have arbitrarily reprogrammable machines which run with fixed hardware. Begin classifying functions by complexity (i.e. resources required to implement them). Reason about how theory and practice might differ from one another, and why that might be a good thing.</description>
+ Implement and use the EVAL function. This is our first exposure to a modul of computing which is able to simulate an instance of itself. This idea is fundamental to the practice of computer science, as it enables us to have arbitrarily reprogrammable machines which run with fixed hardware. Begin classifying functions by complexity (i.e. resources required to implement them).</description>
     </item>
     
     <item>
@@ -150,8 +150,8 @@ In general, you will only need to submit your weekly written problem, and only o
       <guid>https://uvatoc.github.io/python/</guid>
       <description>If you already have python3 on your machine, you should be good to go for the programming problems.
 If you don’t, please follow these directions to download Python and PyCharm (you’re welcome to use any IDE that you want, we semi-arbitrarily picked PyCharm).
-Windows   Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
-  Download the executable x86-64 installer from python.</description>
+Windows  Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
+ Download the executable x86-64 installer from python.</description>
     </item>
     
     <item>
@@ -182,7 +182,7 @@ In general, you will only need to submit your weekly written problem, and only o
       <guid>https://uvatoc.github.io/openhours/</guid>
       <description>Below is the schedule for open student hours (no one is in an office these days, but these are similar to what is sometimes called &amp;ldquo;office hours&amp;rdquo;).
 These are times when there will be a course staff person available to answer any questions you have.
- 	Monday	4-5:30pm		Nick	 	Monday	5:30-6pm		Yu	 	Monday	6:30-8pm		Anlan	 	Monday	8-9:30pm		Megan	 &amp;nbsp;		Tuesday	12:30-2pm		Timothy	 	Tuesday	2-3:30pm		Nijat	 	Tuesday	3:30-5pm		Jonah	 	Tuesday	5-6:30pm		Nick	 	Tuesday	6-7:30pm		Kush	 &amp;nbsp;		Wednesday	9:30-10:30am		Dave	 	Wednesday	noon-2:00pm		Nathan	 	Wednesday	noon-1:30pm		Timothy	 	Wednesday	1:30-3pm		Vi	 	Wednesday	7:30-9pm		Noah	    	Thursday	9:30-11am		John	 	Thursday	12:30-2pm		Joey	 	Thursday	2:30-4pm		Joshua	 	Thursday	4:30-6pm		Brandon	 	Thursday	6:30-8pm		Preston	 		Friday	9-10:30am		Yu	 	Friday	10:30-noon		Megan	 	Friday	12-1pm		Dave	 	Friday	1pm-2:30pm		Nathan	 	Friday	2-3:30pm		William	 	Friday	5:30-7:00pm		Nijat	 		Saturday	10-11:30am		Nicholas	 	Saturday	11:30am-1pm		Rachel	 		Sunday	10:30am-noon		Michelle	 	Sunday	3:30-5pm		Joshua	 	Sunday	5:30-7pm		Nicholas	    During the scheduled times, the listed staff person is available to answer your questions.</description>
+  Monday 4-5:30pm  Nick   Monday 5:30-6pm  Yu   Monday 6:30-8pm  Anlan   Monday 8-9:30pm  Megan  &amp;nbsp;  Tuesday 12:30-2pm  Timothy   Tuesday 2-3:30pm  Nijat   Tuesday 3:30-5pm  Jonah   Tuesday 5-6:30pm  Nick   Tuesday 6-7:30pm  Kush  &amp;nbsp;  Wednesday 9:30-10:30am  Dave   Wednesday noon-2:00pm  Nathan   Wednesday noon-1:30pm  Timothy   Wednesday 1:30-3pm  Vi   Wednesday 7:30-9pm  Noah      Thursday 9:30-11am  John   Thursday 12:30-2pm  Joey   Thursday 2:30-4pm  Joshua   Thursday 4:30-6pm  Brandon   Thursday 6:30-8pm  Preston    Friday 9-10:30am  Yu   Friday 10:30-noon  Megan   Friday 12-1pm  Dave   Friday 1pm-2:30pm  Nathan   Friday 2-3:30pm  William   Friday 5:30-7:00pm  Nijat    Saturday 10-11:30am  Nicholas   Saturday 11:30am-1pm  Rachel    Sunday 10:30am-noon  Michelle   Sunday 3:30-5pm  Joshua   Sunday 5:30-7pm  Nicholas     During the scheduled times, the listed staff person is available to answer your questions.</description>
     </item>
     
     <item>
@@ -235,9 +235,9 @@ I will not lie, cheat or steal. If I am unsure whether something would be consid
       
       <guid>https://uvatoc.github.io/schedule/</guid>
       <description>For the open help schedule, see Open Student Hours.
-For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1).
-IntroductionWeek 1: Mathematical Definitions
-Wed 26 AugustMaterials Posted, TCS Chapter 0, TCS Chapter 1Wed 26 August (3:30-4:45pm)Full Class Welcome MeetingTue 1 Sept &amp;ndash; Mon 7 SeptAssessed Cohort MeetingsWeek 2: Bit Strings and Computing Models</description>
+For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1). 
+  Introduction   
+ Week 1: Mathematical Definitions    Wed 26 August  Materials Posted, TCS Chapter 0, TCS Chapter 1     Wed 26 August (3:30-4:45pm)   Full Class Welcome Meeting     Tue 1 Sept &amp;ndash; Mon 7 Sept   Assessed Cohort Meetings</description>
     </item>
     
     <item>
@@ -248,7 +248,7 @@ For the detailed weekly schedule for each cohort, see one of the week postings (
       <guid>https://uvatoc.github.io/syllabus/</guid>
       <description>Overview Course Description: The goal of this course is to understand the fundamental limits on what can be efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal deep and mysterious properties about information, communication, and computing, as well as practical issues about how to solve problems.
 Two fundamental questions about any problem are:
- Can it be solved using a machine of a certain type? (computability) How much does it cost to solve it?</description>
+ Can it be solved using a machine of a certain type?</description>
     </item>
     
     <item>
@@ -285,7 +285,7 @@ Two fundamental questions about any problem are:
       
       <guid>https://uvatoc.github.io/week5/</guid>
       <description>Goals The main goals for Week 5 are to:
- Understand what a complexity class is and how to provide properties about circuit-size complexity classes. Learn the asymptotic operators (Big-O, Ω, and Θ) and how to use them correctly. Be able to both intuitively understand what functions are in O(f(n)), and to prove membership or non-membership. Be able to connect the formal definitions of computing costs to practical questions about the cost of computing.</description>
+ Understand what a complexity class is and how to provide properties about circuit-size complexity classes. Learn the asymptotic operators (Big-O, &amp;Omega;, and &amp;Theta;) and how to use them correctly. Be able to both intuitively understand what functions are in O(f(n)), and to prove membership or non-membership. Be able to connect the formal definitions of computing costs to practical questions about the cost of computing.</description>
     </item>
     
     <item>
@@ -295,9 +295,9 @@ Two fundamental questions about any problem are:
       
       <guid>https://uvatoc.github.io/week6/</guid>
       <description>Goals The main goals for Week 6 are to:
-  Synthesize what we have learned about finite computation in the first 5 weeks, and start exploring unbounded computation.
-  Appreciate the connection between functions and languages, and the different ways of talking about computation.
-  Understand and be able to formally define a Finite State Automaton, and to reason about the language accepted (or function computed) by a Deterministic Finite Automaton.</description>
+ Synthesize what we have learned about finite computation in the first 5 weeks, and start exploring unbounded computation.
+ Appreciate the connection between functions and languages, and the different ways of talking about computation.
+ Understand and be able to formally define a Finite State Automaton, and to reason about the language accepted (or function computed) by a Deterministic Finite Automaton.</description>
     </item>
     
     <item>
@@ -307,10 +307,8 @@ Two fundamental questions about any problem are:
       
       <guid>https://uvatoc.github.io/week8/</guid>
       <description>Goals The main goals for Week 8 are to:
-TODO
-Schedule The schedule is identical to previous weeks, and repeated here (with updated dates).
-TODO
-  Day &#34;Tuesday&#34; Cohort &#34;Wednesday&#34; Cohort &#34;Thursday&#34; Cohort &#34;Friday&#34; Cohort &#34;Sunday&#34; Cohort &#34;Monday&#34; Cohort    Wed 7&amp;nbsp;Oct Preparation	(Week 6) (Week 6) (Week 6)	(Week 6)	(Week 6)	Thu 8&amp;nbsp;Oct Preparation Preparation (Week 6) (Week 6)	(Week 6)	(Week 6)	 Fri 9&amp;nbsp;Oct Preparation Preparation Preparation (Week 6)	(Week 6)	(Week 6)	Sat/Sun 10/11&amp;nbsp;Oct Cohort Meeting Preparation Preparation Preparation (Week 6) (Week 6)	Mon 12&amp;nbsp;Oct Preparation	Cohort Meeting Preparation Preparation Preparation (Week 6)	Tue 13&amp;nbsp;Oct Assessed Cohort Meeting Preparation Cohort Meeting Preparation Preparation Preparation Wed 14&amp;nbsp;Oct Write-up Due Assessed Cohort Meeting Preparation Cohort Meeting Preparation Preparation Thu 15&amp;nbsp;Oct Week 8 Write-up Due Assessed Cohort Meeting Preparation Cohort Meeting Preparation  Fri 16&amp;nbsp;Oct Week 8 Week 8 Write-up Due Assessed Cohort Meeting Preparation Cohort Meeting Sat/Sun 17/18&amp;nbsp;Oct Week 8 Week 8 Week 8 Write-up Due Assessed Cohort Meeting Preparation Mon 19&amp;nbsp;Oct Week 8 Week 8 Week 8 Week 8  Write-up Due Assessed Cohort Meeting  Tue 20&amp;nbsp;Oct Week 8 Week 8 Week 8 Week 8 Week 8 Write-up Due</description>
+ Study a definition of computability Use and understand Turing Machines as a model of computing Explore the powers and limitations of Turing Machines Learn different variations on Turing Machines and their relative value  Schedule The schedule is identical to previous weeks, and repeated here (with updated dates).
+  Day &#34;Tuesday&#34; Cohort &#34;Wednesday&#34; Cohort &#34;Thursday&#34; Cohort &#34;Friday&#34; Cohort &#34;</description>
     </item>
     
     <item>
@@ -328,9 +326,12 @@ TODO
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/team/</guid>
-      <description>Co-Leads
-Nathan Brunelle&amp;nbsp;
-David EvansAssistantsComing soon&amp;hellip;</description>
+      <description>Co-Leads 
+ 
+Nathan Brunelle   &amp;nbsp;   
+David Evans    
+ Assistants 
+Coming soon&amp;hellip;</description>
     </item>
     
     <item>
@@ -341,9 +342,7 @@ David EvansAssistantsComing soon&amp;hellip;</description>
       <guid>https://uvatoc.github.io/summersurvey/</guid>
       <description>This email was sent out to students registered for the Fall 2020 course. If you are not registered yet but interested in taking the course in the fall, please read the message below and submit the survey. Thanks!
 Mail Sent  Date: Wed, Jul 15, 2020 at 10:16 AM Subject: cs3102: Welcome and Survey Request
-Dear Theory of Computation Students,
-Thank you for registering for cs3102!
-We’re looking forward to the fall semester, as much as one can under these circumstances, and considering plans for the course.</description>
+Dear Theory of Computation Students, Thank you for registering for cs3102! We’re looking forward to the fall semester, as much as one can under these circumstances, and considering plans for the course.</description>
     </item>
     
     <item>
@@ -363,8 +362,8 @@ In the happy event that we can offer courses normally in the fall, the content a
       
       <guid>https://uvatoc.github.io/week1/</guid>
       <description>Welcome to cs3102! The main goals for the first week are:
-  Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
-  Re-awaking the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
+ Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
+ Re-awaking the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
     </item>
     
   </channel>

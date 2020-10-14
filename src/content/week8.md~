@@ -19,6 +19,8 @@ The main goals for Week 8 are to:
 
 The schedule is identical to previous weeks, and repeated here (with updated dates).
 
+TODO
+
 <table class="schedule">
   <thead>
     <tr>
@@ -32,22 +34,22 @@ The schedule is identical to previous weeks, and repeated here (with updated dat
     </tr>
   </thead> 
   <tbody>
-     <tr><td><b>Wed</b> 14&nbsp;Oct</td>        <td>Preparation</td>	          <td bgcolor="lightyellow">(Week 7)</td> <td bgcolor="lightyellow">(Week 7)</td> <td bgcolor="lightyellow">(Week 7)</td>	 <td bgcolor="lightyellow">(Week 7)</td>	 <td bgcolor="lightyellow">(Week 7)</td>			 
-</tr><tr><td><b>Thu</b> 15&nbsp;Oct</td>        <td>Preparation</td>           <td>Preparation</td> <td bgcolor="lightyellow">(Week 7)</td> <td bgcolor="lightyellow">(Week 7)</td>	 <td bgcolor="lightyellow">(Week 7)</td>	<td bgcolor="lightyellow">(Week 7)</td>		
+     <tr><td><b>Wed</b> 7&nbsp;Oct</td>        <td>Preparation</td>	          <td bgcolor="lightyellow">(Week 6)</td> <td bgcolor="lightyellow">(Week 6)</td> <td bgcolor="lightyellow">(Week 6)</td>	 <td bgcolor="lightyellow">(Week 6)</td>	 <td bgcolor="lightyellow">(Week 6)</td>			 
+</tr><tr><td><b>Thu</b> 8&nbsp;Oct</td>        <td>Preparation</td>           <td>Preparation</td> <td bgcolor="lightyellow">(Week 6)</td> <td bgcolor="lightyellow">(Week 6)</td>	 <td bgcolor="lightyellow">(Week 6)</td>	<td bgcolor="lightyellow">(Week 6)</td>		
 </tr>
-<tr><td><b>Fri</b> 16&nbsp;Oct</td>   <td>Preparation</td>           <td>Preparation</td>      <td>Preparation</td>   <td bgcolor="lightyellow">(Week 7)</td>	<td bgcolor="lightyellow">(Week 7)</td>	<td bgcolor="lightyellow">(Week 7)</td>	  
-</tr><tr><td><b>Sat/Sun</b> 17/18&nbsp;Oct</td> <td><b>Cohort Meeting</b></td> <td>Preparation</td>      <td>Preparation</td>      <td>Preparation</td>   <td bgcolor="lightyellow">(Week 7)</td>  <td bgcolor="lightyellow">(Week 7)</td>		 
-</tr><tr><td><b>Mon</b> 19&nbsp;Oct</td>        <td>Preparation</td>		  <td><b>Cohort Meeting</b></td> <td>Preparation</td>       <td>Preparation</td>     <td>Preparation</td> <td bgcolor="lightyellow">(Week 7)</td>		
-</tr><tr><td><b>Tue</b> 20&nbsp;Oct</td>         <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>   <td><b>Cohort Meeting</b></td> <td>Preparation</td>       <td>Preparation</td> <td>Preparation</td>
-</tr><tr><td><b>Wed</b> 21&nbsp;Oct</td>         <td><font color="blue"><b>Write-up Due</b></font></td>  <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>        <td><b>Cohort Meeting</b></td> <td>Preparation</td> <td>Preparation</td>
-</tr><tr><td><b>Thu</b> 22&nbsp;Oct</td>         <td bgcolor="lightblue">Week 9</td> <td><font color="blue"><b>Write-up Due</b></font></td>  <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td> <td><b>Cohort Meeting</b></td> <td>Preparation</td>
+<tr><td><b>Fri</b> 9&nbsp;Oct</td>   <td>Preparation</td>           <td>Preparation</td>      <td>Preparation</td>   <td bgcolor="lightyellow">(Week 6)</td>	<td bgcolor="lightyellow">(Week 6)</td>	<td bgcolor="lightyellow">(Week 6)</td>	  
+</tr><tr><td><b>Sat/Sun</b> 10/11&nbsp;Oct</td> <td><b>Cohort Meeting</b></td> <td>Preparation</td>      <td>Preparation</td>      <td>Preparation</td>   <td bgcolor="lightyellow">(Week 6)</td>  <td bgcolor="lightyellow">(Week 6)</td>		 
+</tr><tr><td><b>Mon</b> 12&nbsp;Oct</td>        <td>Preparation</td>		  <td><b>Cohort Meeting</b></td> <td>Preparation</td>       <td>Preparation</td>     <td>Preparation</td> <td bgcolor="lightyellow">(Week 6)</td>		
+</tr><tr><td><b>Tue</b> 13&nbsp;Oct</td>         <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>   <td><b>Cohort Meeting</b></td> <td>Preparation</td>       <td>Preparation</td> <td>Preparation</td>
+</tr><tr><td><b>Wed</b> 14&nbsp;Oct</td>         <td><font color="blue"><b>Write-up Due</b></font></td>  <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>        <td><b>Cohort Meeting</b></td> <td>Preparation</td> <td>Preparation</td>
+</tr><tr><td><b>Thu</b> 15&nbsp;Oct</td>         <td bgcolor="lightblue">Week 8</td> <td><font color="blue"><b>Write-up Due</b></font></td>  <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td> <td><b>Cohort Meeting</b></td> <td>Preparation</td>
 </tr><tr>
-<td><b>Fri</b> 23&nbsp;Oct</td>
-<td bgcolor="lightblue">Week 9</td> <td bgcolor="lightblue">Week 9</td> <td><font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>   <td><b>Cohort Meeting</b></td>
-</tr><tr><td><b>Sat/Sun</b> 24/25&nbsp;Oct</td>     <td bgcolor="lightblue">Week 9</td> <td bgcolor="lightblue">Week 9</td> <td bgcolor="lightblue">Week 9</td>  <td><font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></td> <td>Preparation</td>
-</tr><tr><td><b>Mon</b> 26&nbsp;Oct</td>         <td bgcolor="lightblue">Week 9</td> <td bgcolor="lightblue">Week 9</td> <td bgcolor="lightblue">Week 9</td> <td bgcolor="lightblue">Week 9</td> <td> <font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></font></td>
+<td><b>Fri</b> 16&nbsp;Oct</td>
+<td bgcolor="lightblue">Week 8</td> <td bgcolor="lightblue">Week 8</td> <td><font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>   <td><b>Cohort Meeting</b></td>
+</tr><tr><td><b>Sat/Sun</b> 17/18&nbsp;Oct</td>     <td bgcolor="lightblue">Week 8</td> <td bgcolor="lightblue">Week 8</td> <td bgcolor="lightblue">Week 8</td>  <td><font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></td> <td>Preparation</td>
+</tr><tr><td><b>Mon</b> 19&nbsp;Oct</td>         <td bgcolor="lightblue">Week 8</td> <td bgcolor="lightblue">Week 8</td> <td bgcolor="lightblue">Week 8</td> <td bgcolor="lightblue">Week 8</td> <td> <font color="blue"><b>Write-up Due</b></font></td> <td><font color="red"><b>Assessed Cohort Meeting</b></font></td>
 </tr>
-</tr><tr><td><b>Tue</b> 27&nbsp;Oct</td>         <td bgcolor="lightblue">Week 9</td> <td bgcolor="lightblue">Week 9</td> <td bgcolor="lightblue">Week 9</td> <td bgcolor="lightblue">Week 9</td>  <td bgcolor="lightblue">Week 9</td> <td><font color="blue"><b>Write-up Due</b></font></td>
+</tr><tr><td><b>Tue</b> 20&nbsp;Oct</td>         <td bgcolor="lightblue">Week 8</td> <td bgcolor="lightblue">Week 8</td> <td bgcolor="lightblue">Week 8</td> <td bgcolor="lightblue">Week 8</td>  <td bgcolor="lightblue">Week 8</td> <td><font color="blue"><b>Write-up Due</b></font></td>
 </tr>
 
 </tbody>
