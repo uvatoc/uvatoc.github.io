@@ -60,7 +60,7 @@ These are the problems you should discuss in your Cohort Meeting, and
 everyone in your cohort should be prepared to present and discuss
 solutions to at the Assessed Cohort Meeting:
 
-TODO [Cohort Problems for Week 8 [PDF]](/ps/ps8.pdf)<br>
+[Cohort Problems for Week 8 [PDF]](/ps/ps8.pdf)<br>
 
 
 The problems are posted here and we think its a good idea to look at
@@ -76,7 +76,9 @@ is due by **11:59pm** on the day after your assessed cohort meeting
 
 # Reading
 
-TODO
+This week we discuss the material contained in [Chapter 7: Loops and Infinity](https://introtcs.org/public/lec_06_loops.html).
+
+Turing Machines and other similar models of computing are taught in many different ways in many different places. You'll be able to find plenty of resources available on Youtube, other textbooks, lecture slides from other universities, blog posts, etc. Please be advised that there are many subtly different presentations of Turing machines, and so what you see elsewhere may differ from what we covered. Typically minor changes are made to the model either for convenience of the context, or so real-world running times are more similar to the running time of the model (more on this in future weeks).
 
 # Videos
 
