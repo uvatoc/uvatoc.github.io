@@ -281,12 +281,6 @@ being the last one to meet for the remainder of the semester.
 </tr>
 
 
-<tr class="blankspace"><td></td><td></td></tr>
-<tr>
-<td class="section" colspan=2>
-Tractable and Intractable Computation
-</td>
-</tr>
 
 <tr>
 <td>
@@ -307,6 +301,12 @@ Assessed Cohort Meetings
 
 
 
+<tr class="blankspace"><td></td><td></td></tr>
+<tr>
+<td class="section" colspan=2>
+Tractable and Intractable Computation
+</td>
+</tr>
 
 
 <tr>
