@@ -326,7 +326,9 @@ The main goals for Week 8 are to:
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/week9/</guid>
-      <description>Materials for Week 9 will be posted here.</description>
+      <description>Goals Last week, we used a counting argument to show that there must be some uncomputable functions (&amp;ldquo;some&amp;rdquo; here means infinitely many), but we didin&amp;rsquo;t find a specific uncomputable function. This week, we prove that a particular function is uncomputable, and explore the implications of finding an uncomputable function.
+The main goals for Week 9 are to:
+ Understand what cannot be computed by a finite automaton and why. Use and understand Turing Machines as a model of computing.</description>
     </item>
     
     <item>
