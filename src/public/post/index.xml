@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Theory of Computation</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 9</title>
+      <link>https://uvatoc.github.io/week9posted/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/week9posted/</guid>
+      <description>Week 9 is now posted - see the Week 9 page for the details.</description>
+    </item>
     
     <item>
       <title>Week 8</title>
@@ -116,7 +125,7 @@ In general, you will only need to submit your weekly written problem, and only o
       <guid>https://uvatoc.github.io/openhours/</guid>
       <description>Below is the schedule for open student hours (no one is in an office these days, but these are similar to what is sometimes called &amp;ldquo;office hours&amp;rdquo;).
 These are times when there will be a course staff person available to answer any questions you have.
- 	Monday	4-5:30pm		Nick	 	Monday	5:30-6pm		Yu	 	Monday	6:30-8pm		Anlan	 	Monday	8-9:30pm		Megan	 &amp;nbsp;		Tuesday	12:30-2pm		Timothy	 	Tuesday	2-3:30pm		Nijat	 	Tuesday	3:30-5pm		Jonah	 	Tuesday	5-6:30pm		Nick	 	Tuesday	6-7:30pm		Kush	 &amp;nbsp;		Wednesday	9:30-10:30am		Dave	 	Wednesday	noon-2:00pm		Nathan	 	Wednesday	noon-1:30pm		Timothy	 	Wednesday	1:30-3pm		Vi	 	Wednesday	7:30-9pm		Noah	    	Thursday	9:30-11am		John	 	Thursday	12:30-2pm		Joey	 	Thursday	2:30-4pm		Joshua	 	Thursday	4:30-6pm		Brandon	 	Thursday	6:30-8pm		Preston	 		Friday	9-10:30am		Yu	 	Friday	10:30-noon		Megan	 	Friday	12-1pm		Dave	 	Friday	1pm-2:30pm		Nathan	 	Friday	2-3:30pm		William	 	Friday	5:30-7:00pm		Nijat	 		Saturday	10-11:30am		Nicholas	 	Saturday	11:30am-1pm		Rachel	 		Sunday	10:30am-noon		Michelle	 	Sunday	3:30-5pm		Joshua	 	Sunday	5:30-7pm		Nicholas	    During the scheduled times, the listed staff person is available to answer your questions.</description>
+  Monday 4-5:30pm  Nick   Monday 5:30-6pm  Yu   Monday 6:30-8pm  Anlan   Monday 8-9:30pm  Megan  &amp;nbsp;  Tuesday 12:30-2pm  Timothy   Tuesday 2-3:30pm  Nijat   Tuesday 3:30-5pm  Jonah   Tuesday 5-6:30pm  Nick   Tuesday 6-7:30pm  Kush  &amp;nbsp;  Wednesday 9:30-10:30am  Dave   Wednesday noon-2:00pm  Nathan   Wednesday noon-1:30pm  Timothy   Wednesday 1:30-3pm  Vi   Wednesday 7:30-9pm  Noah      Thursday 9:30-11am  John   Thursday 12:30-2pm  Joey   Thursday 2:30-4pm  Joshua   Thursday 4:30-6pm  Brandon   Thursday 6:30-8pm  Preston    Friday 9-10:30am  Yu   Friday 10:30-noon  Megan   Friday 12-1pm  Dave   Friday 1pm-2:30pm  Nathan   Friday 2-3:30pm  William   Friday 5:30-7:00pm  Nijat    Saturday 10-11:30am  Nicholas   Saturday 11:30am-1pm  Rachel    Sunday 10:30am-noon  Michelle   Sunday 3:30-5pm  Joshua   Sunday 5:30-7pm  Nicholas     During the scheduled times, the listed staff person is available to answer your questions.</description>
     </item>
     
     <item>
@@ -160,9 +169,7 @@ Assessed cohort meetings will start (at the ealiest) on Tuesday, 1 September, so
       <guid>https://uvatoc.github.io/summersurvey/</guid>
       <description>This email was sent out to students registered for the Fall 2020 course. If you are not registered yet but interested in taking the course in the fall, please read the message below and submit the survey. Thanks!
 Mail Sent  Date: Wed, Jul 15, 2020 at 10:16 AM Subject: cs3102: Welcome and Survey Request
-Dear Theory of Computation Students,
-Thank you for registering for cs3102!
-We’re looking forward to the fall semester, as much as one can under these circumstances, and considering plans for the course.</description>
+Dear Theory of Computation Students, Thank you for registering for cs3102! We’re looking forward to the fall semester, as much as one can under these circumstances, and considering plans for the course.</description>
     </item>
     
     <item>
