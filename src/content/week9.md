@@ -146,6 +146,19 @@ These videos are edited from these cs3102 classes (we don't generally recommend 
 
 <p>Computability in Theory and Practice (8:50) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/YbrFeIC3jXo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
+<div class="break">
+<div class="takeabreak">
+<b>Breaktime</b>
+</div>
+</div>
+<p>
+This video was originally planned for Week 10 and is a recap of the
+proof that acceptance is uncomputable. But, since it will be helpful
+for one of the cohort problems this week, we are providing it here.
+</p>
+
+<p>An Undecidable Problem (8:10) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/Bit7FvUzcMU' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
 <p>
 
 Alan M. Turing, [_On Computable Numbers, with an Application to the
