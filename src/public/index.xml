@@ -6,10 +6,21 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 10</title>
+      <link>https://uvatoc.github.io/week10/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/week10/</guid>
+      <description>Goals This week, we hope you&amp;rsquo;ll become experts at proving functions are uncomputable (and occasionally, computable). We introduce the &amp;ldquo;proof by reduction&amp;rdquo; technique, which is a tremendously useful way to prove properties about problems, and (as you will see in the Algorithms class) also to develop and analyze algorithmic solutions.
+The main goals for Week 10 are to:
+ Become comfortable with the terms decidable, recognizable, and computable, and how we talk about these properties for languages, functions, and problems.</description>
+    </item>
     
     <item>
       <title>Week 9</title>
@@ -267,15 +278,6 @@ For the detailed weekly schedule for each cohort, see one of the week postings (
       <description>Overview Course Description: The goal of this course is to understand the fundamental limits on what can be efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal deep and mysterious properties about information, communication, and computing, as well as practical issues about how to solve problems.
 Two fundamental questions about any problem are:
  Can it be solved using a machine of a certain type? (computability) How much does it cost to solve it?</description>
-    </item>
-    
-    <item>
-      <title>Week 10</title>
-      <link>https://uvatoc.github.io/week10/</link>
-      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week10/</guid>
-      <description>Materials for Week 10 will be posted here.</description>
     </item>
     
     <item>
