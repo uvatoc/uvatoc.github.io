@@ -29,7 +29,7 @@ Election Day.
 
 **Please vote** (and if you can, volunteer to be a poll worker)!
 (Note: if you are voting in Virginia, early voting is a great option,
-but ends on October 31.)
+but [ends on October 31](https://www.elections.virginia.gov/casting-a-ballot/absentee-voting/).)
 
 The schedule changes impact the "Tuesday" cohorts. Until now, the
 Tuesday cohorts have been the first to meet for a given week. This
