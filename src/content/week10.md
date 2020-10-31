@@ -23,12 +23,13 @@ The main goals for Week 10 are to:
 
 The schedule this week is a webb of complexity because of Election
 Day, Tuesday 3 November, but we hope everyone will abide by these
-changes. We will not hold any official course activities (assessed
-cohort meetings or scheduled office hours) on Election Day.
+carefully devised changes. We will not hold any official course
+activities (assessed cohort meetings or scheduled office hours) on
+Election Day.
 
-**Please vote** (and if you can, volunteer to be a poll worker)! (Note: if
-you are voting in Virginia, early voting is a great option, and can be
-done any day until the election.)
+**Please vote** (and if you can, volunteer to be a poll worker)!
+(Note: if you are voting in Virginia, early voting is a great option,
+but ends on October 31.)
 
 The schedule changes impact the "Tuesday" cohorts. Until now, the
 Tuesday cohorts have been the first to meet for a given week. This
