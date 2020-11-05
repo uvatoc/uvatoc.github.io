@@ -6,10 +6,20 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 11</title>
+      <link>https://uvatoc.github.io/week11/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/week11/</guid>
+      <description>Goals This week we arrive at the most famous and foundational open problem in Computer Science (and, arguably, in all of Mathematics, and more questionably, perhaps of all human creative endeavor): is it substantially easier to verify the solution to a (certain very broad and common type of) problem, than it is to find that solution? (stated more formally in computer science as &amp;ldquo;P = NP?&amp;quot;.
+The main goals for Week 11 are to:</description>
+    </item>
     
     <item>
       <title>Week 10</title>
@@ -287,15 +297,6 @@ For the detailed weekly schedule for each cohort, see one of the week postings (
       <description>Overview Course Description: The goal of this course is to understand the fundamental limits on what can be efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal deep and mysterious properties about information, communication, and computing, as well as practical issues about how to solve problems.
 Two fundamental questions about any problem are:
  Can it be solved using a machine of a certain type? (computability) How much does it cost to solve it?</description>
-    </item>
-    
-    <item>
-      <title>Week 11</title>
-      <link>https://uvatoc.github.io/week11/</link>
-      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week11/</guid>
-      <description>Materials for Week 11 will be posted here.</description>
     </item>
     
     <item>
