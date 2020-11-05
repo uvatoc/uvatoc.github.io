@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 11</title>
+      <link>https://uvatoc.github.io/week11posted/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/week11posted/</guid>
+      <description>Week 11 is now posted - see the Week 11 page for the details.</description>
+    </item>
     
     <item>
       <title>Week 10</title>
@@ -189,15 +198,6 @@ Dear Theory of Computation Students, Thank you for registering for cs3102! We’
       <guid>https://uvatoc.github.io/fall2020/</guid>
       <description>A version of this course will be offered in Fall 2020. It is optimistically scheduled for Mondays and Wednesdays, 3:30-4:45 in McLeod Hall 1020 (assuming we will be back to cramming 300 students in a classroom in the fall).
 In the happy event that we can offer courses normally in the fall, the content and structure will be fairly similar to what was done in recent semesters. You can see all the materials from recent versions of this course here:</description>
-    </item>
-    
-    <item>
-      <title>Week 11</title>
-      <link>https://uvatoc.github.io/week11posted/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week11posted/</guid>
-      <description>Week 11 is now posted - see the Week 11 page for the details.</description>
     </item>
     
   </channel>
