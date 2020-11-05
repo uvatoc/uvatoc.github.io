@@ -98,7 +98,7 @@ These are the problems you should discuss in your Cohort Meeting, and
 everyone in your cohort should be prepared to present and discuss
 solutions to at the Assessed Cohort Meeting:
 
-TODO: [Cohort Problems for Week 11 [PDF]](/ps/ps11.pdf)<br>
+[Cohort Problems for Week 11 [PDF]](/ps/ps11.pdf)<br>
 
 
 The problems are posted here and we think its a good idea to look at
@@ -110,7 +110,7 @@ problem that your cohort needs to write-up and submit.  The write-up
 is due by **11:59pm** on the day after your assessed cohort meeting
 (see the schedule above).
 
-TODO: [Problem Set 11 Template [zip]](https://uvatoc.github.io/ps/ps11template.zip).
+[Problem Set 11 Template [zip]](https://uvatoc.github.io/ps/ps11template.zip).
 
 # Reading
 
