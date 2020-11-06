@@ -58,8 +58,8 @@ license](https://creativecommons.org/licenses/by-nc/4.0/) on nearly
 everything that I have control over. You should also think about the
 intellectual property value of anything you contribute to a course
 (and I do hope many students produce things of value), and whether you
-want a for-profit third-party to have an "irrevocable, perpetual"
-license to do anything they want with them.
+want a for-profit company to have an "irrevocable, perpetual" license
+to do anything they want with them.
 
 ## But how is this different from Google/Github/Discord/Slack/etc.?
 
