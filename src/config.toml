@@ -29,7 +29,7 @@ unsafe= true
 [params]
     brand = "Theory of Computation"
     topline = "Theory of Computation"
-    footline = "<p align=\"center\">CS 3102 | University of Virginia, Fall 2019 | <a href=\"http://www.cs.virginia.edu/~njb2b/\">Nathan Brunelle</a> and <a href=\"https://www.cs.virginia.edu/evans\">David Evans</a></p>"
+    footline = "<p align=\"center\">CS 3102 | University of Virginia, Fall 2020 | <a href=\"http://www.cs.virginia.edu/~njb2b/\">Nathan Brunelle</a> and <a href=\"https://www.cs.virginia.edu/evans\">David Evans</a></p>"
     sidebar = "left"
     # googleAnalytics = "UA-3775212-1"
 
