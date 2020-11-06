@@ -135,9 +135,15 @@ depth in the lectures.
 
 # Videos
 
+The videos for this week are longer than in previous weeks (so please
+don't wait to get started on them!), but include quite a bit of review
+material and are designed to get to a good understanding of the P=NP
+question.
+
 You can play all the videos using this playlist, but don't forget to take breaks: [Week 11 Playlist](https://www.youtube.com/playlist?list=PLvpsxlEF9cP2X24P7LUcH3eIj-6nEocmS)
 
 <p>
+
 These videos are edited from these cs3102 classes (we don't generally recommend watching the unedited versions, but they are available if you want to):
 
 - (Fall 2019) [Class 19: Turing Machine running time](https://uvatoc.github.io/f19/class19/): [Full Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e454df5-59af-4a8b-a257-ab020151ee1b), [Slides](https://www.dropbox.com/s/vcsuqjrnqld3lhk/class19_written.pptx?dl=0)
