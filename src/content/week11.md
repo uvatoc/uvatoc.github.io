@@ -210,3 +210,12 @@ These videos are edited from these cs3102 classes (we don't generally recommend 
 <b>Breaktime</b>
 </div>
 </div>
+
+<p>History of the Cook-Levin Theorem (8:31) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/SrXHplvYAJ8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>P=NP Recap (4:45) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/my-mxCwArk8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+<div class="break">
+<div class="takeabreak">
+<b>Breaktime</b>
+</div>
+</div>
