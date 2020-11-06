@@ -66,10 +66,11 @@ to do anything they want with them.
 At some level, the entire Internet ecosystem we use operates under
 similar business models, so how can I justify requiring students in
 this class to use Google (forms), Github (owned by Microsoft, to
-access the course website), and Discord.
+access the course website), and Discord?
 
-I agree that its difficult to figure out exactly where the line should
-be drawn.
+It is definitely difficult to figure out exactly where the line should
+be drawn. I know someone who refuses to use any Internet service that
+requires an account, but I'm not able to be that principled. 
 
 The main difference I see is that none of the ways we use those
 services are tied what you do in the course as much as Piazza would
