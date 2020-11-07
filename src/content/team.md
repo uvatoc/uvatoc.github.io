@@ -5,9 +5,7 @@ title = "Team"
 slug = "team"
 +++
 
-<center>
-<font size="+1"><b>Co-Leads</b></font>
-</center>
+# <center> Instructors </center>
 
 <div style="display: table-row; width:75%;">
 
