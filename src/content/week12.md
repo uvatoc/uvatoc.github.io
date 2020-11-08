@@ -1,16 +1,9 @@
 +++
-date = "10 Nov 2020"
+date = "08 Nov 2020"
 draft = false
 title = "Week 12"
 slug="week12"
 +++
-
-<div class="yellownote">
-
-This is a draft of a planned assignment. You are welcome to read it and provide comments on it, but until it is posted without this notice, everything is subject to change.
-
-</div>
-
 
 Wow, the final week - congratulations!
 
@@ -33,18 +26,18 @@ or combine efforts across multiple cohorts.
 [TODO: let's discuss this - draft idea here, but maybe we want to restrict to in-cohort?]
 
 Your team may be as large as you want, but the expectations for
-quality and value of your submission scale according to sqrt(_N_)
-(that is, a team with 4 people should do something twice as impressive
-as an individual to merit the same credit; if you are able to convince
-all of the other 286 students in the class to join your team, you
-should do something approximately 17 times as impressive as what would
-be expected from a single student). You are welcome to include people
-not in the class in your team (and they do not increase the value of
-_N_). We expect most students will want to work within your own
-cohort, and this has lots of scheduling advantages, but if you are
-eager to work with someone in the class who is not in your cohort, you
-can do so. In such cases, the project should be presented at both of
-your cohort meetings.
+quality and value of your submission scale according to the square
+root of the number of members on your team (that is, a team with 4
+people should do something twice as impressive as an individual to
+merit the same credit; if you are able to convince all of the other
+286 students in the class to join your team, you should do something
+approximately 17 times as impressive as what would be expected from a
+single student). You are welcome to include people not in the class in
+your team (and they do not increase the value of _N_). We expect most
+students will want to work within your own cohort, and this has lots
+of scheduling advantages, but if you are eager to work with someone in
+the class who is not in your cohort, you can do so. In such cases, the
+project should be presented at both of your cohort meetings.
 
 ## Assignment
 
