@@ -38,6 +38,88 @@ if all six members of a cohort work together, you would be expected to
 do something at least sqrt(6) = 2.45... as impressive as what an
 individual would do working alone).
 
+## Schedule
+
+The schedule will follow the normal (post-Election day) schedule, with
+the exception that you need to declare your cohort partitioning by the
+day of your Week 11 write-up deadline.  We includethe normal Cohort
+Meetings in this schedule, but depending on how you partition your
+cohort you will probably want to plan things differently. If you
+decide to all work independently, no need for a cohort meeting (unless
+you want to still discuss your plans or just hang out); if you are
+working in sub-groups, you will probably need several meetings of your
+sub-group; if you are all working together, you will probably need
+additional cohort meetings.
+
+<table class="schedule">
+  <thead>
+    <tr>
+      <th text-align="center">Day</th>
+      <th align="center">"Wednesday" Cohort</th>
+      <th align="center">"Thursday" Cohort</th>
+      <th align="center">"Friday" Cohort</th>
+      <th align="center">"Sunday" Cohort</th>
+      <th align="center">"Monday" Cohort</th>
+      <th align="center">"Tuesday" Cohort</th>
+    </tr>
+  </thead> 
+  <tbody>
+</tr>
+
+<tr><td><b>Thu</b> 12&nbsp;Nov</td>     <td><b><font color="Blue">Partitioning Due</font></b></td> <td bgcolor="lightyellow">(Week 11)</td> <td bgcolor="lightyellow">(Week 11)</td>	 <td bgcolor="lightyellow">(Week 11)</td>
+<td bgcolor="lightyellow">(Week 11)</td>
+<td bgcolor="lightyellow">(Week 11)</td>
+</tr>
+<tr><td><b>Fri</b> 13&nbsp;Nov</td>   <td>Preparation</td>    <td><b><font color="Blue">Partitioning Due</font></b></td> <td bgcolor="lightyellow">(Week 11)</td>	<td bgcolor="lightyellow">(Week 11)</td>	<td bgcolor="lightyellow">(Week 11)</td>	  <td bgcolor="lightyellow">(Week 11)</td>	  
+</tr><tr><td><b>Sat/Sun</b> 14/15&nbsp;Nov</td>  <td>Preparation</td>      <td>Preparation</td>      <td><b><font color="Blue">Partitioning Due</font></b></td>   <td bgcolor="lightyellow">(Week 11)</td>  <td bgcolor="lightyellow">(Week 11)</td> <td bgcolor="lightyellow">(Week 11)</td>
+
+</tr><tr><td><b>Mon</b> 16&nbsp;Nov</td>    <td><b>Cohort Meeting</b></td> <td>Preparation</td>       <td>Preparation</td>     <td><b><font color="Blue">Partitioning Due</font></b></td> <td bgcolor="lightyellow">(Week 11)</td><td bgcolor="lightyellow">(Week 11)</td>
+
+</tr><tr><td><b>Tue</b> 17&nbsp;Nov</td>      <td>Preparation</td> <td><b>Cohort Meeting</b></td> <td>Preparation</td> <td>Preparation</td> <td><b><font color="Blue">Partitioning Due</font></b></td> <td bgcolor="lightyellow">(Week 11)</td>
+
+</tr>
+
+<tr><td><b>Wed</b> 18&nbsp;Nov</td>      <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>        <td><b>Cohort Meeting</b></td> <td>Preparation</td> <td>Preparation</td> <td><b><font color="Blue">Partitioning Due</font></b></td>
+</tr><tr>
+<td><b>Thu</b> 19&nbsp;Nov</td>
+ <td bgcolor="lightgreen"><b>Finished!</b></td>
+  <td><font color="red"><b>Assessed Cohort Meeting</b></font></td> <td>Preparation</td>   <td><b>Cohort Meeting</b></td>
+ <td>Preparation</td> <td>Preparation</td>
+</tr>
+
+<tr>
+<td><b>Fri</b> 20&nbsp;Nov</td>  <td bgcolor="white"></td><td bgcolor="lightgreen"><b>Finished!</b></td> <td><font color="red"><b>Assessed Cohort Meeting</b></td> <td>Preparation</td>
+<td><b>Cohort Meeting</b></td><td>Preparation</td>
+</tr>
+
+
+<tr><td><b>Sat/Sun</b> 21/22&nbsp;Nov</td> <td bgcolor="white"></td><td bgcolor="white"></td> <td bgcolor="lightgreen"><b>Finished!</b></td>
+ <td><font color="red"><b>Assessed Cohort Meeting</b></font></td><td>Preparation</td><td><b>Cohort Meeting</b></td>
+</tr>
+
+<tr><td><b>Mon</b> 23&nbsp;Nov</td>  <td bgcolor="white"></td> <td bgcolor="white"></td> <td bgcolor="white"></td>
+<td bgcolor="lightgreen"><b>Finished!</b></td>
+<td><font color="red"><b>Assessed Cohort Meeting</b></font></td>
+<td>Preparation</td>
+</tr>
+
+<tr><td><b>Tue</b> 24&nbsp;Nov</td> 
+ <td bgcolor="white"></td> <td bgcolor="white"></td> <td bgcolor="white"></td> <td bgcolor="white"></td>
+<td bgcolor="lightgreen"><b>Finished!</b></td>
+<td><font color="red"><b>Assessed Cohort Meeting</b></font></td>
+</tr>
+
+<tr><td><b>Wed</b> 18&nbsp;Nov</td><td colspan=6 bgcolor="lightgreen" align="center"><b>End of Semester</b></td></tr>
+
+<tr><td><b>Mon</b> 7&nbsp;December (2-5pm)</td><td colspan=6 bgcolor="#006DAA" align="center"><b><font color="white">Final Bash</b><br>
+This is a totally optional class hang-out, using the final exam time scheduled by the registrar.
+</td></tr>
+
+</tbody>
+</table>
+
+
+
 ## Assignment
 
 **Create an artifact that conveys some idea related to this class.**
