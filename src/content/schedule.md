@@ -308,6 +308,7 @@ Tractable and Intractable Computation
 </td>
 </tr>
 
+<tr class="blankspace"><td></td><td></td></tr>
 
 <tr>
 <td class="week" colspan=2>
@@ -335,12 +336,12 @@ Assessed Cohort Meetings
 <tr>
 <td class="week" colspan=2>
 
-[Week 12: Special Topics](/week12)
+[Week 12: Synthesis](/week12)
 </td>
 </tr>
 <tr>
 <td>
-Thu 12 November
+Mon 9 November
 </td>
 <td>
 Materials Posted
