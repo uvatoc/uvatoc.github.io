@@ -118,7 +118,14 @@ This is a totally optional class hang-out, using the final exam time scheduled b
 </tbody>
 </table>
 
+## Video
 
+There's only one video for Week 12 &mdash; a course wrap-up that recaps the main themes we've seen in cs3102:
+
+<p>Main Themes of the Course (12:22) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/zBm0fdrwLHY' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+(You won't be asked questions about this in the cohort meetings, but
+we do hope you'll find it worthwhile.)
 
 ## Assignment
 
