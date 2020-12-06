@@ -5,6 +5,11 @@ title = "Team"
 slug = "team"
 +++
 
+<center>
+<img src="/images/staff-meeing.png" width="70%"><br>
+Final Course Staff Meeting, 16 November 2020
+</center>
+
 # <center> Instructors </center>
 
 <div style="display: table-row; width:75%;">
