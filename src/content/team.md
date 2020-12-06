@@ -6,7 +6,7 @@ slug = "team"
 +++
 
 <center>
-<img src="/images/staff-meeting.png" width="70%"><br>
+<a href="/images/staff-meeting.png"><img src="/images/staff-meeting.png" width="85%"></a><br>
 Final Course Staff Meeting, 16 November 2020
 </center>
 
