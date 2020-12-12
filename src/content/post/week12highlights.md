@@ -15,9 +15,10 @@ Here are some highlights from student submissions for [Week 12](/week12).
 <img src="/images/land_of_nand.png" width="70%">
 </a><br>
 <a href="/docs/The_Land_of_NAND.pdf"><em>In the Land of NAND</em> [PDF]</a><Br>
-By Emily Franklin; Illustrated by Luke Sills, Emily Huo, and Reza&nbsp;Mirzaiee (Cohort Felt)
+Emily Franklin, Luke Sills, Emily Huo, Reza&nbsp;Mirzaiee (Cohort Felt)
 </center>
 
+<p><br></br></p>
 
 ## Songs
 
