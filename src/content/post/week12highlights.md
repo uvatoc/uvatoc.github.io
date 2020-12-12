@@ -19,21 +19,6 @@ By Emily Franklin; Illustrated by Luke Sills, Emily Huo, and Reza&nbsp;Mirzaiee 
 </center>
 
 
-## Games
-
-[The Legend of Bruno L.'s Lasagna Language](https://joek13.github.io/theoryquest/)<br>
-Benjamin Grant, Callie Hartzog, I Jung, Joseph Kerrigan, Hallie&nbsp;Khuong, Grace&nbsp;Kisly (Cohort Jones)
-
-[Make your way Through Finite State Automata](/docs/fsagame.html)<br>
-Selena Johnson
-</p>
-<p>
-
-[Domino Logic Gates](https://victor-pham.github.io/DominoComputer/)<Br>
-Jack Liu, Anh-Thu Nguyen, Victor Pham
-</p>
-
-
 ## Songs
 
 <center>
@@ -94,6 +79,20 @@ Ian Reyes,
 Dawang&nbsp;Shen (Cohort&nbsp;Rosenblum)
 
 </center>
+
+## Games
+
+[The Legend of Bruno L.'s Lasagna Language](https://joek13.github.io/theoryquest/)<br>
+Benjamin Grant, Callie Hartzog, I Jung, Joseph Kerrigan, Hallie&nbsp;Khuong, Grace&nbsp;Kisly (Cohort Jones)
+
+[Make your way Through Finite State Automata](/docs/fsagame.html)<br>
+Selena Johnson
+</p>
+<p>
+
+[Domino Logic Gates](https://victor-pham.github.io/DominoComputer/)<Br>
+Jack Liu, Anh-Thu Nguyen, Victor Pham
+</p>
 
 ## Minecraft
 
