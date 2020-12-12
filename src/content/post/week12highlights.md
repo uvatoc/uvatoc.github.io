@@ -100,7 +100,7 @@ Jack Liu, Anh-Thu Nguyen, Victor Pham
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WCJONLT73C4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <em>2-bit Ripple-Carry Adder and 4-bit CLA in Minecraft</em><br>
-Jackson Berigan, Edward Kim, Justin Liu, Phuc Nguyen, Parth Raut, Evan Topoleski (Cohort McCarthy)
+Jackson Berigan, Edward Kim, Justin Liu, Phuc Nguyen, Parth Raut, Evan Topoleski (Cohort&nbsp;McCarthy)
 </center>
 
 <p><br></br></p>
