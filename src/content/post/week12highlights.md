@@ -22,6 +22,15 @@ Emily Franklin, Luke Sills, Emily Huo, Reza&nbsp;Mirzaiee (Cohort Felt)
 
 ## Songs
 
+
+<center>
+<a href="https://drive.google.com/file/d/1SL1h4hGb2L7K3D04EHNOmeGQysh01COL">
+<em>Cantor's Theorem</em> (to the tune of "You'll Be Back" from Hamilton)</a><br>
+Derek&nbsp;Bassett, Isabelle&nbsp;Deadman, Justin&nbsp;Ngo, Anh&nbsp;Nguyen, Henry&nbsp;Todd, Letao&nbsp;Wang (Cohort&nbsp;Benjamin)
+</center>
+
+<p><br></br></p>
+
 <center>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JB0o5sskHKc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <em>The Day Computing Died - The Rao-Blackwell Theorems</em><br>
