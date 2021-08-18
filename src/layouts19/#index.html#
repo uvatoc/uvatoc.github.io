@@ -1,0 +1,71 @@
+{{ define "main" }}
+{{ $posts_title := index .Site.Params "posts_title" | default "Posts" }}
+{{ $posts_count := index .Site.Params "posts_count" | default 5 }}
+{{ $pubs_title := index .Site.Params "pubs_title" | default "Publications" }}
+{{ $pubs_count := index .Site.Params "pubs_count" | default 5 }}
+
+   <div class="container">       
+   <div class="sidebar">
+   <p>
+University of Virginia<Br>
+cs3102 Fall 2019 Archive<br>
+<a href="https://uvatoc.github.io"><b>Current Version</b></a><br>
+Theory of Computation<br>
+</p>
+<p>
+
+<b><a href="/f19/docs/syllabus.pdf">Syllabus</a></b></br>
+&nbsp;&nbsp;&nbsp;<a href="/f19/schedule">Schedule</a> (<a href="https://calendar.google.com/calendar/embed?src=fcp59v0s307hlio3a7ok6mu18k%40group.calendar.google.com&ctz=America%2FNew_York">Calendar</a>)</br>
+&nbsp;&nbsp;&nbsp;<a href="/f19/pledge">Pledge</a></br>
+&nbsp;&nbsp;&nbsp;<a href="https://collab.its.virginia.edu/portal/site/ff05ebb2-e2e1-45be-83cb-aadd96d4d2f9/?panel=Main">Collab</a></br>
+<b><a href="https://introtcs.org">Book</a></b> [<a href="https://files.boazbarak.org/introtcs/lnotes_book.pdf">PDF</a>]</br>
+<b><a href="/f19/resources">Resources</a></b></br>
+<p></p>
+
+   <p>
+   <b><a href="/f19/post/">Recent Posts</a></b>
+
+   {{ range first 15 (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
+   <div class="posttitle">
+      {{ partial "post-title" . }}
+   </div>
+   {{ end }}
+   
+   </p>
+   <p>
+   <b><a href="/f19/team/">Team</a></b><br>
+   </p>
+   </div>
+
+
+    <div class="content">
+
+      <div class="yellownotec">
+	This is an archived page from the Fall 2019 version of the course.<br>
+	For the latest version, see <a href="https://uvatoc.github.io/"><em>https://uvatoc.github.io</em></a>.
+      </div>
+      
+    {{ range .Site.Pages }}
+        {{ if eq .Type "index" }}
+           {{ .Content }}
+        {{ end }}
+    {{ end }}
+
+
+    
+    {{ range first $posts_count (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
+    {{ partial "post-full-summary" . }}
+    {{ end }}
+
+
+    <footer>
+      <nav>
+	<a href="/f19/post/" class="button hollow primary">All {{ $posts_title }}</a>
+      </nav>
+    </footer>
+
+</div>
+</div>
+
+{{ end }}
+

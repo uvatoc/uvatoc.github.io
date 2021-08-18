@@ -1,0 +1,96 @@
+{{ define "main" }}
+{{ $posts_title := index .Site.Params "posts_title" | default "Posts" }}
+{{ $posts_count := index .Site.Params "posts_count" | default 10 }}
+{{ $pubs_title := index .Site.Params "pubs_title" | default "Publications" }}
+{{ $pubs_count := index .Site.Params "pubs_count" | default 5 }}
+
+   <div class="container">       
+   <div class="sidebar">
+   <p>
+University of Virginia<Br>
+cs3102 Fall 2020 Archive<br>
+<a href="https://uvatoc.github.io"><b>Current Version</b></a><br>
+Theory of Computation<br>
+</p>
+<p>
+<p>
+<b><a href="/f20/syllabus">Syllabus</a></b></br>
+&nbsp;&nbsp;&nbsp;<a href="/f20/schedule">Schedule</a></br>
+&nbsp;&nbsp;&nbsp;<a href="/f20/openhours">Open Help Hours</a></br>
+&nbsp;&nbsp;&nbsp;<a href="/f20/pledge">Pledge</a></br>
+</p>
+   <p>
+Past Weeks<br>
+
+<a href="/f20/week1">1</a> &middot; <a href="/f20/week2">2</a> &middot; <a href="/f20/week3">3</a> &middot;
+<a href="/f20/week4">4</a> &middot; <a href="/f20/week5">5</a> &middot;
+  <a href="/f20/week6">6</a> &middot;
+  <a href="/f20/week7">7</a> &middot;
+  <a href="/f20/week8">8</a> &middot;
+  <a href="/f20/week9">9</a></br>
+  </p>
+  <a href="/f20/week10"><b>Week 10</b></a></br>
+  <a href="/f20/week11"><b>Week 11</b></a></br>
+</p>
+
+<b><a href="https://introtcs.org">Book</a></b> [<a href="https://files.boazbarak.org/introtcs/lnotes_book.pdf">PDF</a>]</br>
+   <a href="/f20/resources/"><b>Resources</b></a></p>
+   
+<p></p>
+
+   <p>
+   <b><a href="/f20/post/">Recent Posts</a></b>
+
+   {{ range first 10 (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
+   <div class="posttitle">
+      {{ partial "post-title" . }}
+   </div>
+   {{ end }}
+   <div class="posttitle">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="/f20/post/"><em>More...</em></a>
+   </div>
+   
+   </p>
+   <p>
+   <b><a href="/f20/team/">Team</a></b><br>
+   </p>
+   <p>
+     <a href="/f20/f19/">Fall 2019 Archive</a>
+     </p>
+
+   </div>
+
+
+    <div class="content">
+
+      <div class="yellownotec">
+	This is an archived page from the Fall 2020 version of the course.<br>
+	For the latest version, see <a href="https://uvatoc.github.io/"><em>https://uvatoc.github.io</em></a>.
+      </div>
+
+      
+    {{ range .Site.Pages }}
+        {{ if eq .Type "index" }}
+           {{ .Content }}
+        {{ end }}
+    {{ end }}
+
+
+    
+    {{ range first $posts_count (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
+    {{ partial "post-full-summary" . }}
+    {{ end }}
+
+
+    <footer>
+      <nav>
+	<a href="/f20/post/" class="button hollow primary">All {{ $posts_title }}</a>
+      </nav>
+    </footer>
+
+</div>
+</div>
+
+{{ end }}
+

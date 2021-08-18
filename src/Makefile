@@ -20,6 +20,10 @@ f19:
 	hugo --config config2019.toml --theme=$(THEME19) --contentDir content19 --layoutDir layouts19 --destination public19
 	mv public19 ../f19
 
+f20:
+	hugo --config config2020.toml --theme=$(THEME19) --contentDir content20 --layoutDir layouts20 --destination public20
+	mv public20 ../f20
+
 
 develop:
 	sleep 1 && echo "Opening local browser..." &&  open http://localhost:1313 &

@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theory of Computation</title>
+    <link>https://uvatoc.github.io/f20/</link>
+    <description>Recent content on Theory of Computation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uvatoc.github.io/f20/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fall 2021 Course</title>
+      <link>https://uvatoc.github.io/f20/fall-2021-course/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/fall-2021-course/</guid>
+      <description>The cs3102 course will be offered in Fall 2021, co-taught by Nathan Brunelle and David Evans.
+Class meetings (expected to be in person, pending any University policy changes) will be Mondays and Wednesday, 3:30pm - 4:45pm in Maury Hall 209.
+We&amp;rsquo;ll be putting more information here about the course as the start of the semester approaches. For now, you can see what the course was like last year from this website (including the syllabus from the Fall 2020 course: Fall 2020 Syllabus).</description>
+    </item>
+    
+    <item>
+      <title>Week 12 Highlights</title>
+      <link>https://uvatoc.github.io/f20/week12highlights/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week12highlights/</guid>
+      <description>Here are some highlights from student submissions for Week 12.
+Children&amp;rsquo;s Book  
+In the Land of NAND [PDF] Emily Franklin, Luke Sills, Emily Huo, Reza&amp;nbsp;Mirzaiee (Cohort Felt)  
+
+Songs  Cantor&#39;s Theorem (to the tune of &#34;You&#39;ll Be Back&#34; from Hamilton)
+Derek&amp;nbsp;Bassett, Isabelle&amp;nbsp;Deadman, Justin&amp;nbsp;Ngo, Anh&amp;nbsp;Nguyen, Henry&amp;nbsp;Todd, Letao&amp;nbsp;Wang (Cohort&amp;nbsp;Benjamin)  
+
+ 
+The Day Computing Died - The Rao-Blackwell Theorems
+Zach Baugher, Tyler Willis, Sarah Yao, Karen Zipor, Jennifer Li, Carryk Bhattal</description>
+    </item>
+    
+    <item>
+      <title>Week 12</title>
+      <link>https://uvatoc.github.io/f20/week12posted/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week12posted/</guid>
+      <description>Week 12 is now posted - see the Week 12 page for the details.
+Please read the Week 12 guide early, since it is different from previous weeks and you need to decide on how you want to partition your cohort for this by the date of your Week 11 write-up deadline.</description>
+    </item>
+    
+    <item>
+      <title>Week 12</title>
+      <link>https://uvatoc.github.io/f20/week12/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week12/</guid>
+      <description>Wow, the final week - congratulations!
+This week is different from previous weeks: there is no new technical content, and no cohort problems.
+Instead, the goal of this week is for you to do something that either synthesizes a key idea from the class, or explores a topic of your choice related to theoretical computer science.
+Although it will be sufficient to earn full credit this week to do something that just benefits your own understanding, we hope some of you will produce artifacts that will have value beyond this.</description>
+    </item>
+    
+    <item>
+      <title>Week 11</title>
+      <link>https://uvatoc.github.io/f20/week11posted/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week11posted/</guid>
+      <description>Week 11 is now posted - see the Week 11 page for the details.</description>
+    </item>
+    
+    <item>
+      <title>Week 11</title>
+      <link>https://uvatoc.github.io/f20/week11/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week11/</guid>
+      <description>Goals This week we arrive at the most famous and foundational open problem in Computer Science (and, arguably, in all of Mathematics, and more questionably, perhaps of all human creative endeavor): is it substantially easier to verify the solution to a (certain very broad and common type of) problem, than it is to find that solution? (stated more formally in computer science as &amp;ldquo;P = NP?&amp;quot;.
+The main goals for Week 11 are to:</description>
+    </item>
+    
+    <item>
+      <title>Week 10</title>
+      <link>https://uvatoc.github.io/f20/week9posted/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week9posted/</guid>
+      <description>Week 10 is now posted - see the Week 10 page for the details.</description>
+    </item>
+    
+    <item>
+      <title>Week 10</title>
+      <link>https://uvatoc.github.io/f20/week10/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week10/</guid>
+      <description>Goals This week, we hope you&amp;rsquo;ll become experts at proving functions are uncomputable (and occasionally, computable). We introduce the &amp;ldquo;proof by reduction&amp;rdquo; technique, which is a tremendously useful way to prove properties about problems, and (as you will see in the Algorithms class) also to develop and analyze algorithmic solutions.
+The main goals for Week 10 are to:
+ Become comfortable with the terms decidable, recognizable, and computable, and how we talk about these properties for languages, functions, and problems.</description>
+    </item>
+    
+    <item>
+      <title>Week 9</title>
+      <link>https://uvatoc.github.io/f20/week9posted/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week9posted/</guid>
+      <description>Week 9 is now posted - see the Week 9 page for the details.</description>
+    </item>
+    
+    <item>
+      <title>Week 8</title>
+      <link>https://uvatoc.github.io/f20/week8posted/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week8posted/</guid>
+      <description>Week 8 is now posted - see the Week 8 page for the details.</description>
+    </item>
+    
+    <item>
+      <title>Week 7</title>
+      <link>https://uvatoc.github.io/f20/week7posted/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week7posted/</guid>
+      <description>Week 7 is now posted - see the Week 7 page for the details.</description>
+    </item>
+    
+    <item>
+      <title>Week 7</title>
+      <link>https://uvatoc.github.io/f20/week7/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week7/</guid>
+      <description>Goals The main goals for Week 7 are to:
+  Understand the proof that Regular Expressions are equivalent in power to Deterministic Finite Automata. This is a long proof, split over 4 videos, but is something we hope everyone understands in detail. The methods used in the proof are similar to ones we have seen before in showing equivalence of NAND-Circ and Boolean circuits, but is a fair bit more complex.</description>
+    </item>
+    
+    <item>
+      <title>Cameras and Community</title>
+      <link>https://uvatoc.github.io/f20/cameras-and-community/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/cameras-and-community/</guid>
+      <description>In general, we&amp;rsquo;re pleased with the responses on the peer evaluation surveys, and it is clear that most students have respect for and are valuing the interactions with their cohortmates. But, one thing we&amp;rsquo;ve heard from some of your peer evaluation surveys, and also felt ourselves, is the difficulty forming a connected community in this on-line environment.
+Groups that knew each other and were used to working together pre-pandemic usually were able to move to on-line environments fairly well, and the personal connections already established in the easier in-person environment translate to the on-line environment.</description>
+    </item>
+    
+    <item>
+      <title>Adjusted Brunelle OH</title>
+      <link>https://uvatoc.github.io/f20/brunelleoh/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/brunelleoh/</guid>
+      <description>Professor Brunelle&amp;rsquo;s Office hours must be adjusted slightly. These Changes will begin for this week.
+I (Nate) will still have office hours on Wednesdays at 12:00pm-2:00pm, but my Thursday office hours from 3:30pm-5pm will instead be held on Fridays 1:00pm-2:30pm.
+The will be held in my zoom room.</description>
+    </item>
+    
+    <item>
+      <title>aPiazza</title>
+      <link>https://uvatoc.github.io/f20/apiazza/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/apiazza/</guid>
+      <description>Since a few students asked about using Piazza, I wanted to post an explanation of why I&amp;rsquo;m not willing to use Piazza for any official course interactions here (these are my personal views, which don&amp;rsquo;t necessarily reflect those of anyone else on the course staff).
+The reason I&amp;rsquo;m not willing to use Piazza is their business model is based on surveillance of students and monetizing the data collected through this is ways that may be harmful to students forced to use it.</description>
+    </item>
+    
+    <item>
+      <title>Week 6</title>
+      <link>https://uvatoc.github.io/f20/week6posted/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week6posted/</guid>
+      <description>Week 6 is now posted - see the Week 6 page for the details.</description>
+    </item>
+    
+    <item>
+      <title>Week 5</title>
+      <link>https://uvatoc.github.io/f20/week5posted/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week5posted/</guid>
+      <description>Week 5 is now posted - see the Week 5 page for the details.</description>
+    </item>
+    
+    <item>
+      <title>Peer Evaluations</title>
+      <link>https://uvatoc.github.io/f20/evals/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/evals/</guid>
+      <description>Now that we&amp;rsquo;ve had an opportunity to get to know our cohorts, we&amp;rsquo;d like to provide a way for you to offer feedback on how your cohort could work more effectively.
+We have created a peer evaluation form for you to reflect on the ways that you and your cohort-mates contribute to your team dynamic. We ask that you please complete this feedback form by 11:59pm on Wednesdsay Sept 23.</description>
+    </item>
+    
+    <item>
+      <title>Week 4</title>
+      <link>https://uvatoc.github.io/f20/week4/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week4/</guid>
+      <description>Goals The main goals for Week 4 are to:
+ Implement and use the EVAL function. This is our first exposure to a modul of computing which is able to simulate an instance of itself. This idea is fundamental to the practice of computer science, as it enables us to have arbitrarily reprogrammable machines which run with fixed hardware. Begin classifying functions by complexity (i.e. resources required to implement them). Reason about how theory and practice might differ from one another, and why that might be a good thing.</description>
+    </item>
+    
+    <item>
+      <title>Week 4, Resources</title>
+      <link>https://uvatoc.github.io/f20/week4posted/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week4posted/</guid>
+      <description>Week 4 is now posted - see the Week 4 page for the details.
+The Resources page has some links to resources that we think will be useful for cs3102 students, including additional background materials, and other sources that cover concepts in the class.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://uvatoc.github.io/f20/resources/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/resources/</guid>
+      <description>Here are links to some useful resources for cs3102. If you discover other resources you think would be helpful for students in the class, please let us know to add them here.
+Course Book Main Website
+Full Text PDF
+Github (if you have corrections or suggestions for the book, submit them to Boaz Barak here; useful contributions will be worth bonus points in the course, so let us know if you have a pull request accepted or start a useful issue)</description>
+    </item>
+    
+    <item>
+      <title>Week 3</title>
+      <link>https://uvatoc.github.io/f20/week3/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week3/</guid>
+      <description>Week 3: The main goals for Week 3 are to:
+ Show how simple models of computing can result in complex behavior. Begin building a bridge from theoretical models of computing (like straightline programs and boolean circuits) to practical implementations of computing (like Python and integrated circuits). Explore the powers and limitations of a model of computing, including being able to understand the details of how to use that model, and why it is defined in the way chosen.</description>
+    </item>
+    
+    <item>
+      <title>Assignment Submission</title>
+      <link>https://uvatoc.github.io/f20/assignments/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/assignments/</guid>
+      <description>Submitting Assignments, Viewing Grades To submit your write-ups and see your feedback, use this site: Assignment Submissions
+To see how to use it, reference this video
+In general, you will only need to submit your weekly written problem, and only one member of your cohort needs to submit. Make sure you tell your cohort coach (TA) who is submitting.</description>
+    </item>
+    
+    <item>
+      <title>Installing Python</title>
+      <link>https://uvatoc.github.io/f20/python/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/python/</guid>
+      <description>If you already have python3 on your machine, you should be good to go for the programming problems.
+If you don’t, please follow these directions to download Python and PyCharm (you’re welcome to use any IDE that you want, we semi-arbitrarily picked PyCharm).
+Windows   Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
+  Download the executable x86-64 installer from python.</description>
+    </item>
+    
+    <item>
+      <title>Submitting Assignments</title>
+      <link>https://uvatoc.github.io/f20/submission/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/submission/</guid>
+      <description>To submit your write-ups and see your feedback, use this site: Assignment Submissions. This video explains how to use it: zoomcast
+In general, you will only need to submit your weekly written problem, and only one member of your cohort needs to submit. Make sure you tell your cohort coach (TA) who is submitting.</description>
+    </item>
+    
+    <item>
+      <title>Week 2</title>
+      <link>https://uvatoc.github.io/f20/week2/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week2/</guid>
+      <description>Week 2: Bit Strings and Computing Models At this point you should have been assigned to a cohort and met with them at least twice (once during your assigned prep time and once during your assessed time with a TA). This week, our main goals are:
+ Now that you&amp;rsquo;ve had some cohort experience, reflect on how to make the most out of your cohort experience this semester. Begin exploration of the theory of computing, most importantly seeing the motivations for significant themes.</description>
+    </item>
+    
+    <item>
+      <title>Open Student Hours</title>
+      <link>https://uvatoc.github.io/f20/openhours/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/openhours/</guid>
+      <description>Below is the schedule for open student hours (no one is in an office these days, but these are similar to what is sometimes called &amp;ldquo;office hours&amp;rdquo;).
+These are times when there will be a course staff person available to answer any questions you have.
+ 	Monday	4-5:30pm		Nick	 	Monday	5:30-6pm		Yu	 	Monday	6:30-8pm		Anlan	 	Monday	8-9:30pm		Megan	 &amp;nbsp;		Tuesday	12:30-2pm		Timothy	 	Tuesday	2-3:30pm		Nijat	 	Tuesday	3:30-5pm		Jonah	 	Tuesday	5-6:30pm		Nick	 	Tuesday	6-7:30pm		Kush	 &amp;nbsp;		Wednesday	9:30-10:30am		Dave	 	Wednesday	noon-2:00pm		Nathan	 	Wednesday	noon-1:30pm		Timothy	 	Wednesday	1:30-3pm		Vi	 	Wednesday	7:30-9pm		Noah	    	Thursday	9:30-11am		John	 	Thursday	12:30-2pm		Joey	 	Thursday	2:30-4pm		Joshua	 	Thursday	4:30-6pm		Brandon	 	Thursday	6:30-8pm		Preston	 		Friday	9-10:30am		Yu	 	Friday	10:30-noon		Megan	 	Friday	12-1pm		Dave	 	Friday	1pm-2:30pm		Nathan	 	Friday	2-3:30pm		William	 	Friday	5:30-7:00pm		Nijat	 		Saturday	10-11:30am		Nicholas	 	Saturday	11:30am-1pm		Rachel	 		Sunday	10:30am-noon		Michelle	 	Sunday	3:30-5pm		Joshua	 	Sunday	5:30-7pm		Nicholas	    During the scheduled times, the listed staff person is available to answer your questions.</description>
+    </item>
+    
+    <item>
+      <title>First Class</title>
+      <link>https://uvatoc.github.io/f20/firstmeeting/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/firstmeeting/</guid>
+      <description>Our first (and only) full-class meeting will be held at 3:30pm Aug 26.
+Join the meeting here: Zoom Session
+We&amp;rsquo;ll be presenting these slides: Slides
+We&amp;rsquo;ll be discussing course logistics, and the importance of studying theory.
+We look forward to seeing you there!</description>
+    </item>
+    
+    <item>
+      <title>Office Hours</title>
+      <link>https://uvatoc.github.io/f20/firstoh/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/firstoh/</guid>
+      <description>We will post a more complete office hours schedule by early next week.
+I (Dave) will have office hours on Wednesdays at 9:30-10:30am (including tomorrow, Wednesday, August 26) and Fridays at 10-11am (now: Fridays noon-1pm) (including this Friday, August 28). For now, these will use my zoom office (but these will move to the course discord server once everyone is set up there).</description>
+    </item>
+    
+    <item>
+      <title>Starting the Semester</title>
+      <link>https://uvatoc.github.io/f20/starting/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/starting/</guid>
+      <description>First Class Meeting We will have our first meeting on Wednesday at our scheduled 3:30-4:45pm meeting time via zoom: zoom link.
+Assessed cohort meetings will start (at the ealiest) on Tuesday, 1 September, so students scheduled in Tuesday cohorts will have preparation Cohort Meetings on Sunday (30 August), and will need to be ready with the Week 1 problems by their cohort meeting on 1 September. (Other students will have more time, depending on when your assessed cohort meeting is scheduled.</description>
+    </item>
+    
+    <item>
+      <title>Course Pledge</title>
+      <link>https://uvatoc.github.io/f20/pledge/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/pledge/</guid>
+      <description>Honor Expectations As a student at the University of Virginia, you are trusted to be honorable and expected to behave in ways that merit that trust. We take advantage of this trust to provide a better learning environment for everyone. In particular, students in cs3102 are expected to follow these rules throughout the course:
+I will not lie, cheat or steal. If I am unsure whether something would be considered lying, cheating or stealing, I will ask before doing it.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://uvatoc.github.io/f20/schedule/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/schedule/</guid>
+      <description>For the open help schedule, see Open Student Hours.
+For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1).
+IntroductionWeek 1: Mathematical Definitions
+Wed 26 AugustMaterials Posted, TCS Chapter 0, TCS Chapter 1Wed 26 August (3:30-4:45pm)Full Class Welcome MeetingTue 1 Sept &amp;ndash; Mon 7 SeptAssessed Cohort MeetingsWeek 2: Bit Strings and Computing Models</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>https://uvatoc.github.io/f20/syllabus/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/syllabus/</guid>
+      <description>Overview Course Description: The goal of this course is to understand the fundamental limits on what can be efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal deep and mysterious properties about information, communication, and computing, as well as practical issues about how to solve problems.
+Two fundamental questions about any problem are:
+ Can it be solved using a machine of a certain type? (computability) How much does it cost to solve it?</description>
+    </item>
+    
+    <item>
+      <title>Week 5</title>
+      <link>https://uvatoc.github.io/f20/week5/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week5/</guid>
+      <description>Goals The main goals for Week 5 are to:
+ Understand what a complexity class is and how to provide properties about circuit-size complexity classes. Learn the asymptotic operators (Big-O, Ω, and Θ) and how to use them correctly. Be able to both intuitively understand what functions are in O(f(n)), and to prove membership or non-membership. Be able to connect the formal definitions of computing costs to practical questions about the cost of computing.</description>
+    </item>
+    
+    <item>
+      <title>Week 6</title>
+      <link>https://uvatoc.github.io/f20/week6/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week6/</guid>
+      <description>Goals The main goals for Week 6 are to:
+  Synthesize what we have learned about finite computation in the first 5 weeks, and start exploring unbounded computation.
+  Appreciate the connection between functions and languages, and the different ways of talking about computation.
+  Understand and be able to formally define a Finite State Automaton, and to reason about the language accepted (or function computed) by a Deterministic Finite Automaton.</description>
+    </item>
+    
+    <item>
+      <title>Week 8</title>
+      <link>https://uvatoc.github.io/f20/week8/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week8/</guid>
+      <description>Goals This week, we introduce the most important and widely used model of computation, the Turing machine, and start to address the big question of what can and cannot be computed by any machine with a finite description.
+The main goals for Week 8 are to:
+ Understand what cannot be computed by a finite automaton and why. Use and understand Turing Machines as a model of computing. Study a definition of computability.</description>
+    </item>
+    
+    <item>
+      <title>Week 9</title>
+      <link>https://uvatoc.github.io/f20/week9/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week9/</guid>
+      <description>Goals Last week, we used a counting argument to show that there must be some uncomputable functions (&amp;ldquo;some&amp;rdquo; here means infinitely many), but we didin&amp;rsquo;t find a specific uncomputable function. This week, we prove that a particular function is uncomputable, and explore the implications of finding an uncomputable function.
+The main goals for Week 9 are to:
+ Understand what cannot be computed by a finite automaton and why. Use and understand Turing Machines as a model of computing.</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://uvatoc.github.io/f20/team/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/team/</guid>
+      <description>Final Course Staff Meeting, 16 November 2020 Instructors  
+Nathan Brunelle&amp;nbsp;
+David EvansCohort Leaders Brandon Bremer
+Rachel Choi
+Anlan Du
+Nijat Khanbabayev
+Michelle Miller
+Nicholas O&#39;Connor
+Jonah Weissman
+Megan Bishop
+Joshua Devine
+Noah Espiritu</description>
+    </item>
+    
+    <item>
+      <title>Course Planning Survey</title>
+      <link>https://uvatoc.github.io/f20/summersurvey/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/summersurvey/</guid>
+      <description>This email was sent out to students registered for the Fall 2020 course. If you are not registered yet but interested in taking the course in the fall, please read the message below and submit the survey. Thanks!
+Mail Sent  Date: Wed, Jul 15, 2020 at 10:16 AM Subject: cs3102: Welcome and Survey Request
+Dear Theory of Computation Students,
+Thank you for registering for cs3102!
+We’re looking forward to the fall semester, as much as one can under these circumstances, and considering plans for the course.</description>
+    </item>
+    
+    <item>
+      <title>Fall 2020 Course</title>
+      <link>https://uvatoc.github.io/f20/fall2020/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/fall2020/</guid>
+      <description>A version of this course will be offered in Fall 2020. It is optimistically scheduled for Mondays and Wednesdays, 3:30-4:45 in McLeod Hall 1020 (assuming we will be back to cramming 300 students in a classroom in the fall).
+In the happy event that we can offer courses normally in the fall, the content and structure will be fairly similar to what was done in recent semesters. You can see all the materials from recent versions of this course here:</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>https://uvatoc.github.io/f20/week1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/f20/week1/</guid>
+      <description>Welcome to cs3102! The main goals for the first week are:
+  Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
+  Re-awaking the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
+    </item>
+    
+  </channel>
+</rss>
