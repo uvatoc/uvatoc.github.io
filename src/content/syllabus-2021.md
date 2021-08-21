@@ -2,7 +2,7 @@
 date = "21 Aug 2021"
 draft = false
 title = "Syllabus"
-slug = "syllabus"
+slug = "syllabus-2021"
 +++
 
 # Overview

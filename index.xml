@@ -13,10 +13,10 @@
     
     <item>
       <title>Syllabus</title>
-      <link>https://uvatoc.github.io/syllabus/</link>
+      <link>https://uvatoc.github.io/syllabus-2021/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uvatoc.github.io/syllabus/</guid>
+      <guid>https://uvatoc.github.io/syllabus-2021/</guid>
       <description>Overview Course Description: The goal of this course is to understand the fundamental limits on what can be efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal deep and mysterious properties about information, communication, and computing, as well as practical issues about how to solve problems.
 Two fundamental questions about any problem are:
  Can it be solved using a machine of a certain type? (computability) How much does it cost to solve it?</description>
