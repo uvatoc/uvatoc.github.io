@@ -268,11 +268,12 @@ the week the cohort meeting is scheduled):
     <tr>
 <td>Thursday</td><td>Preparation Materials: Video Lectures</td><td>90 minutes</td></tr>
 <tr><td></td><td>Preparation Materials: Readings</td><td>90 minutes</td></tr>
-<tr><td>Friday</td><td>Work on Problem Set (individually)</td><td>120 minutes</td></tr>
+<tr><td>Friday</td><td>Work on Problem Set (individually)</td><td>90 minutes</td></tr>
 <tr><td>Sunday</td><td>Cohort Meeting (without staff)</td><td>75 minutes</td></tr>
-<tr><td>Monday</td><td>Ask Questions in Class, Complete Problem Set</td><td>90 minutes</td></tr>
-<tr><td>Tuesday</td><td>Cohort Meeting (with TA)</td><td>75 minutes</td></tr>
-<tr><td>Wednseday</td><td>Write-up Selected Problem</td><td>30 minutes</td></tr>
+<tr><td>Monday</td><td>Class Meeting, Ask Questions</td><td>75 minutes</td></tr>
+<tr><td></td><td>Complete Problem Set, Review for Cohort Meeting</td><td>45 minutes</td></tr>
+<tr><td>Tuesday</td><td>Assessed Cohort Meeting</td><td>75 minutes</td></tr>
+<tr><td>Wednseday</td><td>Write-up Selected Problem</td><td>60 minutes</td></tr>
 <tr><td colspan=2 align=center>Total Time</td><td>10 hours/week</td></tr>
 </table>
 
@@ -445,8 +446,8 @@ book](http://dori-mic.org/), or some other artifact that can be
 distributed on the Internet) that conveys something (at least loosely)
 related to theoretical computer science. We will post more information
 on this later, but to get an idea of what it will be and to start
-thinking of ideas for this, see [Problem Set
-&Omega;](https://uvacs2102.github.io/psomega/) (from cs2102).
+thinking of ideas for this, see what students did [last
+year](https://uvatoc.github.io/f20/week12highlights/).
 
 **Community Grading.** In addition to the individual cohort assessment
   grades, each cohort will receive a community grade based on how well
