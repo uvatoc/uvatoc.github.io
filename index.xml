@@ -6,10 +6,22 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://uvatoc.github.io/schedule-2021/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/schedule-2021/</guid>
+      <description>For the open help schedule, see Open Student Hours.
+For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1).
+IntroductionWeek 1: Mathematical Definitions
+Wed 25 AugustMaterials Posted, TCS Chapter 0, TCS Chapter 1Wed 25 August (3:30-4:45pm)Full class meeting: open question time (come by Maury Hall 209 to meet with the instructors and ask any questions you have about the course)</description>
+    </item>
     
     <item>
       <title>Syllabus</title>
