@@ -1,8 +1,8 @@
 +++
 date = "21 Aug 2021"
-draft = true
+draft = false
 title = "Syllabus"
-slug = "syllabus"
+slug = "syllabus-2021"
 +++
 
 # Overview
@@ -39,6 +39,8 @@ done when a problem cannot be solved or is too expensive to solve.
 - Reason formally about the cost of computation, and be able to prove useful bounds on the costs of solving problems, including showing that certain problems cannot be solved efficiently.
 - Learn about some interesting aspects of theoretical computer science, and why understanding them matters even if you are only interested in building practical computing systems.
 
+<a name="meetings"></a>
+
 **Class Meetings:** The full class meetings of the course are
   scheduled for Mondays and Wednesday, 3:30pm - 4:45pm in Maury Hall
   209. In addition to the full class meetings, each student will be
@@ -63,30 +65,55 @@ Hence, we have planned the scheduled full class meetings to be
   meetings which is not also covered by the provided course videos and
   written materials. For most weeks, we will use the full class
   meetings to answer questions about those materials, and to present
-  example problems that may be similar to the problems assigned to students.
-  
+  example problems that may be similar to the problems assigned to
+  students. Other weeks, we may use the full class meetings to talk
+  about topics we think are interesting and relevant, but that will
+  not be covered by any course assessments.
 
+Because of the way the cohorts are scheduled, we expect it will make
+  sense for about half the class to attend on Mondays, and half the
+  class to attend on Wednesdays. In accordance with University
+  policies, any student who wishes is permitted to attend both days.
+  We hope that this plan will provide all students with a pleasant,
+  fulfilling, and enlightening course experience, where (at least
+  until local pandemic conditions improve) the classroom is never at
+  more than half its full capacity. If it turns out that the classroom
+  is uncomfortably crowded, we will do our best to make the class
+  meetings less engaging and useful &mdash; but, we think that is
+  unlikely as in our experience during pre-pandemic teaching when we
+  tried to make classes as engaging and useful as possible having too
+  many students come to class was rarely a problem.
 
-**Pandemic.** The challenges we are facing with the current pandemic
+**Pandemic Policies.** The challenges we are facing with the current pandemic
 places our community under tremendous stress, and we appreciate that
 many of our students are dealing with extreme personal challenges this
 semester. You should prioritize your own physical and mental health,
-and the well-being of your friends and family, over any class.
-
-We endeavor to teach the class in a way that provides a learning
-opportunity and experience that is as valuable as what you would
-receive if we were able to hold in person classes, but know that
-remote learning presents substantial challenges both for teachers and
-learners, and that many students will have circumstances that make
-things especially difficult. We want the class to be a low stress,
-high value experience for everyone.
+and the well-being of your friends and family, over any class. We want
+the class to be a low stress, high value experience for everyone.
 
 We will do everything we can to accommodate students varying
 situations, and to ensure that every student has the best opportunity
 possible to succeed in the class and have a good experience.  Please
 communicate with Dave or Nathan (see details below) to let us know
 about difficulties you are facing, or anything we can do to make
-things better for you. 
+things better for you.
+
+We will expect everyone associated with the class (including the
+instructors, cohort leaders, and students) to follow [state
+laws](https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-79-and-Order-of-Public-Health-Emergency-Ten-Ending-of-Commonsense-Public-Health-Restrictions-Due-to-Novel-Coronavirus(COVID-19).pdf)
+and [University
+policies](https://uvapolicy.virginia.edu/policy/SEC-045) regrading
+health and safety requirements. These regulartions are likely to
+change during the semester. The ones currently in effect as of 18
+August 2021 state that "Masks are required for all people (students,
+faculty, staff, contractors, and visitors), both vaccinated and
+unvaccinated, who enter UVA properties." This applies to all indoor
+spaces, including our classroom. Following these regulations is both
+important for your own health, but also essential for the safety and
+comfort for everyone in the community, including many who may have
+different risk profiles than your own such as living with elderly
+relatives or children too young to be vaccinated.
+
 
 # Preparation
 
@@ -121,8 +148,8 @@ should take the class.
   communications to determine if it would be better to post a message
   in discord before emailing us).
 
-**Teaching Assistants:** See the [Team Page](/team) for all our wise
-  and wonderful teaching assistants.
+**Cohort Leaders:** See the [Team Page](/team) for all our wise and
+  wonderful cohort leaders (teaching assistants). 
 
 **Office Hours:** Office hours will be held using the course discord
   server.  The full office hours schedule will be posted on the course
@@ -149,15 +176,16 @@ book.
 In addition to the course textbook, a few readings will be assigned
 from other (freely available) sources.
 
-**Lectures:** Due to Covid-19, we will not have any in-person lectures
-  this semester. Instead, we will be providing recorded videos,
-  primarily adapted from lectures recorded from previous lectures for
-  this course, and supplemented by other available materials. Each
-  week's preparation materials will include links to relevant (and
-  maybe some irrelevant) videos.
+**Video Lectures:** Each week's preparation materials will include
+  links to relevant (and maybe some irrelevant) videos that cover the
+  material students are expected to learn in the course. These videos
+  are mostly edited recordings of lectures from previous versions of
+  this course, but also will include some additional videos and other materials.
 
-
-
+**In-Person Lectures:** As discussed in [Class Meetings](#meetings)
+  above, we will be using the in-person full class meetings primarily
+  for answering students' questions on the content in the video
+  lectures and course assignments.
 
 # Communication
 
@@ -205,26 +233,27 @@ contribute to their own success as well as the success of the other
 members of their cohort.
 
 Cohorts will have two scheduled weekly meetings, one of which will
-include a member of the course staff. For the first meeting, students
-in the cohort will work together to learn the concepts in the course
-and prepare solutions to the assigned problems for the week. Before
-the cohort preparation meeting, each student in the cohort will be
-expected to study the course materials and to work on these problems
-on their own. At the end of a successful cohort preparation meeting,
-every student in the cohort should understand all the main ideas from
-the course materials for that week, and be able to solve and discuss
-the assigned problems.
+include a member of the course staff. 
+
+For the first meeting, students in the cohort will work together to
+learn the concepts in the course and prepare solutions to the assigned
+problems for the week. Before the cohort preparation meeting, each
+student in the cohort will be expected to study the course materials
+and to work on these problems on their own. At the end of a successful
+cohort preparation meeting, every student in the cohort should
+understand all the main ideas from the course materials for that week,
+and be able to solve and discuss the assigned problems.
 
 For the second weekly cohort meeting, a teaching assistant will join
 the cohort. The TA will (pseudorandomly) select students in the cohort
-to present problems from the assigned problem set. The primary
+to present problems from the assigned problem set. A major part of the
 assessment for the course will be how well students do in
 demonstrating their understanding and preparation in presenting these
 problems.
 
 The typical weekly schedule for students in the course is below (this
 is a representative schedule for a cohort with assessed cohort
-meetings on Mondays; the schedule will adjust based on which day of
+meetings on Tuesdays; the schedule will adjust based on which day of
 the week the cohort meeting is scheduled):
 
 <table class="schedule">
@@ -237,13 +266,14 @@ the week the cohort meeting is scheduled):
   </thead>
   <tbody>
     <tr>
-<td>Wednesday</td><td>Preparation Materials: Video Lectures</td><td>120 minutes</td></tr>
+<td>Thursday</td><td>Preparation Materials: Video Lectures</td><td>90 minutes</td></tr>
 <tr><td></td><td>Preparation Materials: Readings</td><td>90 minutes</td></tr>
-<tr><td>Thursday</td><td>Work on Problem Set (individually)</td><td>120 minutes</td></tr>
-<tr><td>Friday</td><td>Cohort Meeting (without staff)</td><td>75 minutes</td></tr>
-<tr><td>Saturday/Sunday</td><td>Complete Problem Set, Review</td><td>60 minutes</td></tr>
-<tr><td>Monday</td><td>Cohort Meeting (with TA)</td><td>75 minutes</td></tr>
-<tr><td>Tuesday</td><td>Write-up Selected Problem</td><td>60 minutes</td></tr>
+<tr><td>Friday</td><td>Work on Problem Set (individually)</td><td>90 minutes</td></tr>
+<tr><td>Sunday</td><td>Cohort Meeting (without staff)</td><td>75 minutes</td></tr>
+<tr><td>Monday</td><td>Class Meeting, Ask Questions</td><td>75 minutes</td></tr>
+<tr><td></td><td>Complete Problem Set, Review for Cohort Meeting</td><td>45 minutes</td></tr>
+<tr><td>Tuesday</td><td>Assessed Cohort Meeting</td><td>75 minutes</td></tr>
+<tr><td>Wednseday</td><td>Write-up Selected Problem</td><td>60 minutes</td></tr>
 <tr><td colspan=2 align=center>Total Time</td><td>10 hours/week</td></tr>
 </table>
 
@@ -253,11 +283,12 @@ for most students by spreading the work throughout the week following
 a schedule similar to the one above.
 
 Although we have sequentialized the preparation and problem working
-efforts, we expect for most students these will be done more
-fluidly. It will be valuable to read through the assigned problems at
-the beginning of the week, and to attempt to solve problems as you
-complete the relevant preparation materials, rather than doing all the
-preparation materials first and then approaching the problems.
+efforts, we expect for most students these will be done more fluidly
+and the time needs for preparation will vary. It will be valuable to
+read through the assigned problems at the beginning of the week, and
+to attempt to solve problems as you complete the relevant preparation
+materials, rather than doing all the preparation materials first and
+then approaching the problems.
 
 The actual schedule will vary based on the date of a student's
 assessed cohort meeing, and all students are expected to participate
@@ -267,7 +298,6 @@ meeting without staff, and the assessed meeting with the TA).
 Students will be assigned to cohorts based on the information you
 provide in the beginning-of-course survey. Cohort assignments will be
 done around student's provided scheduling constraints.
-
 
 ## Problem Sets
 
@@ -294,28 +324,39 @@ be responsible for writing the solution and submitting it as a group.
 
 ## Grading
 
-Spend your energy focusing on what you are learning, instead of
-worrying about your grade. That said, we understand students are often
-stressed about grading and understandably want to know where they
-stand in a class without having to rely just on the judgment of the
-course staff.  We aim to grade in a way that is useful (provides
-students with accurate measure of how well they understood what they
-should), motivating (encourages the behaviors we prefer, including
-hard but not obsessive work), fair (assigned higher grades to more
-deserving students), robust (arbitrary small perturbations do not have
-a material impact on someone's grade), and low stress (for both
-students and the course staff).
+We encourage students to spend your energy focusing on what you are
+learning, instead of worrying about your grade. That said, we
+understand students are often stressed about grading and
+understandably want to know where they stand in a class without having
+to rely just on the judgment of the course staff.  We aim to grade in
+a way that is useful (provides students with accurate measure of how
+well they understood what they should), motivating (encourages the
+behaviors we prefer, including hard but not obsessive work), fair
+(assigned higher grades to more deserving students), robust (arbitrary
+small perturbations do not have a material impact on someone's grade),
+and low stress (for both students and the course staff).
 
-**Exams.** There will be no traditional exams in the course.
+**Exams.** There will be a final exam, scheduled by the registrar at
+  2-5pm on **Friday, 10 December 2021**. The logistics of the final
+  will depend on pandemic conditions in December, and we will
+  announce more details on how the final will be conducted before
+  Thanksgiving break. The content of the final will be comprehensive,
+  designed to assess students' understanding of the most important
+  concepts in the course and ability to use them to solve problems and
+  communicate arguments in writing.
 
-**Individual Grading.** The main assessment will be based on students
-performance in the weekly cohort meetings.  Each student will be
-evaluated based on how well they are able to present problems at these
-meetings. It is not necessary or expected that students can solve
-every problem or have a complete solution, and the cohort meetings are
-meant more for learning than assessment, but it is expected that every
-student in the cohort is prepared to discuss every problem in the
-assigned problem set.
+**Cohort Grading.** Students performance in the weekly cohort
+meetings will be evaluated based on how well they are able to present
+problems at these meetings. It is not necessary or expected that
+students can solve every problem or have a complete solution, and the
+cohort meetings are meant more for learning than assessment, but it is
+expected that every student in the cohort is prepared to discuss every
+problem in the assigned problem set.
+
+**Writing Grading.** Each week during the assessed cohort meeting the
+TA will assign one problem for a formal write-up. Students will be
+assessed by how well they can apply their knowledge and TA feedback 
+to clearly present a complete and correct solution to this problem.
 
 
 Students will be assigned a grade based on their performance at the
@@ -336,6 +377,28 @@ cohort meeting on this scale:
 <tr><td style="text-align:center;">0</td><td>Not able to contribute to the cohort meeting.</td></tr>
 </tbody>
 </table>
+
+
+Students will be assigned a grade based on their writeup
+quality on this scale:
+
+<table class="grades">
+  <thead>
+    <tr>
+      <th width="20%" style="text-align:center;">Grade</th>
+      <th width="50%">Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<tr><td style="text-align:center;">2</td><td>Writeup correctly solves the problem with a clearly-presented description</td></tr>
+<tr><td style="text-align:center;">1</td><td>Writeup is correct except for some missing components or minor errors</td></tr>
+<tr><td style="text-align:center;">0</td><td>Writeup contains major misconceptions, does not consider feedback from assessed meeting, or else presentation is unclear.</td></tr>
+</tbody>
+</table>
+
+
+
 
 We will make allowances for cases where a student is not able to make
 a scheduled cohort meeting due to extenuating circumstances and
@@ -359,39 +422,34 @@ reconsideration by the course instructors. To support this, the
 assessed cohort meetings will be recorded, but the recordings will not
 be released beyond the course staff.
 
-We will have 12 assessed cohort meetings during the semester (with 36
+We will have 14 assessed cohort meetings during the semester (with 70
 total points available for full credit, and some opportunities for
-bonus points). The individual grade for students will be based on this
-scale:
+bonus points). The individual cohort performance grade for students
+will be based on this scale:
 
 <center>
 <table class="grades" style="width:50%;">
   <thead>
     <tr>
-      <th width="50%" style="text-align:center;">Cohort Assessment Points</th>
+      <th width="50%" style="text-align:center;">Cohort Assessment + Writeup Points</th>
       <th width="50%">Individual Grade</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-    <tr><td style="text-align:center;">30</td><td style="text-align:center;"><b>A</b></td></tr>
-    <tr><td style="text-align:center;">24</td><td style="text-align:center;"><b>B</b></td></tr>
-    <tr><td style="text-align:center;">16</td><td style="text-align:center;"><b>C</b></td></tr>
+    <tr><td style="text-align:center;">60</td><td style="text-align:center;"><b>A</b></td></tr>
+    <tr><td style="text-align:center;">53</td><td style="text-align:center;"><b>B</b></td></tr>
+    <tr><td style="text-align:center;">46</td><td style="text-align:center;"><b>C</b></td></tr>
 </tbody>
 </table>
 </center>
-
+ 
 With the exception of cases of academic dishonesty or inappropriate
 behavior, we guarantee that you will at least receive the minimum
 letter grade given in the table (possibly modified by a <b>-</b> based
 on the community grading described below), but you may be assigned a
 higher grade based on your overall performance and showing improvement
 over the course of the semester.
-
-In cases where a student's grade is not clear based on their cohort
-assessments, we will provide option for students to request an oral
-final exam to be scheduled with one of the instructors during the exam
-period.
 
 <a name="bonus"></a>
 **Bonus Points.** We hope students will go beyond the provided
@@ -415,35 +473,41 @@ book](http://dori-mic.org/), or some other artifact that can be
 distributed on the Internet) that conveys something (at least loosely)
 related to theoretical computer science. We will post more information
 on this later, but to get an idea of what it will be and to start
-thinking of ideas for this, see [Problem Set
-&Omega;](https://uvacs2102.github.io/psomega/) (from cs2102).
+thinking of ideas for this, see what students did [last
+year](https://uvatoc.github.io/f20/week12highlights/).
 
 **Community Grading.** In addition to the individual cohort assessment
   grades, each cohort will receive a community grade based on how well
-  the cohort does as a group.
-
-Two main factors will contribute to a cohort's community grade:
-
-- Overall performance of the cohort during assessed cohort
+  the cohort does as a group. This will be mainly determined by the
+  overall performance of the cohort during assessed cohort
   meetings. Doing well on this depends on all members of the cohort
   being prepared to present problems well. This will be determined
   based on the sum of the individual cohort assessments, the weekly
   individual minimum individual cohort assessment, and the trend of
-  these values over the semester.
-
-- The quality of the cohort's written problem submissions. The cohort
-  will submit the problem write-up as a group, and everyone in the
-  cohort receives the same grade.
+  these values over the semester. It will also benefit a cohort's
+  community grade if all members of the cohort do well on the final
+  exam.
 
 The community grade typically will impact individual final grades by
-either a <b>+</b> or a <b>-</b> added to the individual letter grade
-(resulting from the individual grading above).
+up to half a letter grade. In most cases, the community grade will
+apply equally to all members of the cohort. In unusual cases where it
+is clear that one member of a cohort is not contributing, or there are
+reasons why a cohort is not succeeding that are beyond the
+responsiblity of individual students in that cohort, appropriate
+adjustments will be made.
 
-In most cases, the community grade will apply equally to all members
-of the cohort. In unusual cases where it is clear that one member of a
-cohort is not contributing, or there are reasons why a cohort is not
-succeeding that are beyond the responsiblity of individual students in
-that cohort, appropriate adjustments will be made. 
+**Final Grade Determination.** The final grade in the course will be
+determined by combining the cohort grade and the final exam grade with
+approximately equal weighting. In most cases, we expect these will be
+consistent and provide clear evidence supporting the grade a student
+has earned in the course. In cases where they are inconsistent, we
+will consider a student's performance through the course in more
+detail including the detailed feedback provided from the cohort
+meetings, and view signs of improvement throughout the semester
+positively.  In cases where a student's grade is not clear based on
+their cohort assessments, we will provide option for students to
+request an oral final exam to be scheduled with one of the instructors
+during the exam period.
 
 
 # Honor Expectations
@@ -479,7 +543,6 @@ problem as deeply as you would if you solved in yourself). Other than
 using solutions to the specific problems you are given, students are
 encouraged to use any other resources they find helpful.
   
-
 The collaboration policy will be described on each assignment
   document. We aim to make the language describing the policy as clear
   and unambiguous as possible, but if anything is ever unclear about
@@ -498,21 +561,26 @@ class. This will be especially important if there is a reason you
 would not be able to participate fully in a scheduled cohort.
 
 
-**Religious Accommodations:** It is the University's long-standing
-  policy and practice to reasonably accommodate students so that they
-  do not experience an adverse academic consequence when sincerely
-  held religious beliefs or observances conflict with academic
-  requirements.  Students who wish to request academic accommodation
-  for a religious observance should submit their request in writing to
-  Prof. Brunelle or Prof. Evans as far in advance as possible. If you
-  have questions or concerns about academic accommodations for
-  religious observance or religious beliefs, visit
+**Accommodations:** It is the University's long-standing policy and
+  practice to reasonably accommodate students so that they do not
+  experience an adverse academic consequence when sincerely held
+  religious beliefs or observances conflict with academic
+  requirements. Although University policy only recognizes religious
+  accomodations, the course instructors believe they are many other
+  valid reasons for accomdations that are at least as justifiable as
+  ones for religious observance and consider family obligations,
+  personal crises, and extraordinary opportunities to all be
+  potentially valid reasons for accomodations.  Students who wish to
+  request academic accommodation should submit their request in
+  writing to Prof. Brunelle or Prof. Evans as far in advance as
+  possible.
+
+If you have questions or concerns about the University policy on
+  academic accommodations for religious observance or religious
+  beliefs, visit
   [https://eocr.virginia.edu/accommodations-religious-observance](https://eocr.virginia.edu/accommodations-religious-observance)
   or contact the University's Office for Equal Opportunity and Civil
   Rights (EOCR) at `UVAEOCR@virginia.edu` or 434-924-3200.
-  Accommodations do not relieve you of the responsibility for
-  completion of any part of the coursework missed as the result of a
-  religious observance.
 
 **Safe Environment:** The University of Virginia is dedicated to
   providing a safe and equitable learning environment for all

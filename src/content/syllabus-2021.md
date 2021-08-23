@@ -338,20 +338,25 @@ and low stress (for both students and the course staff).
 
 **Exams.** There will be a final exam, scheduled by the registrar at
   2-5pm on **Friday, 10 December 2021**. The logistics of the final
-  will depend on pandemic conditions in December, and will will
+  will depend on pandemic conditions in December, and we will
   announce more details on how the final will be conducted before
   Thanksgiving break. The content of the final will be comprehensive,
   designed to assess students' understanding of the most important
   concepts in the course and ability to use them to solve problems and
   communicate arguments in writing.
 
-**Individual Grading.** Students performance in the weekly cohort
+**Cohort Grading.** Students performance in the weekly cohort
 meetings will be evaluated based on how well they are able to present
 problems at these meetings. It is not necessary or expected that
 students can solve every problem or have a complete solution, and the
 cohort meetings are meant more for learning than assessment, but it is
 expected that every student in the cohort is prepared to discuss every
 problem in the assigned problem set.
+
+**Writing Grading.** Each week during the assessed cohort meeting the
+TA will assign one problem for a formal write-up. Students will be
+assessed by how well they can apply their knowledge and TA feedback 
+to clearly present a complete and correct solution to this problem.
 
 
 Students will be assigned a grade based on their performance at the
@@ -372,6 +377,28 @@ cohort meeting on this scale:
 <tr><td style="text-align:center;">0</td><td>Not able to contribute to the cohort meeting.</td></tr>
 </tbody>
 </table>
+
+
+Students will be assigned a grade based on their writeup
+quality on this scale:
+
+<table class="grades">
+  <thead>
+    <tr>
+      <th width="20%" style="text-align:center;">Grade</th>
+      <th width="50%">Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<tr><td style="text-align:center;">2</td><td>Writeup correctly solves the problem with a clearly-presented description</td></tr>
+<tr><td style="text-align:center;">1</td><td>Writeup is correct except for some missing components or minor errors</td></tr>
+<tr><td style="text-align:center;">0</td><td>Writeup contains major misconceptions, does not consider feedback from assessed meeting, or else presentation is unclear.</td></tr>
+</tbody>
+</table>
+
+
+
 
 We will make allowances for cases where a student is not able to make
 a scheduled cohort meeting due to extenuating circumstances and
@@ -395,7 +422,7 @@ reconsideration by the course instructors. To support this, the
 assessed cohort meetings will be recorded, but the recordings will not
 be released beyond the course staff.
 
-We will have 12 assessed cohort meetings during the semester (with 36
+We will have 14 assessed cohort meetings during the semester (with 70
 total points available for full credit, and some opportunities for
 bonus points). The individual cohort performance grade for students
 will be based on this scale:
@@ -404,15 +431,15 @@ will be based on this scale:
 <table class="grades" style="width:50%;">
   <thead>
     <tr>
-      <th width="50%" style="text-align:center;">Cohort Assessment Points</th>
+      <th width="50%" style="text-align:center;">Cohort + Writeup Points</th>
       <th width="50%">Individual Grade</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-    <tr><td style="text-align:center;">30</td><td style="text-align:center;"><b>A</b></td></tr>
-    <tr><td style="text-align:center;">24</td><td style="text-align:center;"><b>B</b></td></tr>
-    <tr><td style="text-align:center;">16</td><td style="text-align:center;"><b>C</b></td></tr>
+    <tr><td style="text-align:center;">60</td><td style="text-align:center;"><b>A</b></td></tr>
+    <tr><td style="text-align:center;">53</td><td style="text-align:center;"><b>B</b></td></tr>
+    <tr><td style="text-align:center;">46</td><td style="text-align:center;"><b>C</b></td></tr>
 </tbody>
 </table>
 </center>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Theory of Computation</title>
@@ -18,7 +18,7 @@
       
       <guid>https://uvatoc.github.io/fall-2021-course/</guid>
       <description>[Updated 18 August 2021]
-The cs3102 course will be offered in Fall 2021, co-taught by Nathan Brunelle and David Evans.
+The cs3102 course will be offered in Fall 2021, co-taught by Nathan&amp;nbsp;Brunelle and David&amp;nbsp;Evans.
 Class meetings will be Mondays and Wednesday, 3:30pm - 4:45pm in Maury Hall 209. We will be sending out an email next week with details on the in-person class meetings, but they are being planned in a way that prioritizes safety and comfort while offering an in-person class experience.
 We&amp;rsquo;ll be putting more information here about the course as the start of the semester approaches.</description>
     </item>
