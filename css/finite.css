@@ -1,10 +1,10 @@
 :root {
   /* colors from: https://colorhunt.co/palette/154644 */
-    --primary-color: #061A40;
-  --bside-color: #006DAA; /* #c83660; */
-  --tb-color: #003559; /* #e15249; */
-  --sp-color: #003559; /* #c83660; /* #f6d365; */
-  --highlight-color: #003559; /* #f6d365; */
+    --primary-color: #361606;
+  --bside-color: #00A5E0; /* side bar #c83660; */
+  --tb-color: #89A1EF; /* top title bar #e15249; */
+  --sp-color: #89A1EF; /* #c83660; /* #f6d365; */
+  --highlight-color: #00A5E0; /* #f6d365; */
   --bg-color: #fff;
   --inverse-color: #fafafa;
   --inverse-light-color: #dadada;
