@@ -43,7 +43,7 @@ In order to successfully form a cohort, you would need to:
 a set of possible times for your assessed cohort meetings. For your
 cohort to be accepted, we need to be able to match your available
 times with a time when there is a Cohort Leader (TA) available. So, it
-is to your advantage to list as manay times as possible that work for
+is to your advantage to list as many times as possible that work for
 everyone in your cohort.
 
 - Come to one of us (Nathan or Dave) during the class time Wednesday
