@@ -1,6 +1,6 @@
 +++
 date = "23 Aug 2021"
-draft = true
+draft = false
 title = "Starting the Semester"
 slug = "starting"
 +++
