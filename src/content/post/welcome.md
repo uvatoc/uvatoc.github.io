@@ -21,10 +21,12 @@ be run and what we mean by "cohorts".
 
 ## Cohort Scheduling
 
-Submit your cohort scheduling preferences here: TODO
-
-Everyone will need to do this by **Wednesday at 4:59pm** in order for
-us to assign and schedule the cohorts.
+There will be a form posted tomorrow (Wednesday, 25 August) for
+students to submit cohort scheduling preferences. Everyone will need
+to do this by **Wednesday at 4:59pm** in order for us to assign and
+schedule the cohorts. You can submit the form during the scheduled
+class time tomorrow, and everyone in the class should be able to
+submit the form by the end of this time.
 
 If you would like to form your own cohort, you may attempt to do so
 during the class time Wednesday. Forming your own cohort is totally
