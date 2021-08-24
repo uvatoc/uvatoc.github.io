@@ -3,7 +3,7 @@
     --primary-color: #361606;
   --bside-color: #00A5E0; /* side bar #c83660; */
   --tb-color: #89A1EF; /* top title bar #e15249; */
-  --sp-color: #89A1EF; /* #c83660; /* #f6d365; */
+  --sp-color: #32CBFF; /* #c83660; /* #f6d365; */
   --highlight-color: #00A5E0; /* #f6d365; */
   --bg-color: #fff;
   --inverse-color: #fafafa;
@@ -740,18 +740,18 @@ blockquote, blockquote p {
 
 .fschedule tr {
     text-align: center;
-    color: var(--sp-color);
+    color: var(--primary-color);
 }    
 
 .week {
     text-align: center;
-    background-color: var(--sp-color);
+    background-color: var(--highlight-color);
     color: var(--inverse-color);
 }
 
 .section {
     text-align: center;
-    background-color: var(--tb-color);
+    background-color: var(--sp-color);
     color: var(--bg-color);
     font-weight: 900;
     padding-top: 1.2rem;
