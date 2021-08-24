@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theory of Computation</title>
@@ -6,43 +6,42 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Schedule</title>
-      <link>https://uvatoc.github.io/schedule-2021/</link>
-      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Course Pledge</title>
+      <link>https://uvatoc.github.io/pledge/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uvatoc.github.io/schedule-2021/</guid>
-      <description>For the open help schedule, see Open Student Hours.
-For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1). 
-  Introduction   
- Week 1: Mathematical Definitions    Wed 25 August  Materials Posted, TCS Chapter 0, TCS Chapter 1     Wed 25 August (3:30-4:45pm)  
-Full class meeting: open question time (come by Maury Hall 209 to meet with the instructors and ask any questions you have about the course)</description>
+      <guid>https://uvatoc.github.io/pledge/</guid>
+      <description>Honor Expectations As a student at the University of Virginia, you are trusted to be honorable and expected to behave in ways that merit that trust. We take advantage of this trust to provide a better learning environment for everyone. In particular, students in cs3102 are expected to follow these rules throughout the course:
+I will not lie, cheat or steal. If I am unsure whether something would be considered lying, cheating or stealing, I will ask before doing it.</description>
     </item>
     
     <item>
-      <title>Syllabus</title>
-      <link>https://uvatoc.github.io/syllabus-2021/</link>
-      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Schedule</title>
+      <link>https://uvatoc.github.io/schedule/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://uvatoc.github.io/syllabus-2021/</guid>
-      <description>Overview Course Description: The goal of this course is to understand the fundamental limits on what can be efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal deep and mysterious properties about information, communication, and computing, as well as practical issues about how to solve problems.
-Two fundamental questions about any problem are:
- Can it be solved using a machine of a certain type?</description>
+      <guid>https://uvatoc.github.io/schedule/</guid>
+      <description>For the open help schedule, see Open Student Hours.
+For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1).
+IntroductionWeek 1: Mathematical Definitions
+Wed 25 AugustMaterials Posted, TCS Chapter 0, TCS Chapter 1Wed 25 August (3:30-4:45pm)Full class meeting: open question time (come by Maury Hall 209 to meet with the instructors and ask any questions you have about the course)</description>
     </item>
     
     <item>
       <title>Syllabus</title>
       <link>https://uvatoc.github.io/syllabus/</link>
-      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>The syllabus for Fall 2021 will be posted here before the start of the semester.
-Until then, you can see the Fall 2020 Syllabus to get an idea what the course will be like.</description>
+      <description>Overview Course Description: The goal of this course is to understand the fundamental limits on what can be efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal deep and mysterious properties about information, communication, and computing, as well as practical issues about how to solve problems.
+Two fundamental questions about any problem are:
+ Can it be solved using a machine of a certain type? (computability) How much does it cost to solve it?</description>
     </item>
     
     <item>
@@ -52,7 +51,7 @@ Until then, you can see the Fall 2020 Syllabus to get an idea what the course wi
       
       <guid>https://uvatoc.github.io/fall-2021-course/</guid>
       <description>[Updated 18 August 2021]
-The cs3102 course will be offered in Fall 2021, co-taught by Nathan&amp;nbsp;Brunelle and David&amp;nbsp;Evans.
+The cs3102 course will be offered in Fall 2021, co-taught by Nathan Brunelle and David Evans.
 Class meetings will be Mondays and Wednesday, 3:30pm - 4:45pm in Maury Hall 209. We will be sending out an email next week with details on the in-person class meetings, but they are being planned in a way that prioritizes safety and comfort while offering an in-person class experience.
 We&amp;rsquo;ll be putting more information here about the course as the start of the semester approaches.</description>
     </item>
@@ -67,16 +66,6 @@ We&amp;rsquo;ll be putting more information here about the course as the start o
 Course Book Main Website
 Full Text PDF
 Github (if you have corrections or suggestions for the book, submit them to Boaz Barak here; useful contributions will be worth bonus points in the course, so let us know if you have a pull request accepted or start a useful issue)</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>https://uvatoc.github.io/schedule/</link>
-      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/schedule/</guid>
-      <description>The schedule for Fall 2021 will be posted here before the start of the semester.
-Until then, you can see the Fall 2020 Schedule to get an idea what the course will be like.</description>
     </item>
     
   </channel>
