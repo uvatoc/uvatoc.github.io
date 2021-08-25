@@ -26,7 +26,7 @@ The main goals for the first week are:
 
 # Schedule
 
-<font color="red"><b>Wednesday, 25 August, 11:59pm:</b></font> [**Cohort Scheduling**](https://kytos.cs.virginia.edu/cstheory/cohort_times.php)
+<font color="red"><b>Wednesday, 25 August, 4:59pm:</b></font> [**Cohort Scheduling**](https://kytos.cs.virginia.edu/cstheory/cohort_times.php)
 
 To schedule the cohorts, it is essential that everyone in the course
 submits their scheduling preferences by **11:59pm** on
