@@ -55,17 +55,19 @@ paper.
 
 - Convince us that the proposed cohort satisfies our diversity
 criteria. We do not have a formal specification of what is
-satisfactory, but at a minimum it should be a cohort cannot include
-more than 3 people who went to the same high school. In forming your
-cohort you should think about what will make it a good learning
-community. 
+satisfactory, but at a minimum a cohort cannot include more than 3
+people who went to the same high school. In forming your cohort you
+should think about what will make it a good learning community.  You
+will be able to meet other students in the class during the class time
+tomorrow, and may be able to find a group you want to form a cohort
+with.
 
 We will do our best to keep students who successfully do all of this
 by the end of the class time Wednesday in their requested cohort, but
 cannot promise this since it may be necessary to adjust things because
 of TA schedules and other constraints.
 
-Assessed cohort meetings will start (at the ealiest) on Tuesday, 31
+Assessed cohort meetings will start (at the earliest) on Tuesday, 31
 August, so students scheduled in Tuesday cohorts will have preparation
 Cohort Meetings on Saturday or Sunday (28 or 29 August), and will need
 to be ready with the [Week 1](/week1) problems by their cohort meeting
