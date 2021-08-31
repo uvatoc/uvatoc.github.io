@@ -58,6 +58,10 @@
   </url>
   
   <url>
+    <loc>https://uvatoc.github.io/python/</loc>
+  </url>
+  
+  <url>
     <loc>https://uvatoc.github.io/tags/</loc>
   </url>
   
@@ -67,6 +71,10 @@
   
   <url>
     <loc>https://uvatoc.github.io/week1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://uvatoc.github.io/week2/</loc>
   </url>
   
 </urlset>
