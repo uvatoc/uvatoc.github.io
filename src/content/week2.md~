@@ -58,7 +58,7 @@ this python file (the comments in the file itself will guide you,
 please read everything linearly): [straightline.py](/ps/straightline.py).
 
 If you already have python3 on your machine, you should be good to go
-for the programming problems. If you don't, please [follow these directions to setup Python](/python.html). 
+for the programming problems. If you don't, please [follow these directions to setup Python](/python/). 
 
 # Write-up Problem
 
@@ -79,7 +79,6 @@ Material in this week's lectures parallels with:
 
 Here are some things that may be of interest to you:
 
-- A [pdf of Cantor's proof](/docs/cantor-proof.pdf) as described by Nathan Brunelle in lecture.
 - Cantor's original proof (in German, but the math is universal, so somewhat understandable even without knowing German): Georg Cantor, [_Ueber eine elementare Frage der Mannigfaltigkeitslehre_](/docs/cantor-proof.pdf). Published in _Jahresbericht der Deutschen Mathematiker-Vereinigung_, Volume 1, 1891. ([About this Scan](https://jeffersonswheel.org/cantors-no-longer-lost-proof/))
 
 # Videos
