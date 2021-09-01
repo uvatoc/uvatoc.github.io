@@ -65,8 +65,8 @@ Hence, we have planned the scheduled full class meetings to be
   meetings which is not also covered by the provided course videos and
   written materials. For most weeks, we will use the full class
   meetings to answer questions about those materials, and to present
-  example problems that may be similar to the problems assigned to
-  students. Other weeks, we may use the full class meetings to talk
+  example problems that may be similar to assigned cohort
+  problems. Other weeks, we may use the full class meetings to talk
   about topics we think are interesting and relevant, but that will
   not be covered by any course assessments.
 
