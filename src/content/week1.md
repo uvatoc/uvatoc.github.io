@@ -26,7 +26,7 @@ The main goals for the first week are:
 
 # Schedule
 
-<font color="red"><b>Wednesday, 25 August, 4:59pm:</b></font> [**Cohort Scheduling**](https://kytos.cs.virginia.edu/cstheory/cohort_times.php)
+<font color="red"><b>Wednesday, 25 August, 11:59pm:</b></font> [**Cohort Scheduling**](https://kytos.cs.virginia.edu/cstheory/cohort_times.php)
 
 To schedule the cohorts, it is essential that everyone in the course
 submits their scheduling preferences by **11:59pm** on
@@ -40,19 +40,19 @@ assessed cohort meeting.  This schedule will repeat similarly
 throughout the semester.
 
 
-|       Day       | "Tuesday"&nbsp;Cohort | "Wednesday"&nbsp;Cohort | "Thursday"&nbsp;Cohort  |  "Friday"&nbsp;Cohort   |   "Sunday"&nbsp;Cohort  |
+|       Day       | "Tuesday" Cohort | "Wednesday" Cohort | "Thursday" Cohort  |  "Friday" Cohort   |   "Sunday" Cohort  |
 | :-------------: | :--------------: | :----------------: | :----------------: | :----------------: | :----------------: |
-|**Thu**&nbsp;26&nbsp;Aug|Preparation|<font color="lightgray">(Week 0)</font>|<font color="lightgray">(Week 0)</font>|<font color="lightgray">(Week 0)</font>|<font color="lightgray">(Week 0)</font>|
+|**Thurs** 26 Aug|Preparation|<font color="lightgray">(Week 0)</font>|<font color="lightgray">(Week 0)</font>|<font color="lightgray">(Week 0)</font>|<font color="lightgray">(Week 0)</font>|
 |**Fri** 27 Aug|Preparation|Preparation|<font color="lightgray">(Week 0)</font>|<font color="lightgray">(Week 0)</font>|<font color="lightgray">(Week 0)</font>|
 |**Sat** 28 Aug|Preparation|Preparation|Preparation|<font color="lightgray">(Week 0)</font>|<font color="lightgray">(Week 0)</font>|
-|**Sun** 29 Aug|**Prep Meeting**|Preparation|Preparation|Preparation|<font color="lightgray">(Week 0)</font>|
-|**Mon** 30 Aug|Revision|**Prep Meeting**|Preparation|Preparation|<font color="lightgray">(Week 0)</font>|
-|**Tues**&nbsp;31&nbsp;Aug|<font color="red">**Assessed Meeting**</font>|Revision|**Prep Meeting**|Preparation|Preparation|
-|**Wed** 01 Sep|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|**Prep Meeting**|Preparation|
-|**Thurs**&nbsp;02&nbsp;Sep|<font color="lightgray">(Week 2)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|Preparation|
-|**Fri** 03 Sep|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|**Writeup Due**|<font color="red">**Assessed&nbsp;Meeting**</font>|**Prep Meeting**|
+|**Sun** 29 Aug|**Prep Cohort Meeting**|Preparation|Preparation|Preparation|<font color="lightgray">(Week 0)</font>|
+|**Mon** 30 Aug|Revision|**Prep Cohort Meeting**|Preparation|Preparation|<font color="lightgray">(Week 0)</font>|
+|**Tues** 31 Aug|<font color="red">**Assessed Meeting**</font>|Revision|**Prep Cohort Meeting**|Preparation|Preparation|
+|**Wed** 01 Sep|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|**Prep Cohort Meeting**|Preparation|
+|**Thurs** 02 Sep|<font color="lightgray">(Week 2)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|Preparation|
+|**Fri** 03 Sep|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|**Prep Cohort Meeting**|
 |**Sat** 04 Sep|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|**Writeup Due**|Revision|
-|**Sun** 05 Sep|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|<font color="red">**Assessed&nbsp;Meeting**</font>|
+|**Sun** 05 Sep|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|<font color="red">**Assessed Meeting**</font>|
 |**Mon** 06 Sep|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|<font color="lightgray">(Week 2)</font>|**Writeup Due**|
 
 # Learning in cs3102
@@ -152,7 +152,6 @@ For Week 1, you should read these two chapters from the TCS book:
 
 [Chapter 0: Introduction](https://introtcs.org/public/lec_01_introduction.html) [[PDF](https://files.boazbarak.org/introtcs/lec_01_introduction.pdf)]  
 [Chapter 1: Mathematical Background](https://introtcs.org/public/lec_00_1_math_background.html) [[PDF](https://files.boazbarak.org/introtcs/lec_00_1_math_background.pdf)] (you can skip 1.4.8 and 1.4.9 on _Asymptotics and Big-O Notation_ for now; we will go into more depth on this later in the course)  
-
 </blockquote>
 
 # Videos 
