@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theory of Computation</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,8 +19,8 @@
       <guid>https://uvatoc.github.io/class2/</guid>
       <description>The slides for Class 2 (1 September) are here: class2.pdf
 Some relevant links for the class:
-  Companies by Market Capitalization (Facebook is now down to $1.060, from $1.069 on Wednesday morning, so there is still hope they will fall off the list.)
-  Here&amp;rsquo;s the one paper from a Google co-founder that I could find which actuall contains a legitimate theorem and proof: Sergey Brin, Rajeev Motwani, Craig Silverstein.</description>
+ Companies by Market Capitalization (Facebook is now down to $1.060, from $1.069 on Wednesday morning, so there is still hope they will fall off the list.)
+ Here&amp;rsquo;s the one paper from a Google co-founder that I could find which actuall contains a legitimate theorem and proof: Sergey Brin, Rajeev Motwani, Craig Silverstein. Beyond Market Baskets: Generalizing Association Rules to Correlations.</description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@ Some relevant links for the class:
       
       <guid>https://uvatoc.github.io/course-update/</guid>
       <description>Our plan for how to use the full class meeting times has adapted from our original plan - we&amp;rsquo;ll provide more justification for the change below, but the plan now is:
-  Monday classes will be for covering examples, providing context, and answering student questions about the current week&amp;rsquo;s content, designed to help students understand the materials you will be assessed on during your cohort meetings. These will be before any of that week&amp;rsquo;s assessed cohort meetings, so all students will have the chance to benefit from these before your assessed cohort meetings.</description>
+ Monday classes will be for covering examples, providing context, and answering student questions about the current week&amp;rsquo;s content, designed to help students understand the materials you will be assessed on during your cohort meetings. These will be before any of that week&amp;rsquo;s assessed cohort meetings, so all students will have the chance to benefit from these before your assessed cohort meetings.</description>
     </item>
     
     <item>
@@ -97,9 +97,10 @@ For this optional first class meeting, we will have an open &amp;ldquo;meet and 
       
       <guid>https://uvatoc.github.io/schedule/</guid>
       <description>For the open help schedule, see Open Student Hours.
-For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1).
-IntroductionWeek 1: Mathematical Definitions
-Wed 25 AugustMaterials Posted, TCS Chapter 0, TCS Chapter 1Wed 25 August (3:30-4:45pm)Full class meeting: open question time (come by Maury Hall 209 to meet with the instructors and ask any questions you have about the course)</description>
+For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1). 
+  Introduction   
+ Week 1: Mathematical Definitions    Wed 25 August  Materials Posted, TCS Chapter 0, TCS Chapter 1     Wed 25 August (3:30-4:45pm)  
+Full class meeting: open question time (come by Maury Hall 209 to meet with the instructors and ask any questions you have about the course)</description>
     </item>
     
     <item>
@@ -110,7 +111,7 @@ For the detailed weekly schedule for each cohort, see one of the week postings (
       <guid>https://uvatoc.github.io/syllabus/</guid>
       <description>Overview Course Description: The goal of this course is to understand the fundamental limits on what can be efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal deep and mysterious properties about information, communication, and computing, as well as practical issues about how to solve problems.
 Two fundamental questions about any problem are:
- Can it be solved using a machine of a certain type? (computability) How much does it cost to solve it?</description>
+ Can it be solved using a machine of a certain type?</description>
     </item>
     
     <item>
@@ -120,7 +121,7 @@ Two fundamental questions about any problem are:
       
       <guid>https://uvatoc.github.io/fall-2021-course/</guid>
       <description>[Updated 18 August 2021]
-The cs3102 course will be offered in Fall 2021, co-taught by Nathan Brunelle and David Evans.
+The cs3102 course will be offered in Fall 2021, co-taught by Nathan&amp;nbsp;Brunelle and David&amp;nbsp;Evans.
 Class meetings will be Mondays and Wednesday, 3:30pm - 4:45pm in Maury Hall 209. We will be sending out an email next week with details on the in-person class meetings, but they are being planned in a way that prioritizes safety and comfort while offering an in-person class experience.
 We&amp;rsquo;ll be putting more information here about the course as the start of the semester approaches.</description>
     </item>
@@ -145,8 +146,8 @@ Github (if you have corrections or suggestions for the book, submit them to Boaz
       <guid>https://uvatoc.github.io/python/</guid>
       <description>If you already have python3 on your machine, you should be good to go for the programming problems.
 If you don’t, please follow these directions to download Python and PyCharm (you’re welcome to use any IDE that you want, we semi-arbitrarily picked PyCharm).
-Windows   Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
-  Download the executable x86-64 installer from python.</description>
+Windows  Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
+ Download the executable x86-64 installer from python.</description>
     </item>
     
     <item>
@@ -156,8 +157,8 @@ Windows   Install Python 3.6.4 (If you have a different version of Python, you s
       
       <guid>https://uvatoc.github.io/week1/</guid>
       <description>Welcome to cs3102! The main goals for the first week are:
-  Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
-  Re-awaken the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
+ Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
+ Re-awaken the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
     </item>
     
     <item>
@@ -167,8 +168,8 @@ Windows   Install Python 3.6.4 (If you have a different version of Python, you s
       
       <guid>https://uvatoc.github.io/week1/</guid>
       <description>Welcome to cs3102! The main goals for the first week are:
-  Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
-  Re-awaken the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
+ Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
+ Re-awaken the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
     </item>
     
     <item>
