@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 3 Posted</title>
+      <link>https://uvatoc.github.io/week3posted/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/week3posted/</guid>
+      <description>The guide and materials for Week 3 is now posted - see the Week 3 page for the details.</description>
+    </item>
     
     <item>
       <title>Class 2 Posted</title>
