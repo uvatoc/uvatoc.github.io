@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Theory of Computation</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 3 Posted</title>
       <link>https://uvatoc.github.io/week3posted/</link>
@@ -28,8 +24,8 @@
       <guid>https://uvatoc.github.io/class2/</guid>
       <description>The slides for Class 2 (1 September) are here: class2.pdf
 Some relevant links for the class:
- Companies by Market Capitalization (Facebook is now down to $1.060, from $1.069 on Wednesday morning, so there is still hope they will fall off the list.)
- Here&amp;rsquo;s the one paper from a Google co-founder that I could find which actuall contains a legitimate theorem and proof: Sergey Brin, Rajeev Motwani, Craig Silverstein. Beyond Market Baskets: Generalizing Association Rules to Correlations.</description>
+  Companies by Market Capitalization (Facebook is now down to $1.060, from $1.069 on Wednesday morning, so there is still hope they will fall off the list.)
+  Here&amp;rsquo;s the one paper from a Google co-founder that I could find which actuall contains a legitimate theorem and proof: Sergey Brin, Rajeev Motwani, Craig Silverstein.</description>
     </item>
     
     <item>
@@ -39,7 +35,7 @@ Some relevant links for the class:
       
       <guid>https://uvatoc.github.io/course-update/</guid>
       <description>Our plan for how to use the full class meeting times has adapted from our original plan - we&amp;rsquo;ll provide more justification for the change below, but the plan now is:
- Monday classes will be for covering examples, providing context, and answering student questions about the current week&amp;rsquo;s content, designed to help students understand the materials you will be assessed on during your cohort meetings. These will be before any of that week&amp;rsquo;s assessed cohort meetings, so all students will have the chance to benefit from these before your assessed cohort meetings.</description>
+  Monday classes will be for covering examples, providing context, and answering student questions about the current week&amp;rsquo;s content, designed to help students understand the materials you will be assessed on during your cohort meetings. These will be before any of that week&amp;rsquo;s assessed cohort meetings, so all students will have the chance to benefit from these before your assessed cohort meetings.</description>
     </item>
     
     <item>
@@ -86,7 +82,7 @@ For this optional first class meeting, we will have an open &amp;ldquo;meet and 
       
       <guid>https://uvatoc.github.io/fall-2021-course/</guid>
       <description>[Updated 18 August 2021]
-The cs3102 course will be offered in Fall 2021, co-taught by Nathan&amp;nbsp;Brunelle and David&amp;nbsp;Evans.
+The cs3102 course will be offered in Fall 2021, co-taught by Nathan Brunelle and David Evans.
 Class meetings will be Mondays and Wednesday, 3:30pm - 4:45pm in Maury Hall 209. We will be sending out an email next week with details on the in-person class meetings, but they are being planned in a way that prioritizes safety and comfort while offering an in-person class experience.
 We&amp;rsquo;ll be putting more information here about the course as the start of the semester approaches.</description>
     </item>
