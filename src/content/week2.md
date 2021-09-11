@@ -39,7 +39,7 @@ throughout the semester, with minor alterations occurring due to break days.
 |**Wed** 8 Sept|<font color="lightgray">(Week 3)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|**Prep Cohort Meeting**|
 |**Thurs** 9 Sept|<font color="lightgray">(Week 3)</font>|<font color="lightgray">(Week 3)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|
 |**Fri** 10 Sept|<font color="lightgray">(Week 3)</font>|<font color="lightgray">(Week 3)</font>|<font color="lightgray">(Week 3)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|
-|**Sat** 21 Sept|<font color="lightgray">(Week 3)</font>|<font color="lightgray">(Week 3)</font>|<font color="lightgray">(Week 3)</font>|<font color="lightgray">(Week 3)</font>|**Writeup Due**|
+|**Sat** 11 Sept|<font color="lightgray">(Week 3)</font>|<font color="lightgray">(Week 3)</font>|<font color="lightgray">(Week 3)</font>|<font color="lightgray">(Week 3)</font>|**Writeup Due**|
 
 ## Sept 6 Meeting
 
