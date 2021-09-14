@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Peer Evals"
-slug= "peerevals"
+slug= "peer_evals"
 +++
 
 

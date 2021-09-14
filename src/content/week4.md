@@ -14,7 +14,7 @@ The main goals for Week 4 are to:
 
 # Peer Evaluation
 
-Your first peer evalution is due by your week 4 prep meeting. Please complete it following these instructions: [Peer Eval](/peer_eval).
+Your first peer evalution is due by your week 4 prep meeting. Please complete it following these instructions: [Peer Eval](/peer_evals).
 
 
 # Schedule
@@ -63,13 +63,12 @@ for the programming problems. If you don't, please [follow these directions to s
 
 You can play all the videos using this playlist, but don't forget to take breaks: [Week 4 Playlist](https://www.youtube.com/playlist?list=PLZ9Gk_8DtbmHkfZhvvGd7sam0MMjUhfPC)
 
-<p>
 These videos are edited from these cs3102 classes (we don't generally recommend watching the unedited versions, but they are available if you want to):
 
-- (Spring 2020) Feb 6: Universality - [Unedited Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09d785d3-29eb-45a5-9cfb-ab590151f099) [Slides](https://www.cs.virginia.edu/~njb2b/cstheory/s2020/files/slides/universality_written.pdf)
-- (Spring 2020) Feb 11: Evaluation - [Unedited Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd4c8fde-c3db-4dcf-8f51-ab5e01527773) [Slides](https://www.cs.virginia.edu/~njb2b/cstheory/s2020/files/slides/complexity_written.pdf)
+1. Universality (covered in Spring 2020 on Feb 6): [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09d785d3-29eb-45a5-9cfb-ab590151f099) and [Slides](https://www.cs.virginia.edu/~njb2b/cstheory/s2020/files/slides/universality_written.pdf) 
 
-</p>
+1. Evalution (covered in Spring 2020 on Feb 11): [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd4c8fde-c3db-4dcf-8f51-ab5e01527773) and [Slides](https://www.cs.virginia.edu/~njb2b/cstheory/s2020/files/slides/complexity_written.pdf) 
+
 
 <p>Week 4 Intro<br>
 <iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/zDp_h_yLm1A' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
