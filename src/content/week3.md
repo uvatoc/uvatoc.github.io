@@ -51,6 +51,8 @@ please read everything linearly): [adders.py](/ps/adders.py).
 If you already have python3 on your machine, you should be good to go
 for the programming problems. If you don't, please [follow these directions to setup Python](/python). 
 
+# Monday Class
+In class on Monday September 13 we discussed motivations for syntactic sugar and together worked on a problem similar to lookup (from the videos) and Add (from the problem set). You can find the slides [here](/docs/sept13_21.pdf) and you can find a recording of the lecture on collab.
 
 
 # Write-up Problem
