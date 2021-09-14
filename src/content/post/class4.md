@@ -22,7 +22,7 @@ by 3/2).
 Music theorists call this the "Circle of Fifths" (and will draw it as
 a circle, returning to the tone after 12 hops), and there are some
 good explanations why the 12-tone arrangement has mathematical
-advantages (e.g., [_Circle of fifths and number theory_] by John
+advantages (e.g., [_Circle of fifths and number theory_](https://www.johndcook.com/blog/2009/10/02/circle-of-fifths-number-theory/) by John
 Cook).
 
 But, there's also a big mathematical problem with it, since (3/2)^12
