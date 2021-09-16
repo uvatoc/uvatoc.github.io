@@ -14,7 +14,7 @@ The main goals for Week 4 are to:
 
 # Peer Evaluation
 
-Your first peer evalution is due by your week 4 prep meeting. Please complete it following these instructions: [Peer Eval](/peer_evals).
+Your first peer evalution is due with your week 4 writeup. Please complete it following these instructions: [Peer Eval](/peer_evals).
 
 
 # Schedule
