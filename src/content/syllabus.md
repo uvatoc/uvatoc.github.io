@@ -103,7 +103,7 @@ instructors, cohort leaders, and students) to follow [state
 laws](https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-79-and-Order-of-Public-Health-Emergency-Ten-Ending-of-Commonsense-Public-Health-Restrictions-Due-to-Novel-Coronavirus(COVID-19).pdf)
 and [University
 policies](https://uvapolicy.virginia.edu/policy/SEC-045) regrading
-health and safety requirements. These regulartions are likely to
+health and safety requirements. These regulations are likely to
 change during the semester. The ones currently in effect as of 18
 August 2021 state that "Masks are required for all people (students,
 faculty, staff, contractors, and visitors), both vaccinated and
