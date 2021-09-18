@@ -498,16 +498,16 @@ adjustments will be made.
 
 **Final Grade Determination.** The final grade in the course will be
 determined by combining the cohort grade and the final exam grade with
-approximately equal weighting. In most cases, we expect these will be
-consistent and provide clear evidence supporting the grade a student
-has earned in the course. In cases where they are inconsistent, we
-will consider a student's performance through the course in more
-detail including the detailed feedback provided from the cohort
-meetings, and view signs of improvement throughout the semester
-positively.  In cases where a student's grade is not clear based on
-their cohort assessments, we will provide option for students to
-request an oral final exam to be scheduled with one of the instructors
-during the exam period.
+both counting substantially. In most cases, we expect the cohort and
+exam grades will be consistent and provide clear evidence supporting
+the grade a student has earned in the course. In cases where they are
+inconsistent, we will consider a student's performance through the
+course in more detail including the detailed feedback provided from
+the cohort meetings, and view signs of improvement throughout the
+semester positively.  In cases where a student's grade is not clear
+based on their cohort assessments, we will provide option for students
+to request an oral final exam to be scheduled with one of the
+instructors during the exam period.
 
 
 # Honor Expectations
