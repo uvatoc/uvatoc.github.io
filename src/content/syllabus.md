@@ -63,26 +63,31 @@ Hence, we have planned the scheduled full class meetings to be
   week. By _inessential_, we mean that we will not introduce any
   course material upon which you will be evaluated during the class
   meetings which is not also covered by the provided course videos and
-  written materials. For most weeks, we will use the full class
-  meetings to answer questions about those materials, and to present
-  example problems that may be similar to assigned cohort
-  problems. Other weeks, we may use the full class meetings to talk
-  about topics we think are interesting and relevant, but that will
-  not be covered by any course assessments.
+  written materials.
 
-Because of the way the cohorts are scheduled, we expect it will make
-  sense for about half the class to attend on Mondays, and half the
-  class to attend on Wednesdays. In accordance with University
-  policies, any student who wishes is permitted to attend both days.
-  We hope that this plan will provide all students with a pleasant,
-  fulfilling, and enlightening course experience, where (at least
-  until local pandemic conditions improve) the classroom is never at
-  more than half its full capacity. If it turns out that the classroom
-  is uncomfortably crowded, we will do our best to make the class
-  meetings less engaging and useful &mdash; but, we think that is
-  unlikely as in our experience during pre-pandemic teaching when we
-  tried to make classes as engaging and useful as possible having too
-  many students come to class was rarely a problem.
+For most weeks, we will use the full class meetings as follows:
+
+- Monday classes will be for covering examples, providing context, and
+  answering student questions about the current week's content,
+  designed to help students understand the materials you will be
+  assessed on during your cohort meetings. These will be before any of
+  that week's assessed cohort meetings, so all students will have the
+  chance to benefit from these before your assessed cohort meetings.
+
+- Wednesday classes will not cover anything directly related to the
+  current week's content (since this seems unfair to students who have
+  their assessed cohort meetings on that material on Mondays or
+  Tuesdays), but instead will include discussion of the previous
+  week's problems and excursions into topics we think are interesting
+  and enlightening, and that have some connection to the course
+  content, but that we don't expect would provide any help for the
+  specific cohort problems you are being assessed on that week.
+
+All the full class meetings are strictly optional (other than the
+final exam at the end of the semester), and we will not be introducing
+any new material that you will be assessed on during these
+meetings. We will also be live streaming and recording them for
+students who are unable to attend in person.
 
 **Pandemic Policies.** The challenges we are facing with the current pandemic
 places our community under tremendous stress, and we appreciate that
