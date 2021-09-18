@@ -5,12 +5,12 @@ title = "Syllabus"
 slug = "syllabus"
 +++
 
-<div class="yellownote">
+   <div class="yellownote">
 
 This syllabus is a "living document" subject to change as we adapt
-during the semester. The course website is managed through a [public github repository](https://github.com/uvatoc/uvatoc.github.io), so you can see past versions there. The version as posted on the first day of class is [here](https://github.com/uvatoc/uvatoc.github.io/blob/b30f5598810d3a4004954b68060ce8f496fdc29e/syllabus/index.html).
+during the semester. The course website is managed through a [public github repository](https://github.com/uvatoc/uvatoc.github.io), so you can see past versions there.
 
-</div>
+The version as posted on the first day of class is [here](https://github.com/uvatoc/uvatoc.github.io/blob/b30f5598810d3a4004954b68060ce8f496fdc29e/syllabus/index.html). </div>
 
 # Overview
 
@@ -282,17 +282,18 @@ the week the cohort meeting is scheduled):
 <tr><td></td><td>Preparation Materials: Readings</td><td>90 minutes</td></tr>
 <tr><td>Friday</td><td>Work on Problem Set (individually)</td><td>90 minutes</td></tr>
 <tr><td>Sunday</td><td>Cohort Meeting (without staff)</td><td>75 minutes</td></tr>
-<tr><td>Monday</td><td>Class Meeting, Ask Questions</td><td>75 minutes</td></tr>
+<tr><td>Monday</td><td>Class Meeting</td><td>75 minutes</td></tr>
 <tr><td></td><td>Complete Problem Set, Review for Cohort Meeting</td><td>45 minutes</td></tr>
 <tr><td>Tuesday</td><td>Assessed Cohort Meeting</td><td>75 minutes</td></tr>
-<tr><td>Wednseday</td><td>Write-up Selected Problem</td><td>60 minutes</td></tr>
-<tr><td colspan=2 align=center>Total Time</td><td>10 hours/week</td></tr>
+<tr><td>Wednesday</td><td>Write-up Selected Problem</td><td>60 minutes</td></tr>
+<tr><td>Wednesday</td><td>Class Meeting</td><td>75 minutes</td></tr>
+<!-- <tr><td colspan=2 align=center>Total Time</td><td>10 hours/week</td></tr> -->
 </table>
 
-The schedule is designed to expect 10 hours of total work per week,
-commensurate with a 3-unit course, and we expect this will work best
-for most students by spreading the work throughout the week following
-a schedule similar to the one above.
+The schedule is designed to expect about 10 hours of total work per
+week, commensurate with a 3-unit course, and we expect this will work
+best for most students by spreading the work throughout the week
+following a schedule similar to the one above.
 
 Although we have sequentialized the preparation and problem working
 efforts, we expect for most students these will be done more fluidly
