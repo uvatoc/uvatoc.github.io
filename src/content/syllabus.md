@@ -5,6 +5,13 @@ title = "Syllabus"
 slug = "syllabus"
 +++
 
+<div class="yellownote">
+
+This syllabus is a "living document" subject to change as we adapt
+during the semester. The course website is managed through a [public github repository](https://github.com/uvatoc/uvatoc.github.io), so you can see past versions there. The version as posted on the first day of class is [here](https://github.com/uvatoc/uvatoc.github.io/blob/b30f5598810d3a4004954b68060ce8f496fdc29e/syllabus/index.html).
+
+</div>
+
 # Overview
 
 **Course Description:** The goal of this course is to understand the
