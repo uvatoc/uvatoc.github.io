@@ -47,6 +47,9 @@ after doing the readings and watching the videos below.
 
 There is no programming problem this week.
 
+## Writeup Problem
+
+You writeups for this week will work a little differently from previous weeks. Since we will have a final exam in the course (and a midterm-like activity during the week of fall break) we wanted to give you experience solving problems on your own so that you can check your progress. As such, this week's writeup will not be taken directly from this week's problem set, and instead will be a new problem in the same style as problem 4.
 
 # Reading
 
