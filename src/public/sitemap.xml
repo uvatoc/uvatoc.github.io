@@ -1,141 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://uvatoc.github.io/post/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/week5posted/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/survey-results/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/class6/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/class4/</loc>
     <lastmod>2021-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/week4posted/</loc>
     <lastmod>2021-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/week3posted/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/class2/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/course-update/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/officehours/</loc>
     <lastmod>2021-08-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/officehoursposted/</loc>
     <lastmod>2021-08-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/week1posted/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/week2posted/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/pledge/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/starting/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/schedule/</loc>
     <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/syllabus/</loc>
     <lastmod>2021-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/fall-2021-course/</loc>
     <lastmod>2021-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/resources/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/python/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/peer_evals/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/topics/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/week1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/week2/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/week3/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/week4/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://uvatoc.github.io/week5/</loc>
   </url>
-  
 </urlset>
