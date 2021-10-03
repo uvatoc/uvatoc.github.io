@@ -674,6 +674,12 @@ p.indent {
     text-indent: 5px;
     }
 
+div.longquote {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
 div.indented {
    margin-left: 60px;
 }
