@@ -52,6 +52,11 @@ after doing the readings and watching the videos below.
 
 There is no programming problem this week.
 
+As with Week 5, you will be given a new problem for the write-up this
+week, and need to solve it individually. The assigned write-up problem
+will be similar to Problem 1 and Problem 4 from this assignment.
+
+
 # Reading
 
 This week focuses on material in [Chapter 6: Functions with Infinite
