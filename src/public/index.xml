@@ -324,5 +324,17 @@ Your responses will be aggregated, anonymized, and then shared with the cohort-m
   Understand and be able to formally define a Finite State Automaton, and to reason about the language accepted (or function computed) by a Deterministic Finite Automaton.</description>
     </item>
     
+    <item>
+      <title>Week 7</title>
+      <link>https://uvatoc.github.io/week7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/week7/</guid>
+      <description>Goals The main goals for Week 7 are to:
+  Review and synthesize the material you learned in Weeks 1-5.
+  Get some practice taking an exam without the stress and logistical challenges of a graded, in class exam.
+  Schedule Monday and Tuesday are Fall Reading Days, and Tuesday is Ada Lovelace Day. There is no class meeting on Monday, October 11, and no assessed cohort meetings this week.</description>
+    </item>
+    
   </channel>
 </rss>
