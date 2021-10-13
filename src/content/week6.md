@@ -72,13 +72,13 @@ cosmetic.
 
 # Videos
 
-<p>
+
 These videos are edited from these cs3102 classes (we don't generally recommend watching the unedited versions, but they are available if you want to):
 
 - (Spring 2020) Automata - [Full Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=432abfa8-cdd8-4587-b2b7-ab6c0151eeb2), [Slides](https://www.cs.virginia.edu/~njb2b/cstheory/s2020/files/slides/automata_written.pdf)
 - (Spring 2020) Regular Expressions and Closure - [Full Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34e95fad-c0b8-4c9f-adcf-ab6e0151e00c), [Slides](https://www.cs.virginia.edu/~njb2b/cstheory/s2020/files/slides/regex_written.pdf)
 
-</p>
+
 
 You can play all the videos using this playlist, but don't forget to take breaks: [Week 6 Playlist](https://www.youtube.com/playlist?list=PLZ9Gk_8DtbmEusKzGfXyNh0VNX0DCS1Vx)
 
