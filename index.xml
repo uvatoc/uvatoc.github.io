@@ -6,10 +6,19 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 8 Posted</title>
+      <link>https://uvatoc.github.io/week8posted/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/week8posted/</guid>
+      <description>The guide and materials for Week 8 is now posted - see the Week 8 page for the details.</description>
+    </item>
     
     <item>
       <title>Self-Assessment Midterm</title>
