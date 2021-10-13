@@ -66,18 +66,18 @@ First, read through all of `week8.py` and follow the instructions therein to mak
 
 For the `huntingtons` function you're asked to implement, the idea is for you to use regular expressions to diagnose whether a person has Huntington's disease by looking at their genome.
 
-A dna sequence is a string of the characters a, t, g, c, representing the sequence of nucleotides that comprise an individual's dna molecules. Very often, the human genome has regions where the same nucleotide sequences repeat many times. Sometimes, certain numbers of these repeats will result in a genetic disorder.
+A DNA sequence is a string of the characters a, t, g, c, representing the sequence of nucleotides that comprise an individual's DNA molecules. Very often, the human genome has regions where the same nucleotide sequences repeat many times. Sometimes, certain numbers of these repeats will result in a genetic disorder.
         
-Huntington's Disease is caused by having too many consecutive copies of the sequence "cag". By looking at a dna sequence, we can categorize how a person might be affected by Huntington's in the following way:
+Huntington's Disease is caused by having too many consecutive copies of the sequence "cag". By looking at a DNA sequence, we can categorize how a person might be affected by Huntington's in the following way:
         
 - An individual with less than 26 sequential repeats of "cag" in their genome is considered to be "normal".
 - An individual with between 26 and 35 repeats of "cag" is considered to be a "carrier", and may give the disease to their children.
 - An individual with between 36 and 39 repeats is said to be "at risk", and may or may not ever show symptoms.
 - An individual with 40 or more repeats is said to be "affected", and will eventually show symptoms of the disease.
 
-Your `huntingtons` function should take a dna sequence (a string from the alphabet a,g,t,c) and determine the classification for the individual (i.e. normal, carrier, at risk, or affected). To do this, define a regex for each category, convert each to a nfa, then check which category the given dna sequence falls into. Once you have determined the category, the function should return the appropriate string of: "normal", "carrier", "at risk", or "affected"
+Your `huntingtons` function should take a DNA sequence (a string from the alphabet a,g,t,c) and determine the classification for the individual (i.e. normal, carrier, at risk, or affected). To do this, define a regex for each category, convert each to a nfa, then check which category the given DNA sequence falls into. Once you have determined the category, the function should return the appropriate string of: "normal", "carrier", "at risk", or "affected"
         
-Note that the dna sequence may have characters before/after the "cag" repeats.
+Note that the DNA sequence may have characters before or after the "cag" repeats.
             
 [Source describing Huntingtons](https://en.wikipedia.org/wiki/Huntington%27s_disease).
 
