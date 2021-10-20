@@ -15,9 +15,6 @@ To make sure everyone has an opportunity to grow as a student and as a team play
 
 Complementary to that, if you are assessed poorly, try not to be offended or embarrassed. We encourage you to earnestly consider the feedback and then engage in conversation with your cohort-mates. It could be that your cohort-mates’ expectations of you are set too high, it could be that you’re contributing in ways that your cohort-mates have thus far failed to recognize, or it could be that there is legitimately room for improvement on your end. Whatever the case, the best way to proceed is to communicate. Professors Brunelle and Evans are happy to help you to figure out how to start this conversation if you’d like.
 
-# Meta Feedback
-
-To help encourage meaningful comments (whether constructive or complimentary), and to give you an opportunity to contextualize feedback  we will provide everyone an opportunity to provide feedback on the feedback. Look back here in the future for instructions.
 
 # Rubric
 
@@ -34,3 +31,7 @@ To help encourage meaningful comments (whether constructive or complimentary), a
 ## Week 4 Eval
 
 Complete your week 4 eval [here](https://forms.gle/STvyu5GdrngEqzVLA). This is due with your week 4 writeup (and should not be completed before your week 4 assessed cohort meeting).
+
+## Week 9 Eval
+
+Complete your week 9 eval [here](https://forms.gle/inY8m7tMYfYDxyFaA). This is due with your week 9 writeup (and should not be completed before your week 9 assessed cohort meeting).
