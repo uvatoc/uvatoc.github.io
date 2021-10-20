@@ -11,7 +11,7 @@ computation, the Turing machine, and start to address the big question
 of what can and cannot be computed by any machine with a finite
 description.
 
-The main goals for Week 8 are to:
+The main goals for Week 9 are to:
 
 - Understand what cannot be computed by a finite automaton and why.
 - Use and understand Turing Machines as a model of computing.
@@ -35,7 +35,7 @@ The main goals for Week 8 are to:
 |**Wed** 27 Oct|<font color="lightgray">(Week 10)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|**Prep Cohort Meeting**|
 |**Thurs** 28 Oct|<font color="lightgray">(Week 10)</font>|<font color="lightgray">(Week 10)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|
 |**Fri** 29 Oct|<font color="lightgray">(Week 10)</font>|<font color="lightgray">(Week 10)</font>|<font color="lightgray">(Week 10)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|
-|**Sat** 20 Oct|<font color="lightgray">(Week 10)</font>|<font color="lightgray">(Week 10)</font>|<font color="lightgray">(Week 10)</font>|<font color="lightgray">(Week 10)</font>|**Writeup Due**|
+|**Sat** 30 Oct|<font color="lightgray">(Week 10)</font>|<font color="lightgray">(Week 10)</font>|<font color="lightgray">(Week 10)</font>|<font color="lightgray">(Week 10)</font>|**Writeup Due**|
 
 # Cohort Problems
 
