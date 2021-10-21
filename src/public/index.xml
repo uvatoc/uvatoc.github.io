@@ -6,18 +6,15 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class: Cost of NFAs</title>
       <link>https://uvatoc.github.io/class-cost-of-nfas/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/class-cost-of-nfas/</guid>
-      <description>The slides for class from Wednesday, 20 October are here: oct20.pdf</description>
+      <description>The slides for class from Wednesday, 20 October are here: oct20.pdf
+There are lots more complexities in implementing DFAs efficiently on GPUs. This paper explains some of them: Why GPUs are Slow at Executing NFAs and How to Make them Faster, Hongyuan Liu, Sreepathi Pai, Adwiat Jog. In ASPLOS 2020.</description>
     </item>
     
     <item>
