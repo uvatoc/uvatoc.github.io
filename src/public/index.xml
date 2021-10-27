@@ -6,10 +6,19 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 10 Posted</title>
+      <link>https://uvatoc.github.io/week10posted/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/week10posted/</guid>
+      <description>The guide and materials for Week 10 is now posted - see the Week 10 page for the details.</description>
+    </item>
     
     <item>
       <title>Class: Cost of NFAs</title>
