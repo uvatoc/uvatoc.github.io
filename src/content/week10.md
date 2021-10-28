@@ -12,7 +12,7 @@ didin't find a specific uncomputable function. This week, we prove
 that a particular function is uncomputable, and explore the
 implications of finding an uncomputable function.
 
-The main goals for Week 9 are to:
+The main goals for Week 10 are to:
 
 - Identify specific functions that cannot be computed by Turing Machines
 - Develop skills for identifying uncomputable problems
@@ -22,19 +22,19 @@ The main goals for Week 9 are to:
 # Schedule
 
 
-|       Day       | "Monday" Cohort | "Tuesday" Cohort | "Wednesday" Cohort | "Thursday" Cohort  |  "Friday" Cohort   |
+|       Day       | "Monday" Cohort | "Tuesday" Cohort | "Wednesday"&nbsp;Cohort | "Thursday"&nbsp;Cohort  |  "Friday" Cohort   |
 | :-------------: | :-------------: | :--------------: | :----------------: | :----------------: | :----------------: |
-|**Wed** 27 Oct|Preparation|<font color="lightgray">(week 9)</font>|<font color="lightgray">(week 9)</font>|<font color="lightgray">(week 9)</font>|<font color="lightgray">(week 9)</font>|
-|**Thurs** 28 Oct|Preparation|Preparation|<font color="lightgray">(week 9)</font>|<font color="lightgray">(week 9)</font>|<font color="lightgray">(week 9)</font>|
-|**Fri** 29 Oct|Preparation|Preparation|Preparation|<font color="lightgray">(week 9)</font>|<font color="lightgray">(week 9)</font>|
-|**Sat** 30 Oct|**Prep Cohort Meeting**|Preparation|Preparation|Preparation|<font color="lightgray">(week 9)</font>|
-|**Sun** 31 Oct|Revision|**Prep Cohort Meeting**|Preparation|Preparation|Preparation|
-|**Mon** 01 Nov|<font color="red">**Assessed Meeting**</font>|Revision|**Prep Cohort Meeting**|Preparation|Preparation|
-|**Tues** 02 Nov|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|**Prep Cohort Meeting**|Preparation|
-|**Wed** 03 Nov|<font color="lightgray">(week 11)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|**Prep Cohort Meeting**|
-|**Thurs** 04 Nov|<font color="lightgray">(week 11)</font>|<font color="lightgray">(week 11)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|
-|**Fri** 05 Nov|<font color="lightgray">(week 11)</font>|<font color="lightgray">(week 11)</font>|<font color="lightgray">(week 11)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|
-|**Sat** 06 Nov|<font color="lightgray">(week 11)</font>|<font color="lightgray">(week 11)</font>|<font color="lightgray">(week 11)</font>|<font color="lightgray">(week 11)</font>|**Writeup Due**|
+|**Wed** 27&nbsp;Oct|Preparation|<font color="lightgray">(week 9)</font>|<font color="lightgray">(week 9)</font>|<font color="lightgray">(week 9)</font>|<font color="lightgray">(week 9)</font>|
+|**Thurs** 28&nbsp;Oct|Preparation|Preparation|<font color="lightgray">(week 9)</font>|<font color="lightgray">(week 9)</font>|<font color="lightgray">(week 9)</font>|
+|**Fri** 29&nbsp;Oct|Preparation|Preparation|Preparation|<font color="lightgray">(week 9)</font>|<font color="lightgray">(week 9)</font>|
+|**Sat** 30&nbsp;Oct|**Prep Cohort Meeting**|Preparation|Preparation|Preparation|<font color="lightgray">(week 9)</font>|
+|**Sun** 31&nbsp;Oct|Revision|**Prep Cohort Meeting**|Preparation|Preparation|Preparation|
+|**Mon** 1&nbsp;Nov|<font color="red">**Assessed Meeting**</font>|Revision|**Prep Cohort Meeting**|Preparation|Preparation|
+|**Tues** 2&nbsp;Nov|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|**Prep Cohort Meeting**|Preparation|
+|**Wed** 3&nbsp;Nov|<font color="lightgray">(week 11)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|**Prep Cohort Meeting**|
+|**Thurs** 4&nbsp;Nov|<font color="lightgray">(week 11)</font>|<font color="lightgray">(week 11)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|Revision|
+|**Fri** 5&nbsp;Nov|<font color="lightgray">(week 11)</font>|<font color="lightgray">(week 11)</font>|<font color="lightgray">(week 11)</font>|**Writeup Due**|<font color="red">**Assessed Meeting**</font>|
+|**Sat** 6&nbsp;Nov|<font color="lightgray">(week 11)</font>|<font color="lightgray">(week 11)</font>|<font color="lightgray">(week 11)</font>|<font color="lightgray">(week 11)</font>|**Writeup Due**|
 
 # Cohort Problems
 

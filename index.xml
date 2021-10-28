@@ -6,11 +6,7 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 10 Posted</title>
       <link>https://uvatoc.github.io/week10posted/</link>
@@ -339,8 +335,8 @@ Your responses will be aggregated, anonymized, and then shared with the cohort-m
       
       <guid>https://uvatoc.github.io/week10/</guid>
       <description>Goals Last week, we used a counting argument to show that there must be some uncomputable functions (&amp;ldquo;some&amp;rdquo; here means infinitely many), but we didin&amp;rsquo;t find a specific uncomputable function. This week, we prove that a particular function is uncomputable, and explore the implications of finding an uncomputable function.
-The main goals for Week 9 are to:
- Identify specific functions that cannot be computed by Turing Machines Develop skills for identifying uncomputable problems Build strategies for showing new problems to be uncomputable Undertand the definition of Universality in the context of Turing Machines  Schedule    Day &amp;ldquo;Monday&amp;rdquo; Cohort &amp;ldquo;Tuesday&amp;rdquo; Cohort &amp;ldquo;Wednesday&amp;rdquo; Cohort &amp;ldquo;Thursday&amp;rdquo; Cohort &amp;ldquo;Friday&amp;rdquo; Cohort     Wed 27 Oct Preparation (week 9) (week 9) (week 9) (week 9)   Thurs 28 Oct Preparation Preparation (week 9) (week 9) (week 9)   Fri 29 Oct Preparation Preparation Preparation (week 9) (week 9)   Sat 30 Oct Prep Cohort Meeting Preparation Preparation Preparation (week 9)   Sun 31 Oct Revision Prep Cohort Meeting Preparation Preparation Preparation   Mon 01 Nov Assessed Meeting Revision Prep Cohort Meeting Preparation Preparation   Tues 02 Nov Writeup Due Assessed Meeting Revision Prep Cohort Meeting Preparation   Wed 03 Nov (week 11) Writeup Due Assessed Meeting Revision Prep Cohort Meeting   Thurs 04 Nov (week 11) (week 11) Writeup Due Assessed Meeting Revision   Fri 05 Nov (week 11) (week 11) (week 11) Writeup Due Assessed Meeting   Sat 06 Nov (week 11) (week 11) (week 11) (week 11) Writeup Due    Cohort Problems These are the problems you should discuss in your Cohort Meeting, and everyone in your cohort should be prepared to present and discuss solutions to at the Assessed Cohort Meeting:</description>
+The main goals for Week 10 are to:
+ Identify specific functions that cannot be computed by Turing Machines Develop skills for identifying uncomputable problems Build strategies for showing new problems to be uncomputable Undertand the definition of Universality in the context of Turing Machines  Schedule    Day &amp;ldquo;Monday&amp;rdquo; Cohort &amp;ldquo;Tuesday&amp;rdquo; Cohort &amp;ldquo;Wednesday&amp;rdquo; Cohort &amp;ldquo;Thursday&amp;rdquo; Cohort &amp;ldquo;Friday&amp;rdquo; Cohort     Wed 27 Oct Preparation (week 9) (week 9) (week 9) (week 9)   Thurs 28 Oct Preparation Preparation (week 9) (week 9) (week 9)   Fri 29 Oct Preparation Preparation Preparation (week 9) (week 9)   Sat 30 Oct Prep Cohort Meeting Preparation Preparation Preparation (week 9)   Sun 31 Oct Revision Prep Cohort Meeting Preparation Preparation Preparation   Mon 1 Nov Assessed Meeting Revision Prep Cohort Meeting Preparation Preparation   Tues 2 Nov Writeup Due Assessed Meeting Revision Prep Cohort Meeting Preparation   Wed 3 Nov (week 11) Writeup Due Assessed Meeting Revision Prep Cohort Meeting   Thurs 4 Nov (week 11) (week 11) Writeup Due Assessed Meeting Revision   Fri 5 Nov (week 11) (week 11) (week 11) Writeup Due Assessed Meeting   Sat 6 Nov (week 11) (week 11) (week 11) (week 11) Writeup Due    Cohort Problems These are the problems you should discuss in your Cohort Meeting, and everyone in your cohort should be prepared to present and discuss solutions to at the Assessed Cohort Meeting:</description>
     </item>
     
     <item>
