@@ -48,7 +48,12 @@ The problems are posted here and we think its a good idea to look at
 them early, but you're not expected to be able to solve them until
 after doing the readings and watching the videos below.
 
-There is no programming portion for this week.
+Similarly to Week 5, for this week you will be assigned a _new_
+problem to solve for your write-up problem which you will need to
+solve on your own without any collaboration. This will be due 48 hours
+after your cohort meeting (instead of the usual 24 hours). This
+problem will expect you to do a reduction proof, similar to the ones
+in the cohort problems (but different enough to be new).
 
 # Reading
 
