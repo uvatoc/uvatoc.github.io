@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theory of Computation</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -100,7 +100,7 @@ This exam will not be graded, but you do need to upload an image of your exam by
       <description>Thanks to Calvin Kuo for finding the original source of the Poincaré quote.
 La Revue politique et littéraire (page 708), 1904. PDF
 Below is a translation, done mostly by Google translate, but with corrections by Anh Nguyen Tuong.
-_Mr. Henry Poincare, from the Academy of Sciences, member of the Bureau des Longitudes, professor at the Sorbonne, chief mining engineer, author of nearly three hundred original papers which have renowned by their contribution of discoveries and insights, the mathematical physics and celestial mechanics, emits on the political activity of scientists this opinion of good sense.</description>
+Mr. Henry Poincare, from the Academy of Sciences, member of the Bureau des Longitudes, professor at the Sorbonne, chief mining engineer, author of nearly three hundred original papers which have renowned by their contribution of discoveries and insights, the mathematical physics and celestial mechanics, emits on the political activity of scientists this opinion of good sense.</description>
     </item>
     
     <item>
@@ -159,8 +159,8 @@ One important correction from the class: I was spectacularly wrong about Jay-Z n
       
       <guid>https://uvatoc.github.io/class4/</guid>
       <description>The slides for Class 4 (Wednesday, 8 September) are here: class4.pdf
-Here&amp;rsquo;s the video on &amp;ldquo;Music and Measure Theory&amp;rdquo;:   
-Thanks to the student who pointed out that the most likely explanation of why the most widely used music tone system has twelve tones is due to the property you get by going up by fifths (multiplying frequency by 3/2).
+Here&amp;rsquo;s the video on &amp;ldquo;Music and Measure Theory&amp;rdquo;:
+   Thanks to the student who pointed out that the most likely explanation of why the most widely used music tone system has twelve tones is due to the property you get by going up by fifths (multiplying frequency by 3/2).
 Music theorists call this the &amp;ldquo;Circle of Fifths&amp;rdquo; (and will draw it as a circle, returning to the tone after 12 hops), and there are some good explanations why the 12-tone arrangement has mathematical advantages (e.</description>
     </item>
     
@@ -190,8 +190,8 @@ Music theorists call this the &amp;ldquo;Circle of Fifths&amp;rdquo; (and will d
       <guid>https://uvatoc.github.io/class2/</guid>
       <description>The slides for Class 2 (1 September) are here: class2.pdf
 Some relevant links for the class:
- Companies by Market Capitalization (Facebook is now down to $1.060, from $1.069 on Wednesday morning, so there is still hope they will fall off the list.)
- Here&amp;rsquo;s the one paper from a Google co-founder that I could find which actuall contains a legitimate theorem and proof: Sergey Brin, Rajeev Motwani, Craig Silverstein. Beyond Market Baskets: Generalizing Association Rules to Correlations.</description>
+  Companies by Market Capitalization (Facebook is now down to $1.060, from $1.069 on Wednesday morning, so there is still hope they will fall off the list.)
+  Here&amp;rsquo;s the one paper from a Google co-founder that I could find which actuall contains a legitimate theorem and proof: Sergey Brin, Rajeev Motwani, Craig Silverstein.</description>
     </item>
     
     <item>
@@ -201,7 +201,7 @@ Some relevant links for the class:
       
       <guid>https://uvatoc.github.io/course-update/</guid>
       <description>Our plan for how to use the full class meeting times has adapted from our original plan - we&amp;rsquo;ll provide more justification for the change below, but the plan now is:
- Monday classes will be for covering examples, providing context, and answering student questions about the current week&amp;rsquo;s content, designed to help students understand the materials you will be assessed on during your cohort meetings. These will be before any of that week&amp;rsquo;s assessed cohort meetings, so all students will have the chance to benefit from these before your assessed cohort meetings.</description>
+  Monday classes will be for covering examples, providing context, and answering student questions about the current week&amp;rsquo;s content, designed to help students understand the materials you will be assessed on during your cohort meetings. These will be before any of that week&amp;rsquo;s assessed cohort meetings, so all students will have the chance to benefit from these before your assessed cohort meetings.</description>
     </item>
     
     <item>
@@ -268,10 +268,9 @@ For this optional first class meeting, we will have an open &amp;ldquo;meet and 
       
       <guid>https://uvatoc.github.io/schedule/</guid>
       <description>For the open help schedule, see Open Student Hours.
-For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1). 
-  Introduction   
- Week 1: Mathematical Definitions    Wed 25 August  Materials Posted, TCS Chapter 0, TCS Chapter 1     Wed 25 August (3:30-4:45pm)  
-Full class meeting: open question time (come by Maury Hall 209 to meet with the instructors and ask any questions you have about the course)</description>
+For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1).
+IntroductionWeek 1: Mathematical Definitions
+Wed 25 AugustMaterials Posted, TCS Chapter 0, TCS Chapter 1Wed 25 August (3:30-4:45pm)Full class meeting: open question time (come by Maury Hall 209 to meet with the instructors and ask any questions you have about the course)</description>
     </item>
     
     <item>
@@ -292,7 +291,7 @@ Overview Course Description: The goal of this course is to understand the fundam
       
       <guid>https://uvatoc.github.io/fall-2021-course/</guid>
       <description>[Updated 18 August 2021]
-The cs3102 course will be offered in Fall 2021, co-taught by Nathan&amp;nbsp;Brunelle and David&amp;nbsp;Evans.
+The cs3102 course will be offered in Fall 2021, co-taught by Nathan Brunelle and David Evans.
 Class meetings will be Mondays and Wednesday, 3:30pm - 4:45pm in Maury Hall 209. We will be sending out an email next week with details on the in-person class meetings, but they are being planned in a way that prioritizes safety and comfort while offering an in-person class experience.
 We&amp;rsquo;ll be putting more information here about the course as the start of the semester approaches.</description>
     </item>
@@ -317,8 +316,8 @@ Github (if you have corrections or suggestions for the book, submit them to Boaz
       <guid>https://uvatoc.github.io/python/</guid>
       <description>If you already have python3 on your machine, you should be good to go for the programming problems.
 If you don’t, please follow these directions to download Python and PyCharm (you’re welcome to use any IDE that you want, we semi-arbitrarily picked PyCharm).
-Windows  Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
- Download the executable x86-64 installer from python.</description>
+Windows   Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
+  Download the executable x86-64 installer from python.</description>
     </item>
     
     <item>
@@ -338,8 +337,8 @@ Your responses will be aggregated, anonymized, and then shared with the cohort-m
       
       <guid>https://uvatoc.github.io/week1/</guid>
       <description>Welcome to cs3102! The main goals for the first week are:
- Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
- Re-awaken the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
+  Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
+  Re-awaken the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
     </item>
     
     <item>
@@ -350,7 +349,7 @@ Your responses will be aggregated, anonymized, and then shared with the cohort-m
       <guid>https://uvatoc.github.io/week10/</guid>
       <description>Goals Last week, we used a counting argument to show that there must be some uncomputable functions (&amp;ldquo;some&amp;rdquo; here means infinitely many), but we didin&amp;rsquo;t find a specific uncomputable function. This week, we prove that a particular function is uncomputable, and explore the implications of finding an uncomputable function.
 The main goals for Week 10 are to:
- Identify specific functions that cannot be computed by Turing Machines Develop skills for identifying uncomputable problems Build strategies for showing new problems to be uncomputable Undertand the definition of Universality in the context of Turing Machines  Schedule    Day &amp;ldquo;Monday&amp;rdquo; Cohort &amp;ldquo;Tuesday&amp;rdquo; Cohort &amp;ldquo;Wednesday&amp;rdquo;&amp;nbsp;Cohort &amp;ldquo;Thursday&amp;rdquo;&amp;nbsp;Cohort &amp;ldquo;Friday&amp;rdquo; Cohort     Wed 27&amp;nbsp;Oct Preparation (week 9) (week 9) (week 9) (week 9)   Thurs 28&amp;nbsp;Oct Preparation Preparation (week 9) (week 9) (week 9)   Fri 29&amp;nbsp;Oct Preparation Preparation Preparation (week 9) (week 9)   Sat 30&amp;nbsp;Oct Prep Cohort Meeting Preparation Preparation Preparation (week 9)   Sun 31&amp;nbsp;Oct Revision Prep Cohort Meeting Preparation Preparation Preparation   Mon 1&amp;nbsp;Nov Assessed Meeting Revision Prep Cohort Meeting Preparation Preparation   Tues 2&amp;nbsp;Nov Writeup Due Assessed Meeting Revision Prep Cohort Meeting Preparation   Wed 3&amp;nbsp;Nov (week 11) Writeup Due Assessed Meeting Revision Prep Cohort Meeting   Thurs 4&amp;nbsp;Nov (week 11) (week 11) Writeup Due Assessed Meeting Revision   Fri 5&amp;nbsp;Nov (week 11) (week 11) (week 11) Writeup Due Assessed Meeting   Sat 6&amp;nbsp;Nov (week 11) (week 11) (week 11) (week 11) Writeup Due    Cohort Problems These are the problems you should discuss in your Cohort Meeting, and everyone in your cohort should be prepared to present and discuss solutions to at the Assessed Cohort Meeting:</description>
+ Identify specific functions that cannot be computed by Turing Machines Develop skills for identifying uncomputable problems Build strategies for showing new problems to be uncomputable Undertand the definition of Universality in the context of Turing Machines  Schedule    Day &amp;ldquo;Monday&amp;rdquo; Cohort &amp;ldquo;Tuesday&amp;rdquo; Cohort &amp;ldquo;Wednesday&amp;rdquo; Cohort &amp;ldquo;Thursday&amp;rdquo; Cohort &amp;ldquo;Friday&amp;rdquo; Cohort     Wed 27 Oct Preparation (week 9) (week 9) (week 9) (week 9)   Thurs 28 Oct Preparation Preparation (week 9) (week 9) (week 9)   Fri 29 Oct Preparation Preparation Preparation (week 9) (week 9)   Sat 30 Oct Prep Cohort Meeting Preparation Preparation Preparation (week 9)   Sun 31 Oct Revision Prep Cohort Meeting Preparation Preparation Preparation   Mon 1 Nov Assessed Meeting Revision Prep Cohort Meeting Preparation Preparation   Tues 2 Nov Writeup Due Assessed Meeting Revision Prep Cohort Meeting Preparation   Wed 3 Nov (week 11) Writeup Due Assessed Meeting Revision Prep Cohort Meeting   Thurs 4 Nov (week 11) (week 11) Writeup Due Assessed Meeting Revision   Fri 5 Nov (week 11) (week 11) (week 11) Writeup Due Assessed Meeting   Sat 6 Nov (week 11) (week 11) (week 11) (week 11) Writeup Due    Cohort Problems These are the problems you should discuss in your Cohort Meeting, and everyone in your cohort should be prepared to present and discuss solutions to at the Assessed Cohort Meeting:</description>
     </item>
     
     <item>
@@ -391,7 +390,7 @@ The main goals for Week 11 are to:
       
       <guid>https://uvatoc.github.io/week4/</guid>
       <description>Week 4: Universal gates and Evaluation The main goals for Week 4 are to:
- Implement and use the EVAL function. This is our first exposure to a modul of computing which is able to simulate an instance of itself. This idea is fundamental to the practice of computer science, as it enables us to have arbitrarily reprogrammable machines which run with fixed hardware. Begin classifying functions by complexity (i.</description>
+ Implement and use the EVAL function. This is our first exposure to a modul of computing which is able to simulate an instance of itself. This idea is fundamental to the practice of computer science, as it enables us to have arbitrarily reprogrammable machines which run with fixed hardware. Begin classifying functions by complexity (i.e. resources required to implement them).</description>
     </item>
     
     <item>
@@ -401,7 +400,7 @@ The main goals for Week 11 are to:
       
       <guid>https://uvatoc.github.io/week5/</guid>
       <description>Goals The main goals for Week 5 are to:
- Understand what a complexity class is and how to provide properties about circuit-size complexity classes. Learn the asymptotic operators (Big-O, &amp;Omega;, and &amp;Theta;) and how to use them correctly. Be able to both intuitively understand what functions are in O(f(n)), and to prove membership or non-membership. Be able to connect the formal definitions of computing costs to practical questions about the cost of computing.</description>
+ Understand what a complexity class is and how to provide properties about circuit-size complexity classes. Learn the asymptotic operators (Big-O, Ω, and Θ) and how to use them correctly. Be able to both intuitively understand what functions are in O(f(n)), and to prove membership or non-membership. Be able to connect the formal definitions of computing costs to practical questions about the cost of computing.</description>
     </item>
     
     <item>
@@ -411,9 +410,9 @@ The main goals for Week 11 are to:
       
       <guid>https://uvatoc.github.io/week6/</guid>
       <description>Goals The main goals for Week 6 are to:
- Synthesize what we have learned about finite computation in the first 5 weeks, and start exploring unbounded computation.
- Appreciate the connection between functions and languages, and the different ways of talking about computation.
- Understand and be able to formally define a Finite State Automaton, and to reason about the language accepted (or function computed) by a Deterministic Finite Automaton.</description>
+  Synthesize what we have learned about finite computation in the first 5 weeks, and start exploring unbounded computation.
+  Appreciate the connection between functions and languages, and the different ways of talking about computation.
+  Understand and be able to formally define a Finite State Automaton, and to reason about the language accepted (or function computed) by a Deterministic Finite Automaton.</description>
     </item>
     
     <item>
@@ -423,8 +422,8 @@ The main goals for Week 11 are to:
       
       <guid>https://uvatoc.github.io/week7/</guid>
       <description>Goals The main goals for Week 7 are to:
- Review and synthesize the material you learned in Weeks 1-5.
- Get some practice taking an exam without the stress and logistical challenges of a graded, in class exam.
+  Review and synthesize the material you learned in Weeks 1-5.
+  Get some practice taking an exam without the stress and logistical challenges of a graded, in class exam.
   Schedule Monday and Tuesday are Fall Reading Days, and Tuesday is Ada Lovelace Day. There is no class meeting on Monday, October 11, and no assessed cohort meetings this week.</description>
     </item>
     
@@ -435,7 +434,7 @@ The main goals for Week 11 are to:
       
       <guid>https://uvatoc.github.io/week8/</guid>
       <description>Goals The main goals for Week 8 are to:
- Understand the proof that Regular Expressions are equivalent in power to Deterministic Finite Automata. This is a long proof, split over 4 videos, but is something we hope everyone understands in detail. The methods used in the proof are similar to ones we have seen before in showing equivalence of NAND-Circ and Boolean circuits, but is a fair bit more complex.</description>
+  Understand the proof that Regular Expressions are equivalent in power to Deterministic Finite Automata. This is a long proof, split over 4 videos, but is something we hope everyone understands in detail. The methods used in the proof are similar to ones we have seen before in showing equivalence of NAND-Circ and Boolean circuits, but is a fair bit more complex.</description>
     </item>
     
     <item>

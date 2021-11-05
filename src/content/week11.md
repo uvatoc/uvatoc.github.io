@@ -84,8 +84,6 @@ These videos are edited from these cs3102 classes (we don't generally recommend 
 
 
 <p>Rice's Theorem (15:28) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/U1aEDWBNQ3A' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
-
 <p>
 
 The following three videos are problems from the exam review, so do
