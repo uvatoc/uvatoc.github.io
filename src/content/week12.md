@@ -87,9 +87,9 @@ depth in the lectures.
 
 # Videos
 
-You can play all the videos using this playlist, but don't forget to take breaks: [Week 11 Playlist](https://www.youtube.com/playlist?list=PLZ9Gk_8DtbmEoyPsllwtPpuh3EhTbvdS8)
+You can play all the videos using this playlist, but don't forget to take breaks: [Week 12 Playlist](https://www.youtube.com/playlist?list=PLZ9Gk_8DtbmEoyPsllwtPpuh3EhTbvdS8) (Note that in previous semesters this content was covered in Week 11.)
 
-<p>
+
 You can find recordings of the past cs3102 classes with most similar content here:
 
 - (Fall 2019) [Class 19: Turing Machine running time](https://uvatoc.github.io/f19/class19/): [Full Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e454df5-59af-4a8b-a257-ab020151ee1b), [Slides](https://www.dropbox.com/s/vcsuqjrnqld3lhk/class19_written.pptx?dl=0)
