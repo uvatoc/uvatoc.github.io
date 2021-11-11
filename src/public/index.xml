@@ -17,7 +17,7 @@
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/lambda-calculus/</guid>
-      <description>Some slides on Lambda Calculus are here: nov10.pdf (not actually shown since we had class outside)
+      <description>Some slides on Lambda Calculus are here: nov10.pdf (not actually shown since we had class outside).
 Here are a few links for more (on the last slide):
  Raymond Smullyan, To Mock a Mockingbird (Puzzles based on Lambda Calculus) Douglas R. Hofstadter, _Gödel, Escher, Bach: an Eternal Golden Braid, &amp;ldquo;A metaphorical fugue on minds and machines in the spirit of Lewis Carroll&amp;rdquo;. Lambda Calculus from the Ground Up - David Beazley, at PyCon 2019.</description>
     </item>
@@ -47,6 +47,18 @@ Here are a few links for more (on the last slide):
       
       <guid>https://uvatoc.github.io/week10posted/</guid>
       <description>The guide and materials for Week 10 is now posted - see the Week 10 page for the details.</description>
+    </item>
+    
+    <item>
+      <title>Wherefore Turing Machines?</title>
+      <link>https://uvatoc.github.io/wherefore-turing-machines/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/wherefore-turing-machines/</guid>
+      <description>The slides for class from Wednesday, 27 October are here: oct27.pdf
+Turing&amp;rsquo;s paper is: A. M. Turing, On Computable Numbers, with an Application to the Entscheidungsproblem, 12 November 1936.
+Charles Petzold&amp;rsquo;s book, The Annotated Turing: A Guided Tour Through Alan Turing&amp;rsquo;s Historic Paper on Computability and the Turing Machine provides a detailed explanation of everything in the paper and is a great read.
+John Graham-Comming&amp;rsquo;s blog post that led to the Prime Minister&amp;rsquo;s apology is here: Alan Turing deserves an apology from the British Government (23 June, 2009).</description>
     </item>
     
     <item>
