@@ -123,8 +123,8 @@ You can find recordings of the past cs3102 classes with most similar content her
 <div class="indented">
 **Optional Extra Videos.** These videos are optional (and will duplicate some of the material in the other videos), but should increase your understanding of the meaning of class NP (and they also contain a song!).
 
-<p>Introducing NP (14:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/BmXyo9acRWA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-<p>Complexity Class NP (13:08) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/vvUrXg1mQzs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>(Optional) Introducing NP (14:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/BmXyo9acRWA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>(Optional) Complexity Class NP (13:08) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/vvUrXg1mQzs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 </div>
 
 </div>
@@ -136,10 +136,10 @@ You can find recordings of the past cs3102 classes with most similar content her
 <div class="indented">
 **Optional Extra Videos.** These videos are optional but will give you deeper insight into NP Completeness and some of the historical context behind it and why we care about it.
 
-<p>Cook-Levin Theorem (17:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/hEmxUEnDEWw' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>(Optional) Cook-Levin Theorem (17:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/hEmxUEnDEWw' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
-<p>History of the Cook-Levin Theorem (8:31) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/SrXHplvYAJ8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>(Optional) History of the Cook-Levin Theorem (8:31) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/SrXHplvYAJ8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
-<p>P=NP Recap (4:45) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/my-mxCwArk8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>(Optional) P=NP Recap (4:45) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/my-mxCwArk8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
 </div>
