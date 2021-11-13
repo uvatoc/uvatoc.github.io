@@ -121,7 +121,7 @@ You can find recordings of the past cs3102 classes with most similar content her
 <p>Nondeterministic TMs and the class NP (23:25) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/ot-H1BKK2ss' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
 <div class="indented">
-These videos are optional (and will duplicate some of the material in the other videos), but should increase your understanding of the meaning of class NP (and they also contain a song!).
+**Optional Extra Videos.** These videos are optional (and will duplicate some of the material in the other videos), but should increase your understanding of the meaning of class NP (and they also contain a song!).
 
 <p>Introducing NP (14:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/BmXyo9acRWA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 <p>Complexity Class NP (13:08) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/vvUrXg1mQzs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
@@ -134,7 +134,7 @@ These videos are optional (and will duplicate some of the material in the other 
 <p>NP Completeness (15:51) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/2MqgnyhhCq8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
 <div class="indented">
-These videos are optional but will give you more historical context of NP Completeness and why we care about it.
+**Optional Extra Videos.** These videos are optional but will give you deeper insight into NP Completeness and some of the historical context behind it and why we care about it.
 
 <p>Cook-Levin Theorem (17:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/hEmxUEnDEWw' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
