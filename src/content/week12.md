@@ -111,6 +111,7 @@ You can find recordings of the past cs3102 classes with most similar content her
 
 <p>Tractable and Intractable Problems (6:38) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/SspCMbUF6Xs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
+
 <p>Polynomial Time Reductions (13:25) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/rDzdsvVqaDc' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
 <p>Reducing 3SAT to LongestPath (16:54 total, with 9:30 of that optional [you may skip the proof from 3:35-13:05]) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/KgJnNZm8YuA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
@@ -119,6 +120,26 @@ You can find recordings of the past cs3102 classes with most similar content her
 
 <p>Nondeterministic TMs and the class NP (23:25) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/ot-H1BKK2ss' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
+<div class="indented">
+These videos are optional (and will duplicate some of the material in the other videos), but should increase your understanding of the meaning of class NP.
+
+<p>Introducing NP (14:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/BmXyo9acRWA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Complexity Class NP (13:08) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/vvUrXg1mQzs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+</div>
+
+</div>
+
 <p>Why do we care whether P=NP? (5:38) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/XSb4E8pJz2M' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
 <p>NP Completeness (15:51) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/2MqgnyhhCq8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+<div class="indented">
+These videos are optional but will give you more historical context of NP Completeness and why we care about it.
+
+<p>Cook-Levin Theorem (17:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/hEmxUEnDEWw' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+<p>History of the Cook-Levin Theorem (8:31) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/SrXHplvYAJ8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+<p>P=NP Recap (4:45) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/my-mxCwArk8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+</div>
