@@ -124,8 +124,8 @@ You can find recordings of the past cs3102 classes with most similar content her
 
 **Optional Extra Videos.** These videos are optional (and will duplicate some of the material in the other videos), but should increase your understanding of the meaning of class NP (and they also contain a song!).
 
-<p>(Optional) Introducing NP (14:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/BmXyo9acRWA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-<p>(Optional) Complexity Class NP (13:08) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/vvUrXg1mQzs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>(Optional) Introducing NP (14:02) <br><iframe width='700' src='https://www.youtube-nocookie.com/embed/BmXyo9acRWA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>(Optional) Complexity Class NP (13:08) <br><iframe width='700' src='https://www.youtube-nocookie.com/embed/vvUrXg1mQzs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 </div>
 
 </div>
