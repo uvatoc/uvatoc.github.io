@@ -468,7 +468,7 @@ Assessed Cohort Meetings
 <tr>
 <td class="week" colspan=2>
 
-[Week 13: Synthesis](/week13)
+[Week 13: Review](/week13)
 </td>
 </tr>
 <tr>
@@ -482,10 +482,10 @@ Materials Posted
 
 <tr>
 <td> 
-Mon 22 Nov, Wed 24 Nov
+Mon 22 Nov
 </td>
 <td>
-Class meetings: Synthesis, Special Topics
+Class meeting on Monday, Review and Synthesis
 </td>
 </tr>
 
@@ -502,18 +502,9 @@ No Assessed Cohort Meetings, Thanksgiving Week
 <tr>
 <td class="week" colspan=2>
 
-[Week 14: Modern Theory Topics](/week14)
+[Week 14: Synthesis and Review](/week14)
 </td>
 </tr>
-<tr>
-<td>
-Wed 24 November
-</td>
-<td>
-Materials Posted
-</td>
-</tr>
-
 <tr>
 <td> 
 Mon 29 Nov, Wed 1 Dec
@@ -525,10 +516,10 @@ Class meetings: Week 14 topics
 
 <tr>
 <td>
-Tue 30 Nov &ndash; Fri 3 Dec
+Wed 1 Dec &ndash; Tue 7 Dec
 </td>
 <td>
-Assessed Cohort Meetings
+Assessed Cohort Meetings (note schedule change - Monday and Tuesday cohorts will meet following week)
 </td>
 </tr>
 
@@ -539,14 +530,6 @@ Assessed Cohort Meetings
 <td class="week" colspan=2>
 
 [Week 15: Final](/week15)
-</td>
-</tr>
-<tr>
-<td>
-Wed 1 December
-</td>
-<td>
-Materials Posted
 </td>
 </tr>
 

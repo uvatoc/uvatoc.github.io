@@ -63,228 +63,185 @@
     <article class="article" itemscope itemtype="http://schema.org/Article">
       <h1 itemprop="name" class="pagetitle">Week 3</h1>
       <div class="post-body" itemprop="articleBody">
-        
-
-<h1 id="week-3-circuits-and-sugar">Week 3: Circuits and Sugar</h1>
-
+        <h1 id="week-3-circuits-and-sugar">Week 3: Circuits and Sugar</h1>
 <p>The main goals for Week 3 are to:</p>
-
 <ul>
 <li>Show how simple models of computing can result in complex behavior.</li>
 <li>Begin building a bridge from theoretical models of computing (like straightline programs and boolean circuits) to practical implementations of computing (like Python and integrated circuits).</li>
 <li>Explore the powers and limitations of a model of computing, including being able to understand the details of how to use that model, and why it is defined in the way chosen.</li>
 </ul>
-
 <h1 id="schedule">Schedule</h1>
-
 <table>
 <thead>
 <tr>
-<th align="center">Day</th>
-<th align="center">&ldquo;Monday&rdquo; Cohort</th>
-<th align="center">&ldquo;Tuesday&rdquo; Cohort</th>
-<th align="center">&ldquo;Wednesday&rdquo; Cohort</th>
-<th align="center">&ldquo;Thursday&rdquo; Cohort</th>
-<th align="center">&ldquo;Friday&rdquo; Cohort</th>
+<th style="text-align:center">Day</th>
+<th style="text-align:center">&ldquo;Monday&rdquo; Cohort</th>
+<th style="text-align:center">&ldquo;Tuesday&rdquo; Cohort</th>
+<th style="text-align:center">&ldquo;Wednesday&rdquo; Cohort</th>
+<th style="text-align:center">&ldquo;Thursday&rdquo; Cohort</th>
+<th style="text-align:center">&ldquo;Friday&rdquo; Cohort</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
-<td align="center"><strong>Wed</strong> 8 Sept</td>
-<td align="center">Preparation</td>
-<td align="center"><font color="lightgray">(Week 2)</font></td>
-<td align="center"><font color="lightgray">(Week 2)</font></td>
-<td align="center"><font color="lightgray">(Week 2)</font></td>
-<td align="center"><font color="lightgray">(Week 2)</font></td>
+<td style="text-align:center"><strong>Wed</strong> 8 Sept</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center"><font color="lightgray">(Week 2)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 2)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 2)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 2)</font></td>
 </tr>
-
 <tr>
-<td align="center"><strong>Thurs</strong> 9 Sept</td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
-<td align="center"><font color="lightgray">(Week 2)</font></td>
-<td align="center"><font color="lightgray">(Week 2)</font></td>
-<td align="center"><font color="lightgray">(Week 2)</font></td>
+<td style="text-align:center"><strong>Thurs</strong> 9 Sept</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center"><font color="lightgray">(Week 2)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 2)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 2)</font></td>
 </tr>
-
 <tr>
-<td align="center"><strong>Fri</strong> 10 Sept</td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
-<td align="center"><font color="lightgray">(Week 2)</font></td>
-<td align="center"><font color="lightgray">(Week 2)</font></td>
+<td style="text-align:center"><strong>Fri</strong> 10 Sept</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center"><font color="lightgray">(Week 2)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 2)</font></td>
 </tr>
-
 <tr>
-<td align="center"><strong>Sat</strong> 11 Sept</td>
-<td align="center"><strong>Prep Cohort Meeting</strong></td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
-<td align="center"><font color="lightgray">(Week 2)</font></td>
+<td style="text-align:center"><strong>Sat</strong> 11 Sept</td>
+<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center"><font color="lightgray">(Week 2)</font></td>
 </tr>
-
 <tr>
-<td align="center"><strong>Sun</strong> 12 Sept</td>
-<td align="center">Revision</td>
-<td align="center"><strong>Prep Cohort Meeting</strong></td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
+<td style="text-align:center"><strong>Sun</strong> 12 Sept</td>
+<td style="text-align:center">Revision</td>
+<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
 </tr>
-
 <tr>
-<td align="center"><strong>Mon</strong> 13 Sept</td>
-<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
-<td align="center">Revision</td>
-<td align="center"><strong>Prep Cohort Meeting</strong></td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
+<td style="text-align:center"><strong>Mon</strong> 13 Sept</td>
+<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td style="text-align:center">Revision</td>
+<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
 </tr>
-
 <tr>
-<td align="center"><strong>Tues</strong> 14 Sept</td>
-<td align="center"><strong>Writeup Due</strong></td>
-<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
-<td align="center">Revision</td>
-<td align="center"><strong>Prep Cohort Meeting</strong></td>
-<td align="center">Preparation</td>
+<td style="text-align:center"><strong>Tues</strong> 14 Sept</td>
+<td style="text-align:center"><strong>Writeup Due</strong></td>
+<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td style="text-align:center">Revision</td>
+<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
+<td style="text-align:center">Preparation</td>
 </tr>
-
 <tr>
-<td align="center"><strong>Wed</strong> 15 Sept</td>
-<td align="center"><font color="lightgray">(Week 4)</font></td>
-<td align="center"><strong>Writeup Due</strong></td>
-<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
-<td align="center">Revision</td>
-<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td style="text-align:center"><strong>Wed</strong> 15 Sept</td>
+<td style="text-align:center"><font color="lightgray">(Week 4)</font></td>
+<td style="text-align:center"><strong>Writeup Due</strong></td>
+<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td style="text-align:center">Revision</td>
+<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
 </tr>
-
 <tr>
-<td align="center"><strong>Thurs</strong> 16 Sept</td>
-<td align="center"><font color="lightgray">(Week 4)</font></td>
-<td align="center"><font color="lightgray">(Week 4)</font></td>
-<td align="center"><strong>Writeup Due</strong></td>
-<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
-<td align="center">Revision</td>
+<td style="text-align:center"><strong>Thurs</strong> 16 Sept</td>
+<td style="text-align:center"><font color="lightgray">(Week 4)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 4)</font></td>
+<td style="text-align:center"><strong>Writeup Due</strong></td>
+<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td style="text-align:center">Revision</td>
 </tr>
-
 <tr>
-<td align="center"><strong>Fri</strong> 17 Sept</td>
-<td align="center"><font color="lightgray">(Week 4)</font></td>
-<td align="center"><font color="lightgray">(Week 4)</font></td>
-<td align="center"><font color="lightgray">(Week 4)</font></td>
-<td align="center"><strong>Writeup Due</strong></td>
-<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td style="text-align:center"><strong>Fri</strong> 17 Sept</td>
+<td style="text-align:center"><font color="lightgray">(Week 4)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 4)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 4)</font></td>
+<td style="text-align:center"><strong>Writeup Due</strong></td>
+<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
 </tr>
-
 <tr>
-<td align="center"><strong>Sat</strong> 18 Sept</td>
-<td align="center"><font color="lightgray">(Week 4)</font></td>
-<td align="center"><font color="lightgray">(Week 4)</font></td>
-<td align="center"><font color="lightgray">(Week 4)</font></td>
-<td align="center"><font color="lightgray">(Week 3)</font></td>
-<td align="center"><strong>Writeup Due</strong></td>
+<td style="text-align:center"><strong>Sat</strong> 18 Sept</td>
+<td style="text-align:center"><font color="lightgray">(Week 4)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 4)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 4)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 3)</font></td>
+<td style="text-align:center"><strong>Writeup Due</strong></td>
 </tr>
 </tbody>
 </table>
-
 <h1 id="cohort-problems">Cohort Problems</h1>
-
 <p>These are the problems you should discuss in your Cohort Meeting, and
 everyone in your cohort should be prepared to present and discuss
 solutions to at the Assessed Cohort Meeting:</p>
-
 <ul>
 <li><a href="/ps/week3_blank.pdf">Cohort Problems for Week 3 [PDF]</a></li>
 <li><a href="/ps/week3.zip">LaTeX Template for Week 3 [ZIP]</a></li>
 </ul>
-
 <p>The problems are posted here and we think its a good idea to look at
 them early, but you&rsquo;re not expected to be able to solve them until
 after doing the readings and watching the videos below.</p>
-
 <p>The above problems include completing the function implementations in
 this python file (the comments in the file itself will guide you,
 please read everything linearly): <a href="/ps/adders.py">adders.py</a>.</p>
-
 <p>If you already have python3 on your machine, you should be good to go
 for the programming problems. If you don&rsquo;t, please <a href="/python">follow these directions to setup Python</a>.</p>
-
 <h1 id="monday-class">Monday Class</h1>
-
 <p>In class on Monday September 13 we discussed motivations for syntactic sugar and together worked on a problem similar to lookup (from the videos) and Add (from the problem set). You can find the slides <a href="/docs/sept13_21.pdf">here</a> and you can find a recording of the lecture on collab.</p>
-
 <h1 id="write-up-problem">Write-up Problem</h1>
-
 <p>After the Assessed Cohort Meeting, your Cohort Leader will select one
 problem that your cohort needs to write-up and submit.  The write-up
 is due by <strong>11:59pm</strong> on the day after your assessed cohort
 meeting (see the schedule above).</p>
-
 <p>Download the <a href="/ps/week3.zip">Problem Set 3 Template [zip]</a> and upload to overleaf. From there, add your solution to the appropriate .tex file for the problem assigned. Modify week3.tex to comment out <code>\usepackage{toc}</code> and instead be <code>\usepackage[response#]{toc}</code> where <code>#</code> refers to the number of the problem assigned.</p>
-
 <h1 id="reading">Reading</h1>
-
 <p>Material in this week&rsquo;s lectures parallels with:</p>
-
 <ul>
 <li><a href="https://introtcs.org/public/lec_03_computation.html">Ch. 3, Defining Computation</a> of the TOC textbook. We discussed this last week as well, we&rsquo;re looking at this chapter in more detail this week</li>
 <li><a href="https://introtcs.org/public/lec_03a_computing_every_function.html">Ch. 4, Syntactic sugar and computing every function</a> from the TOC textbook. In particular, we cover sections 4.1 through 4.3.</li>
 </ul>
-
 <h1 id="videos">Videos</h1>
-
 <p>You can play all the videos using this playlist, but don&rsquo;t forget to take breaks:<a href="https://www.youtube.com/playlist?list=PLZ9Gk_8DtbmF_fm_DYIxcGxYGtyBX61C5">Week 3 Playlist</a></p>
-
 <p>
 The Story So Far (02:54)<br>
 <iframe width="560" height="315" src="https://youtube.com/embed/LA-CooHwl4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </p>
-
-<p><strong>This video introduces graphs, including their definition, notation, and vocabulary. If you feel comfortable with graphs already, I encourage you to skip this video.</strong>
+<p><strong>This video introduces graphs, including their definition, notation, and vocabulary. If you feel comfortable with graphs already, I encourage you to skip this video.</strong></p>
 <p>
 Introduction to Graphs (15:43)<br>
 <iframe width="560" height="315" src="https://youtube.com/embed/bUyWLT5MKEw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-</p></p>
-
+</p>
 <p>
 Components of a Computing Model (1:58)<br>
 <iframe width="560" height="315" src="https://youtube.com/embed/EmcUU6jJ6sA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </p>
-
 <p>
 Representing Circuits (14:42)<br>
 <iframe width="560" height="315" src="https://youtube.com/embed/JxkfGPglKnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </p>
-
 <p>
 Circuit Execution (12:41)<br>
 <iframe width="560" height="315" src="https://youtube.com/embed/9BoHFu6STIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </p>
-
 <p>
 Syntactic Sugar (9:13)<br>
 <iframe width="560" height="315" src="https://youtube.com/embed/kvEb068OvCw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </p>
-
 <p>
 De-Sugaring (11:40)<br>
 <iframe width="560" height="315" src="https://youtube.com/embed/1cTaMbAA8aU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </p>
-
 <p>
 Constructing Conditionals (10:37)<br>
 <iframe width="560" height="315" src="https://youtube.com/embed/DYeaX2lmNPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </p>
-
 <p>
 Lengthening Lookup (12:14)<br>
 <iframe width="560" height="315" src="https://youtube.com/embed/d2U25VuOqkw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </p>
-
 <p>
 Cost of LOOKUP (3:33)<br>
 <iframe width="560" height="315" src="https://youtube.com/embed/ZRFK2_Ll9b0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>

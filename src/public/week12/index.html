@@ -63,19 +63,14 @@
     <article class="article" itemscope itemtype="http://schema.org/Article">
       <h1 itemprop="name" class="pagetitle">Week 12</h1>
       <div class="post-body" itemprop="articleBody">
-        
-
-<h1 id="goals">Goals</h1>
-
+        <h1 id="goals">Goals</h1>
 <p>This week we arrive at the most famous and foundational open problem
 in Computer Science (and, arguably, in all of Mathematics, and more
 questionably, perhaps of all human creative endeavor): <em>is it
 substantially easier to verify the solution to a (certain very broad
 and common type of) problem, than it is to find that solution?</em>
 (stated more formally in computer science as &ldquo;P = NP?&rdquo;.</p>
-
 <p>The main goals for Week 12 are to:</p>
-
 <ul>
 <li>Understand how to talk about the hardness (&ldquo;difficulty&rdquo;) of computing functions.</li>
 <li>Learn about a few examples of problems that appear to have surprisingly different difficulties.</li>
@@ -85,156 +80,135 @@ and common type of) problem, than it is to find that solution?</em>
 <li>Understand the P=NP question and its significance.</li>
 <li>See how we might be able to make progress on determining if P=NP, and understand the Cook-Levin Theorem and the main idea behind its proof.</li>
 </ul>
-
 <h1 id="schedule">Schedule</h1>
-
 <table>
 <thead>
 <tr>
-<th align="center">Day</th>
-<th align="center">&ldquo;Monday&rdquo; Cohort</th>
-<th align="center">&ldquo;Tuesday&rdquo; Cohort</th>
-<th align="center">&ldquo;Wednesday&rdquo; Cohort</th>
-<th align="center">&ldquo;Thursday&rdquo; Cohort</th>
-<th align="center">&ldquo;Friday&rdquo; Cohort</th>
+<th style="text-align:center">Day</th>
+<th style="text-align:center">&ldquo;Monday&rdquo; Cohort</th>
+<th style="text-align:center">&ldquo;Tuesday&rdquo; Cohort</th>
+<th style="text-align:center">&ldquo;Wednesday&rdquo; Cohort</th>
+<th style="text-align:center">&ldquo;Thursday&rdquo; Cohort</th>
+<th style="text-align:center">&ldquo;Friday&rdquo; Cohort</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
-<td align="center"><strong>Wed</strong> 10 Nov</td>
-<td align="center">Preparation</td>
-<td align="center"><font color="lightgray">(Week 11)</font></td>
-<td align="center"><font color="lightgray">(Week 11)</font></td>
-<td align="center"><font color="lightgray">(Week 11)</font></td>
-<td align="center"><font color="lightgray">(Week 11)</font></td>
+<td style="text-align:center"><strong>Wed</strong> 10 Nov</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center"><font color="lightgray">(Week 11)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 11)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 11)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 11)</font></td>
 </tr>
-
 <tr>
-<td align="center"><strong>Thurs</strong> 11 Nov</td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
-<td align="center"><font color="lightgray">(Week 11)</font></td>
-<td align="center"><font color="lightgray">(Week 11)</font></td>
-<td align="center"><font color="lightgray">(Week 11)</font></td>
+<td style="text-align:center"><strong>Thurs</strong> 11 Nov</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center"><font color="lightgray">(Week 11)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 11)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 11)</font></td>
 </tr>
-
 <tr>
-<td align="center"><strong>Fri</strong> 12 Nov</td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
-<td align="center"><font color="lightgray">(Week 11)</font></td>
-<td align="center"><font color="lightgray">(Week 11)</font></td>
+<td style="text-align:center"><strong>Fri</strong> 12 Nov</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center"><font color="lightgray">(Week 11)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 11)</font></td>
 </tr>
-
 <tr>
-<td align="center"><strong>Sat</strong> 13 Nov</td>
-<td align="center"><strong>Prep Cohort Meeting</strong></td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
-<td align="center"><font color="lightgray">(Week 11)</font></td>
+<td style="text-align:center"><strong>Sat</strong> 13 Nov</td>
+<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center"><font color="lightgray">(Week 11)</font></td>
 </tr>
-
 <tr>
-<td align="center"><strong>Sun</strong> 14 Nov</td>
-<td align="center">Revision</td>
-<td align="center"><strong>Prep Cohort Meeting</strong></td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
+<td style="text-align:center"><strong>Sun</strong> 14 Nov</td>
+<td style="text-align:center">Revision</td>
+<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
 </tr>
-
 <tr>
-<td align="center"><strong>Mon</strong> 15 Nov</td>
-<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
-<td align="center">Revision</td>
-<td align="center"><strong>Prep Cohort Meeting</strong></td>
-<td align="center">Preparation</td>
-<td align="center">Preparation</td>
+<td style="text-align:center"><strong>Mon</strong> 15 Nov</td>
+<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td style="text-align:center">Revision</td>
+<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
+<td style="text-align:center">Preparation</td>
+<td style="text-align:center">Preparation</td>
 </tr>
-
 <tr>
-<td align="center"><strong>Tues</strong> 16 Nov</td>
-<td align="center">Work on Writeup</td>
-<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
-<td align="center">Revision</td>
-<td align="center"><strong>Prep Cohort Meeting</strong></td>
-<td align="center">Preparation</td>
+<td style="text-align:center"><strong>Tues</strong> 16 Nov</td>
+<td style="text-align:center">Work on Writeup</td>
+<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td style="text-align:center">Revision</td>
+<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
+<td style="text-align:center">Preparation</td>
 </tr>
-
 <tr>
-<td align="center"><strong>Wed</strong> 17 Nov</td>
-<td align="center"><strong>Writeup Due</strong></td>
-<td align="center">Work on Writeup</td>
-<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
-<td align="center">Revision</td>
-<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td style="text-align:center"><strong>Wed</strong> 17 Nov</td>
+<td style="text-align:center"><strong>Writeup Due</strong></td>
+<td style="text-align:center">Work on Writeup</td>
+<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td style="text-align:center">Revision</td>
+<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
 </tr>
-
 <tr>
-<td align="center"><strong>Thurs</strong> 18 Nov</td>
-<td align="center"><font color="lightgray">(Week 13)</font></td>
-<td align="center"><strong>Writeup Due</strong></td>
-<td align="center">Work on Writeup</td>
-<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
-<td align="center">Revision</td>
+<td style="text-align:center"><strong>Thurs</strong> 18 Nov</td>
+<td style="text-align:center"><font color="lightgray">(Week 13)</font></td>
+<td style="text-align:center"><strong>Writeup Due</strong></td>
+<td style="text-align:center">Work on Writeup</td>
+<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td style="text-align:center">Revision</td>
 </tr>
-
 <tr>
-<td align="center"><strong>Fri</strong> 19 Nov</td>
-<td align="center"><font color="lightgray">(Week 13)</font></td>
-<td align="center"><font color="lightgray">(Week 13)</font></td>
-<td align="center"><strong>Writeup Due</strong></td>
-<td align="center">Work on Writeup</td>
-<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td style="text-align:center"><strong>Fri</strong> 19 Nov</td>
+<td style="text-align:center"><font color="lightgray">(Week 13)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 13)</font></td>
+<td style="text-align:center"><strong>Writeup Due</strong></td>
+<td style="text-align:center">Work on Writeup</td>
+<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
 </tr>
-
 <tr>
-<td align="center"><strong>Sat</strong> 20 Nov</td>
-<td align="center"><font color="lightgray">(Week 13)</font></td>
-<td align="center"><font color="lightgray">(Week 13)</font></td>
-<td align="center"><font color="lightgray">(Week 13)</font></td>
-<td align="center"><strong>Writeup Due</strong></td>
-<td align="center">Work on Writeup</td>
+<td style="text-align:center"><strong>Sat</strong> 20 Nov</td>
+<td style="text-align:center"><font color="lightgray">(Week 13)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 13)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 13)</font></td>
+<td style="text-align:center"><strong>Writeup Due</strong></td>
+<td style="text-align:center">Work on Writeup</td>
 </tr>
-
 <tr>
-<td align="center"><strong>Sun</strong> 21 Nov</td>
-<td align="center"><font color="lightgray">(Week 13)</font></td>
-<td align="center"><font color="lightgray">(Week 13)</font></td>
-<td align="center"><font color="lightgray">(Week 13)</font></td>
-<td align="center"><font color="lightgray">(Week 13)</font></td>
-<td align="center"><strong>Writeup Due</strong></td>
+<td style="text-align:center"><strong>Sun</strong> 21 Nov</td>
+<td style="text-align:center"><font color="lightgray">(Week 13)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 13)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 13)</font></td>
+<td style="text-align:center"><font color="lightgray">(Week 13)</font></td>
+<td style="text-align:center"><strong>Writeup Due</strong></td>
 </tr>
 </tbody>
 </table>
-
 <h1 id="cohort-problems">Cohort Problems</h1>
-
 <p>These are the problems you should discuss in your Cohort Meeting, and
 everyone in your cohort should be prepared to present and discuss
 solutions to at the Assessed Cohort Meeting:</p>
-
 <ul>
 <li><a href="/ps/week12_blank.pdf">Cohort Problems for Week 12 [PDF]</a></li>
 <li><a href="/ps/week12.zip">LaTeX Template for Week 12 [ZIP]</a></li>
 </ul>
-
 <p>The problems are posted here and we think its a good idea to look at
 them early, but you&rsquo;re not expected to be able to solve them until
 after doing the readings and watching the videos below.</p>
-
 <p>Similarly to Week 5, for this week you will be assigned a <em>new</em>
 problem to solve for your write-up problem which you will need to
 solve on your own without any collaboration. This will be due 48 hours
 after your cohort meeting (instead of the usual 24 hours). This
 problem will expect you to do a reduction proof, similar to the ones
 in the cohort problems (but different enough to be new).</p>
-
 <h1 id="reading">Reading</h1>
-
 <p>This week&rsquo;s content is covered in several chapters in the TCS
 book. This is a lot of reading material, but you should consider it
 all &ldquo;optional&rdquo; this week - you are not expected to read these in
@@ -242,75 +216,50 @@ detail, but should find the textbook a useful complement to the
 lecture content to have an alternate presenation of the materials and
 a refernce for some of the technical details that we do not cover in
 depth in the lectures.</p>
-
 <p><a href="https://introtcs.org/public/lec_10_efficient_alg.html">Chapter 12: <em>Efficient computation: An informal introduction</em></a> [<a href="https://files.boazbarak.org/introtcs/lec_10_efficient_alg.pdf">PDF</a>]</p>
-
 <p><a href="https://introtcs.org/public/lec_11_running_time.html">Chapter 13: <em>Modeling running time</em></a> [<a href="https://files.boazbarak.org/introtcs/lec_11_running_time.pdf">PDF</a>]</p>
-
 <p><a href="https://introtcs.org/public/lec_12_NP.html">Chapter 14: <em>Polynomial-time reducations</em></a> [<a href="https://files.boazbarak.org/introtcs/lec_12_NP.pdf">PDF</a>]</p>
-
 <p><a href="https://introtcs.org/public/lec_13_Cook_Levin.html">Chapter 15: <em>NP, NP completeness, and the Cook-Levin Theorem</em></a> [<a href="https://files.boazbarak.org/introtcs/lec_13_Cook_Levin.pdf">PDF</a>]</p>
-
 <p><a href="https://introtcs.org/public/lec_14_PvsNP.html">Chapter 16: <em>What if P equals NP?</em></a> [<a href="https://files.boazbarak.org/introtcs/lec_14_PvsNP.pdf">PDF</a>]</p>
-
 <h1 id="videos">Videos</h1>
-
 <p>You can play all the videos using this playlist, but don&rsquo;t forget to take breaks: <a href="https://www.youtube.com/playlist?list=PLZ9Gk_8DtbmEoyPsllwtPpuh3EhTbvdS8">Week 12 Playlist</a> (Note that in previous semesters this content was covered in Week 11.)</p>
-
 <p>You can find recordings of the past cs3102 classes with most similar content here:</p>
-
 <ul>
-<li><p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class19/">Class 19: Turing Machine running time</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e454df5-59af-4a8b-a257-ab020151ee1b">Full Video</a>, <a href="https://www.dropbox.com/s/vcsuqjrnqld3lhk/class19_written.pptx?dl=0">Slides</a></p></li>
-
-<li><p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class20/">Class 20: Polynomial-Time Reductions</a> (: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5502d967-a9a6-402b-842e-ab040151b68a">Full Video</a>, <a href="https://www.dropbox.com/s/u79nw0c5dpgkb22/class20_written.pptx?dl=0">Slides</a></p></li>
-
-<li><p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class21/">Class 21: Is Omniscience Helpful?</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2065c1c3-8d0f-4fbd-8005-ab0901519772">Full Video</a>, <a href="https://www.dropbox.com/s/84jpjahs7afgvfv/class21-post.pdf?dl=0">Slides</a></p></li>
-
-<li><p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class22/">Class 22: NP Completeness</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb91d06d-83f5-47d8-a05c-ab0b0151a8de">Fall Video</a>, <a href="https://www.dropbox.com/s/rqtkwlp6hk9m7vo/class22-post.pdf?dl=0">Slides</a></p></li>
+<li>
+<p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class19/">Class 19: Turing Machine running time</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e454df5-59af-4a8b-a257-ab020151ee1b">Full Video</a>, <a href="https://www.dropbox.com/s/vcsuqjrnqld3lhk/class19_written.pptx?dl=0">Slides</a></p>
+</li>
+<li>
+<p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class20/">Class 20: Polynomial-Time Reductions</a> (: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5502d967-a9a6-402b-842e-ab040151b68a">Full Video</a>, <a href="https://www.dropbox.com/s/u79nw0c5dpgkb22/class20_written.pptx?dl=0">Slides</a></p>
+</li>
+<li>
+<p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class21/">Class 21: Is Omniscience Helpful?</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2065c1c3-8d0f-4fbd-8005-ab0901519772">Full Video</a>, <a href="https://www.dropbox.com/s/84jpjahs7afgvfv/class21-post.pdf?dl=0">Slides</a></p>
+</li>
+<li>
+<p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class22/">Class 22: NP Completeness</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb91d06d-83f5-47d8-a05c-ab0b0151a8de">Fall Video</a>, <a href="https://www.dropbox.com/s/rqtkwlp6hk9m7vo/class22-post.pdf?dl=0">Slides</a></p>
+</li>
 </ul>
-
 <p>"Difficulty" of Functions (9:13) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/PosxxVwgggI' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <p>RAM Model (7:00) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/tcjSV1QSdn8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <p>Shortest and Longest Path (11:16) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/g5Zpffr4Wog' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <p>Satisfiability (14:45) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/cMEKwh614mk' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <p>Tractable and Intractable Problems (6:38) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/SspCMbUF6Xs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <p>Polynomial Time Reductions (13:25) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/rDzdsvVqaDc' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <p>Reducing 3SAT to LongestPath (16:54 total, with 9:30 of that optional [you may skip the proof from 3:35-13:05]) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/KgJnNZm8YuA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <p>Longest Path Decision Problem (4:11) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/CPqsKxjPFCo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <p>Nondeterministic TMs and the class NP (23:25) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/ot-H1BKK2ss' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <div class="indented">
-
-**Optional Extra Videos.** These videos are optional (and will duplicate some of the material in the other videos), but should increase your understanding of the meaning of class NP (and they also contain a song!).
-
+<p><strong>Optional Extra Videos.</strong> These videos are optional (and will duplicate some of the material in the other videos), but should increase your understanding of the meaning of class NP (and they also contain a song!).</p>
 <p>(Optional) Introducing NP (14:02) <br><iframe width='700' height='394' src='https://www.youtube-nocookie.com/embed/BmXyo9acRWA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 <p>(Optional) Complexity Class NP (13:08) <br><iframe width='700' height='394' src='https://www.youtube-nocookie.com/embed/vvUrXg1mQzs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 </div>
-
-<p></div></p>
-
+</div>
 <p>Why do we care whether P=NP? (5:38) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/XSb4E8pJz2M' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <p>NP Completeness (15:51) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/2MqgnyhhCq8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <div class="indented">
-
-**Optional Extra Videos.** These videos are optional but will give you deeper insight into NP Completeness and some of the historical context behind it and why we care about it.
-
+<p><strong>Optional Extra Videos.</strong> These videos are optional but will give you deeper insight into NP Completeness and some of the historical context behind it and why we care about it.</p>
 <p>(Optional) Cook-Levin Theorem (17:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/hEmxUEnDEWw' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <p>(Optional) History of the Cook-Levin Theorem (8:31) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/SrXHplvYAJ8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 <p>(Optional) P=NP Recap (4:45) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/my-mxCwArk8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
-
 </div>
 
       </div>
