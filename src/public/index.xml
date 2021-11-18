@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Dealing with Hard Problems</title>
+      <link>https://uvatoc.github.io/dealing-with-hard-problems/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/dealing-with-hard-problems/</guid>
+      <description>Slides used in 17 November class on intractable problems: nov17.pdf</description>
+    </item>
+    
+    <item>
       <title>End of Semester Schedule</title>
       <link>https://uvatoc.github.io/endofsemester/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
