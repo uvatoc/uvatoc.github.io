@@ -6,7 +6,16 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week Omega Posted</title>
+      <link>https://uvatoc.github.io/weekoposted/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/weekoposted/</guid>
+      <description>The guide and materials for Week Omega is now posted - see the Week Omega page for the details. Note that the schedule for Monday and Tuesday cohorts changes so you don&amp;rsquo;t need to have preparation meetings over the Thanksgiving holiday. Week Ω is different — there will be an assessed cohort meeting in which you present and answer questions about your project, and have an opportunity to discuss any concepts you want help with in preparing for the final exam.</description>
+    </item>
+    
     <item>
       <title>Dealing with Hard Problems</title>
       <link>https://uvatoc.github.io/dealing-with-hard-problems/</link>
@@ -490,6 +499,18 @@ The main goals for Week 12 are to:</description>
       <description>Goals This week, we introduce the most important and widely used model of computation, the Turing machine, and start to address the big question of what can and cannot be computed by any machine with a finite description.
 The main goals for Week 9 are to:
  Understand what cannot be computed by a finite automaton and why. Use and understand Turing Machines as a model of computing. Study a definition of computability.</description>
+    </item>
+    
+    <item>
+      <title>Week Omega</title>
+      <link>https://uvatoc.github.io/weeko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/weeko/</guid>
+      <description>Wow, the final week - congratulations!
+This week is different from previous weeks: there is no new technical content, and no cohort problems.
+Instead, the goal of this week is for you to do something that either synthesizes a key idea from the class, or explores a topic of your choice related to theoretical computer science.
+Although it will be sufficient to earn full credit this week to do something that just benefits your own understanding, we hope some of you will produce artifacts that will have value beyond this.</description>
     </item>
     
   </channel>
