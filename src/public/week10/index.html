@@ -63,164 +63,198 @@
     <article class="article" itemscope itemtype="http://schema.org/Article">
       <h1 itemprop="name" class="pagetitle">Week 10</h1>
       <div class="post-body" itemprop="articleBody">
-        <h1 id="goals">Goals</h1>
+        
+
+<h1 id="goals">Goals</h1>
+
 <p>Last week, we used a counting argument to show that there must be some
 uncomputable functions (&ldquo;some&rdquo; here means infinitely many), but we
 didin&rsquo;t find a specific uncomputable function. This week, we prove
 that a particular function is uncomputable, and explore the
 implications of finding an uncomputable function.</p>
+
 <p>The main goals for Week 10 are to:</p>
+
 <ul>
 <li>Identify specific functions that cannot be computed by Turing Machines</li>
 <li>Develop skills for identifying uncomputable problems</li>
 <li>Build strategies for showing new problems to be uncomputable</li>
 <li>Undertand the definition of Universality in the context of Turing Machines</li>
 </ul>
+
 <h1 id="schedule">Schedule</h1>
+
 <table>
 <thead>
 <tr>
-<th style="text-align:center">Day</th>
-<th style="text-align:center">&ldquo;Monday&rdquo; Cohort</th>
-<th style="text-align:center">&ldquo;Tuesday&rdquo; Cohort</th>
-<th style="text-align:center">&ldquo;Wednesday&rdquo; Cohort</th>
-<th style="text-align:center">&ldquo;Thursday&rdquo; Cohort</th>
-<th style="text-align:center">&ldquo;Friday&rdquo; Cohort</th>
+<th align="center">Day</th>
+<th align="center">&ldquo;Monday&rdquo; Cohort</th>
+<th align="center">&ldquo;Tuesday&rdquo; Cohort</th>
+<th align="center">&ldquo;Wednesday&rdquo;&nbsp;Cohort</th>
+<th align="center">&ldquo;Thursday&rdquo;&nbsp;Cohort</th>
+<th align="center">&ldquo;Friday&rdquo; Cohort</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
-<td style="text-align:center"><strong>Wed</strong> 27 Oct</td>
-<td style="text-align:center">Preparation</td>
-<td style="text-align:center"><font color="lightgray">(week 9)</font></td>
-<td style="text-align:center"><font color="lightgray">(week 9)</font></td>
-<td style="text-align:center"><font color="lightgray">(week 9)</font></td>
-<td style="text-align:center"><font color="lightgray">(week 9)</font></td>
+<td align="center"><strong>Wed</strong> 27&nbsp;Oct</td>
+<td align="center">Preparation</td>
+<td align="center"><font color="lightgray">(week 9)</font></td>
+<td align="center"><font color="lightgray">(week 9)</font></td>
+<td align="center"><font color="lightgray">(week 9)</font></td>
+<td align="center"><font color="lightgray">(week 9)</font></td>
 </tr>
+
 <tr>
-<td style="text-align:center"><strong>Thurs</strong> 28 Oct</td>
-<td style="text-align:center">Preparation</td>
-<td style="text-align:center">Preparation</td>
-<td style="text-align:center"><font color="lightgray">(week 9)</font></td>
-<td style="text-align:center"><font color="lightgray">(week 9)</font></td>
-<td style="text-align:center"><font color="lightgray">(week 9)</font></td>
+<td align="center"><strong>Thurs</strong> 28&nbsp;Oct</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center"><font color="lightgray">(week 9)</font></td>
+<td align="center"><font color="lightgray">(week 9)</font></td>
+<td align="center"><font color="lightgray">(week 9)</font></td>
 </tr>
+
 <tr>
-<td style="text-align:center"><strong>Fri</strong> 29 Oct</td>
-<td style="text-align:center">Preparation</td>
-<td style="text-align:center">Preparation</td>
-<td style="text-align:center">Preparation</td>
-<td style="text-align:center"><font color="lightgray">(week 9)</font></td>
-<td style="text-align:center"><font color="lightgray">(week 9)</font></td>
+<td align="center"><strong>Fri</strong> 29&nbsp;Oct</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center"><font color="lightgray">(week 9)</font></td>
+<td align="center"><font color="lightgray">(week 9)</font></td>
 </tr>
+
 <tr>
-<td style="text-align:center"><strong>Sat</strong> 30 Oct</td>
-<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
-<td style="text-align:center">Preparation</td>
-<td style="text-align:center">Preparation</td>
-<td style="text-align:center">Preparation</td>
-<td style="text-align:center"><font color="lightgray">(week 9)</font></td>
+<td align="center"><strong>Sat</strong> 30&nbsp;Oct</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center"><font color="lightgray">(week 9)</font></td>
 </tr>
+
 <tr>
-<td style="text-align:center"><strong>Sun</strong> 31 Oct</td>
-<td style="text-align:center">Revision</td>
-<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
-<td style="text-align:center">Preparation</td>
-<td style="text-align:center">Preparation</td>
-<td style="text-align:center">Preparation</td>
+<td align="center"><strong>Sun</strong> 31&nbsp;Oct</td>
+<td align="center">Revision</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
 </tr>
+
 <tr>
-<td style="text-align:center"><strong>Mon</strong> 1 Nov</td>
-<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
-<td style="text-align:center">Revision</td>
-<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
-<td style="text-align:center">Preparation</td>
-<td style="text-align:center">Preparation</td>
+<td align="center"><strong>Mon</strong> 1&nbsp;Nov</td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center">Revision</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
 </tr>
+
 <tr>
-<td style="text-align:center"><strong>Tues</strong> 2 Nov</td>
-<td style="text-align:center"><strong>Writeup Due</strong></td>
-<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
-<td style="text-align:center">Revision</td>
-<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
-<td style="text-align:center">Preparation</td>
+<td align="center"><strong>Tues</strong> 2&nbsp;Nov</td>
+<td align="center"><strong>Writeup Due</strong></td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center">Revision</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center">Preparation</td>
 </tr>
+
 <tr>
-<td style="text-align:center"><strong>Wed</strong> 3 Nov</td>
-<td style="text-align:center"><font color="lightgray">(week 11)</font></td>
-<td style="text-align:center"><strong>Writeup Due</strong></td>
-<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
-<td style="text-align:center">Revision</td>
-<td style="text-align:center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center"><strong>Wed</strong> 3&nbsp;Nov</td>
+<td align="center"><font color="lightgray">(week 11)</font></td>
+<td align="center"><strong>Writeup Due</strong></td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center">Revision</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
 </tr>
+
 <tr>
-<td style="text-align:center"><strong>Thurs</strong> 4 Nov</td>
-<td style="text-align:center"><font color="lightgray">(week 11)</font></td>
-<td style="text-align:center"><font color="lightgray">(week 11)</font></td>
-<td style="text-align:center"><strong>Writeup Due</strong></td>
-<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
-<td style="text-align:center">Revision</td>
+<td align="center"><strong>Thurs</strong> 4&nbsp;Nov</td>
+<td align="center"><font color="lightgray">(week 11)</font></td>
+<td align="center"><font color="lightgray">(week 11)</font></td>
+<td align="center"><strong>Writeup Due</strong></td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center">Revision</td>
 </tr>
+
 <tr>
-<td style="text-align:center"><strong>Fri</strong> 5 Nov</td>
-<td style="text-align:center"><font color="lightgray">(week 11)</font></td>
-<td style="text-align:center"><font color="lightgray">(week 11)</font></td>
-<td style="text-align:center"><font color="lightgray">(week 11)</font></td>
-<td style="text-align:center"><strong>Writeup Due</strong></td>
-<td style="text-align:center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center"><strong>Fri</strong> 5&nbsp;Nov</td>
+<td align="center"><font color="lightgray">(week 11)</font></td>
+<td align="center"><font color="lightgray">(week 11)</font></td>
+<td align="center"><font color="lightgray">(week 11)</font></td>
+<td align="center"><strong>Writeup Due</strong></td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
 </tr>
+
 <tr>
-<td style="text-align:center"><strong>Sat</strong> 6 Nov</td>
-<td style="text-align:center"><font color="lightgray">(week 11)</font></td>
-<td style="text-align:center"><font color="lightgray">(week 11)</font></td>
-<td style="text-align:center"><font color="lightgray">(week 11)</font></td>
-<td style="text-align:center"><font color="lightgray">(week 11)</font></td>
-<td style="text-align:center"><strong>Writeup Due</strong></td>
+<td align="center"><strong>Sat</strong> 6&nbsp;Nov</td>
+<td align="center"><font color="lightgray">(week 11)</font></td>
+<td align="center"><font color="lightgray">(week 11)</font></td>
+<td align="center"><font color="lightgray">(week 11)</font></td>
+<td align="center"><font color="lightgray">(week 11)</font></td>
+<td align="center"><strong>Writeup Due</strong></td>
 </tr>
 </tbody>
 </table>
+
 <h1 id="cohort-problems">Cohort Problems</h1>
+
 <p>These are the problems you should discuss in your Cohort Meeting, and
 everyone in your cohort should be prepared to present and discuss
 solutions to at the Assessed Cohort Meeting:</p>
+
 <ul>
 <li><a href="/ps/week10_blank.pdf">Cohort Problems for Week 10 [PDF]</a></li>
 <li><a href="/ps/week10.zip">LaTeX Template for Week 10 [ZIP]</a></li>
 </ul>
+
 <p>The problems are posted here and we think its a good idea to look at
 them early, but you&rsquo;re not expected to be able to solve them until
 after doing the readings and watching the videos below.</p>
+
 <p>There is no programming portion for this week.</p>
+
 <h1 id="reading">Reading</h1>
+
 <p><a href="https://introtcs.org/public/lec_08_uncomputability.html">Chapter 9: <em>Universality and uncomputability</em></a> [<a href="https://files.boazbarak.org/introtcs/lec_08_uncomputability.pdf">PDF</a>]</p>
+
 <p>You should read through the end of Section 9.3 (including the &ldquo;optional&rdquo; section 9.3.2). (We will cover Section 9.4 and 9.5 next week.)</p>
-<p>The material in Sections 9.1 – 9.3 covers the same concepts as
+
+<p>The material in Sections 9.1 &ndash; 9.3 covers the same concepts as
 we do in the lectures, but in a somewhat different order and with a
 focus on <em>HALT</em> rather than <em>ACCEPTS</em>. You should
 consider how similar and different these two functions are, and
 compare the proof that <em>ACCEPTS</em> is uncomputable from the
 lectures to the one in the book that <em>HALT</em> is uncomputable.</p>
+
 <h1 id="videos">Videos</h1>
+
 <p>You can play all the videos using this playlist, but don&rsquo;t forget to take breaks: <a href="https://youtube.com/playlist?list=PLZ9Gk_8DtbmErIKSl3pEl6KhZfKZWhezW">Week 10 Playlist</a> (Note that in previous semesters the week in which this material was covered was labelled week 9).</p>
+
 <p>This week&rsquo;s content is most similar to that of these previous-semester&rsquo;s cs3102 classes:</p>
+
 <ul>
-<li>
-<p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class14/">Class 14: Computability</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e086e67f-71aa-45e1-a59d-aaed01412ded">Full Video</a>, <a href="https://www.dropbox.com/s/nw9zh8a0vahvaqy/class14-inked.pdf?dl=0">Slides</a> (just part of the <em>Self-Rejection (An Uncomputable Function)</em> video)</p>
-</li>
-<li>
-<p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class15/">Class 15: Universality and Uncomputability</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8ce23af-8a26-44b4-9678-aaef01410d8e">Full Video</a>, <a href="https://www.dropbox.com/s/iibngc72d0snb0f/class15-inked.pdf?dl=0">Slides</a></p>
-</li>
+<li><p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class14/">Class 14: Computability</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e086e67f-71aa-45e1-a59d-aaed01412ded">Full Video</a>, <a href="https://www.dropbox.com/s/nw9zh8a0vahvaqy/class14-inked.pdf?dl=0">Slides</a> (just part of the <em>Self-Rejection (An Uncomputable Function)</em> video)</p></li>
+
+<li><p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class15/">Class 15: Universality and Uncomputability</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8ce23af-8a26-44b4-9678-aaef01410d8e">Full Video</a>, <a href="https://www.dropbox.com/s/iibngc72d0snb0f/class15-inked.pdf?dl=0">Slides</a></p></li>
 </ul>
+
 <p>Introduction (3:20) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/Zqqv8MWnC6c' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
 <p>Self-Rejection (An Uncomputable Function) (17:13) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/qRNIK4qaNTA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
 <p>An Uncomputable Problem in Python (8:10) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/Bit7FvUzcMU' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
 <p>Universal Turing Machines (8:54) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/Ij01xiZDN8k' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
 <p>ACCEPTS, Practical but Uncomputable (15:53) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/L-MkPxn5r_s' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
 <p>Computability in Theory vs Practice (8:50) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/YbrFeIC3jXo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
       </div>
 
-      <meta itemprop="wordCount" content="520">
+      <meta itemprop="wordCount" content="507">
       <meta itemprop="datePublished" content="0001-01-01">
       <meta itemprop="url" content="https://uvatoc.github.io/week10/">
     </article>
