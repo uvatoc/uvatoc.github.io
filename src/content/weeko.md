@@ -93,6 +93,13 @@ bake lasagna, build a quantum computer, or develop a time machine) you
 should still make some description of your artifact (including a video
 or pictures if helpful) that can be posted.
 
+Submit this form to submit your project:
+<center>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc0s8y7EuyGbMfNQp45wR_3gNHFH4nWy-xMFRpWEf4HjLy-VA/viewform"><b>Project Omega Submission Form</b></a>
+</center>
+
+One member of your project team should submit a single form on behalf of the whole team.
+
 ## Target Audience
 
 You can define your target audience but should specify what it

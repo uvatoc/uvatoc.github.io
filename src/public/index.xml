@@ -6,11 +6,7 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Practice Final Posted</title>
       <link>https://uvatoc.github.io/practicefinal/</link>
@@ -428,7 +424,7 @@ The main goals for Week 11 are to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/week12/</guid>
-      <description>Goals This week we arrive at the most famous and foundational open problem in Computer Science (and, arguably, in all of Mathematics, and more questionably, perhaps of all human creative endeavor): is it substantially easier to verify the solution to a (certain very broad and common type of) problem, than it is to find that solution? (stated more formally in computer science as &amp;ldquo;P = NP?&amp;quot;.
+      <description>Goals This week we arrive at the most famous and foundational open problem in Computer Science (and, arguably, in all of Mathematics, and more questionably, perhaps of all human creative endeavor): is it substantially easier to verify the solution to a (certain very broad and common type of) problem, than it is to find that solution? (stated more formally in computer science as &amp;ldquo;P = NP?&amp;rdquo;.
 The main goals for Week 12 are to:</description>
     </item>
     
