@@ -1,5 +1,5 @@
 +++
-date = "02 Nov 2021"
+date = "02 Dec 2021"
 draft = false
 title = "December 1 Slites"
 author = "Course Staff"
