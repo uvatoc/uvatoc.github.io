@@ -1,7 +1,7 @@
 +++
 date = "02 Dec 2021"
 draft = false
-title = "December 1 Slites"
+title = "December 1 Slides"
 author = "Course Staff"
 slug = "dec1"
 +++
