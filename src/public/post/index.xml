@@ -6,10 +6,17 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practice Final Comments</title>
+      <link>https://uvatoc.github.io/practicefinalcomments/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/practicefinalcomments/</guid>
+      <description>To help you prepare for the final exam, we have posted some comments on the practice exam: Practice Final Comments.
+Before looking at our comments and hints, though, you should try the Practice Final yourself.
+As a reminder, for the final you will be allowed one page (front and back) of reference notes to use. You may work with others to prepare your notes.</description>
+    </item>
     
     <item>
       <title>December 1 Slides</title>
@@ -18,6 +25,16 @@
       
       <guid>https://uvatoc.github.io/dec1/</guid>
       <description>Here are the slides from 1 December: cs3102f21-dec1.pdf</description>
+    </item>
+    
+    <item>
+      <title>Project Omega Submission</title>
+      <link>https://uvatoc.github.io/project-omega-submission/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/project-omega-submission/</guid>
+      <description>Here&amp;rsquo;s the form to use to submit your Week Omega Project:
+ Project Omega Submission Form  </description>
     </item>
     
     <item>
