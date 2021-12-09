@@ -7,7 +7,7 @@ slug = "finalpreview"
 +++
 
 A preview of the final exam is posted: 
-[Final Preview](/ps/final_preview.pdf).
+[Final Preview](/ps/finalpreview.pdf).
 
 We don't want anyone to be surprised by what is on the exam, or not
 read the instructions carefully because you are in a stressful exam
