@@ -828,3 +828,21 @@ blockquote, blockquote p {
     margin-bottom: 0;
     list-style: none;
 }
+
+.yellownote {
+   margin-left: 50px;
+   margin-right: 60px;
+   background: #FAFAE6;
+   margin-bottom: 10px;
+   padding: 12px;
+}
+
+.yellownotec {
+   margin-left: 50px;
+   margin-right: 60px;
+   background: #FAFAE6;
+   margin-bottom: 10px;
+   padding: 12px;
+   text-align: center;
+}
+

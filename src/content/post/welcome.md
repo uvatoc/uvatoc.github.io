@@ -1,78 +1,38 @@
 +++
-date = "23 Aug 2021"
+date = "09 Jan 2023"
 draft = false
-title = "Starting the Semester"
-slug = "starting"
+title = "Welcome to Theory of Computation"
+slug = "welcome"
 +++
  
-## First Class Meeting
+Theory of Computation (renumbered as cs3120, but very similar to the
+course previously numbered as cs3102) will be offered in Spring 2023,
+co-taught by
+[Mohammad&nbsp;Mahmoody](https://www.cs.virginia.edu/~mohammad/) and 
+[David&nbsp;Evans](https://www.cs.virginia.edu/evans/).
 
-Our first scheduled class is Wednesday, 25 August, 3:30-4:45pm in
-Maury Hall 209 (weather permitting, we will also use the Ampitheater
-space outside Maury). 
+Class meetings will be Tuesdays and Thursdays, 9:30 &ndash; 10:45am in
+Olsson Hall 120.
 
-For this optional first class meeting, we will have an open "meet and
-greet" with an opportunity to ask any questions you would like of the
-course instructors, and an opportunity for students who wish to form
-their own cohorts (details below) to do so. There won't be any lecture
-or course content introduced, or need to crowd into the classroom.
-Please read the [Syllabus](/syllabus) to understand how the class will
-be run and what we mean by "cohorts".
+We'll be putting more information here about the course as the start
+of the semester approaches.
 
-## Cohort Scheduling
+For now, you can see what the course was like in previous semesters
+from Prof. Brunelle's [Fall 2022
+course](https://www.cs.virginia.edu/~njb2b/cstheory/f2022/index.html)
+and from the archived course websites from [Fall 2021](/f21), [Fall
+2020](/f20), and [Fall 2019](/f19). The design of the Spring 2023
+course is not set yet, but it will most likely be a combination of
+aspects of the previous semesters and some new variations.  Most of
+the content in the course will be similar to what was covered last
+fall and in pervious offerings of cs3102, with some adjustments due to
+the new curriculum (which makes DSA2 a prereq for this course).
 
-There will be a form posted tomorrow (Wednesday, 25 August) for
-students to submit cohort scheduling preferences. Everyone will need
-to do this by **Wednesday at 4:59pm** in order for us to assign and
-schedule the cohorts. You can submit the form during the scheduled
-class time tomorrow, and everyone in the class should be able to
-submit the form by the end of this time.
+We look forward to seeing you at the first class, Thursday, 19
+January, at 9:30am in Olsson 120.
 
-If you would like to form your own cohort, you may attempt to do so
-during the class time Wednesday. Forming your own cohort is totally
-optional, but Wednesday's class meeting is your only opportunity to
-request a cohort group. After 4:45pm on Wednesday, we will be
-assigning all students who have not successfully formed their own
-cohorts to cohorts based on the scheduling information you submitted.
 
-In order to successfully form a cohort, you would need to:
 
-- Form a group of exactly six students (all of whom are enrolled in cs3102).
-
-- Identify a time that works for everyone for their prep meetings, and
-a set of possible times for your assessed cohort meetings. For your
-cohort to be accepted, we need to be able to match your available
-times with a time when there is a Cohort Leader (TA) available. So, it
-is to your advantage to list as many times as possible that work for
-everyone in your cohort.
-
-- Come to one of us (Nathan or Dave) during the class time Wednesday
-with a list on paper of their names and email IDs, the times for their
-prep meeting, and possible times for assessed cohort meetings. You
-will need to also submit this in a web form so we have it
-electronically, and what they submit there must match what is on the
-paper.
-
-- Convince us that the proposed cohort satisfies our diversity
-criteria. We do not have a formal specification of what is
-satisfactory, but at a minimum a cohort cannot include more than 3
-people who went to the same high school. In forming your cohort you
-should think about what will make it a good learning community.  You
-will be able to meet other students in the class during the class time
-tomorrow, and may be able to find a group you want to form a cohort
-with.
-
-We will do our best to keep students who successfully do all of this
-by the end of the class time Wednesday in their requested cohort, but
-cannot promise this since it may be necessary to adjust things because
-of TA schedules and other constraints.
-
-Assessed cohort meetings will start (at the earliest) on Tuesday, 31
-August, so students scheduled in Tuesday cohorts will have preparation
-Cohort Meetings on Saturday or Sunday (28 or 29 August), and will need
-to be ready with the [Week 1](/week1) problems by their cohort meeting
-on 31 August. (Other students will have more time, depending on when
-your assessed cohort meeting is scheduled.)
 
 
 

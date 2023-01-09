@@ -21,7 +21,7 @@ f19:
 	mv public19 ../f19
 
 f20:
-	hugo --config config2020.toml --theme=$(THEME19) --contentDir content20 --layoutDir layouts20 --destination public20
+	hugo --config config2020.toml --theme=toc20 --contentDir content20 --layoutDir layouts20 --destination public20
 	mv public20 ../f20
 
 f21:
