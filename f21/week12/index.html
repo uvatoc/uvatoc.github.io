@@ -1,0 +1,327 @@
+<!doctype html>
+<html class="no-js" lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <title>Week 12 | Theory of Computation</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://uvatoc.github.io/f20css/foundation.min.css">
+    <link rel="stylesheet" href="https://uvatoc.github.io/f20css/highlight.min.css">
+    <link rel="stylesheet" href="https://uvatoc.github.io/f20css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://uvatoc.github.io/f20css/academicons.min.css">
+    <link rel="stylesheet" href="https://uvatoc.github.io/f20css/fonts.css">
+    <link rel="stylesheet" href="https://uvatoc.github.io/f20css/finite.css">
+    <link rel="shortcut icon" href="/images/uva.png">  
+    
+  </head>
+  <body>
+      
+    <header>
+      <nav class="nav-bar">
+	
+	  <div class="title-bar" data-responsive-toggle="site-menu" data-hide-for="medium">	      
+	    <button class="site-hamburger" type="button" data-toggle>
+	      <i class="fa fa-bars fa-lg" aria-hidden="true"></i>
+	    </button>
+	    <div class="title-bar-title site-title">
+	      <a href="https://uvatoc.github.io/f20">Theory of Computation</a>
+	    </div>
+	    <div class="title-bar-right pull-right">
+	      
+
+
+	    </div>
+	  </div>
+	    
+	  
+	    <div class="top-bar" id="site-menu" >	      
+	      <div class="top-bar-title show-for-medium site-title">
+		<a href="https://uvatoc.github.io/f20">Theory of Computation</a>
+	      </div>
+	      <div class="top-bar-left">
+		<ul class="menu vertical medium-horizontal">
+		  
+		  
+		</ul>
+	      </div>
+	      <div class="top-bar-right show-for-medium">
+		
+
+
+	      </div>
+	    </div>
+	  
+	</nav>
+      
+    </header>
+    
+    <main>
+      
+
+<div class="content">
+    <article class="article" itemscope itemtype="http://schema.org/Article">
+      <h1 itemprop="name" class="pagetitle">Week 12</h1>
+      <div class="post-body" itemprop="articleBody">
+        <h1 id="goals">Goals</h1>
+<p>This week we arrive at the most famous and foundational open problem
+in Computer Science (and, arguably, in all of Mathematics, and more
+questionably, perhaps of all human creative endeavor): <em>is it
+substantially easier to verify the solution to a (certain very broad
+and common type of) problem, than it is to find that solution?</em>
+(stated more formally in computer science as &ldquo;P = NP?&quot;.</p>
+<p>The main goals for Week 12 are to:</p>
+<ul>
+<li>Understand how to talk about the hardness (&ldquo;difficulty&rdquo;) of computing functions.</li>
+<li>Learn about a few examples of problems that appear to have surprisingly different difficulties.</li>
+<li>Be able to talk about the <em>tractability</em> of problems, and understand what computer scientists categorize problems as tractable and intractable the way we do.</li>
+<li>Understand precisely the definition of the complexity class NP, and two different ways of defining it.</li>
+<li>Be able to prove a problem is in class NP.</li>
+<li>Understand the P=NP question and its significance.</li>
+<li>See how we might be able to make progress on determining if P=NP, and understand the Cook-Levin Theorem and the main idea behind its proof.</li>
+</ul>
+<h1 id="schedule">Schedule</h1>
+<table>
+<thead>
+<tr>
+<th align="center">Day</th>
+<th align="center">&ldquo;Monday&rdquo; Cohort</th>
+<th align="center">&ldquo;Tuesday&rdquo; Cohort</th>
+<th align="center">&ldquo;Wednesday&rdquo; Cohort</th>
+<th align="center">&ldquo;Thursday&rdquo; Cohort</th>
+<th align="center">&ldquo;Friday&rdquo; Cohort</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>Wed</strong> 10 Nov</td>
+<td align="center">Preparation</td>
+<td align="center"><font color="lightgray">(Week 11)</font></td>
+<td align="center"><font color="lightgray">(Week 11)</font></td>
+<td align="center"><font color="lightgray">(Week 11)</font></td>
+<td align="center"><font color="lightgray">(Week 11)</font></td>
+</tr>
+<tr>
+<td align="center"><strong>Thurs</strong> 11 Nov</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center"><font color="lightgray">(Week 11)</font></td>
+<td align="center"><font color="lightgray">(Week 11)</font></td>
+<td align="center"><font color="lightgray">(Week 11)</font></td>
+</tr>
+<tr>
+<td align="center"><strong>Fri</strong> 12 Nov</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center"><font color="lightgray">(Week 11)</font></td>
+<td align="center"><font color="lightgray">(Week 11)</font></td>
+</tr>
+<tr>
+<td align="center"><strong>Sat</strong> 13 Nov</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center"><font color="lightgray">(Week 11)</font></td>
+</tr>
+<tr>
+<td align="center"><strong>Sun</strong> 14 Nov</td>
+<td align="center">Revision</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+</tr>
+<tr>
+<td align="center"><strong>Mon</strong> 15 Nov</td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center">Revision</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+</tr>
+<tr>
+<td align="center"><strong>Tues</strong> 16 Nov</td>
+<td align="center">Work on Writeup</td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center">Revision</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center">Preparation</td>
+</tr>
+<tr>
+<td align="center"><strong>Wed</strong> 17 Nov</td>
+<td align="center"><strong>Writeup Due</strong></td>
+<td align="center">Work on Writeup</td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center">Revision</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+</tr>
+<tr>
+<td align="center"><strong>Thurs</strong> 18 Nov</td>
+<td align="center"><font color="lightgray">(Week 13)</font></td>
+<td align="center"><strong>Writeup Due</strong></td>
+<td align="center">Work on Writeup</td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center">Revision</td>
+</tr>
+<tr>
+<td align="center"><strong>Fri</strong> 19 Nov</td>
+<td align="center"><font color="lightgray">(Week 13)</font></td>
+<td align="center"><font color="lightgray">(Week 13)</font></td>
+<td align="center"><strong>Writeup Due</strong></td>
+<td align="center">Work on Writeup</td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+</tr>
+<tr>
+<td align="center"><strong>Sat</strong> 20 Nov</td>
+<td align="center"><font color="lightgray">(Week 13)</font></td>
+<td align="center"><font color="lightgray">(Week 13)</font></td>
+<td align="center"><font color="lightgray">(Week 13)</font></td>
+<td align="center"><strong>Writeup Due</strong></td>
+<td align="center">Work on Writeup</td>
+</tr>
+<tr>
+<td align="center"><strong>Sun</strong> 21 Nov</td>
+<td align="center"><font color="lightgray">(Week 13)</font></td>
+<td align="center"><font color="lightgray">(Week 13)</font></td>
+<td align="center"><font color="lightgray">(Week 13)</font></td>
+<td align="center"><font color="lightgray">(Week 13)</font></td>
+<td align="center"><strong>Writeup Due</strong></td>
+</tr>
+</tbody>
+</table>
+<h1 id="cohort-problems">Cohort Problems</h1>
+<p>These are the problems you should discuss in your Cohort Meeting, and
+everyone in your cohort should be prepared to present and discuss
+solutions to at the Assessed Cohort Meeting:</p>
+<ul>
+<li><a href="/ps/week12_blank.pdf">Cohort Problems for Week 12 [PDF]</a></li>
+<li><a href="/ps/week12.zip">LaTeX Template for Week 12 [ZIP]</a></li>
+</ul>
+<p>The problems are posted here and we think its a good idea to look at
+them early, but you&rsquo;re not expected to be able to solve them until
+after doing the readings and watching the videos below.</p>
+<p>Similarly to Week 5, for this week you will be assigned a <em>new</em>
+problem to solve for your write-up problem which you will need to
+solve on your own without any collaboration. This will be due 48 hours
+after your cohort meeting (instead of the usual 24 hours). This
+problem will expect you to do a reduction proof, similar to the ones
+in the cohort problems (but different enough to be new).</p>
+<h1 id="reading">Reading</h1>
+<p>This week&rsquo;s content is covered in several chapters in the TCS
+book. This is a lot of reading material, but you should consider it
+all &ldquo;optional&rdquo; this week - you are not expected to read these in
+detail, but should find the textbook a useful complement to the
+lecture content to have an alternate presenation of the materials and
+a refernce for some of the technical details that we do not cover in
+depth in the lectures.</p>
+<p><a href="https://introtcs.org/public/lec_10_efficient_alg.html">Chapter 12: <em>Efficient computation: An informal introduction</em></a> [<a href="https://files.boazbarak.org/introtcs/lec_10_efficient_alg.pdf">PDF</a>]</p>
+<p><a href="https://introtcs.org/public/lec_11_running_time.html">Chapter 13: <em>Modeling running time</em></a> [<a href="https://files.boazbarak.org/introtcs/lec_11_running_time.pdf">PDF</a>]</p>
+<p><a href="https://introtcs.org/public/lec_12_NP.html">Chapter 14: <em>Polynomial-time reductions</em></a> [<a href="https://files.boazbarak.org/introtcs/lec_12_NP.pdf">PDF</a>]</p>
+<p><a href="https://introtcs.org/public/lec_13_Cook_Levin.html">Chapter 15: <em>NP, NP completeness, and the Cook-Levin Theorem</em></a> [<a href="https://files.boazbarak.org/introtcs/lec_13_Cook_Levin.pdf">PDF</a>]</p>
+<p><a href="https://introtcs.org/public/lec_14_PvsNP.html">Chapter 16: <em>What if P equals NP?</em></a> [<a href="https://files.boazbarak.org/introtcs/lec_14_PvsNP.pdf">PDF</a>]</p>
+<h1 id="videos">Videos</h1>
+<p>You can play all the videos using this playlist, but don&rsquo;t forget to take breaks: <a href="https://www.youtube.com/playlist?list=PLZ9Gk_8DtbmEoyPsllwtPpuh3EhTbvdS8">Week 12 Playlist</a> (Note that in previous semesters this content was covered in Week 11.)</p>
+<p>You can find recordings of the past cs3102 classes with most similar content here:</p>
+<ul>
+<li>
+<p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class19/">Class 19: Turing Machine running time</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e454df5-59af-4a8b-a257-ab020151ee1b">Full Video</a>, <a href="https://www.dropbox.com/s/vcsuqjrnqld3lhk/class19_written.pptx?dl=0">Slides</a></p>
+</li>
+<li>
+<p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class20/">Class 20: Polynomial-Time Reductions</a> (: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5502d967-a9a6-402b-842e-ab040151b68a">Full Video</a>, <a href="https://www.dropbox.com/s/u79nw0c5dpgkb22/class20_written.pptx?dl=0">Slides</a></p>
+</li>
+<li>
+<p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class21/">Class 21: Is Omniscience Helpful?</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2065c1c3-8d0f-4fbd-8005-ab0901519772">Full Video</a>, <a href="https://www.dropbox.com/s/84jpjahs7afgvfv/class21-post.pdf?dl=0">Slides</a></p>
+</li>
+<li>
+<p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class22/">Class 22: NP Completeness</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb91d06d-83f5-47d8-a05c-ab0b0151a8de">Fall Video</a>, <a href="https://www.dropbox.com/s/rqtkwlp6hk9m7vo/class22-post.pdf?dl=0">Slides</a></p>
+</li>
+</ul>
+<p>"Difficulty" of Functions (9:13) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/PosxxVwgggI' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>RAM Model (7:00) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/tcjSV1QSdn8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Shortest and Longest Path (11:16) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/g5Zpffr4Wog' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Satisfiability (14:45) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/cMEKwh614mk' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Tractable and Intractable Problems (6:38) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/SspCMbUF6Xs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Polynomial Time Reductions (13:25) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/rDzdsvVqaDc' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Reducing 3SAT to LongestPath (16:54 total, with 9:30 of that optional [you may skip the proof from 3:35-13:05]) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/KgJnNZm8YuA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Longest Path Decision Problem (4:11) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/CPqsKxjPFCo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Nondeterministic TMs and the class NP (23:25) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/ot-H1BKK2ss' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<div class="indented">
+<p><strong>Optional Extra Videos.</strong> These videos are optional (and will duplicate some of the material in the other videos), but should increase your understanding of the meaning of class NP (and they also contain a song!).</p>
+<p>(Optional) Introducing NP (14:02) <br><iframe width='700' height='394' src='https://www.youtube-nocookie.com/embed/BmXyo9acRWA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>(Optional) Complexity Class NP (13:08) <br><iframe width='700' height='394' src='https://www.youtube-nocookie.com/embed/vvUrXg1mQzs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+</div>
+</div>
+<p>Why do we care whether P=NP? (5:38) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/XSb4E8pJz2M' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>NP Completeness (15:51) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/2MqgnyhhCq8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<div class="indented">
+<p><strong>Optional Extra Videos.</strong> These videos are optional but will give you deeper insight into NP Completeness and some of the historical context behind it and why we care about it.</p>
+<p>(Optional) Cook-Levin Theorem (17:02) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/hEmxUEnDEWw' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>(Optional) History of the Cook-Levin Theorem (8:31) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/SrXHplvYAJ8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>(Optional) P=NP Recap (4:45) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/my-mxCwArk8' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+</div>
+
+      </div>
+
+      <meta itemprop="wordCount" content="844">
+      <meta itemprop="datePublished" content="0001-01-01">
+      <meta itemprop="url" content="https://uvatoc.github.io/f20/week12/">
+    </article>
+</div>
+
+
+    </main>
+    
+    
+<footer class="whatisthis">
+  <hr />
+  <div class="row">
+    <div class="column small-12 medium-6">
+      <a href="//uvatoc.github.io"><b>cs 3102: Theory of Computation</b></a><br>
+      <font color="cyan">This is an archived page from the <a href="//uvatoc.github.io/f19">Fall 2019</a> course.<br>A more recent version may be available from the <a href="//uvatoc.github.io/">current course site</a>.</font><br>
+      <a href="//www.cs.virginia.edu">University of Virginia</a>
+    </div>
+    <div class="column small-14 medium-5">
+      <font size="-1">
+      Subscribe to
+	the <a href="/index.xml"><i class="fa fa-rss-square"></i>&nbsp;RSS feed</a>.
+      <a id="searchsite">
+	<form method="get" action="https://duckduckgo.com/">
+	  <label for="search-field" class="show-for-sr">Search with DuckDuckGo</label>
+	  <input type="search" name="q" maxlength="255" placeholder="Search with DuckDuckGo" id="search-field">
+	  <input type="hidden" name="sites" value="https://uvatoc.github.io/f20"/>
+	  <input type="hidden" name="k7" value="#faf8f8"/>
+	  <input type="hidden" name="kj" value="#b33"/>
+	  <input type="hidden" name="ky" value="#fafafa"/>
+	  <input type="hidden" name="kx" value="b"/>
+	  <input type="hidden" name="ko" value="-1"/>
+	  <input type="hidden" name="k1" value="-1"/>
+	  <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+	</form>
+      </a>
+</font>
+    </div>
+  </div>
+  </hr>
+</footer>
+
+
+    
+    <div class="endofpage">
+    </div>
+
+    <script src="/js/jquery.js"></script>
+    <script src="/js/what-input.js"></script>
+    <script src="/js/foundation.min.js"></script>
+    <script src="/js/finite.js"></script>
+
+    
+    <script src="/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+    
+    
+    
+  </body>
+</html>

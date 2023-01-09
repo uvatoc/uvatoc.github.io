@@ -1,0 +1,296 @@
+<!doctype html>
+<html class="no-js" lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <title>Week 9 | Theory of Computation</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://uvatoc.github.io/f20css/foundation.min.css">
+    <link rel="stylesheet" href="https://uvatoc.github.io/f20css/highlight.min.css">
+    <link rel="stylesheet" href="https://uvatoc.github.io/f20css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://uvatoc.github.io/f20css/academicons.min.css">
+    <link rel="stylesheet" href="https://uvatoc.github.io/f20css/fonts.css">
+    <link rel="stylesheet" href="https://uvatoc.github.io/f20css/finite.css">
+    <link rel="shortcut icon" href="/images/uva.png">  
+    
+  </head>
+  <body>
+      
+    <header>
+      <nav class="nav-bar">
+	
+	  <div class="title-bar" data-responsive-toggle="site-menu" data-hide-for="medium">	      
+	    <button class="site-hamburger" type="button" data-toggle>
+	      <i class="fa fa-bars fa-lg" aria-hidden="true"></i>
+	    </button>
+	    <div class="title-bar-title site-title">
+	      <a href="https://uvatoc.github.io/f20">Theory of Computation</a>
+	    </div>
+	    <div class="title-bar-right pull-right">
+	      
+
+
+	    </div>
+	  </div>
+	    
+	  
+	    <div class="top-bar" id="site-menu" >	      
+	      <div class="top-bar-title show-for-medium site-title">
+		<a href="https://uvatoc.github.io/f20">Theory of Computation</a>
+	      </div>
+	      <div class="top-bar-left">
+		<ul class="menu vertical medium-horizontal">
+		  
+		  
+		</ul>
+	      </div>
+	      <div class="top-bar-right show-for-medium">
+		
+
+
+	      </div>
+	    </div>
+	  
+	</nav>
+      
+    </header>
+    
+    <main>
+      
+
+<div class="content">
+    <article class="article" itemscope itemtype="http://schema.org/Article">
+      <h1 itemprop="name" class="pagetitle">Week 9</h1>
+      <div class="post-body" itemprop="articleBody">
+        <h1 id="goals">Goals</h1>
+<p>This week, we introduce the most important and widely used model of
+computation, the Turing machine, and start to address the big question
+of what can and cannot be computed by any machine with a finite
+description.</p>
+<p>The main goals for Week 9 are to:</p>
+<ul>
+<li>Understand what cannot be computed by a finite automaton and why.</li>
+<li>Use and understand Turing Machines as a model of computing.</li>
+<li>Study a definition of computability.</li>
+<li>Explore the powers and limitations of Turing Machines.</li>
+<li>Understand why some numbers are <em>uncomputable</em>, and what this means.</li>
+<li>Learn different variations on Turing Machines and how they can be transformed.</li>
+</ul>
+<h1 id="schedule">Schedule</h1>
+<table>
+<thead>
+<tr>
+<th align="center">Day</th>
+<th align="center">&ldquo;Monday&rdquo; Cohort</th>
+<th align="center">&ldquo;Tuesday&rdquo; Cohort</th>
+<th align="center">&ldquo;Wednesday&rdquo; Cohort</th>
+<th align="center">&ldquo;Thursday&rdquo; Cohort</th>
+<th align="center">&ldquo;Friday&rdquo; Cohort</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>Wed</strong> 20 Oct</td>
+<td align="center">Preparation</td>
+<td align="center"><font color="lightgray">(Week 8)</font></td>
+<td align="center"><font color="lightgray">(Week 8)</font></td>
+<td align="center"><font color="lightgray">(Week 8)</font></td>
+<td align="center"><font color="lightgray">(Week 8)</font></td>
+</tr>
+<tr>
+<td align="center"><strong>Thurs</strong> 21 Oct</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center"><font color="lightgray">(Week 8)</font></td>
+<td align="center"><font color="lightgray">(Week 8)</font></td>
+<td align="center"><font color="lightgray">(Week 8)</font></td>
+</tr>
+<tr>
+<td align="center"><strong>Fri</strong> 22 Oct</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center"><font color="lightgray">(Week 8)</font></td>
+<td align="center"><font color="lightgray">(Week 8)</font></td>
+</tr>
+<tr>
+<td align="center"><strong>Sat</strong> 23 Oct</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center"><font color="lightgray">(Week 8)</font></td>
+</tr>
+<tr>
+<td align="center"><strong>Sun</strong> 24 Oct</td>
+<td align="center">Revision</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+</tr>
+<tr>
+<td align="center"><strong>Mon</strong> 25 Oct</td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center">Revision</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center">Preparation</td>
+<td align="center">Preparation</td>
+</tr>
+<tr>
+<td align="center"><strong>Tues</strong> 26 Oct</td>
+<td align="center"><strong>Writeup Due</strong></td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center">Revision</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+<td align="center">Preparation</td>
+</tr>
+<tr>
+<td align="center"><strong>Wed</strong> 27 Oct</td>
+<td align="center"><font color="lightgray">(Week 10)</font></td>
+<td align="center"><strong>Writeup Due</strong></td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center">Revision</td>
+<td align="center"><strong>Prep Cohort Meeting</strong></td>
+</tr>
+<tr>
+<td align="center"><strong>Thurs</strong> 28 Oct</td>
+<td align="center"><font color="lightgray">(Week 10)</font></td>
+<td align="center"><font color="lightgray">(Week 10)</font></td>
+<td align="center"><strong>Writeup Due</strong></td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+<td align="center">Revision</td>
+</tr>
+<tr>
+<td align="center"><strong>Fri</strong> 29 Oct</td>
+<td align="center"><font color="lightgray">(Week 10)</font></td>
+<td align="center"><font color="lightgray">(Week 10)</font></td>
+<td align="center"><font color="lightgray">(Week 10)</font></td>
+<td align="center"><strong>Writeup Due</strong></td>
+<td align="center"><font color="red"><strong>Assessed Meeting</strong></font></td>
+</tr>
+<tr>
+<td align="center"><strong>Sat</strong> 30 Oct</td>
+<td align="center"><font color="lightgray">(Week 10)</font></td>
+<td align="center"><font color="lightgray">(Week 10)</font></td>
+<td align="center"><font color="lightgray">(Week 10)</font></td>
+<td align="center"><font color="lightgray">(Week 10)</font></td>
+<td align="center"><strong>Writeup Due</strong></td>
+</tr>
+</tbody>
+</table>
+<h1 id="cohort-problems">Cohort Problems</h1>
+<p>These are the problems you should discuss in your Cohort Meeting, and
+everyone in your cohort should be prepared to present and discuss
+solutions to at the Assessed Cohort Meeting:</p>
+<ul>
+<li><a href="/ps/week9_blank.pdf">Cohort Problems for Week 9 [PDF]</a></li>
+<li><a href="/ps/week9.zip">LaTeX Template for Week 9 [ZIP]</a></li>
+</ul>
+<p>The problems are posted here and we think its a good idea to look at
+them early, but you&rsquo;re not expected to be able to solve them until
+after doing the readings and watching the videos below.</p>
+<p>There is no programming portion for this week.</p>
+<h1 id="peer-evaluation">Peer Evaluation</h1>
+<p>Your second peer evalution is due with your week 9 writeup. Please complete it following these instructions: <a href="/peer_evals">Peer Eval</a>.</p>
+<h1 id="reading">Reading</h1>
+<p>This week we discuss the material contained in <a href="https://introtcs.org/public/lec_06_loops.html">Chapter 7: Loops and Infinity</a>.</p>
+<p>Turing Machines and other similar models of computing are taught in
+many different ways in many different places. In addition to the
+course materials, you&rsquo;ll find plenty of other presentations of this
+material available on youtube, other textbooks, lecture slides from
+other universities, blog posts, etc. Please be advised that there are
+many subtly different presentations of Turing machines, and so what
+you see elsewhere may differ from what we covered, but the key ideas
+are universal and should be the same in any good
+presentation. Typically minor changes are made to the model either for
+convenience of the context, or so real-world running times are more
+similar to the running time of the model (more on this in future
+weeks).</p>
+<p>You can read Turing&rsquo;s paper here: Alan M. Turing, <a href="/files/computablenumbers.pdf"><em>On Computable Numbers, with an Application to the
+Entscheidungsproblem</em></a>. 1936.</p>
+<h1 id="videos">Videos</h1>
+<p>You can play all the videos using this playlist, but don&rsquo;t forget to take breaks: <a href="https://www.youtube.com/playlist?list=PLZ9Gk_8DtbmGERGozYoSd-kmz-tsTn2yu">Week 9 Playlist</a> (note that in previous semesters this content was covered in week 8).</p>
+<p>Some videos are edited from these cs3102 classes (we don&rsquo;t generally recommend watching the unedited versions, but they are available if you want to):</p>
+<ul>
+<li>
+<p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class13/">Class 13: Machines</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89195d73-1989-4b2f-8b70-aae8014178c4">Full Video</a>, <a href="https://www.dropbox.com/s/36tv9no453ffmkn/class13_written.pptx?dl=0">Slides</a></p>
+</li>
+<li>
+<p>(Fall 2019) <a href="https://uvatoc.github.io/f19/class14/">Class 14: Computability</a>: <a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e086e67f-71aa-45e1-a59d-aaed01412ded">Full Video</a>, <a href="https://www.dropbox.com/s/nw9zh8a0vahvaqy/class14-inked.pdf?dl=0">Slides</a></p>
+</li>
+</ul>
+<p>Applications of Finite State Automata (6:27) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/fPAxt4LvEaU' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Warm-Up: Life on Mars (2:16) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/zpKVDZB7JiE' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Limitations of Finite Automata (6:40) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/KmAJEKRZaGY' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Turing Machines (5:37) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/Xx_GeourSOQ' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Turing Machine Example (17:59) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/6S6suD3aRxY' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Turing Machine Definition (8:31) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/qH6Ffc9H2js' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>What was Turing’s Model Modeling? (14:08) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/vcGxEtT3wsc' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>Busy Beavers (5:12) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/yJApEB69gXo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+<p>On Uncomputable Numbers (8:13) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/Cuf4zkYwGlQ' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+      </div>
+
+      <meta itemprop="wordCount" content="617">
+      <meta itemprop="datePublished" content="0001-01-01">
+      <meta itemprop="url" content="https://uvatoc.github.io/f20/content/week9/">
+    </article>
+</div>
+
+
+    </main>
+    
+    
+<footer class="whatisthis">
+  <hr />
+  <div class="row">
+    <div class="column small-12 medium-6">
+      <a href="//uvatoc.github.io"><b>cs 3102: Theory of Computation</b></a><br>
+      <font color="cyan">This is an archived page from the <a href="//uvatoc.github.io/f19">Fall 2019</a> course.<br>A more recent version may be available from the <a href="//uvatoc.github.io/">current course site</a>.</font><br>
+      <a href="//www.cs.virginia.edu">University of Virginia</a>
+    </div>
+    <div class="column small-14 medium-5">
+      <font size="-1">
+      Subscribe to
+	the <a href="/index.xml"><i class="fa fa-rss-square"></i>&nbsp;RSS feed</a>.
+      <a id="searchsite">
+	<form method="get" action="https://duckduckgo.com/">
+	  <label for="search-field" class="show-for-sr">Search with DuckDuckGo</label>
+	  <input type="search" name="q" maxlength="255" placeholder="Search with DuckDuckGo" id="search-field">
+	  <input type="hidden" name="sites" value="https://uvatoc.github.io/f20"/>
+	  <input type="hidden" name="k7" value="#faf8f8"/>
+	  <input type="hidden" name="kj" value="#b33"/>
+	  <input type="hidden" name="ky" value="#fafafa"/>
+	  <input type="hidden" name="kx" value="b"/>
+	  <input type="hidden" name="ko" value="-1"/>
+	  <input type="hidden" name="k1" value="-1"/>
+	  <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+	</form>
+      </a>
+</font>
+    </div>
+  </div>
+  </hr>
+</footer>
+
+
+    
+    <div class="endofpage">
+    </div>
+
+    <script src="/js/jquery.js"></script>
+    <script src="/js/what-input.js"></script>
+    <script src="/js/foundation.min.js"></script>
+    <script src="/js/finite.js"></script>
+
+    
+    <script src="/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+    
+    
+    
+  </body>
+</html>
