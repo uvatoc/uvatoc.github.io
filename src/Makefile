@@ -34,10 +34,10 @@ develop:
 	hugo server --theme=$(THEME) --buildDrafts --watch
 
 github: html
-	cp -r ./docs/* ./public/docs/
-	cp -r ./ps/* ./public/ps/
-	cp -r ./images/* ./public/images/
+	cp -r ./docs ./public/
+	cp -r ./images ./public/
 	cp -r ./public/* ../
+	rm -r ./public
 	git add -A :/; git commit -m "Rebuilt site" ; git push
 
 toc.sty:
