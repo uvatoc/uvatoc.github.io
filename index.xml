@@ -20,49 +20,6 @@ For now, you can see what the course was like in previous semesters from Prof.</
     </item>
     
     <item>
-      <title>Office Hours</title>
-      <link>https://uvatoc.github.io/officehours/</link>
-      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/officehours/</guid>
-      <description>You can find instructor and TA office hours in the calendar below. Some office hours are held remotely, others in person, some both simultaneously. Make sure you check the location in the calendar.
-Regardless of where the office hours are held, #help-requests channel in discord will be used as our office hours queue. To add yourself to the queue, simply post what you&amp;rsquo;re asking about (e.g. &amp;ldquo;week1 pancakes video&amp;rdquo; or &amp;ldquo;week 1 problem 5&amp;rdquo; or &amp;ldquo;countability&amp;rdquo;) and where you&amp;rsquo;re joining from (online versus in-person if there are multiple options at the same time).</description>
-    </item>
-    
-    <item>
-      <title>Course Pledge</title>
-      <link>https://uvatoc.github.io/pledge/</link>
-      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/pledge/</guid>
-      <description>Honor Expectations As a student at the University of Virginia, you are trusted to be honorable and expected to behave in ways that merit that trust. We take advantage of this trust to provide a better learning environment for everyone. In particular, students in cs3102 are expected to follow these rules throughout the course:
-I will not lie, cheat or steal. If I am unsure whether something would be considered lying, cheating or stealing, I will ask before doing it.</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>https://uvatoc.github.io/schedule/</link>
-      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/schedule/</guid>
-      <description>For the open help schedule, see Open Student Hours.
-For the detailed weekly schedule for each cohort, see one of the week postings (e.g., Week 1).
-IntroductionWeek 1: Mathematical Definitions
-Wed 25 AugustMaterials Posted, TCS Chapter 0, TCS Chapter 1Wed 25 August (3:30-4:45pm)Full class meeting: open question time (come by Maury Hall 209 to meet with the instructors and ask any questions you have about the course)</description>
-    </item>
-    
-    <item>
-      <title>Syllabus</title>
-      <link>https://uvatoc.github.io/syllabus/</link>
-      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/syllabus/</guid>
-      <description>This syllabus is a &amp;ldquo;living document&amp;rdquo; subject to change as we adapt during the semester. The course website is managed through a public github repository, so you can see past versions there.
-The version as posted on the first day of class is here. 
-Overview Course Description: The goal of this course is to understand the fundamental limits on what can be efficiently computed in our universe and other possible (or imaginary) universes.</description>
-    </item>
-    
-    <item>
       <title>Resources</title>
       <link>https://uvatoc.github.io/resources/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
@@ -84,156 +41,6 @@ Github (if you have corrections or suggestions for the book, submit them to Boaz
 If you don’t, please follow these directions to download Python and PyCharm (you’re welcome to use any IDE that you want, we semi-arbitrarily picked PyCharm).
 Windows   Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
   Download the executable x86-64 installer from python.</description>
-    </item>
-    
-    <item>
-      <title>Peer Evals</title>
-      <link>https://uvatoc.github.io/peer_evals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/peer_evals/</guid>
-      <description>Purpose Your first peer evaluation is to occur after your week 4 assessed meeting (it is due with your writeup). You will evaluate all cohort-members (including yourself) on 5 items. Each item will have 4 options: exceeds expectations, meets expectations, room for improvement, unsatisfactory. The chart describes example behaviors to merit each category. Select the best fit.
-Your responses will be aggregated, anonymized, and then shared with the cohort-mate whom they’re about.</description>
-    </item>
-    
-    <item>
-      <title>Week 1</title>
-      <link>https://uvatoc.github.io/week1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week1/</guid>
-      <description>Welcome to cs3102! The main goals for the first week are:
-  Set up the cohorts, and have each group get to know each other and figure out how you will work well together to ensure everyone in your cohort succeeds in the course and has a good experience learning with others.
-  Re-awaken the mathematical thinking skills you have (hopefully) developed previously, and start applying them to problems in theory of computing.</description>
-    </item>
-    
-    <item>
-      <title>Week 10</title>
-      <link>https://uvatoc.github.io/week10/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week10/</guid>
-      <description>Goals Last week, we used a counting argument to show that there must be some uncomputable functions (&amp;ldquo;some&amp;rdquo; here means infinitely many), but we didin&amp;rsquo;t find a specific uncomputable function. This week, we prove that a particular function is uncomputable, and explore the implications of finding an uncomputable function.
-The main goals for Week 10 are to:
- Identify specific functions that cannot be computed by Turing Machines Develop skills for identifying uncomputable problems Build strategies for showing new problems to be uncomputable Undertand the definition of Universality in the context of Turing Machines  Schedule    Day &amp;ldquo;Monday&amp;rdquo; Cohort &amp;ldquo;Tuesday&amp;rdquo; Cohort &amp;ldquo;Wednesday&amp;rdquo; Cohort &amp;ldquo;Thursday&amp;rdquo; Cohort &amp;ldquo;Friday&amp;rdquo; Cohort     Wed 27 Oct Preparation (week 9) (week 9) (week 9) (week 9)   Thurs 28 Oct Preparation Preparation (week 9) (week 9) (week 9)   Fri 29 Oct Preparation Preparation Preparation (week 9) (week 9)   Sat 30 Oct Prep Cohort Meeting Preparation Preparation Preparation (week 9)   Sun 31 Oct Revision Prep Cohort Meeting Preparation Preparation Preparation   Mon 1 Nov Assessed Meeting Revision Prep Cohort Meeting Preparation Preparation   Tues 2 Nov Writeup Due Assessed Meeting Revision Prep Cohort Meeting Preparation   Wed 3 Nov (week 11) Writeup Due Assessed Meeting Revision Prep Cohort Meeting   Thurs 4 Nov (week 11) (week 11) Writeup Due Assessed Meeting Revision   Fri 5 Nov (week 11) (week 11) (week 11) Writeup Due Assessed Meeting   Sat 6 Nov (week 11) (week 11) (week 11) (week 11) Writeup Due    Cohort Problems These are the problems you should discuss in your Cohort Meeting, and everyone in your cohort should be prepared to present and discuss solutions to at the Assessed Cohort Meeting:</description>
-    </item>
-    
-    <item>
-      <title>Week 11</title>
-      <link>https://uvatoc.github.io/week11/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week11/</guid>
-      <description>Goals This week, we hope you&amp;rsquo;ll become comfortable proving functions are uncomputable (and occasionally, computable). We introduce the &amp;ldquo;proof by reduction&amp;rdquo; technique, which is a tremendously useful way to prove properties about problems, and (as you will see in the Algorithms class) also to develop and analyze algorithmic solutions.
-The main goals for Week 11 are to:
- Become comfortable with the terms decidable, recognizable, and computable, and how we talk about these properties for languages, functions, and problems.</description>
-    </item>
-    
-    <item>
-      <title>Week 12</title>
-      <link>https://uvatoc.github.io/week12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week12/</guid>
-      <description>Goals This week we arrive at the most famous and foundational open problem in Computer Science (and, arguably, in all of Mathematics, and more questionably, perhaps of all human creative endeavor): is it substantially easier to verify the solution to a (certain very broad and common type of) problem, than it is to find that solution? (stated more formally in computer science as &amp;ldquo;P = NP?&amp;rdquo;.
-The main goals for Week 12 are to:</description>
-    </item>
-    
-    <item>
-      <title>Week 2</title>
-      <link>https://uvatoc.github.io/week2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week2/</guid>
-      <description>Week 2: Bit Strings and Computing Models At this point you should have been assigned to a cohort and met with them at least twice (once during your assigned prep time and once during your assessed time with a TA). This week, our main goals are:
- Now that you&amp;rsquo;ve had some cohort experience, reflect on how to make the most out of your cohort experience this semester. Begin exploration of the theory of computing, most importantly seeing the motivations for significant themes.</description>
-    </item>
-    
-    <item>
-      <title>Week 3</title>
-      <link>https://uvatoc.github.io/week3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week3/</guid>
-      <description>Week 3: Circuits and Sugar The main goals for Week 3 are to:
- Show how simple models of computing can result in complex behavior. Begin building a bridge from theoretical models of computing (like straightline programs and boolean circuits) to practical implementations of computing (like Python and integrated circuits). Explore the powers and limitations of a model of computing, including being able to understand the details of how to use that model, and why it is defined in the way chosen.</description>
-    </item>
-    
-    <item>
-      <title>Week 4</title>
-      <link>https://uvatoc.github.io/week4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week4/</guid>
-      <description>Week 4: Universal gates and Evaluation The main goals for Week 4 are to:
- Implement and use the EVAL function. This is our first exposure to a modul of computing which is able to simulate an instance of itself. This idea is fundamental to the practice of computer science, as it enables us to have arbitrarily reprogrammable machines which run with fixed hardware. Begin classifying functions by complexity (i.e. resources required to implement them).</description>
-    </item>
-    
-    <item>
-      <title>Week 5</title>
-      <link>https://uvatoc.github.io/week5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week5/</guid>
-      <description>Goals The main goals for Week 5 are to:
- Understand what a complexity class is and how to provide properties about circuit-size complexity classes. Learn the asymptotic operators (Big-O, Ω, and Θ) and how to use them correctly. Be able to both intuitively understand what functions are in O(f(n)), and to prove membership or non-membership. Be able to connect the formal definitions of computing costs to practical questions about the cost of computing.</description>
-    </item>
-    
-    <item>
-      <title>Week 6</title>
-      <link>https://uvatoc.github.io/week6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week6/</guid>
-      <description>Goals The main goals for Week 6 are to:
-  Synthesize what we have learned about finite computation in the first 5 weeks, and start exploring unbounded computation.
-  Appreciate the connection between functions and languages, and the different ways of talking about computation.
-  Understand and be able to formally define a Finite State Automaton, and to reason about the language accepted (or function computed) by a Deterministic Finite Automaton.</description>
-    </item>
-    
-    <item>
-      <title>Week 7</title>
-      <link>https://uvatoc.github.io/week7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week7/</guid>
-      <description>Goals The main goals for Week 7 are to:
-  Review and synthesize the material you learned in Weeks 1-5.
-  Get some practice taking an exam without the stress and logistical challenges of a graded, in class exam.
-  Schedule Monday and Tuesday are Fall Reading Days, and Tuesday is Ada Lovelace Day. There is no class meeting on Monday, October 11, and no assessed cohort meetings this week.</description>
-    </item>
-    
-    <item>
-      <title>Week 8</title>
-      <link>https://uvatoc.github.io/week8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week8/</guid>
-      <description>Goals The main goals for Week 8 are to:
-  Understand the proof that Regular Expressions are equivalent in power to Deterministic Finite Automata. This is a long proof, split over 4 videos, but is something we hope everyone understands in detail. The methods used in the proof are similar to ones we have seen before in showing equivalence of NAND-Circ and Boolean circuits, but is a fair bit more complex.</description>
-    </item>
-    
-    <item>
-      <title>Week 9</title>
-      <link>https://uvatoc.github.io/week9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/week9/</guid>
-      <description>Goals This week, we introduce the most important and widely used model of computation, the Turing machine, and start to address the big question of what can and cannot be computed by any machine with a finite description.
-The main goals for Week 9 are to:
- Understand what cannot be computed by a finite automaton and why. Use and understand Turing Machines as a model of computing. Study a definition of computability.</description>
-    </item>
-    
-    <item>
-      <title>Week Omega</title>
-      <link>https://uvatoc.github.io/weeko/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/weeko/</guid>
-      <description>Wow, the final week - congratulations!
-This week is different from previous weeks: there is no new technical content, and no cohort problems.
-Instead, the goal of this week is for you to do something that either synthesizes a key idea from the class, or explores a topic of your choice related to theoretical computer science.
-Although it will be sufficient to earn full credit this week to do something that just benefits your own understanding, we hope some of you will produce artifacts that will have value beyond this.</description>
     </item>
     
   </channel>
