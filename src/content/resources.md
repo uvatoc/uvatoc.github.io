@@ -24,21 +24,21 @@ if you have a pull request accepted or start a useful issue)
 [_Mathematics for Computer Science_ (free
 PDF)](https://uvacs2102.github.io/docs/mcs.pdf) by Eric Lehman, F
 Thomson Leighton, Albert R Meyer. (This is the book that is sometimes
-used in [cs2102: Discrete Math](https://uvacs2102.github.io).) Some
-other useful resources for material that is covered in cs2102 are
+used in DMT1 and earlier in [cs2102: Discrete Math](https://uvacs2102.github.io).) Some
+other useful resources for material that is covered in DMT1 are
 [here](https://uvacs2102.github.io/resources/).
 
 [forall _x_ (Solutions Booklet from University of Calgary)](http://forallx.openlogicproject.org/solutions/forallxsol.pdf) (P. D. Magnus and Tim Button)
 
-Here are some other materials from cs2012/DMT1 courses that may be useful:
-- [Sets Primer](http://www.cs.virginia.edu/luther/DMT1/S2020/sets.html) (from Luther Tychonievich)
-- [Proof Techniques](http://www.cs.virginia.edu/luther/DMT1/S2020/techniques-q8.html)
-- [Proof Style Guides](http://www.cs.virginia.edu/luther/DMT1/S2020/proofs.html)
-- [Glossary of Terms](http://www.cs.virginia.edu/luther/DMT1/S2020/glossary.html)
+Here are some other materials from DMT1 that may be useful:
+- [Sets Primer](https://www.cs.virginia.edu/~emo7bf/cs2120/sets.html)
+- [Proof Techniques](https://www.cs.virginia.edu/~emo7bf/cs2120/techniques.html) 
+- [Proof Style Guides](http://www.cs.virginia.edu/~emo7bf/cs2120/proofs.html)
+- [Glossary of Terms](http://www.cs.virginia.edu/~emo7bf/cs2120/glossary.html)
 
 Harry Porter's [Theory of Computation: Background
 Knowledge](https://www.youtube.com/watch?v=TOsMcgIK95k) (video) (you
-may find his other videos useful for some of the topics we cover also - [playlist](https://www.youtube.com/watch?v=TOsMcgIK95k&list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz))
+may find his other videos useful for some of the topics we cover also - [playlist](https://www.youtube.com/watch?v=TOsMcgIK95k&list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz)).
 
 
 ## Other Classes
@@ -50,7 +50,7 @@ Courses similar to this one include:
 - UCLA's [CS181: Introduction to Theoretical Computer Science](https://hackmd.io/@raghum/introtcs#Raghu-Meka-CS181-Introduction-to-Theoretical-Computer-Science) (Raghu Meka)
 
 - Our previous cs3102 courses at UVA: [Fall 2019 Course](/f19) (Nathan Brunelle and David Evans)  
-[Spring 2020 Course](https://www.cs.virginia.edu/~njb2b/cstheory/s2020) (Nathan Brunelle)
+[Spring 2020 Course](https://www.cs.virginia.edu/~njb2b/cstheory/s2020) (Nathan Brunelle), [Fall 2020 Course](/f20) (Nathan Brunelle and David Evans) (this was a "full lockdown" course, so all the course materials are available as edited videos), [Fall 2021 Course](/f21) (Nathan Brunelle and David Evans), and [Fall 2022 Course](https://www.cs.virginia.edu/~njb2b/cstheory/f2022/index.html).  For a different approach (using a different textbook), see the [Spring 2008](https://www.cs.virginia.edu/~evans/cs302/) course (David Evans).
 
 
 ## Suggestions
