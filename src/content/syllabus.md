@@ -303,9 +303,8 @@ required to read, understand, and sign the course pledge:
 **Collaboration Policy:** We believe it is important for students to
 learn by thinking about problems on their own, so it is expected that
 each student studies the provided materials and attempts to solve the
-problems on their own, before discussing the problems with cohortmates
-at the cohort meeting. You are welcome to also discuss problems on the
-problem sets with students and others.
+problems on their own. After that, you are welcome to also discuss
+problems on the problem sets with students and others.
 
 Many problems in this course will be selected from problems used in
 previous courses, as well as well known problems. The goal of these
@@ -327,12 +326,6 @@ The collaboration policy will be described on each assignment
 # Additional Information
 
 **Special Circumstances:** The University of Virginia strives to provide accessibility to all students. If you require an accommodation to fully access this course, please contact the Student Disability Access Center (SDAC) at (434) 243-5180 or `sdac@virginia.edu`. If you are unsure if you require an accommodation, or to learn more about their services, you may contact the SDAC at the number above or by visiting their website [https://studenthealth.virginia.edu/sdac](https://studenthealth.virginia.edu/sdac)
-
-For this course, we ask that students with special circumstances let
-us know as soon as possible, preferably during the first week of
-class. This will be especially important if there is a reason you
-would not be able to participate fully in a scheduled cohort.
-
 
 **Accommodations:** It is the University's long-standing policy and
   practice to reasonably accommodate students so that they do not
