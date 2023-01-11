@@ -336,17 +336,16 @@ would not be able to participate fully in a scheduled cohort.
 
 **Accommodations:** It is the University's long-standing policy and
   practice to reasonably accommodate students so that they do not
-  experience an adverse academic consequence when sincerely held
-  religious beliefs or observances conflict with academic
-  requirements. Although University policy only recognizes religious
-  accomodations, the course instructors believe they are many other
-  valid reasons for accomdations that are at least as justifiable as
-  ones for religious observance and consider family obligations,
-  personal crises, and extraordinary opportunities to all be
-  potentially valid reasons for accomodations.  Students who wish to
-  request academic accommodation should submit their request in
-  writing to Prof. Brunelle or Prof. Evans as far in advance as
-  possible.
+  experience an adverse academic consequence when serious personal
+  issues conflict with academic requirements. Although University
+  policy only recognizes religious accomodations, the course
+  instructors believe they are many other valid reasons for
+  accomdations that are at least as justifiable as ones for religious
+  observance and consider family obligations, personal crises, and
+  extraordinary opportunities to all be potentially valid reasons for
+  accomodations.  Students who wish to request accommodations should
+  submit their request to Prof. Mahmoody or Prof. Evans as far in
+  advance as possible.
 
 If you have questions or concerns about the University policy on
   academic accommodations for religious observance or religious
