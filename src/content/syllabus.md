@@ -78,7 +78,7 @@ should take the class.
 
 # Course Staff
 
-**Instructors:** The course is co-taught by [Mohammad Mahmoory](https://www.cs.virginia.edu/~mohammad/) (_mohammad@virginia.edu_)
+**Instructors:** The course is co-taught by [Mohammad Mahmoody](https://www.cs.virginia.edu/~mohammad/) (_mohammad@virginia.edu_)
   and [David Evans](https://www.cs.virginia.edu/evans)
   (_evans@virginia.edu_). Feel free to contact either of us with any
   questions about the course, computer science, or anything else you
