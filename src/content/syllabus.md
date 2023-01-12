@@ -86,8 +86,40 @@ should take the class.
   communications to determine if it would be better to post a message
   in discord before emailing us).
 
-**Teaching Assisgants:** See the [Team Page](/team) for all our wise and
-  wonderful teaching assistants. 
+**Teaching Assisants:** 
+
+   <center>
+   <div class="row" style="display:flex; width: 100%; flex-wrap: wrap; justify-content: center; padding: 0.5rem;">
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/missing.png"><br>
+Adam Bornemann</br></div>
+
+
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/johnson.jpeg"><br>
+Catherine Johnson</br></div>
+
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/missing.png"><br>
+Ratik Mathur</br></div>
+</div>
+
+
+   <div class="row" style="display:flex; width: 100%; flex-wrap: wrap; justify-content: center; padding: 0.5rem;">
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/mei.jpeg"><br>
+<a href="https://zihanmei.uvacreate.virginia.edu/index-creative-1.html">
+Zihan Mei
+</a></br></div>
+
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/missing.png"><br>
+Gillian Morrissey</br></div>
+
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/sosnkowshi.png"><br>
+Alexander Sosnkowski
+</div>
+
+   <div class="row" style="display:flex; width: 100%; flex-wrap: wrap; justify-content: center; padding: 0.5rem;">
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/missing.png"><br>
+Claire Yoon</br>
+</div>
+</center>
 
 **Office Hours:** The full office hours schedule will be posted on the
   course site later.
