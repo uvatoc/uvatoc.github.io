@@ -111,7 +111,7 @@ Zihan Mei
    <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/missing.png"><br>
 Gillian Morrissey</br></div>
 
-   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/sosnkowshi.png"><br>
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/sosnkowski.png"><br>
 Alexander Sosnkowski
 </div>
 
