@@ -162,8 +162,7 @@ for interactive communications.
 
 *GradeScope:** TODO: do we need to say anything
 
-TODO: this is from a previous semester - we should decide what we want
-to do this year.
+TODO: do we want to use Discord/Teams/Github discussions?
 
 <!--
 **Discord:** We will use the course discord server for most other
