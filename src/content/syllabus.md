@@ -108,7 +108,7 @@ Ratik Mathur</br></div>
 Zihan Mei
 </a></br></div>
 
-   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/missing.png"><br>
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/morrissey,jpeg"><br>
 Gillian Morrissey</br></div>
 
    <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/sosnkowski.png"><br>
