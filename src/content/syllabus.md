@@ -97,7 +97,7 @@ Adam Bornemann</br></div>
    <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/johnson.jpeg"><br>
 Catherine Johnson</br></div>
 
-   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/missing.png"><br>
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/ratik.jpeg"><br>
 Ratik Mathur</br></div>
 </div>
 
@@ -241,13 +241,13 @@ exams, contact the course instructors immediately.
 ## Grading
 
 We encourage students to spend your energy focusing on what you are
-learning, instead of worrying about your grade. That said, we
-understand students are often stressed about grading and
-understandably want to know where they stand in a class without having
-to rely just on the judgment of the course staff.  We aim to grade in
-a way that is useful (provides students with accurate measure of how
-well they understood what they should), motivating (encourages the
-behaviors we prefer, including hard but not obsessive work), fair
+learning, instead of worrying about your grade. 
+
+That said, we understand students are often stressed about grading and
+understandably want to know how grades will be determined.  We aim to
+grade in a way that is useful (provides students with accurate measure
+of how well they understood what they should), motivating (encourages
+the behaviors we prefer, including hard but not obsessive work), fair
 (assigned higher grades to more deserving students), robust (arbitrary
 small perturbations do not have a material impact on someone's grade),
 and low stress (for both students and the course staff).
@@ -258,55 +258,53 @@ formula that can be used to compute a _lower bound_ on the grade you
 receive in the course:
 
 <center>
-<table class="grades" style="width:75%;">
+<table class="grades" style="width:70%;">
 <thead>
 <tr>
-<th width="50%" style="text-align:center;">Item</th><th width="18%">Minimum Percentage</th>
-<th width="18%">Standard</th>
-<th width="18%">Maximum Percentage</th></thead>
+<th width="30%">Standard Weighting</th>
 <tbody>
-<tr><td>Problem Sets (10 expected)</td><td style="text-align:center;">35%</td> <td style="text-align:center;">45%</td>
-<td style="text-align:center;">70%</td></tr>
+<tr><td>Problem Sets (10 expected)</td><td style="text-align:center;"><b>42%</b> (but with later assignments counting more)</td></tr>
 
-<tr><td>Quizzes (9 expected, with one make-up)</td><td style="text-align:center;">5%</td>
-<td style="text-align:center;">10%</td>
-<td style="text-align:center;">15%</td></tr>
+<tr><td>Quizzes (9 expected, with one make-up)</td>
+<td style="text-align:center;"><b>10%</b></td></tr>
 
-<tr><td>Midterm Exam</td><td style="text-align:center;">15%</td>
-<td style="text-align:center;">20%</td>
-<td style="text-align:center;">30%</td></tr>
+<tr><td>Midterm Exam</td>
+<td style="text-align:center;"><b>18%</b></td></br>
 
-<tr><td>Final Exam</td><td style="text-align:center;">25%</td>
-<td style="text-align:center;">25%</td>
-<td style="text-align:center;">65%</td></tr>
+<tr><td>Final Exam</td>
+<td style="text-align:center;"><b>30%</b></td>
 </tbody>
 </table>
 </center>
 
 
 With the exception of cases of academic dishonesty or inappropriate
-behavior, we guarantee that you will at least receive the minimum
-grade that would result from computing your score using the "Standard"
+behavior, we guarantee that you will a grade that is not below the
+grade that would result from computing your score using the
 percentages in the table, where your score for each item is the ratio
-of the score you received to the target score for that item.  
+of the score you received to the target score for that item, and the
+grading scale is based on the standard decades (e.g., 0.87 = B+, 0.9 =
+A-, 0.93 = A).
 
-In general, though, we want to assign a grade that reflects the best
-possible interpretation of all you have done during the semester. This
-means we consider your performance throughout the course, and will
-examine grades using a variety of different methods that captures
-approximately the ranges above. An “A” grade means we are convinced
-that you can use the material in this class to solve new problems and
-understand it well enough to explain most concepts in the class. A “B”
-grade means we are convinced that you understand the main ideas in
-this class well enough to be well prepared for a follow-on course
-(i.e. one that has this as a pre-requisite).
+This is a _minimum_ grade, though, and we generally want to assign a
+grade that reflects the best possible interpretation of all you have
+done during the semester. This means we consider your performance
+throughout the course, and will examine grades using a variety of
+different methods that weights different aspects differently and
+rewards performance improvements, but also allows consistent
+performance to make up for one slip-up.
+
+An “A” grade means we are convinced that you can use the material in
+this class to solve new problems and understand it well enough to
+explain most concepts in the class. A “B” grade means we are convinced
+that you understand the main ideas in this class well enough to be
+well prepared for a follow-on course (i.e., one that has this as a
+pre-requisite).
 
 Although the material we cover is challenging, and the pace may seem
 overwhelming at times, we are confident that all students who put
 effort into this class and take good advantage of available help will
-do well. Students who do especially outstanding work in the course
-will be offered positions in our research groups.
-
+do well.
 
 <a name="bonus"></a> **Bonus Points.** We hope students will go beyond
 the provided assignments and do other things to contribute to the
