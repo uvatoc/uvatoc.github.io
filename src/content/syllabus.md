@@ -98,7 +98,7 @@ should take the class.
    <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/mohammad.png"><br>
    [Mohammad Mahmoody](https://www.cs.virginia.edu/~mohammad/)</br>
   </div>
-  
+  </div>
 
 **Teaching Assisants:** 
 
