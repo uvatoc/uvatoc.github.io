@@ -153,44 +153,41 @@ from other (freely available) sources.
 
 # Communication
 
-We will primarily use the course website for one-to-many
-communications (posting course materials), and use the course discord
-for interactive communications.
+We will primarily use the course website for posting course materials,
+and use the course discord for interactive communications.
 
 **Course Website:** We will post all course materials at
   [_https://uvatoc.github.io_](https://uvatoc.github.io).
 
-*GradeScope:** TODO: do we need to say anything
+**Course Calendar:** We will keep course deadlines, office hours, and
+  other events on a [public google
+  calendar](https://calendar.google.com/calendar/embed?src=d2af9055ec4c15b05e185e3b6e80a786ea2202dddcea9f48a3dd60604348b9a1%40group.calendar.google.com&ctz=America%2FNew_York">). Students
+  are expected to subscribe to this calendar and be aware of deadlines that are posted there.
 
-TODO: do we want to use Discord/Teams/Github discussions?
-
-<!--
 **Discord:** We will use the course discord server for most other
   course communications (you will receive information on joining the
   server by email). We expect students to receive messages we send to
   the `#general` channel as well as any direct messages we send to you
-  on discord. Each cohort will have a channel on the Discord server.
+  on discord. 
 
 If you have questions about course materials or assignments that will
 be relevant to other students, please ask them in the `#general`
 channel. This will get the fastest response, since all of the course
 staff and students will see your question there and be able to respond
-to it. If you have questions of a personal nature that you only want
-to make to the instructors, please use the course discord to contact
-both of us (`@nateb @DaveE`) in a Direct Message channel instead of
-emailing us independently.
+to it. We are also working to setup channel for asking questions
+anonymously, and will provide more details on this soon.
+
+Although Discord enables "real time" communication, you should not
+expect instant answers to questions there, but should expect a
+response within 24 hours.
 
 **Email:** Managing email for a large class like this is difficult,
-  and we prefer to use the course discord for most communications
-  relevant to the class. You should feel free to use email for
-  messages peripherally related to the course (e.g., emailing an
-  instructor about interest in their research). You should also use
-  email if you post a question on slack but don't receive an adequate
-  response within 24 hours.
--->
+  and you should use the course discord for questions about the course
+  content that are relevant to all students. If you have personal
+  questions or things to discuss with the course staff, please do this
+  by emailing us ([evans@virginia.edu, mohammad@virginia.edu](mailto:evans@virginia.edu,mahmoody@virginia.edu)). 
 
 ## Assignments and Exams
-
 
 **Problem Sets.** Most learning in this course is done by working to
   solve problems on your own and in collaboration with others. We will
