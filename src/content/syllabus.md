@@ -273,6 +273,7 @@ receive in the course:
 <table class="grades" style="width:70%;">
 <thead>
 <tr>
+<th width="70%">Item</th>
 <th width="30%">Standard Weighting</th>
 <tbody>
 <tr><td>Problem Sets (10 expected)</td><td style="text-align:center;"><b>42%</b> (but with later assignments counting more)</td></tr>
