@@ -78,13 +78,27 @@ should take the class.
 
 # Course Staff
 
-**Instructors:** The course is co-taught by [Mohammad Mahmoody](https://www.cs.virginia.edu/~mohammad/) (_mohammad@virginia.edu_)
-  and [David Evans](https://www.cs.virginia.edu/evans)
+**Instructors:** The course is co-taught by [Mohammad
+  Mahmoody](https://www.cs.virginia.edu/~mohammad/)
+  (_mohammad@virginia.edu_) and [David
+  Evans](https://www.cs.virginia.edu/evans)
   (_evans@virginia.edu_). Feel free to contact either of us with any
   questions about the course, computer science, or anything else you
   think we can help with (but please read the section below on
   communications to determine if it would be better to post a message
-  in discord before emailing us).
+  in discord before emailing us). For most course-related questions,
+  it is best if you include both of us in your email.
+
+
+   <center>
+   <div class="row" style="display:flex; width: 100%; flex-wrap: wrap; justify-content: center; padding: 0.5rem;">
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/dave.jpg"><br>
+[David Evans](https://www.cs.virginia.edu/evans)</br></div>
+
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/mohammad.png"><br>
+   [Mohammad Mahmoody](https://www.cs.virginia.edu/~mohammad/)</br>
+  </div>
+  
 
 **Teaching Assisants:** 
 
