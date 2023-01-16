@@ -6,7 +6,7 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,15 @@
 Class meetings will be Tuesdays and Thursdays, 9:30 – 10:45am in Olsson Hall 120.
 We&amp;rsquo;ll be putting more information here about the course as the start of the semester approaches.
 For now, you can see what the course was like in previous semesters from Prof.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://uvatoc.github.io/schedule/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/schedule/</guid>
+      <description> Google Calendar for cs3120</description>
     </item>
     
     <item>
