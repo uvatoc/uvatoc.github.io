@@ -105,20 +105,26 @@ should take the class.
 
    <center>
    <div class="row" style="display:flex; width: 100%; flex-wrap: wrap; justify-content: center; padding: 0.5rem;">
+
    <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/missing.png"><br>
+Leah Baetcke</br></div>
+
+<div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/missing.png"><br>
 Adam Bornemann</br></div>
 
 
    <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/johnson.jpeg"><br>
 Catherine Johnson</br></div>
 
-   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/ratik.jpeg"><br>
-Ratik Mathur</br></div>
 </div>
 
 
    <div class="row" style="display:flex; width: 100%; flex-wrap: wrap; justify-content: center; padding: 0.5rem;">
-   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/mei.jpeg"><br>
+
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/ratik.jpeg"><br>
+Ratik Mathur</br></div>
+
+<div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/mei.jpeg"><br>
 <a href="https://zihanmei.uvacreate.virginia.edu/index-creative-1.html">
 Zihan Mei
 </a></br></div>
@@ -126,12 +132,14 @@ Zihan Mei
    <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/morrissey.jpeg"><br>
 Gillian Morrissey</br></div>
 
-   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/sosnkowski.png"><br>
-Alexander Sosnkowski
 </div>
 
    <div class="row" style="display:flex; width: 100%; flex-wrap: wrap; justify-content: center; padding: 0.5rem;">
-   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/Claire_Yoon.jpeg"><br>
+
+   <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/sosnkowski.png"><br>
+Alexander Sosnkowski
+
+<div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/Claire_Yoon.jpeg"><br>
 Claire Yoon</br>
 </div>
 </center>
