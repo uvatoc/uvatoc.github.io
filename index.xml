@@ -6,7 +6,11 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Class 1</title>
       <link>https://uvatoc.github.io/class1/</link>
@@ -45,7 +49,7 @@ For now, you can see what the course was like in previous semesters from Prof.</
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/schedule/</guid>
-      <description> Google Calendar for cs3120</description>
+      <description> Calendar for cs3120</description>
     </item>
     
     <item>

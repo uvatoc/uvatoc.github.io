@@ -7,7 +7,7 @@ slug = "schedule"
 
    <center>
 <a href="https://calendar.google.com/calendar/embed?src=d2af9055ec4c15b05e185e3b6e80a786ea2202dddcea9f48a3dd60604348b9a1%40group.calendar.google.com&ctz=America%2FNew_York">
-<b>Google Calendar for cs3120</b></a>
+<b>Calendar for cs3120</b></a>
    </center>
 
 <center>
