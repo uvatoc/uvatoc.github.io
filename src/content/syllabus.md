@@ -144,8 +144,7 @@ Claire Yoon</br>
 </div>
 </center>
 
-**Office Hours:** The full office hours schedule will be posted on the
-  course site later.
+**Office Hours:** The full office hours schedule is available on the [course calendar](/schedule).
 
 # Learning Materials
     
