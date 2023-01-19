@@ -139,7 +139,7 @@ Gillian Morrissey</br></div>
    <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/sosnkowski.png"><br>
 Alexander Sosnkowski</br></div>
 
-<div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/Claire_Yoon.jpeg"><br>
+<div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/Claire_Yoon.png"><br>
 Claire Yoon</br>
 </div>
 </center>
