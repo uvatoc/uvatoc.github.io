@@ -46,6 +46,13 @@ you are expected to exemplify these behaviors in cs3120:
   myself to mitigate them, or will inform one of the course
   instructors or another University administrator.
 
+**I will avoid putting myself and others at unnecessary risk or
+  discomfort.** I will follow the University’s pandemic policies. If I
+  have reasons to suspect I might be infected, either due to feeling
+  sick or having close contact with someone who has symptoms or has
+  tested positive, I will not come to class and will notify the
+  instructor for any relevant course issues.
+
 **I will care for myself physically and emotionally.** Staying
   stationary and working at home can make it difficult to maintain
   your physical and emotional well-being. I will ensure that whatever
