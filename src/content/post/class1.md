@@ -1,5 +1,5 @@
 +++
-date = "19 Jan 2022"
+date = "19 Jan 2023"
 draft = false
 title = "Class 1"
 author = "Course Staff"
