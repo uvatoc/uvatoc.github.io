@@ -109,7 +109,7 @@ should take the class.
    <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/leah.jpeg"><br>
 Leah Baetcke</br></div>
 
-<div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/adam.jpeg"><br>
+<div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/adam.jpg"><br>
 Adam Bornemann</br></div>
 
 
