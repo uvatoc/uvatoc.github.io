@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://uvatoc.github.io/ps1/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uvatoc.github.io/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://uvatoc.github.io/class1/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +24,6 @@
   
   <url>
     <loc>https://uvatoc.github.io/pledge/</loc>
-    <lastmod>2023-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uvatoc.github.io/</loc>
     <lastmod>2023-01-17T00:00:00+00:00</lastmod>
   </url>
   

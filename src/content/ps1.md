@@ -1,6 +1,6 @@
 +++
-date = "22 Jan 2023"
-draft = true
+date = "23 Jan 2023"
+draft = false
 title = "Problem Set 1"
 slug = "ps1"
 +++
