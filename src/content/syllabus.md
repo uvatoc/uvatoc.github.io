@@ -277,11 +277,11 @@ formula that can be used to compute a _lower bound_ on the grade you
 receive in the course:
 
 <center>
-<table class="grades" style="width:70%;">
+<table class="grades" style="width:85%;">
 <thead>
 <tr>
-<th width="70%">Item</th>
-<th width="30%">Standard Weighting</th>
+<th width="60%">Item</th>
+<th width="40%">Standard Weighting</th>
 <tbody>
 <tr><td>Problem Sets (10 expected)</td><td style="text-align:center;"><b>42%</b> (but with later assignments counting more)</td></tr>
 
