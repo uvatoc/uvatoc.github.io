@@ -36,6 +36,7 @@ develop:
 github: html
 	cp -r ./docs ./public/
 	cp -r ./images ./public/
+	cp -r ./ps ./public/
 	cp -r ./public/* ../
 	rm -r ./public
 	git add -A :/; git commit -m "Rebuilt site" ; git push
