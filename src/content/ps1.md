@@ -15,9 +15,10 @@ code with formatted text.
 
 ## Getting Started with Jupyter
 
-The [ps1.zip](/ps/ps1.zip) file includes `ps1.ipynb`, a Jupyter
-notebook which combines text (in Markdown format) and executable
-Python code.
+Download the [`ps1.ipynb`](/ps/ps1.ipynb) file, a Jupyter notebook
+which combines text (in Markdown format) and executable Python
+code. You can see a [preview of this file](/ps/ps1-notebook.html)
+here, but to execute it you will need to run it as a Jupyter notebook.
 
 To execute and edit the Jupyter notebook, you will need to install
 jupyter.
