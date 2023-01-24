@@ -9,19 +9,19 @@ slug = "schedule"
 
 **Mondays**  
 9:30 - 10:30am (Dave, Rice 507)  
-1:00 - 3:00pm (Gillian, Rice 442)
+1:00 - 3:00pm (Gillian, Rice 442)  
 1:30 - 3:00pm (Ratik, Rice 442)  
 3:30-5:30pm (Catherine, Rice 442)  
 
 **Tuesdays**  
 11:00am - noon (Dave, after class to Rice 507)  
-3:00 - 5:00pm (Leah, Rice 442)
+3:00 - 5:00pm (Leah, Rice 442)  
 4:00 - 6:00pm (Zihan, Rice 442)
 
 **Wednesdays**  
-12:30 - 2:30pm (Catherine, Rice 442)
-2:00 - 3:00pm (Ratik, Rice 442)
-3:00 - 5:00pm (Alex, Rice 442)
+12:30 - 2:30pm (Catherine, Rice 442)  
+2:00 - 3:00pm (Ratik, Rice 442)  
+3:00 - 5:00pm (Alex, Rice 442)  
 
 **Thursdays**  
 3:00 - 5:00pm (Leah, Rice 442)
@@ -31,7 +31,7 @@ slug = "schedule"
 2:00 - 4:00pm (Alex, Rice 442)
 
 **Sundays**  
-10:00am - 1:00pm (Claire, Rice 442)
+10:00am - 1:00pm (Claire, Rice 442)  
 1:00 - 3:00pm (Gillian, Rice 442)
 
 ## Course Calendar
