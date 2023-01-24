@@ -15,6 +15,7 @@ slug = "schedule"
 
 **Tuesdays**  
 11:00am - noon (Dave, after class to Rice 507)  
+1:00 - 2:00pm (Mohammad, Rice 511)  
 3:00 - 5:00pm (Leah, Rice 442)  
 4:00 - 6:00pm (Zihan, Rice 442)
 
@@ -24,6 +25,7 @@ slug = "schedule"
 3:00 - 5:00pm (Alex, Rice 442)  
 
 **Thursdays**  
+11:00am - noon (Mohammad, after class to Rice 511)  
 3:00 - 5:00pm (Leah, Rice 442)
 4:00 - 6:00pm (Zihan, Rice 442)
 
