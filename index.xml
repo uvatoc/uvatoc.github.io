@@ -17,8 +17,18 @@
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps1/</guid>
-      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on pencil-and-paper and writeup using the latex template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
-Getting Started with Jupyter Download the ps1.ipynb file, a Jupyter notebook which combines text (in Markdown format) and executable Python code.</description>
+      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on ``pencil-and-paper&amp;rsquo;&amp;rsquo; and writeup using the LaTeX template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
+LaTeX Problems Problem Set 1 (you should find the link to the overleaf template in gradescope and follow the directions in the PDF to get started)</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 1 Posted</title>
+      <link>https://uvatoc.github.io/problem-set-1-posted/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/problem-set-1-posted/</guid>
+      <description>Problem Set 1 is now posted and due on Monday, 30 January (9:59pm).
+You should be able to access the problem set through gradescope, and you will need to submit your answers there.</description>
     </item>
     
     <item>

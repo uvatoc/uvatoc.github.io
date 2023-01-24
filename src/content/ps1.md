@@ -8,10 +8,14 @@ slug = "ps1"
 <center>Due: <b>Monday, 30 January, 9:59pm</b></center> 
 
 This problem set includes problems that you will do on
-pencil-and-paper and writeup using the latex template we provide, and
-problems that involve programming that you will do using a Jupyter
+``pencil-and-paper'' and writeup using the LaTeX template we provide,
+and problems that involve programming that you will do using a Jupyter
 notebook, a convenient way to edit and run Python code and integrate
 code with formatted text.
+
+## LaTeX Problems
+
+[Problem Set 1](/ps/ps1.pdf) (you should find the link to the overleaf template in gradescope and follow the directions in the PDF to get started)
 
 ## Getting Started with Jupyter
 

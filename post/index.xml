@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Problem Set 1 Posted</title>
+      <link>https://uvatoc.github.io/problem-set-1-posted/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/problem-set-1-posted/</guid>
+      <description>Problem Set 1 is now posted and due on Monday, 30 January (9:59pm).
+You should be able to access the problem set through gradescope, and you will need to submit your answers there.</description>
+    </item>
     
     <item>
       <title>Class 1</title>
