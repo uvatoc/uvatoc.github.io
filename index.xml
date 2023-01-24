@@ -42,6 +42,23 @@ I will not lie, cheat or steal. If I am unsure whether something would be consid
     </item>
     
     <item>
+      <title>Schedule</title>
+      <link>https://uvatoc.github.io/schedule/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/schedule/</guid>
+      <description>Weekly Office Hours Mondays
+9:30 - 10:30am (Dave, Rice 507)
+1:00 - 3:00pm (Gillian, Rice 442) 1:30 - 3:00pm (Ratik, Rice 442)
+3:30-5:30pm (Catherine, Rice 442)
+Tuesdays 11:00am - noon (Dave, after class to Rice 507)
+3:00 - 5:00pm (Leah, Rice 442) 4:00 - 6:00pm (Zihan, Rice 442)
+Wednesdays
+12:30 - 2:30pm (Catherine, Rice 442) 2:00 - 3:00pm (Ratik, Rice 442) 3:00 - 5:00pm (Alex, Rice 442)
+Thursdays 3:00 - 5:00pm (Leah, Rice 442) 4:00 - 6:00pm (Zihan, Rice 442)</description>
+    </item>
+    
+    <item>
       <title>Welcome to Theory of Computation</title>
       <link>https://uvatoc.github.io/welcome/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
@@ -51,15 +68,6 @@ I will not lie, cheat or steal. If I am unsure whether something would be consid
 Class meetings will be Tuesdays and Thursdays, 9:30 – 10:45am in Olsson Hall 120.
 We&amp;rsquo;ll be putting more information here about the course as the start of the semester approaches.
 For now, you can see what the course was like in previous semesters from Prof.</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>https://uvatoc.github.io/schedule/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://uvatoc.github.io/schedule/</guid>
-      <description> Calendar for cs3120</description>
     </item>
     
     <item>
