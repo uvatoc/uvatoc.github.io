@@ -31,10 +31,10 @@ other useful resources for material that is covered in DMT1 are
 [forall _x_ (Solutions Booklet from University of Calgary)](http://forallx.openlogicproject.org/solutions/forallxsol.pdf) (P. D. Magnus and Tim Button)
 
 Here are some other materials from DMT1 that may be useful:
-- [Sets Primer](https://www.cs.virginia.edu/~emo7bf/cs2120/sets.html)
-- [Proof Techniques](https://www.cs.virginia.edu/~emo7bf/cs2120/techniques.html) 
-- [Proof Style Guides](http://www.cs.virginia.edu/~emo7bf/cs2120/proofs.html)
-- [Glossary of Terms](http://www.cs.virginia.edu/~emo7bf/cs2120/glossary.html)
+- [Sets Primer](http://www.cs.virginia.edu/luther/DMT1/S2020/sets.html) (from Luther Tychonievich)
+- [Proof Techniques](http://www.cs.virginia.edu/luther/DMT1/S2020/techniques-q8.html)
+- [Proof Style Guides](http://www.cs.virginia.edu/luther/DMT1/S2020/proofs.html)
+- [Glossary of Terms](http://www.cs.virginia.edu/luther/DMT1/S2020/glossary.html)
 
 Harry Porter's [Theory of Computation: Background
 Knowledge](https://www.youtube.com/watch?v=TOsMcgIK95k) (video) (you

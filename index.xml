@@ -6,7 +6,11 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Class 2</title>
       <link>https://uvatoc.github.io/class2/</link>
@@ -24,7 +28,7 @@ Slides from class: class2.pdf (video is available for students in collab)</descr
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps1/</guid>
-      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on ``pencil-and-paper&#39;&#39; and writeup using the LaTeX template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
+      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on ``pencil-and-paper&amp;rsquo;&amp;rsquo; and writeup using the LaTeX template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
 LaTeX Problems Problem Set 1 (you should find the link to the overleaf template in gradescope and follow the directions in the PDF to get started)</description>
     </item>
     
