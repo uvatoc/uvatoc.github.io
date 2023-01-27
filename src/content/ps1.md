@@ -15,7 +15,9 @@ code with formatted text.
 
 ## LaTeX Problems
 
-[Problem Set 1](/ps/ps1.pdf) (you should find the link to the overleaf template in gradescope and follow the directions in the PDF to get started)
+To start PS1, visit the overleaf repository using this link:
+[https://www.overleaf.com/read/qzzjybkydrmv](https://www.overleaf.com/read/qzzjybkydrmv). This
+provides the template for you to use to provide your answers.
 
 ## Getting Started with Jupyter
 
