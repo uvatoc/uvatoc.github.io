@@ -50,7 +50,11 @@ to get started. This will start the jupyter local server and open the notebook i
 
 Follow the directions there, and complete the assignment by editing this file.
 
-### TODO
+### Submitting Problem Set 1
 
-How to submit using Gradescope
-what do we want them to submit for notebook
+To submit problem set 1, you will need to upload your PDF from the
+latex template and your Jupyter notebook as separate assignments in
+GradeScope. You should submit the PDF for the "Problem Set 1"
+assignment as a PDF upload, and the Jupyter file for the "Problem set
+1 (programming part)" assignment.
+
