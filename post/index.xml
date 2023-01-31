@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problem Set 2 Posted</title>
+      <link>https://uvatoc.github.io/problem-set-2-posted/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/problem-set-2-posted/</guid>
+      <description>Problem Set 2 is now posted and due on Monday, 6 February (9:59pm).
+The latex template for Problem Set 2 is here: https://www.overleaf.com/2897292827dgqftkvvnkcd
+The problems PDF is: ps2.pdf.</description>
+    </item>
+    
     <item>
       <title>Class 3: What can be represented by bits?</title>
       <link>https://uvatoc.github.io/class3/</link>
