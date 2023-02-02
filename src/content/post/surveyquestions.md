@@ -227,8 +227,8 @@ be found, "Humphrey 2" survived about 2 days, but "Micee" lasted
 nearly a year, which I guess is pretty good for a hamster).
 
 <center>
-<img src="/images/hamster.jpg" width="70%"><br>
-
+<img src="/images/hamster.jpg" width="70%"><br></br>
+<p></p>
 <img src="/images/hamster2.jpg" width="90%"><br>
 </center>
 
