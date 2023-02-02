@@ -217,7 +217,9 @@ class.
 > _How many proofs will we write?_
 
 The number of proofs you write will be countable, and I can even
-promise it will be finite!
+promise it will be finite (although you may consider proof-generating
+systems that can generate a countably infinite, but not uncountable,
+number of proofs)!
 
 > _Do the instructors have any pets? Would love to see some pictures of them :)_
 
