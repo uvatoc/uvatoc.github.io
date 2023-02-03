@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/fonts.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/finite.css">
     <link rel="shortcut icon" href="/images/uva.png">  
-    {{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
+    {{ partial "katex.html" . }}
     {{ end }}
   </head>
   <body>
