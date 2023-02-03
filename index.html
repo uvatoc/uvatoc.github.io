@@ -101,6 +101,12 @@ Theory of Computation<br>
 
    
    <div class="posttitle">
+      <a href="/on-mappings/">On Mappings</a>
+
+
+   </div>
+   
+   <div class="posttitle">
       <a href="/class5/">Class 5: Defining Computation</a>
 
 
@@ -214,9 +220,69 @@ Theory of Computation<br>
     
         
     
+        
+    
 
 
     
+    
+    <h1><a href="/on-mappings/">On Mappings</a></h1>
+<div class="post-metadata">
+  <span class="post-date">
+    <time datetime="2023-02-03 00:00:00 &#43;0000 UTC" itemprop="datePublished">3 February 2023</time>
+  </span>
+  
+</div>
+
+      <div class="post-body" itemprop="articleBody">
+        <p>As discussed in <a href="/class5">Class 5</a>, there was a problem on Quiz 2 that
+both the professors got wrong probably more than once.</p>
+<p>Although it was meant to be a fairly straightforward multiple choice
+question, it illustrates how tricky it is to think about the
+subtleties of simple definitions on binary relations and the
+importance of precise definitions.</p>
+<p>The question, as asked on Quiz 2 is below:</p>
+<p><strong>Question 2: Notions of Relations</strong></p>
+<p>Which of the following are true statements for <em>all</em> sets \(X\) and \(Y\)? Choose all that are correct:</p>
+<ol>
+<li>If there is a bijection between sets \(X,Y\), then there is an injective \((\le 1\) in) function (\(\le 1 \) out) from \(X\) to \(Y\).</li>
+<li>If there is a partial function from \(X\) to \(Y\), then there is surjective mapping \((\ge 1\) in) from \(Y\) to \(X\).</li>
+<li>There is a total (\( \ge 1\) out) function from \(Y\) to \(X\) if and only if there is a surjective mapping from \(X\) to \(Y\).</li>
+<li>If there is a surjective total function from \(X\) to \(Y\), then there is an injective mapping from \(X\) to \(Y\).</li>
+</ol>
+<p>In class, we decided that choice 1 was definitely correct, but there
+was some doubt on the other three choices and confusion about the
+meaning of <em>mapping</em> which we didn&rsquo;t define (the TCS book uses the
+term mapping frequently, but does not formally define it; the <a href="https://uvacs2102.github.io/docs/mcs.pdf">MCS
+(cs2102) book</a>, uses
+&ldquo;Mapping Rules&rdquo; to talk about different kinds of binary relations;
+according to
+<a href="https://en.wikipedia.org/wiki/Map_(mathematics)">wikipedia</a>, mapping
+usually means &ldquo;total function&rdquo;, and &ldquo;partial map&rdquo; is used ot mean
+&ldquo;partial function&rdquo;).</p>
+<p>Assuming &ldquo;mapping&rdquo; means &ldquo;total function&rdquo;, we believe statements 2, 3,
+and 4 are all false.</p>
+<p>If &ldquo;mapping&rdquo; means &ldquo;binary relation&rdquo; (which does not add any
+constraints), then statements 2 and 4 are true, and statement 3 is
+false.</p>
+<p>We&rsquo;ll leave it as a <span class="challenge">challenge problem</span>
+for students to come up with some other non-crazy interpretation of
+&ldquo;mapping&rdquo; that would make any other combination of these statements
+true. (By &ldquo;non-crazy&rdquo;, we mean it has to be a definition that makes at
+least some sense in a general context, not being specifically
+contrived to have different meanings based on the question specifics.)</p>
+<p>The way challenge problems work is the first student to provide a
+solution the professors this is interesting and valuable enough in
+response to the challenge will receive bonus points (in an amount that
+it totally at our discretion, but might be as much as a full problem
+set or more); once a solution has been accepted, the challenge isn&rsquo;t
+necessarily closed, but for a subsequent solution to also receive a
+bonus it would have to offer substantial value beyond the first
+accepted solution.</p>
+
+      </div>
+<hr class="post-separator"></hr>
+
     
     <h1><a href="/class5/">Class 5: Defining Computation</a></h1>
 <div class="post-metadata">

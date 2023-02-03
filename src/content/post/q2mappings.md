@@ -1,6 +1,6 @@
 +++
 date = "03 Feb 2023"
-draft = true
+draft = false
 title = "On Mappings"
 author = "Course Staff"
 katex = true
