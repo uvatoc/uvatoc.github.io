@@ -1,7 +1,7 @@
 +++
-date = "02 Feb 2023"
+date = "03 Feb 2023"
 draft = true
-title = "Fixing Q2 from Quiz 2"
+title = "On Mappings"
 author = "Course Staff"
 katex = true
 +++
@@ -43,12 +43,21 @@ If "mapping" means "binary relation" (which does not add any
 constraints), then statements 2 and 4 are true, and statement 3 is
 false.
 
-We'll leave it as a challenge problem for students to come up with
-some other non-crazy interpretation of "mapping" that would make any
-other combination of these statements true. (By "non-crazy", we mean
-it has to be a definition that makes at least some sense in a general
-context, not being specifically contrived to have different meanings
-based on the question specifics.)
+We'll leave it as a <span class="challenge">challenge problem</span>
+for students to come up with some other non-crazy interpretation of
+"mapping" that would make any other combination of these statements
+true. (By "non-crazy", we mean it has to be a definition that makes at
+least some sense in a general context, not being specifically
+contrived to have different meanings based on the question specifics.)
+
+The way challenge problems work is the first student to provide a
+solution the professors this is interesting and valuable enough in
+response to the challenge will receive bonus points (in an amount that
+it totally at our discretion, but might be as much as a full problem
+set or more); once a solution has been accepted, the challenge isn't
+necessarily closed, but for a subsequent solution to also receive a
+bonus it would have to offer substantial value beyond the first
+accepted solution.
 
 
 
