@@ -2,7 +2,7 @@
 <html class="no-js" lang="en-us">
   <head>
     <meta charset="utf-8">
-    <title>Problem Set 1 | Theory of Computation</title>
+    <title>On Mappings | Theory of Computation</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -67,54 +67,80 @@
     
     <main>
       
-
-<div class="content">
+<div class="row" style="padding-top: 16pt;">
+  <div class="column small-12 medium-10 medium-offset-1 end large-8 large-offset-0">
     <article class="article" itemscope itemtype="http://schema.org/Article">
-      <h1 itemprop="name" class="pagetitle">Problem Set 1</h1>
+      
+      <h1 itemprop="name">On Mappings</h1>
+      <div class="post-metadata">
+  <span class="post-date">
+    <time datetime="2023-02-03 00:00:00 &#43;0000 UTC" itemprop="datePublished">3 February 2023</time>
+  </span>
+  
+</div>
+
       <div class="post-body" itemprop="articleBody">
-        <center>Due: <b>Monday, 30 January, 9:59pm</b></center> 
-<p>This problem set includes problems that you will do on
-``pencil-and-paper'' and writeup using the LaTeX template we provide,
-and problems that involve programming that you will do using a Jupyter
-notebook, a convenient way to edit and run Python code and integrate
-code with formatted text.</p>
-<h2 id="latex-problems">LaTeX Problems</h2>
-<p>To start PS1, visit the overleaf repository using this link:
-<a href="https://www.overleaf.com/read/qzzjybkydrmv">https://www.overleaf.com/read/qzzjybkydrmv</a>. This
-provides the template for you to use to provide your answers.</p>
-<h2 id="getting-started-with-jupyter">Getting Started with Jupyter</h2>
-<p>Download the <a href="/ps/ps1.ipynb"><code>ps1.ipynb</code></a> file, a Jupyter notebook
-which combines text (in Markdown format) and executable Python
-code. You can see a <a href="/ps/ps1-notebook.html">preview of this file</a>
-here, but to execute it you will need to run it as a Jupyter notebook.</p>
-<p>To execute and edit the Jupyter notebook, you will need to install
-jupyter.</p>
-<p>Visit <a href="https://jupyter.org/">https://jupyter.org/</a> and follow the directions at
-<a href="https://jupyter.org/install">https://jupyter.org/install</a> to install jupyter on your
-machine. If you already have Python installed, this should just
-involve running:</p>
-<pre><code>pip install jupyterlab
-</code></pre><p>If you don&rsquo;t have Python installed, you&rsquo;ll need to install Python
-first. See <a href="https://www.python.org/">python.org</a> for information on installing Python.</p>
-<p>Once you’ve installed Jupyter, run</p>
-<pre><code>jupyter notebook ps1.ipynb
-</code></pre><p>to get started. This will start the jupyter local server and open the notebook in your web browser.</p>
-<p>Follow the directions there, and complete the assignment by editing this file.</p>
-<h3 id="submitting-problem-set-1">Submitting Problem Set 1</h3>
-<p>To submit problem set 1, you will need to upload your PDF from the
-latex template and your Jupyter notebook as separate assignments in
-GradeScope. You should submit the PDF for the &ldquo;Problem Set 1&rdquo;
-assignment as a PDF upload, and the Jupyter file for the &ldquo;Problem set
-1 (programming part)&rdquo; assignment.</p>
+        <p>As discussed in <a href="/class5">Class 5</a>, there was a problem on Quiz 2 that
+both the professors got wrong probably more than once.</p>
+<p>Although it was meant to be a fairly straightforward multiple choice
+question, it illustrates how tricky it is to think about the
+subtleties of simple definitions on binary relations and the
+importance of precise definitions.</p>
+<p>The question, as asked on Quiz 2 is below:</p>
+<p><strong>Question 2: Notions of Relations</strong></p>
+<p>Which of the following are true statements for <em>all</em> sets \(X\) and \(Y\)? Choose all that are correct:</p>
+<ol>
+<li>If there is a bijection between sets \(X,Y\), then there is an injective \((\le 1\) in) function (\(\le 1 \) out) from \(X\) to \(Y\).</li>
+<li>If there is a partial function from \(X\) to \(Y\), then there is surjective mapping \((\ge 1\) in) from \(Y\) to \(X\).</li>
+<li>There is a total (\( \ge 1\) out) function from \(Y\) to \(X\) if and only if there is a surjective mapping from \(X\) to \(Y\).</li>
+<li>If there is a surjective total function from \(X\) to \(Y\), then there is an injective mapping from \(X\) to \(Y\).</li>
+</ol>
+<p>In class, we decided that choice 1 was definitely correct, but there
+was some doubt on the other three choices and confusion about the
+meaning of <em>mapping</em> which we didn&rsquo;t define (the TCS book uses the
+term mapping frequently, but does not formally define it; the <a href="https://uvacs2102.github.io/docs/mcs.pdf">MCS
+(cs2102) book</a>, uses
+&ldquo;Mapping Rules&rdquo; to talk about different kinds of binary relations;
+according to
+<a href="https://en.wikipedia.org/wiki/Map_(mathematics)">wikipedia</a>, mapping
+usually means &ldquo;total function&rdquo;, and &ldquo;partial map&rdquo; is used ot mean
+&ldquo;partial function&rdquo;).</p>
+<p>Assuming &ldquo;mapping&rdquo; means &ldquo;total function&rdquo;, we believe statements 2, 3,
+and 4 are all false.</p>
+<p>If &ldquo;mapping&rdquo; means &ldquo;binary relation&rdquo; (which does not add any
+constraints), then statements 2 and 4 are true, and statement 3 is
+false.</p>
+<p>We&rsquo;ll leave it as a <span class="challenge">challenge problem</span>
+for students to come up with some other non-crazy interpretation of
+&ldquo;mapping&rdquo; that would make any other combination of these statements
+true. (By &ldquo;non-crazy&rdquo;, we mean it has to be a definition that makes at
+least some sense in a general context, not being specifically
+contrived to have different meanings based on the question specifics.)</p>
+<p>The way challenge problems work is the first student to provide a
+solution the professors this is interesting and valuable enough in
+response to the challenge will receive bonus points (in an amount that
+it totally at our discretion, but might be as much as a full problem
+set or more); once a solution has been accepted, the challenge isn&rsquo;t
+necessarily closed, but for a subsequent solution to also receive a
+bonus it would have to offer substantial value beyond the first
+accepted solution.</p>
 
       </div>
 
-      <meta itemprop="wordCount" content="275">
-      <meta itemprop="datePublished" content="2023-01-23">
-      <meta itemprop="url" content="https://uvatoc.github.io/ps1/">
+      <meta itemprop="wordCount" content="444">
+      <meta itemprop="datePublished" content="2023-02-03">
+      <meta itemprop="url" content="https://uvatoc.github.io/on-mappings/">
     </article>
-</div>
 
+    <ul class="pagination" role="navigation" aria-label="Pagination">
+      
+      <li class="arrow" aria-disabled="true"><a href="https://uvatoc.github.io/class5/">&laquo; <em>Previous<span class="show-for-sr"> page</span></em>: Class 5: Defining Computation</a></li>
+      
+      
+    </ul>
+
+  </div>
+</div>
 
     </main>
     

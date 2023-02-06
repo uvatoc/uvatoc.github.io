@@ -802,6 +802,12 @@ blockquote, blockquote p {
     width: 800;
 }
 
+.challenge {
+    background-color: var(--highlight-color);
+    color: gold;
+    font-weight: 800;
+}
+
 .takeabreak {
     background-color: var(--tb-color);
     color: var(--inverse-color);

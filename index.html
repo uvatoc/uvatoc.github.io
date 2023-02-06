@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en-us">
   <head>
-	<meta name="generator" content="Hugo 0.71.0" />
+	<meta name="generator" content="Hugo 0.87.0" />
     <meta charset="utf-8">
     <title>Theory of Computation</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -14,7 +14,15 @@
     <link rel="stylesheet" href="https://uvatoc.github.io/css/fonts.css">
     <link rel="stylesheet" href="https://uvatoc.github.io/css/finite.css">
     <link rel="shortcut icon" href="/images/uva.png">  
-    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin="anonymous"></script>
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
+
     
   </head>
   <body>
@@ -91,6 +99,12 @@ Theory of Computation<br>
    <p>
    <b><a href="/post/">Recent Posts</a></b>
 
+   
+   <div class="posttitle">
+      <a href="/on-mappings/">On Mappings</a>
+
+
+   </div>
    
    <div class="posttitle">
       <a href="/class5/">Class 5: Defining Computation</a>
@@ -206,9 +220,69 @@ Theory of Computation<br>
     
         
     
+        
+    
 
 
     
+    
+    <h1><a href="/on-mappings/">On Mappings</a></h1>
+<div class="post-metadata">
+  <span class="post-date">
+    <time datetime="2023-02-03 00:00:00 &#43;0000 UTC" itemprop="datePublished">3 February 2023</time>
+  </span>
+  
+</div>
+
+      <div class="post-body" itemprop="articleBody">
+        <p>As discussed in <a href="/class5">Class 5</a>, there was a problem on Quiz 2 that
+both the professors got wrong probably more than once.</p>
+<p>Although it was meant to be a fairly straightforward multiple choice
+question, it illustrates how tricky it is to think about the
+subtleties of simple definitions on binary relations and the
+importance of precise definitions.</p>
+<p>The question, as asked on Quiz 2 is below:</p>
+<p><strong>Question 2: Notions of Relations</strong></p>
+<p>Which of the following are true statements for <em>all</em> sets \(X\) and \(Y\)? Choose all that are correct:</p>
+<ol>
+<li>If there is a bijection between sets \(X,Y\), then there is an injective \((\le 1\) in) function (\(\le 1 \) out) from \(X\) to \(Y\).</li>
+<li>If there is a partial function from \(X\) to \(Y\), then there is surjective mapping \((\ge 1\) in) from \(Y\) to \(X\).</li>
+<li>There is a total (\( \ge 1\) out) function from \(Y\) to \(X\) if and only if there is a surjective mapping from \(X\) to \(Y\).</li>
+<li>If there is a surjective total function from \(X\) to \(Y\), then there is an injective mapping from \(X\) to \(Y\).</li>
+</ol>
+<p>In class, we decided that choice 1 was definitely correct, but there
+was some doubt on the other three choices and confusion about the
+meaning of <em>mapping</em> which we didn&rsquo;t define (the TCS book uses the
+term mapping frequently, but does not formally define it; the <a href="https://uvacs2102.github.io/docs/mcs.pdf">MCS
+(cs2102) book</a>, uses
+&ldquo;Mapping Rules&rdquo; to talk about different kinds of binary relations;
+according to
+<a href="https://en.wikipedia.org/wiki/Map_(mathematics)">wikipedia</a>, mapping
+usually means &ldquo;total function&rdquo;, and &ldquo;partial map&rdquo; is used ot mean
+&ldquo;partial function&rdquo;).</p>
+<p>Assuming &ldquo;mapping&rdquo; means &ldquo;total function&rdquo;, we believe statements 2, 3,
+and 4 are all false.</p>
+<p>If &ldquo;mapping&rdquo; means &ldquo;binary relation&rdquo; (which does not add any
+constraints), then statements 2 and 4 are true, and statement 3 is
+false.</p>
+<p>We&rsquo;ll leave it as a <span class="challenge">challenge problem</span>
+for students to come up with some other non-crazy interpretation of
+&ldquo;mapping&rdquo; that would make any other combination of these statements
+true. (By &ldquo;non-crazy&rdquo;, we mean it has to be a definition that makes at
+least some sense in a general context, not being specifically
+contrived to have different meanings based on the question specifics.)</p>
+<p>The way challenge problems work is the first student to provide a
+solution the professors this is interesting and valuable enough in
+response to the challenge will receive bonus points (in an amount that
+it totally at our discretion, but might be as much as a full problem
+set or more); once a solution has been accepted, the challenge isn&rsquo;t
+necessarily closed, but for a subsequent solution to also receive a
+bonus it would have to offer substantial value beyond the first
+accepted solution.</p>
+
+      </div>
+<hr class="post-separator"></hr>
+
     
     <h1><a href="/class5/">Class 5: Defining Computation</a></h1>
 <div class="post-metadata">
@@ -219,7 +293,7 @@ Theory of Computation<br>
 </div>
 
       <div class="post-body" itemprop="articleBody">
-        <p>Slides from class: <a href="ohttps://www.dropbox.com/s/qebzsemfh75y8h3/class5.pdf?dl=0">class5.pdf</a>
+        <p>Slides from class: <a href="https://www.dropbox.com/s/qebzsemfh75y8h3/class5.pdf?dl=0">class5.pdf</a>
 (video is available for students in collab)</p>
 <p><a href="/problem-set-2-posted">Problem Set 2</a> is due Monday, 9:59pm.</p>
 
@@ -548,7 +622,7 @@ simplify them.)</p>
       <div class="post-body" itemprop="articleBody">
         <p>Problem Set 2 is now posted and due on <strong>Monday, 6 February (9:59pm)</strong>.</p>
 <p>The latex template for Problem Set 2 is here:
-<a href="https://www.overleaf.com/2897292827dgqftkvvnkcd">https://www.overleaf.com/2897292827dgqftkvvnkcd</a></p>
+<a href="https://www.overleaf.com/read/rzzzgwrfmmwh">https://www.overleaf.com/read/rzzzgwrfmmwh</a></p>
 <p>The problems PDF is: <a href="/ps/ps2.pdf">ps2.pdf</a>.</p>
 
       </div>
