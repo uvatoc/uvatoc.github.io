@@ -33,7 +33,6 @@ slug = "schedule"
 2:00 - 4:00pm (Alex, Rice 442)
 
 **Sundays**  
-10:00am - 1:00pm (Claire, Rice 442)  
 1:00 - 3:00pm (Gillian, Rice 442)
 
 ## Course Calendar
