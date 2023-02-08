@@ -7,6 +7,8 @@ slug = "schedule"
 
 ## Weekly Office Hours
 
+Check the calendar below to confirm in case there are any changes this week.
+
 **Mondays**  
 9:30 - 10:30am (Dave, Rice 507)  
 1:00 - 3:00pm (Gillian, Rice 442)  
