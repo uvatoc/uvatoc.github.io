@@ -6,10 +6,17 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 7: Universal Circuits</title>
+      <link>https://uvatoc.github.io/class7/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class7/</guid>
+      <description>Slides from class: class7.pdf (video is available for students in collab)
+Problem Set 3 (Overleaf, Jupyter) is due Monday, 13 February, 9:59pm.
+As was pointed out to me by an intrepid student after class, what I said about { OR, NOT } being not universal is badly wrong! One easy way to see this is we know we can convert between { AND, NOT } and { OR, NOT } using De Morgan&amp;rsquo;s laws, so we can construct AND from { OR, NOT }.</description>
+    </item>
     
     <item>
       <title>Class 6: Modeling Boolean Circuits</title>
@@ -101,7 +108,7 @@ Slides from class: class2.pdf (video is available for students in collab)</descr
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps1/</guid>
-      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on ``pencil-and-paper&amp;rsquo;&amp;rsquo; and writeup using the LaTeX template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
+      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on ``pencil-and-paper&#39;&#39; and writeup using the LaTeX template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
 LaTeX Problems To start PS1, visit the overleaf repository using this link: https://www.overleaf.com/read/qzzjybkydrmv. This provides the template for you to use to provide your answers.</description>
     </item>
     
