@@ -15,7 +15,7 @@
       <guid>https://uvatoc.github.io/class7/</guid>
       <description>Slides from class: class7.pdf (video is available for students in collab)
 Problem Set 3 (Overleaf, Jupyter) is due Monday, 13 February, 9:59pm.
-As was pointed out to me by an intrepid student after class, what I said about { OR, NOT } being not universal is badly wrong! One easy way to see this is we know we can convert between { AND, NOT } and { OR, NOT } using De Morgan&amp;rsquo;s laws, so we can construct AND from { OR, NOT }.</description>
+As was pointed out to me by an intrepid student after class, what I said about { OR, NOT } being not universal since we included AND in our AON Circuits is badly wrong! One easy way to see this is we know we can convert between { AND, NOT } and { OR, NOT } using De Morgan&amp;rsquo;s laws, so we can construct AND from { OR, NOT }.</description>
     </item>
     
     <item>
