@@ -19,4 +19,4 @@ laws, so we can construct AND from { OR, NOT }. Although it seems
 disturbing that we are focusing on { AND, OR, NOT }, and it is not a
 minimal universal gate set, we already knew this from showing that {
 NAND } is univeral (and obviously, we can build NAND with just { AND,
-NOT }.
+NOT }).
