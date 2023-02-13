@@ -7,7 +7,7 @@ slug = "syllabus"
 
    <div class="yellownote">
 
-This syllabus is not yet finalized, and is subject to change until distributed on the first day of class. The course website is managed through a [public github repository](https://github.com/uvatoc/uvatoc.github.io), so you can see past versions there. The version as posted on the first day of class is [here](TODO).
+This syllabus is not yet finalized, and is subject to change until distributed on the first day of class. The course website is managed through a [public github repository](https://github.com/uvatoc/uvatoc.github.io), so you can see past versions there. The version as posted on the first day of class is [here](https://github.com/uvatoc/uvatoc.github.io/blob/860ed1c214bc1deefbf8d590a7b506f6f01af698/syllabus/index.html).
 </div>
 
 # Overview
