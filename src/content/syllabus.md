@@ -248,7 +248,7 @@ respond positively to an extension request if it is made well before
 an assignment is due and provides a reasonable justification for the
 extension. To request an extension, use this form:
 
-   [cs3102 Extension Request Form](https://forms.gle/5HSapzRDRen4V4VA7)
+   [cs3120 Extension Request Form](https://forms.gle/5HSapzRDRen4V4VA7)
    
 We are sympathetic to situations where a traumatic late event prevents
 you from being able to complete an assignment, and appreciate you
