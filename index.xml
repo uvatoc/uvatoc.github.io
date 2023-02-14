@@ -220,5 +220,18 @@ Windows   Install Python 3.6.4 (If you have a different version of Python, you s
   Download the executable x86-64 installer from python.</description>
     </item>
     
+    <item>
+      <title>Problem Set 3 Posted</title>
+      <link>https://uvatoc.github.io/ps3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps3/</guid>
+      <description>Problem Set 3 is now posted and due on Monday, 13 February (9:59pm).
+This problem set focuses on understanding finite computation in the Boolean circuit and programming models (Chapter 3 of TCS), and understanding how we prove Boolean circuits can compute every finite function (Chapter 4 of TCS).
+The latex template for Problem Set 3 is here: https://www.overleaf.com/read/kvfjnywhnxrw
+The problems PDF is: ps3.pdf.
+The Jupyter notebook for PS3 is ps3.ipynb.</description>
+    </item>
+    
   </channel>
 </rss>
