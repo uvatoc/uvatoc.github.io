@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problem Set 4 Posted</title>
+      <link>https://uvatoc.github.io/ps4/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps4/</guid>
+      <description>Problem Set 4 is now posted and due on Monday, 20 February (9:59pm).
+This problem set focuses on understanding the asymptotic notations, syntactic sugar (Chapter 4), and the circuit complexity and the size hierarchy theorem (Chapter 5 of TCS).
+The latex template for Problem Set 4 is here: https://overleaf.com/read/hsxfrxnsvyfw (there is no Jupyter notebook part of this problem set).
+The problems PDF is: ps4.pdf.</description>
+    </item>
+    
     <item>
       <title>Class 7: Universal Circuits</title>
       <link>https://uvatoc.github.io/class7/</link>
