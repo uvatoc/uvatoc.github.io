@@ -16,7 +16,6 @@ Check the calendar below to confirm in case there are any changes this week.
 3:30-5:30pm (Catherine, Rice 442)  
 
 **Tuesdays**  
-11:00am - noon (Dave, after class to Rice 507)  
 1:00 - 2:00pm (Mohammad, Rice 511)  
 3:00 - 5:00pm (Leah, Rice 442)
 4:00 - 6:00pm (Zihan, Rice 442)
@@ -28,6 +27,7 @@ Check the calendar below to confirm in case there are any changes this week.
 
 **Thursdays**  
 11:00am - noon (Mohammad, after class to Rice 511)  
+1:30 - 2:30pm (Dave, Rice 507)  
 3:00 - 5:00pm (Leah, Rice 442)  
 4:00 - 6:00pm (Zihan, Rice 442)
 
