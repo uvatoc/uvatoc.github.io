@@ -6,7 +6,21 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Preparing for Exam 1</title>
+      <link>https://uvatoc.github.io/preparing-for-exam-1/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/preparing-for-exam-1/</guid>
+      <description>Exam 1 will be in class on Thursday, 2 March.
+It will cover material from Classes 1 – 9, Problem Sets 1 – 4 (including the provided comments), Quizzes 1 – 4, and Chapter 1 – 5 of the TCS Book. Nearly everything on the exam will have been covered in at least three of these places (e.g., in class, on a problem set, and in the textbook; or in multiple classes, the textbook, and a quiz).</description>
+    </item>
+    
     <item>
       <title>Class 9: Circuit Size Hierarchy</title>
       <link>https://uvatoc.github.io/class9/</link>
@@ -154,7 +168,17 @@ Slides from class: class2.pdf (video is available for students in collab)</descr
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps1/</guid>
-      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on ``pencil-and-paper&#39;&#39; and writeup using the LaTeX template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
+      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on ``pencil-and-paper&amp;rsquo;&amp;rsquo; and writeup using the LaTeX template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
+LaTeX Problems To start PS1, visit the overleaf repository using this link: https://www.overleaf.com/read/qzzjybkydrmv. This provides the template for you to use to provide your answers.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 1</title>
+      <link>https://uvatoc.github.io/ps1/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/ps1/</guid>
+      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on ``pencil-and-paper&amp;rsquo;&amp;rsquo; and writeup using the LaTeX template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
 LaTeX Problems To start PS1, visit the overleaf repository using this link: https://www.overleaf.com/read/qzzjybkydrmv. This provides the template for you to use to provide your answers.</description>
     </item>
     
