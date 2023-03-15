@@ -1,12 +1,12 @@
 +++
-date = "14 Mar 2023"
+date = "28 Feb 2023"
 draft = false
-title = "Midterm Comments"
+title = "Class 12: Review"
 author = "Course Staff"
+slug = "class12"
 +++
 
-The midterm exam and comments on its are now posted:
+Slides from class (including slides that were not used): [class12.pdf](https://www.dropbox.com/s/xa0z6jewnhu9jji/class12.pdf?dl=0)
+(video is available for students in collab)
 
-- [Midterm Exam](/docs/midterm.pdf)
-- [Midterm Comments](/docs/midterm-claude.pdf) - AI-bot Claude's answers to the midterm questions, with our comments on them
-
+The Midterm Exam will be in class on Thursday, 2 March. 
