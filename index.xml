@@ -6,7 +6,18 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 15</title>
+      <link>https://uvatoc.github.io/class-15/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class-15/</guid>
+      <description>Slides from class: class15.pdf
+Notes of Finite Automata (these are the completed version of the notes that were handed out in class today)
+Problem Set 6 is due on Monday, 27 March. The latex template is https://www.overleaf.com/read/bfftypdhtryf.</description>
+    </item>
+    
     <item>
       <title>Class 14</title>
       <link>https://uvatoc.github.io/class-14/</link>
