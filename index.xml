@@ -15,7 +15,9 @@
       <guid>https://uvatoc.github.io/class-16/</guid>
       <description>Slides from class: class16.pdf
 Problem Set 6 is due on Monday, 27 March. The latex template is https://www.overleaf.com/read/bfftypdhtryf.
-Python&amp;rsquo;s Regular Expression library code is here: https://github.com/python/cpython/blob/3.11/Lib/re/_parser.py  (see lines starting at 634 for the implementation of repetition patterns including the (bogus?) Kleene star).</description>
+Python&amp;rsquo;s Regular Expression library code is here: https://github.com/python/cpython/blob/3.11/Lib/re/_parser.py  (see lines starting at 634 for the implementation of repetition patterns including the (bogus?) Kleene star).
+Cloudflare Outage, July 2, 2019
+  </description>
     </item>
     
     <item>

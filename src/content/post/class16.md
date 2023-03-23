@@ -11,3 +11,9 @@ Problem Set 6 is due on Monday, 27 March. The latex template is [https://www.ove
 
 Python's Regular Expression library code is here: [https://github.com/python/cpython/blob/3.11/Lib/re/_parser.py
 ](https://github.com/python/cpython/blob/3.11/Lib/re/_parser.py) (see lines starting at 634 for the implementation of repetition patterns including the (bogus?) Kleene star).
+
+[Cloudflare Outage, July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
+
+<center>
+<a href="https://xkcd.com/208/"><img src="https://imgs.xkcd.com/comics/regular_expressions.png" width=70%></a>
+</center>
