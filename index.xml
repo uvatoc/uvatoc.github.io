@@ -6,7 +6,18 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 17</title>
+      <link>https://uvatoc.github.io/class-17/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class-17/</guid>
+      <description>Slides from class: class17.pdf
+There is a Quiz due Wednesday at 9:59pm, posted in Gradescope
+Problem Set 7 is due on Monday, 27 March. The latex template is https://www.overleaf.com/read/krxvcbgfpkgk.</description>
+    </item>
+    
     <item>
       <title>Class 16</title>
       <link>https://uvatoc.github.io/class-16/</link>
