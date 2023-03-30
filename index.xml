@@ -6,7 +6,19 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 18</title>
+      <link>https://uvatoc.github.io/class18/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class18/</guid>
+      <description>Slides from class: class18.pdf
+Here are the links to the Turing Machine simulations:
+4-state Busy Beaver candidate 5-state Busy Beaver candidate
+As mentioned in class, there are lots of different ways to define a Turing Machine, and no agreed upon standard definition. None of the small changes to the definition impact the set of functions that can be computed (as we will see in upcoming classes), but they do impact how hard it might be to write programs and prove properties about Turing Machines.</description>
+    </item>
+    
     <item>
       <title>Class 17</title>
       <link>https://uvatoc.github.io/class-17/</link>
@@ -358,6 +370,17 @@ For now, you can see what the course was like in previous semesters from Prof.</
 Course Book Main Website
 Full Text PDF
 Github (if you have corrections or suggestions for the book, submit them to Boaz Barak here; useful contributions will be worth bonus points in the course, so let us know if you have a pull request accepted or start a useful issue)</description>
+    </item>
+    
+    <item>
+      <title>Classes</title>
+      <link>https://uvatoc.github.io/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/classes/</guid>
+      <description>Class 16: Completing the Proof, Bringing Down the Internet [Slides
+ Extending the NFA model: NFA-$$\varepsilon$$ Implemeting Python&amp;rsquo;s Regular Expression library Challenges implementing RE matching (Cloudflare incident)  Class 17: NFA vs. RE, Introducing Turing Machines [Slides]
+ Completing the proof that Regular Expressions can be converted to NFA-$$\varepsilon$$ Proving that DFAs can be converted to Regular Expression Introducing Turing Machine model of computation  </description>
     </item>
     
     <item>
