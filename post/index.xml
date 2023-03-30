@@ -22,10 +22,10 @@ As mentioned in class, there are lots of different ways to define a Turing Machi
     
     <item>
       <title>Class 17</title>
-      <link>https://uvatoc.github.io/class-17/</link>
+      <link>https://uvatoc.github.io/class17/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://uvatoc.github.io/class-17/</guid>
+      <guid>https://uvatoc.github.io/class17/</guid>
       <description>Slides from class: class17.pdf
 There is a Quiz due Wednesday at 9:59pm, posted in Gradescope.
 Problem Set 7 is due on Monday, 27 March. The latex template is https://www.overleaf.com/read/krxvcbgfpkgk.</description>
@@ -33,10 +33,10 @@ Problem Set 7 is due on Monday, 27 March. The latex template is https://www.over
     
     <item>
       <title>Class 16</title>
-      <link>https://uvatoc.github.io/class-16/</link>
+      <link>https://uvatoc.github.io/class16/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://uvatoc.github.io/class-16/</guid>
+      <guid>https://uvatoc.github.io/class16/</guid>
       <description>Slides from class: class16.pdf
 Problem Set 6 is due on Monday, 27 March. The latex template is https://www.overleaf.com/read/bfftypdhtryf.
 Python&amp;rsquo;s Regular Expression library code is here: https://github.com/python/cpython/blob/3.11/Lib/re/_parser.py  (see lines starting at 634 for the implementation of repetition patterns including the (bogus?) Kleene star).
@@ -46,10 +46,10 @@ Cloudflare Outage, July 2, 2019
     
     <item>
       <title>Class 15</title>
-      <link>https://uvatoc.github.io/class-15/</link>
+      <link>https://uvatoc.github.io/class15/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://uvatoc.github.io/class-15/</guid>
+      <guid>https://uvatoc.github.io/class15/</guid>
       <description>Slides from class: class15.pdf
 Notes of Finite Automata (these are the completed version of the notes that were handed out in class today)
 Problem Set 6 is due on Monday, 27 March. The latex template is https://www.overleaf.com/read/bfftypdhtryf.</description>
@@ -57,20 +57,20 @@ Problem Set 6 is due on Monday, 27 March. The latex template is https://www.over
     
     <item>
       <title>Class 14</title>
-      <link>https://uvatoc.github.io/class-14/</link>
+      <link>https://uvatoc.github.io/class14/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://uvatoc.github.io/class-14/</guid>
+      <guid>https://uvatoc.github.io/class14/</guid>
       <description>Slides from class: class14.pdf
 Problem Set 5 is posted in grade scope (latex template available here: https://www.overleaf.com/read/jmpfnvfffgrb), and is due 9:59pm, Monday, 20 March.</description>
     </item>
     
     <item>
       <title>Class 13</title>
-      <link>https://uvatoc.github.io/class-13/</link>
+      <link>https://uvatoc.github.io/class13/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://uvatoc.github.io/class-13/</guid>
+      <guid>https://uvatoc.github.io/class13/</guid>
       <description>Slides from class: class13.pdf (video is available for students in collab)
 Problem Set 5 is posted in grade scope (latex template available here: https://www.overleaf.com/read/jmpfnvfffgrb), and is due 9:59pm, Monday, 20 March.
 There is no quiz this week.

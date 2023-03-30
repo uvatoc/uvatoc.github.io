@@ -3,6 +3,7 @@ date = "21 Mar 2023"
 draft = false
 title = "Class 15"
 author = "Course Staff"
+slug = "class15"
 +++
 
 Slides from class: [class15.pdf](https://www.dropbox.com/s/zczgqmtshw7cllk/class15.pdf?dl=0)
