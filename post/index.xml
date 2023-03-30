@@ -15,7 +15,8 @@
       <guid>https://uvatoc.github.io/class18/</guid>
       <description>Slides from class: class18.pdf
 Here are the links to the Turing Machine simulations:
-4-state Busy Beaver candidate 5-state Busy Beaver candidate
+4-state Busy Beaver candidate
+5-state Busy Beaver candidate
 As mentioned in class, there are lots of different ways to define a Turing Machine, and no agreed upon standard definition. None of the small changes to the definition impact the set of functions that can be computed (as we will see in upcoming classes), but they do impact how hard it might be to write programs and prove properties about Turing Machines.</description>
     </item>
     
