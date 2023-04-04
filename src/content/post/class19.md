@@ -6,7 +6,7 @@ author = "Course Staff"
 slug = "class19"
 +++
 
-Here's the notes handed out today: [tmnotes.pdf](/docs/tmnotes)
+Here's the notes handed out today: [tmnotes.pdf](/docs/tmnotes) (Warning: do not print in color!)
 
 Slides from class: [class18.pdf](TO BE POSTED)
 
