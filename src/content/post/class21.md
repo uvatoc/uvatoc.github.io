@@ -6,7 +6,7 @@ author = "Course Staff"
 slug = "class21"
 +++
 
-Slides from class: [class21.pdf](https://www.dropbox.com/s/r5v70s5acql8k9b/class20.pdf?dl=0)
+Slides from class: [class21.pdf](https://www.dropbox.com/s/orpme8k2ld264k6/class21.pdf?dl=0)
 
 Problem Set 9 is due on Monday, 17 April. The latex template is [https://www.overleaf.com/read/mqwmbzjppfbv](https://www.overleaf.com/read/mqwmbzjppfbv).
 
