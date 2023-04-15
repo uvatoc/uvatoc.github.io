@@ -6,7 +6,17 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 22: Rice&#39;s Theorem</title>
+      <link>https://uvatoc.github.io/class22/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class22/</guid>
+      <description>Slides from class: class22.pdf
+Problem Set 9 is due on Monday, 17 April. The latex template is https://www.overleaf.com/read/mqwmbzjppfbv.</description>
+    </item>
+    
     <item>
       <title>Class 21: Reductions and Recognizability</title>
       <link>https://uvatoc.github.io/class21/</link>
