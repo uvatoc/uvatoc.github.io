@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 25: Probably Hard Problems</title>
+      <link>https://uvatoc.github.io/class25/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class25/</guid>
+      <description>Slides from class: class25.pdf
+Problem Set 10 is due on Friday, 28 April. The latex template is https://www.overleaf.com/read/ppdjrxcwqmnn.
+Quiz 11 (which is a &amp;ldquo;make-up quiz&amp;rdquo;) is due 9:59pm on Wednesday, April 26.</description>
+    </item>
+    
     <item>
       <title>Class 24: Complexity II</title>
       <link>https://uvatoc.github.io/class24/</link>
