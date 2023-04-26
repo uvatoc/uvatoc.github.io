@@ -4,6 +4,29 @@ title = "Classes"
 slug = "classes"
 +++
 
+[Class 7: Universal Circuits](/class7) [[Slides](https://www.dropbox.com/s/1sbdh70qq6javef/class7.pdf?dl=0)]
+- Boolean Circuits Model Definition
+- Universality of AON Boolean Circuits
+
+[Class 8: Syntactic Sugar, Complexity of Functions](/class8) [[Slides](https://www.dropbox.com/s/bdsu8m6zp4h369w/class8.pdf?dl=0)]
+- Recap universality and syntactic sugar
+- Asymptotic Notation
+- Circuit Complexity: how many gates
+- Existence of hard functions
+
+[Class 9: Circuit Size Hierarchy](/class9) [[Slides](https://www.dropbox.com/s/29ge0bwnmumdt5b/class9.pdf?dl=0)]
+- Computing functions using LOOKUP
+- Size Hierarchy
+- Universal Circuit
+
+[Class 10: Circuit Complexity](/class10) [[Slides](https://www.dropbox.com/s/ui767kegs2u4aa8/class10.pdf?dl=0)]
+- Size Hierarchy Theorem
+- Universal Circuit
+
+[Class 11: Universal Circuits](/class11) [[Slides](https://www.dropbox.com/s/rgam4q3tlbx6wq8/class11.pdf?dl=0)]
+- Universal Circuits
+- Practice Problems
+
 [Class 12: Midterm Review](/class12) [[Slides](https://www.dropbox.com/s/xa0z6jewnhu9jji/class12.pdf?dl=0)]
 
 [Class 13: Finite Automata and Regular Expressions](/class13) [[Slides](https://www.dropbox.com/s/p1iru3eklm51m3e/class13.pdf?dl=0)]
@@ -21,18 +44,52 @@ slug = "classes"
 - Converting a DFA to and NFA
 
 [Class 16: Completing the Proof, Bringing Down the Internet](/class16/) [[Slides](https://www.dropbox.com/s/h31y0k91iektktb/class16.pdf?dl=0)
-- Extending the NFA model: NFA-$$\varepsilon$$
+- Extending the NFA model: NFA-&varepsilon;
 - Implemeting Python's Regular Expression library
 - Challenges implementing RE matching (Cloudflare incident)
 
 [Class 17: NFA vs. RE, Introducing Turing Machines](/class17) [[Slides](https://www.dropbox.com/s/zgb916gyqi087jo/class17.pdf?dl=0)]  
-- Completing the proof that Regular Expressions can be converted to NFA-$$\varepsilon$$
+- Completing the proof that Regular Expressions can be converted to NFA-&varepsilon;
 - Proving that DFAs can be converted to Regular Expression
 - Introducing Turing Machine model of computation
 
+[Class 18: Turing Machines](/class18) [[Slides](https://www.dropbox.com/s/8r79pklw5weuney/class18.pdf?dl=0)]
+- Converting DFA to RE
+- Turing Machines
 
-   
+[Class 19: Computability](/class19) [[Notes](http://localhost:1313/docs/tmnotes.pdf)] [[Slides](https://www.dropbox.com/s/wkk6b2itoncgqul/class19.pdf?dl=0)]
+- Formal model of Turing Machine
+- Are there functions that cannot be computed by a TM?
+- Self-Rejecting
 
+[Class 20: Proving Uncomputability](/class20) [[Slides](https://www.dropbox.com/s/r5v70s5acql8k9b/class20.pdf?dl=0)]
+- Church-Turing Thesis
+- Universal Machines
+- ACCEPTS is Uncomputable
+- Ali G (Computability and Practical Solvability)
 
+[Class 21: Reductions and Recognizability](/class21) [[Slides](https://www.dropbox.com/s/orpme8k2ld264k6/class21.pdf?dl=0)]
+- Reduction Proofs
+- Recognizability
+- Non-recognizability of the complement of HALTS
 
+[Class 22: Rice's Theorem](/class22) [[Slides](https://www.dropbox.com/s/todwiwrz55rk3zz/class22.pdf?dl=0)]
+- Recognizability
+- Rice's Theorem
+- Kolmogorov Complexity
 
+[Class 23: Complexity](/class23) [[Slides](https://www.dropbox.com/s/2vmiv30msouz2vy/class23.pdf?dl=0)]
+- Cost of Computing
+- Defining _TIME_<sub>TM</sub>(_T_(_n_))
+- Class <b>P</b>
+- Robustness of <b>P</b>
+- Polynomial-Time Reductions
+
+[Class 24: Complexity II](/class24) [[Slides](https://www.dropbox.com/s/0dd0ryl36xv54sd/class24.pdf?dl=0)]
+- Cook Reductions and Karp Reductions
+- 3SAT and CircuitSAT
+
+[Class 25: Probably Hard Problems](/class25) [[Slides](https://www.dropbox.com/s/75jnbnk1ygipb75/class25.pdf?dl=0)
+- Complexity classs NP
+- Introducing the is P a propert subset of NP (P = NP) question
+- Cook-Levin Theorem

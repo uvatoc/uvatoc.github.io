@@ -12,6 +12,5 @@ Slides from class: [class10.pdf](https://www.dropbox.com/s/ui767kegs2u4aa8/class
 Quiz 5 is posted in GradeScope, and is due Wednesday, 9:59pm.
 
 The Midterm Exam will be in class on Thursday, 2 March. See
-[_Preparing for EXam
-1_](https://uvatoc.github.io/preparing-for-exam-1/) for suggestions on
+[_Preparing for Exam 1_](https://uvatoc.github.io/preparing-for-exam-1/) for suggestions on
 how to prepare for the exam.

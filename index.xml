@@ -191,7 +191,7 @@ The Midterm Exam will be in class on Thursday, 2 March. Tuesday&amp;rsquo;s clas
       <guid>https://uvatoc.github.io/class10/</guid>
       <description>Slides from class: class10.pdf (video is available for students in collab)
 Quiz 5 is posted in GradeScope, and is due Wednesday, 9:59pm.
-The Midterm Exam will be in class on Thursday, 2 March. See Preparing for EXam 1 for suggestions on how to prepare for the exam.</description>
+The Midterm Exam will be in class on Thursday, 2 March. See Preparing for Exam 1 for suggestions on how to prepare for the exam.</description>
     </item>
     
     <item>
@@ -455,11 +455,11 @@ Github (if you have corrections or suggestions for the book, submit them to Boaz
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/classes/</guid>
-      <description>Class 12: Midterm Review [Slides]
-Class 13: Finite Automata and Regular Expressions [Slides]
- Finite and Uniform Computation Introducing Finite Automata  Class 14: Regular Expressions [Slides]
- Finite Automata Regular Expressions Consequences of Equivalence of DFA and Regular Expressions  Class 15: Deterministic and Nondeterministic Finite Automata [Slides]
- Formalizing DFA Introducing Nondeterminism Converting a DFA to and NFA  Class 16: Completing the Proof, Bringing Down the Internet [Slides</description>
+      <description>Class 7: Universal Circuits [Slides]
+ Boolean Circuits Model Definition Universality of AON Boolean Circuits  Class 8: Syntactic Sugar, Complexity of Functions [Slides]
+ Recap universality and syntactic sugar Asymptotic Notation Circuit Complexity: how many gates Existence of hard functions  Class 9: Circuit Size Hierarchy [Slides]
+ Computing functions using LOOKUP Size Hierarchy Universal Circuit  Class 10: Circuit Complexity [Slides]
+ Size Hierarchy Theorem Universal Circuit  Class 11: Universal Circuits [Slides]</description>
     </item>
     
     <item>
