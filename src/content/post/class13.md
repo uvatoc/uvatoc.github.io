@@ -1,7 +1,7 @@
 +++
 date = "15 Mar 2023"
 draft = false
-title = "Class 13"
+title = "Class 13: Finite Automata and Regular Expressions"
 author = "Course Staff"
 slug = "class13"
 +++

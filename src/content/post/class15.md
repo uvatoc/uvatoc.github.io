@@ -1,7 +1,7 @@
 +++
 date = "21 Mar 2023"
 draft = false
-title = "Class 15"
+title = "Class 15: Deterministic and Nondeterministic FAs"
 author = "Course Staff"
 slug = "class15"
 +++

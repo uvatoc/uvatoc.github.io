@@ -84,7 +84,7 @@ Problem Set 8 is due on Monday, 10 April. The latex template is https://www.over
     </item>
     
     <item>
-      <title>Class 18</title>
+      <title>Class 18: Turing Machines</title>
       <link>https://uvatoc.github.io/class18/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       
@@ -97,7 +97,7 @@ As mentioned in class, there are lots of different ways to define a Turing Machi
     </item>
     
     <item>
-      <title>Class 17</title>
+      <title>Class 17: NFA vs. RE</title>
       <link>https://uvatoc.github.io/class17/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
@@ -108,7 +108,7 @@ Problem Set 7 is due on Monday, 27 March. The latex template is https://www.over
     </item>
     
     <item>
-      <title>Class 16</title>
+      <title>Class 16: Completing DFA=RE Proof</title>
       <link>https://uvatoc.github.io/class16/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
       
@@ -121,7 +121,7 @@ Cloudflare Outage, July 2, 2019
     </item>
     
     <item>
-      <title>Class 15</title>
+      <title>Class 15: Deterministic and Nondeterministic FAs</title>
       <link>https://uvatoc.github.io/class15/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       
@@ -132,7 +132,7 @@ Problem Set 6 is due on Monday, 27 March. The latex template is https://www.over
     </item>
     
     <item>
-      <title>Class 14</title>
+      <title>Class 14: Regular Expressions</title>
       <link>https://uvatoc.github.io/class14/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
       
@@ -142,7 +142,7 @@ Problem Set 5 is posted in grade scope (latex template available here: https://w
     </item>
     
     <item>
-      <title>Class 13</title>
+      <title>Class 13: Finite Automata and Regular Expressions</title>
       <link>https://uvatoc.github.io/class13/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       
@@ -455,9 +455,11 @@ Github (if you have corrections or suggestions for the book, submit them to Boaz
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/classes/</guid>
-      <description>Class 16: Completing the Proof, Bringing Down the Internet [Slides
- Extending the NFA model: NFA-$$\varepsilon$$ Implemeting Python&amp;rsquo;s Regular Expression library Challenges implementing RE matching (Cloudflare incident)  Class 17: NFA vs. RE, Introducing Turing Machines [Slides]
- Completing the proof that Regular Expressions can be converted to NFA-$$\varepsilon$$ Proving that DFAs can be converted to Regular Expression Introducing Turing Machine model of computation  </description>
+      <description>Class 12: Midterm Review [Slides]
+Class 13: Finite Automata and Regular Expressions [Slides]
+ Finite and Uniform Computation Introducing Finite Automata  Class 14: Regular Expressions [Slides]
+ Finite Automata Regular Expressions Consequences of Equivalence of DFA and Regular Expressions  Class 15: Deterministic and Nondeterministic Finite Automata [Slides]
+ Formalizing DFA Introducing Nondeterminism Converting a DFA to and NFA  Class 16: Completing the Proof, Bringing Down the Internet [Slides</description>
     </item>
     
     <item>

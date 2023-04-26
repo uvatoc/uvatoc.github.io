@@ -1,7 +1,7 @@
 +++
 date = "28 Mar 2023"
 draft = false
-title = "Class 17"
+title = "Class 17: NFA vs. RE"
 author = "Course Staff"
 slug = "class17"
 +++

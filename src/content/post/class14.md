@@ -1,7 +1,7 @@
 +++
 date = "18 Mar 2023"
 draft = false
-title = "Class 14"
+title = "Class 14: Regular Expressions"
 author = "Course Staff"
 slug = "class14"
 +++
