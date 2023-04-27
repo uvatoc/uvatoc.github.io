@@ -4,6 +4,36 @@ title = "Classes"
 slug = "classes"
 +++
 
+# Classes
+
+[Class 1: Introduction](/class1) [[Slides](https://www.dropbox.com/s/b1j3viac24er0zb/class1.pdf?dl=0)]
+- Goals of the Course
+- Adding and Multiplying
+
+[Class 2: Defining Definitions](/class2) [[Slides](https://www.dropbox.com/s/70p02wh0v60jhjx/class2.pdf?dl=0)]
+- Babylonian numbers
+- Why study theory?
+- Is 0 a Natural Number?
+
+[Class 3: What can be represented by bits?](/class3) [[Slides](https://www.dropbox.com/s/w6cpp8awawklqyv/class3.pdf?dl=0)]
+- Meaning of "optimal"
+- Representing the numbers and binary strings
+- Set cardinality
+
+[Class 4: More Infinities](/class4) [[Slides](https://www.dropbox.com/s/jls3abg761hx23a/class4.pdf?dl=0)]
+- Cantor's Power Set cardinality theorem
+- Implications of Cantor's result
+
+[Class 5: Defining Computation](/class5) [[Slides](https://www.dropbox.com/s/qebzsemfh75y8h3/class5.pdf?dl=0)]
+- Implications of Cantor's ideas
+- Defining Computation
+
+
+[Class 6: Modeling Boolean Circuits](/class6) [[Slides](https://www.dropbox.com/s/da98q17xl19bkm3/class6.pdf?dl=0)]
+- Finite Computation
+- Defining Boolean Circuits
+- Universality
+
 [Class 7: Universal Circuits](/class7) [[Slides](https://www.dropbox.com/s/1sbdh70qq6javef/class7.pdf?dl=0)]
 - Boolean Circuits Model Definition
 - Universality of AON Boolean Circuits

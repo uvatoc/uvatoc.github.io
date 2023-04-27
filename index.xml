@@ -335,7 +335,7 @@ The problems PDF is: ps2.pdf.</description>
     </item>
     
     <item>
-      <title>Class 2</title>
+      <title>Class 2: Defining Definitions</title>
       <link>https://uvatoc.github.io/class2/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
       
@@ -376,7 +376,7 @@ You should be able to access the problem set through gradescope, and you will ne
     </item>
     
     <item>
-      <title>Class 1</title>
+      <title>Class 1: Introduction</title>
       <link>https://uvatoc.github.io/class1/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
@@ -455,11 +455,11 @@ Github (if you have corrections or suggestions for the book, submit them to Boaz
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/classes/</guid>
-      <description>Class 7: Universal Circuits [Slides]
- Boolean Circuits Model Definition Universality of AON Boolean Circuits  Class 8: Syntactic Sugar, Complexity of Functions [Slides]
- Recap universality and syntactic sugar Asymptotic Notation Circuit Complexity: how many gates Existence of hard functions  Class 9: Circuit Size Hierarchy [Slides]
- Computing functions using LOOKUP Size Hierarchy Universal Circuit  Class 10: Circuit Complexity [Slides]
- Size Hierarchy Theorem Universal Circuit  Class 11: Universal Circuits [Slides]</description>
+      <description>Classes Class 1: Introduction [Slides]
+ Goals of the Course Adding and Multiplying  Class 2: Defining Definitions [Slides]
+ Babylonian numbers Why study theory? Is 0 a Natural Number?  Class 3: What can be represented by bits? [Slides]
+ Meaning of &amp;ldquo;optimal&amp;rdquo; Representing the numbers and binary strings Set cardinality  Class 4: More Infinities [Slides]
+ Cantor&amp;rsquo;s Power Set cardinality theorem Implications of Cantor&amp;rsquo;s result  Class 5: Defining Computation [Slides]</description>
     </item>
     
     <item>
