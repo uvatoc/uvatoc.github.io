@@ -4,7 +4,7 @@ title = "Classes"
 slug = "classes"
 +++
 
-# Classes
+# Definitions Countability
 
 [Class 1: Introduction](/class1) [[Slides](https://www.dropbox.com/s/b1j3viac24er0zb/class1.pdf?dl=0)]
 - Goals of the Course
@@ -23,6 +23,8 @@ slug = "classes"
 [Class 4: More Infinities](/class4) [[Slides](https://www.dropbox.com/s/jls3abg761hx23a/class4.pdf?dl=0)]
 - Cantor's Power Set cardinality theorem
 - Implications of Cantor's result
+
+# Finite Computation
 
 [Class 5: Defining Computation](/class5) [[Slides](https://www.dropbox.com/s/qebzsemfh75y8h3/class5.pdf?dl=0)]
 - Implications of Cantor's ideas
@@ -59,6 +61,8 @@ slug = "classes"
 
 [Class 12: Midterm Review](/class12) [[Slides](https://www.dropbox.com/s/xa0z6jewnhu9jji/class12.pdf?dl=0)]
 
+# Uniform Computation
+
 [Class 13: Finite Automata and Regular Expressions](/class13) [[Slides](https://www.dropbox.com/s/p1iru3eklm51m3e/class13.pdf?dl=0)]
 - Finite and Uniform Computation
 - Introducing Finite Automata
@@ -82,6 +86,8 @@ slug = "classes"
 - Completing the proof that Regular Expressions can be converted to NFA-&varepsilon;
 - Proving that DFAs can be converted to Regular Expression
 - Introducing Turing Machine model of computation
+
+# Computability
 
 [Class 18: Turing Machines](/class18) [[Slides](https://www.dropbox.com/s/8r79pklw5weuney/class18.pdf?dl=0)]
 - Converting DFA to RE
@@ -108,6 +114,8 @@ slug = "classes"
 - Rice's Theorem
 - Kolmogorov Complexity
 
+# Complexity
+
 [Class 23: Complexity](/class23) [[Slides](https://www.dropbox.com/s/2vmiv30msouz2vy/class23.pdf?dl=0)]
 - Cost of Computing
 - Defining _TIME_<sub>TM</sub>(_T_(_n_))
@@ -123,3 +131,8 @@ slug = "classes"
 - Complexity classs NP
 - Introducing the is P a propert subset of NP (P = NP) question
 - Cook-Levin Theorem
+
+[Class 26: Cook-Levin Theorem](/class26) [[Slides](https://www.dropbox.com/s/0u27f3qd5ry7auj/class26.pdf?dl=0)]
+- Nondeterministic Turing Machines
+- Proving the Cook-Levin Theorem
+- Implications of P = NP
