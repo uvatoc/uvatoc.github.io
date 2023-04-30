@@ -1,8 +1,9 @@
 +++
 date = "18 Mar 2023"
 draft = false
-title = "Class 14"
+title = "Class 14: Regular Expressions"
 author = "Course Staff"
+slug = "class14"
 +++
 
 Slides from class: [class14.pdf](https://www.dropbox.com/s/123gfvltu504te9/class14.pdf?dl=0)

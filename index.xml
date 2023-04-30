@@ -6,27 +6,169 @@
     <description>Recent content on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preparing for the Final Exam</title>
+      <link>https://uvatoc.github.io/preparing-for-the-final-exam/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/preparing-for-the-final-exam/</guid>
+      <description>As scheduled by the Registrar, the final exam will be Thursday, 11 May, 2:00pm - 5:00pm in our normal classroom.
+The final exam will cover everything we&amp;rsquo;ve done in the course, but with more emphasis on material that has been covered since the midterm.
+There is now a Classes page that lists all the classes to make it easier for you to find specific content we&amp;rsquo;ve covered in class.
+Like the midterm, you may prepare a one-page (letter-size, two-sided) reference sheet for use during the exam, but all other resources are forbidden (no internet, textbook, other humans, magnification instruments, etc.</description>
+    </item>
     
     <item>
-      <title>Class 14</title>
-      <link>https://uvatoc.github.io/class-14/</link>
+      <title>Class 26: Cook-Levin Theorem</title>
+      <link>https://uvatoc.github.io/class26/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class26/</guid>
+      <description>Slides from class: class26.pdf
+Problem Set 10 is due on Friday, 28 April. The latex template is https://www.overleaf.com/read/ppdjrxcwqmnn.</description>
+    </item>
+    
+    <item>
+      <title>Class 25: Probably Hard Problems</title>
+      <link>https://uvatoc.github.io/class25/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class25/</guid>
+      <description>Slides from class: class25.pdf
+Problem Set 10 is due on Friday, 28 April. The latex template is https://www.overleaf.com/read/ppdjrxcwqmnn.
+Quiz 11 (which is a &amp;ldquo;make-up quiz&amp;rdquo;) is due 9:59pm on Wednesday, April 26.</description>
+    </item>
+    
+    <item>
+      <title>Class 24: Complexity II</title>
+      <link>https://uvatoc.github.io/class24/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class24/</guid>
+      <description>Slides from class: class24.pdf
+Problem Set 10 is due on Friday, 28 April. The latex template is https://www.overleaf.com/read/ppdjrxcwqmnn.</description>
+    </item>
+    
+    <item>
+      <title>Class 23: Complexity</title>
+      <link>https://uvatoc.github.io/class23/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class23/</guid>
+      <description>Slides from class: class23.pdf
+Problem Set 10 is due on Friday, 28 April. The latex template is https://www.overleaf.com/read/ppdjrxcwqmnn.</description>
+    </item>
+    
+    <item>
+      <title>Class 22: Rice&#39;s Theorem</title>
+      <link>https://uvatoc.github.io/class22/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class22/</guid>
+      <description>Slides from class: class22.pdf
+Problem Set 9 is due on Monday, 17 April. The latex template is https://www.overleaf.com/read/mqwmbzjppfbv.</description>
+    </item>
+    
+    <item>
+      <title>Class 21: Reductions and Recognizability</title>
+      <link>https://uvatoc.github.io/class21/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class21/</guid>
+      <description>Slides from class: class21.pdf
+Problem Set 9 is due on Monday, 17 April. The latex template is https://www.overleaf.com/read/mqwmbzjppfbv.
+If the key opening door reduction isn&amp;rsquo;t exciting enough for you (or you&amp;rsquo;re just a fan of 1980s TV shows), you may want to watch this video: Proof by Reduction (from Fall 2020 course).</description>
+    </item>
+    
+    <item>
+      <title>Class 20: Proving Uncomputability</title>
+      <link>https://uvatoc.github.io/class20/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class20/</guid>
+      <description>Slides from class: class20.pdf
+The learned video on computability from class is here.
+If you want another presentation of the computability material in the textbook, try Dori-Mic and the Universal Machine!.
+Problem Set 8 is due on Monday, 10 April. The latex template is https://www.overleaf.com/read/nhgcvwvnfvkh.</description>
+    </item>
+    
+    <item>
+      <title>Class 19: Computability</title>
+      <link>https://uvatoc.github.io/class19/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class19/</guid>
+      <description>Here&amp;rsquo;s the notes handed out today: tmnotes.pdf (Warning: do not print in color unless you are familiar with UK counterfeiting laws!)
+Slides from class: class19.pdf
+There is a Quiz due Wednesday at 9:59pm, posted in Gradescope.
+Problem Set 8 is due on Monday, 10 April. The latex template is https://www.overleaf.com/read/nhgcvwvnfvkh.</description>
+    </item>
+    
+    <item>
+      <title>Class 18: Turing Machines</title>
+      <link>https://uvatoc.github.io/class18/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class18/</guid>
+      <description>Slides from class: class18.pdf
+Here are the links to the Turing Machine simulations:
+4-state Busy Beaver candidate
+5-state Busy Beaver candidate
+As mentioned in class, there are lots of different ways to define a Turing Machine, and no agreed upon standard definition. None of the small changes to the definition impact the set of functions that can be computed (as we will see in upcoming classes), but they do impact how hard it might be to write programs and prove properties about Turing Machines.</description>
+    </item>
+    
+    <item>
+      <title>Class 17: NFA vs. RE</title>
+      <link>https://uvatoc.github.io/class17/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class17/</guid>
+      <description>Slides from class: class17.pdf
+There is a Quiz due Wednesday at 9:59pm, posted in Gradescope.
+Problem Set 7 is due on Monday, 27 March. The latex template is https://www.overleaf.com/read/krxvcbgfpkgk.</description>
+    </item>
+    
+    <item>
+      <title>Class 16: Completing DFA=RE Proof</title>
+      <link>https://uvatoc.github.io/class16/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class16/</guid>
+      <description>Slides from class: class16.pdf
+Problem Set 6 is due on Monday, 27 March. The latex template is https://www.overleaf.com/read/bfftypdhtryf.
+Python&amp;rsquo;s Regular Expression library code is here: https://github.com/python/cpython/blob/3.11/Lib/re/_parser.py  (see lines starting at 634 for the implementation of repetition patterns including the (bogus?) Kleene star).
+Cloudflare Outage, July 2, 2019
+  </description>
+    </item>
+    
+    <item>
+      <title>Class 15: Deterministic and Nondeterministic FAs</title>
+      <link>https://uvatoc.github.io/class15/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/class15/</guid>
+      <description>Slides from class: class15.pdf
+Notes of Finite Automata (these are the completed version of the notes that were handed out in class today)
+Problem Set 6 is due on Monday, 27 March. The latex template is https://www.overleaf.com/read/bfftypdhtryf.</description>
+    </item>
+    
+    <item>
+      <title>Class 14: Regular Expressions</title>
+      <link>https://uvatoc.github.io/class14/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://uvatoc.github.io/class-14/</guid>
+      <guid>https://uvatoc.github.io/class14/</guid>
       <description>Slides from class: class14.pdf
 Problem Set 5 is posted in grade scope (latex template available here: https://www.overleaf.com/read/jmpfnvfffgrb), and is due 9:59pm, Monday, 20 March.</description>
     </item>
     
     <item>
-      <title>Class 13</title>
-      <link>https://uvatoc.github.io/class-13/</link>
+      <title>Class 13: Finite Automata and Regular Expressions</title>
+      <link>https://uvatoc.github.io/class13/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://uvatoc.github.io/class-13/</guid>
+      <guid>https://uvatoc.github.io/class13/</guid>
       <description>Slides from class: class13.pdf (video is available for students in collab)
 Problem Set 5 is posted in grade scope (latex template available here: https://www.overleaf.com/read/jmpfnvfffgrb), and is due 9:59pm, Monday, 20 March.
 There is no quiz this week.
@@ -71,7 +213,7 @@ The Midterm Exam will be in class on Thursday, 2 March. Tuesday&amp;rsquo;s clas
       <guid>https://uvatoc.github.io/class10/</guid>
       <description>Slides from class: class10.pdf (video is available for students in collab)
 Quiz 5 is posted in GradeScope, and is due Wednesday, 9:59pm.
-The Midterm Exam will be in class on Thursday, 2 March. See Preparing for EXam 1 for suggestions on how to prepare for the exam.</description>
+The Midterm Exam will be in class on Thursday, 2 March. See Preparing for Exam 1 for suggestions on how to prepare for the exam.</description>
     </item>
     
     <item>
@@ -215,7 +357,7 @@ The problems PDF is: ps2.pdf.</description>
     </item>
     
     <item>
-      <title>Class 2</title>
+      <title>Class 2: Defining Definitions</title>
       <link>https://uvatoc.github.io/class2/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
       
@@ -231,7 +373,7 @@ Slides from class: class2.pdf (video is available for students in collab)</descr
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps1/</guid>
-      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on ``pencil-and-paper&amp;rsquo;&amp;rsquo; and writeup using the LaTeX template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
+      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on ``pencil-and-paper&#39;&#39; and writeup using the LaTeX template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
 LaTeX Problems To start PS1, visit the overleaf repository using this link: https://www.overleaf.com/read/qzzjybkydrmv. This provides the template for you to use to provide your answers.</description>
     </item>
     
@@ -241,7 +383,7 @@ LaTeX Problems To start PS1, visit the overleaf repository using this link: http
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://uvatoc.github.io/ps1/</guid>
-      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on ``pencil-and-paper&amp;rsquo;&amp;rsquo; and writeup using the LaTeX template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
+      <description>Due: Monday, 30 January, 9:59pm This problem set includes problems that you will do on ``pencil-and-paper&#39;&#39; and writeup using the LaTeX template we provide, and problems that involve programming that you will do using a Jupyter notebook, a convenient way to edit and run Python code and integrate code with formatted text.
 LaTeX Problems To start PS1, visit the overleaf repository using this link: https://www.overleaf.com/read/qzzjybkydrmv. This provides the template for you to use to provide your answers.</description>
     </item>
     
@@ -256,7 +398,7 @@ You should be able to access the problem set through gradescope, and you will ne
     </item>
     
     <item>
-      <title>Class 1</title>
+      <title>Class 1: Introduction</title>
       <link>https://uvatoc.github.io/class1/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
@@ -327,6 +469,19 @@ For now, you can see what the course was like in previous semesters from Prof.</
 Course Book Main Website
 Full Text PDF
 Github (if you have corrections or suggestions for the book, submit them to Boaz Barak here; useful contributions will be worth bonus points in the course, so let us know if you have a pull request accepted or start a useful issue)</description>
+    </item>
+    
+    <item>
+      <title>Classes</title>
+      <link>https://uvatoc.github.io/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/classes/</guid>
+      <description>Definitions Countability Class 1: Introduction [Slides]
+ Goals of the Course Adding and Multiplying  Class 2: Defining Definitions [Slides]
+ Babylonian numbers Why study theory? Is 0 a Natural Number?  Class 3: What can be represented by bits? [Slides]
+ Meaning of &amp;ldquo;optimal&amp;rdquo; Representing the numbers and binary strings Set cardinality  Class 4: More Infinities [Slides]
+ Cantor&amp;rsquo;s Power Set cardinality theorem Implications of Cantor&amp;rsquo;s result  Finite Computation Class 5: Defining Computation [Slides]</description>
     </item>
     
     <item>
