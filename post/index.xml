@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preparing for the Final Exam</title>
+      <link>https://uvatoc.github.io/preparing-for-the-final-exam/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/preparing-for-the-final-exam/</guid>
+      <description>As scheduled by the Registrar, the final exam will be Thursday, 11 May, 2:00pm - 5:00pm in our normal classroom.
+The final exam will cover everything we&amp;rsquo;ve done in the course, but with more emphasis on material that has been covered since the midterm.
+There is now a Classes page that lists all the classes to make it easier for you to find specific content we&amp;rsquo;ve covered in class.
+Like the midterm, you may prepare a one-page (letter-size, two-sided) reference sheet for use during the exam, but all other resources are forbidden (no internet, textbook, other humans, magnification instruments, etc.</description>
+    </item>
+    
     <item>
       <title>Class 26: Cook-Levin Theorem</title>
       <link>https://uvatoc.github.io/class26/</link>
