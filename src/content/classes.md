@@ -118,7 +118,7 @@ slug = "classes"
 
 [Class 23: Complexity](/class23) [[Slides](https://www.dropbox.com/s/2vmiv30msouz2vy/class23.pdf?dl=0)]
 - Cost of Computing
-- Defining _TIME_<sub>TM</sub>(_T_(_n_))
+- Defining <em>TIME</em><sub>TM</sub>(_T_(_n_))
 - Class <b>P</b>
 - Robustness of <b>P</b>
 - Polynomial-Time Reductions
