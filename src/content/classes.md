@@ -128,8 +128,8 @@ slug = "classes"
 - 3SAT and CircuitSAT
 
 [Class 25: Probably Hard Problems](/class25) [[Slides](https://www.dropbox.com/s/75jnbnk1ygipb75/class25.pdf?dl=0)
-- Complexity classs NP
-- Introducing the is P a propert subset of NP (P = NP) question
+- Complexity classs <b>NP</b>
+- Introducing the question is <b>P</b> a proper subset of <b>NP</b> (<b>P</b> = <b>NP</b>)?
 - Cook-Levin Theorem
 
 [Class 26: Cook-Levin Theorem](/class26) [[Slides](https://www.dropbox.com/s/0u27f3qd5ry7auj/class26.pdf?dl=0)]
