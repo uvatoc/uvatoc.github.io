@@ -127,7 +127,7 @@ slug = "classes"
 - Cook Reductions and Karp Reductions
 - 3SAT and CircuitSAT
 
-[Class 25: Probably Hard Problems](/class25) [[Slides](https://www.dropbox.com/s/75jnbnk1ygipb75/class25.pdf?dl=0)
+[Class 25: Probably Hard Problems](/class25) [[Slides](https://www.dropbox.com/s/75jnbnk1ygipb75/class25.pdf?dl=0)]
 - Complexity classs <b>NP</b>
 - Introducing the question is <b>P</b> a proper subset of <b>NP</b> (<b>P</b> = <b>NP</b>)?
 - Cook-Levin Theorem
