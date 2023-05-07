@@ -93,7 +93,7 @@ slug = "classes"
 - Converting DFA to RE
 - Turing Machines
 
-[Class 19: Computability](/class19) [[Notes](http://localhost:1313/docs/tmnotes.pdf)] [[Slides](https://www.dropbox.com/s/wkk6b2itoncgqul/class19.pdf?dl=0)]
+[Class 19: Computability](/class19) [[Notes](/docs/tmnotes.pdf)] [[Slides](https://www.dropbox.com/s/wkk6b2itoncgqul/class19.pdf?dl=0)]
 - Formal model of Turing Machine
 - Are there functions that cannot be computed by a TM?
 - Self-Rejecting
