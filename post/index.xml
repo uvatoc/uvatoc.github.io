@@ -6,10 +6,18 @@
     <description>Recent content in Posts on Theory of Computation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uvatoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>End of Course</title>
+      <link>https://uvatoc.github.io/end-of-course/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvatoc.github.io/end-of-course/</guid>
+      <description>The course has concluded!
+Thanks all for an interesting semester.
+The final exam is here: finalexam.pdf
+Hope everyone has an enlightening and fulfilling summer.</description>
+    </item>
     
     <item>
       <title>Class 27: Wrap-up</title>

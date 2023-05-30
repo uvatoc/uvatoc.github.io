@@ -136,3 +136,5 @@ slug = "classes"
 - Nondeterministic Turing Machines
 - Proving the Cook-Levin Theorem
 - Implications of P = NP
+
+[Class 27: Wrap-up](/class27) [[Slides](https://www.dropbox.com/s/mhvwzsyp17rjsst/class27.pdf?dl=0)]
